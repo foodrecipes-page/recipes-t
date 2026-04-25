@@ -1,9 +1,15 @@
-{
-  "version": 1,
-  "shard": "t",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 't''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-t@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "treacle-delight",
+    "title": "Treacle Delight",
+    "tags": [
+      "thai-dish",
+      "savory-curry",
+      "creamy-sauce",
+      "treacle-dish"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  }
+]

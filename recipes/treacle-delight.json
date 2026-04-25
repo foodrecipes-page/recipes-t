@@ -1,0 +1,95 @@
+{
+  "title": "Treacle Delight",
+  "description": "A savory and creamy Thai dish featuring treacle, reduced to a rich sauce for a solo-dinner treat.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "150g"
+    },
+    {
+      "name": "Shredded Shiso Leaves",
+      "amount": "a few leaves"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Thai Chili Peppers",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Treacle",
+      "amount": "60ml"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fish Stock Cube",
+      "amount": "1 cube"
+    },
+    {
+      "name": "Corn Starch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "30ml"
+    }
+  ],
+  "instructions": [
+    "Chop the chicken breast into small pieces.",
+    "Peel and mince the garlic cloves, and thinly slice the Thai chili peppers.",
+    "In a wok or large skillet, heat the oil over medium-high heat. Add the minced garlic and chili peppers, cook until fragrant and slightly softened.",
+    "Add the shredded shiso leaves to wilt, about 1 minute.",
+    "Deglaze with fish sauce to enhance flavors, followed by sugar. Stir continuously to prevent burning.",
+    "Reduce the mixture by half while stirring for a smoother texture, then add treacle and reduce until reduced to approximately one third of its volume.",
+    "Add the corn starch water mixture all at once, stirring continuously to avoid lumps forming.",
+    "Simmer until thickened to desired consistency. Taste and adjust seasoning if needed.",
+    "Serve immediately over the cooked chicken pieces for a creamy and savory Thai dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-dish",
+    "savory-curry",
+    "creamy-sauce",
+    "treacle-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 21,
+    "carbs": 23,
+    "fat": 9
+  },
+  "slug": "treacle-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/treacle-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:11:14Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "reduce",
+    "primaryIngredient": "treacle",
+    "diet": "dash",
+    "region": null
+  }
+}
