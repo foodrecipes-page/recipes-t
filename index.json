@@ -1,5 +1,17 @@
 [
   {
+    "slug": "thai-air-popped-fish-filé",
+    "title": "Thai Air-Popped Fish Filé",
+    "tags": [
+      "air-popped-fish",
+      "thai-fish-sauce",
+      "high-protein"
+    ],
+    "cuisine": "Filipino/Thai Fusion",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "toast-show-off",
     "title": "Toast Show Off",
     "tags": [

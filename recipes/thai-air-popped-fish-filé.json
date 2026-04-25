@@ -1,0 +1,82 @@
+{
+  "title": "Thai Air-Popped Fish Filé",
+  "description": "A savory and fluffy one-pot Filipino dish featuring Thai fish sauce, air-fried high-protein-friendly food.",
+  "cuisine": "Filipino/Thai Fusion",
+  "diet": [
+    "high-protein",
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Thickly Sliced Scallions",
+      "amount": "20-30 slices"
+    },
+    {
+      "name": "Fresh Thai Fish Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Kaffir Lime Leaves",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil or Coconut Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 400°F (200°C).",
+    "In a bowl, mix fish fillets with fish sauce, turmeric powder, and olive oil. Mix well.",
+    "Arrange the fish fillets in the prepared air fryer basket.",
+    "Add scallions, lime leaves, garlic, and soy sauce on top of the fish fillets.",
+    "Cook for 10-12 minutes or until golden brown and fully cooked.",
+    "Garnish with extra scallion if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-popped-fish",
+    "thai-fish-sauce",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 578,
+    "protein": 39,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "thai-air-popped-fish-filé",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/thai-air-popped-fish-filé",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:30:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "air-fry",
+    "primaryIngredient": "thai fish sauce",
+    "diet": "high-protein",
+    "region": null
+  }
+}
