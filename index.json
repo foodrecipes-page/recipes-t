@@ -90,6 +90,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-nostalgic-japanese-garlic-stir-fry",
+    "title": "Tender Nostalgic Japanese Garlic Stir-fry",
+    "tags": [
+      "garlicky",
+      "nostalgic",
+      "japanese",
+      "stir-fry",
+      "tender"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
     "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
     "tags": [

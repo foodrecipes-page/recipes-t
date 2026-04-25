@@ -1,0 +1,88 @@
+{
+  "title": "Tender Nostalgic Japanese Garlic Stir-fry",
+  "description": "A mediterranean-friendly garlic powder infused dish that combines tender vegetables and a hint of umami from fermented products for a nostalgic twist.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Carrots, julienned",
+      "amount": "1 medium carrot"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "2-3 green onions"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fermented black beans (optional)",
+      "amount": "half a teaspoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Vegetable broth or water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Scallions, for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Combine broccoli, carrots, garlic powder, fermented black beans (if using), sesame oil, salt, and pepper in a large bowl. Mix well to evenly distribute the ingredients.",
+    "Heat 2 tablespoons of vegetable broth or water in a wok or skillet over medium-high heat until simmering.",
+    "Add the mixed vegetables from the bowl into the hot broth/water mixture and stir-fry for about 5-7 minutes, stirring occasionally, until the vegetables are crisp-tender but still retain their color and shape.",
+    "Remove from heat and add scallions if using. Stir gently to combine all ingredients.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "nostalgic",
+    "japanese",
+    "stir-fry",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4.9,
+    "carbs": 23.4,
+    "fat": 3.8
+  },
+  "slug": "tender-nostalgic-japanese-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-nostalgic-japanese-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:01:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "garlic powder",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "garlic",
+    "descriptor": "Tender Nostalgic",
+    "dishForm": "Stir-fry"
+  }
+}
