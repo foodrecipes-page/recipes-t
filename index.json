@@ -25,6 +25,19 @@
     "shard": "t"
   },
   {
+    "slug": "toffee-popcorn-braised-vegan-treat",
+    "title": "Toffee Popcorn Braised Vegan Treat",
+    "tags": [
+      "vegan",
+      "canadian",
+      "toffee-popcorn",
+      "braised-treat"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tofu-gazpacho",
     "title": "Tofu Gazpacho",
     "tags": [
