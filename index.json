@@ -193,6 +193,17 @@
     "shard": "t"
   },
   {
+    "slug": "trout-toastie",
+    "title": "Trout Toastie",
+    "tags": [
+      "trout-toastie",
+      "fresh-crispy-vietnamese-dish"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "truffle-bhuna-keto",
     "title": "Truffle Bhuna Keto",
     "tags": [],

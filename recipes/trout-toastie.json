@@ -1,0 +1,83 @@
+{
+  "title": "Trout Toastie",
+  "description": "A fresh, crispy Vietnamese-inspired dish featuring trout on toasted bread, ideal for a festive dinner or snack with low-fat-friendly options.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Trout Fillet",
+      "amount": "150g",
+      "notes": "Choose a light-flavored variety like Alaskan salmon or tilapia if unavailable."
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Low-Fat Mayonnaise",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1/4 lemon's worth",
+      "notes": "About 0.5 teaspoons."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tsp",
+      "notes": "For brushing on the trout fillet and bread."
+    },
+    {
+      "name": "Fresh Parsley Leaves",
+      "amount": "A handful"
+    },
+    {
+      "name": "Dried Red Chillies (optional)",
+      "amount": "1-2 seeds"
+    },
+    {
+      "name": "Toast slices",
+      "amount": "8 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Slice the trout fillet into thin strips and season lightly with salt and pepper.",
+    "Spread a mix of Dijon mustard, low-fat mayonnaise, lemon zest, olive oil, chopped fresh parsley leaves (and red chillies if using), in a bowl. Mix well until smooth.",
+    "Gently coat each trout strip with the prepared mixture and place on toasted bread slices. Arrange neatly on a baking tray lined with parchment paper.",
+    "Drizzle remaining olive oil over the trout-toasts and bake for about 12-15 minutes or until golden brown and crispy, tossing occasionally to ensure even browning.",
+    "Serve hot as an appetizer, side dish, or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "trout-toastie",
+    "fresh-crispy-vietnamese-dish"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "trout-toastie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/trout-toastie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:05:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "toast",
+    "primaryIngredient": "trout",
+    "diet": "low-fat",
+    "region": null
+  }
+}
