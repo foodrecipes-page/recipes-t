@@ -1,0 +1,87 @@
+{
+  "title": "Spicy Silky Post-Workout Tofu Marination and Fold",
+  "description": "A low-fat-friendly spicy jamaican dish featuring marinated tofu with a silky texture that’s perfect for post-workout recovery.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-fat",
+    "post-workout"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "soft silken tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup (60ml)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2, finely chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend the tofu with lime juice, garlic, scotch bonnet peppers, sesame seeds, cayenne pepper, tahini sauce, red pepper flakes, salt, and olive oil until smooth.",
+    "Season to taste with additional salt or vinegar if needed. Refrigerate for at least 2 hours before serving.",
+    "Serve chilled with a side of greens for a low-fat-friendly snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "marinated",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 9,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "tofu-marination-and-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tofu-marination-and-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:17:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "marinated tofu",
+    "diet": "low-fat",
+    "region": null
+  }
+}
