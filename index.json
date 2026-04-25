@@ -49,6 +49,18 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
+    "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
+    "tags": [
+      "spicy",
+      "tender",
+      "energizing"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "thai-air-popped-fish-file",
     "title": "Thai Air-Popped Fish Filé",
     "tags": [

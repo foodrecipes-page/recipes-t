@@ -1,0 +1,80 @@
+{
+  "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
+  "description": "This energizing dish combines allspice berries with a spicy garlic base for an aromatic and flavorful meal that's perfect as a mid-day snack or light dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 teaspoon allspice berries",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "1/2 cup spinach",
+      "amount": "chopped"
+    },
+    {
+      "name": "1 small bell pepper (any color)",
+      "amount": "chopped"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Pinch of black pepper"
+    },
+    {
+      "name": "1 tablespoon olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and allspice berries, cook for about 2 minutes until fragrant.",
+    "Add lemon juice, salt, and pepper. Stir to combine.",
+    "Stir in chopped bell pepper and spinach.",
+    "Cook until vegetables are tender, about 5-7 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "tender",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 95,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spicy-garlic-middle-eastern-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:54:18Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "allspice berries",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "garlic",
+    "descriptor": "Spicy Tender Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
