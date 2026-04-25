@@ -65,9 +65,9 @@
     "carbs": 12,
     "fat": 16
   },
-  "slug": "thai-air-popped-fish-filé",
+  "slug": "thai-air-popped-fish-file",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/thai-air-popped-fish-filé",
+  "canonicalUrl": "https://foodrecipes.page/r/thai-air-popped-fish-file",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T04:30:17Z",
   "axes": {
