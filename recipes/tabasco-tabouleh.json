@@ -1,0 +1,75 @@
+{
+  "title": "Tabasco Tabouleh",
+  "description": "A peppery, juicy, energizing Norwegian dish featuring tabasco sauce, prepared with Mediterranean-friendly ingredients and reduced sodium for a lighter touch.",
+  "cuisine": "Mediterranean/Norwegian",
+  "diet": null,
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Tabouleh Salad Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Minced Garlic Clove",
+      "amount": "1"
+    },
+    {
+      "name": "Fresh Parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Mint, finely chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tabasco Sauce",
+      "amount": "1 tsp (reduced sodium)"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "3 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the Tabouleh Salad Mix into small pieces.",
+    "Combine chopped Tabouleh with lemon juice, minced garlic, and chopped fresh parsley in a large bowl.",
+    "Add finely chopped mint to the mixture.",
+    "Drizzle Tabasco Sauce over the top of the salad.",
+    "Stir gently to combine all ingredients evenly.",
+    "Sprinkle extra virgin olive oil over the salad just before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tabasco-tabouleh",
+    "peppery-juicy",
+    "nordic-meal"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "tabasco-tabouleh",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tabasco-tabouleh",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:17:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

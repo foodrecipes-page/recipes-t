@@ -1,5 +1,17 @@
 [
   {
+    "slug": "tabasco-tabouleh",
+    "title": "Tabasco Tabouleh",
+    "tags": [
+      "tabasco-tabouleh",
+      "peppery-juicy",
+      "nordic-meal"
+    ],
+    "cuisine": "Mediterranean/Norwegian",
+    "totalTimeMin": 5,
+    "shard": "t"
+  },
+  {
     "slug": "tadka-scrambled-eggs",
     "title": "Tadka Scrambled Eggs",
     "tags": [
