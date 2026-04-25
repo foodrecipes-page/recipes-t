@@ -1,0 +1,65 @@
+{
+  "title": "Salty and Crispy Taco Shell Sticks",
+  "description": "These low-calorie-friendly taco shell sticks are a kid-friendly snack that combine the salty flavor of taco shells with a crispy texture suitable for dipping in sauces or spreads.",
+  "cuisine": "Tunisia",
+  "diet": [
+    "low-calorie",
+    "kid-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Soft taco shells",
+      "amount": "20"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a deep fryer to 350°F (175°C).",
+    "Combine flour and water in a bowl. Stir until smooth.",
+    "Dip each soft taco shell into the batter, allowing excess to drip off before placing it in the hot oil.",
+    "Fry for about 2-3 minutes or until golden brown and crispy. Keep warm on paper towels."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "taco",
+    "shell",
+    "crispy",
+    "kidfriendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 1
+  },
+  "slug": "taco-shell-sticks",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/taco-shell-sticks",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:58:56Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "hard taco shells",
+    "diet": "low-calorie",
+    "region": null
+  }
+}

@@ -12,6 +12,19 @@
     "shard": "t"
   },
   {
+    "slug": "taco-shell-sticks",
+    "title": "Salty and Crispy Taco Shell Sticks",
+    "tags": [
+      "taco",
+      "shell",
+      "crispy",
+      "kidfriendly"
+    ],
+    "cuisine": "Tunisia",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tadka-scrambled-eggs",
     "title": "Tadka Scrambled Eggs",
     "tags": [
