@@ -1,0 +1,84 @@
+{
+  "title": "Garlicky Tomato Borscht",
+  "description": "A hearty Ukrainian tomato borscht recipe that's easy to make in a weeknight, featuring fresh tomatoes and garlic for an extra savory twist.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large Roma tomatoes",
+      "amount": "1 each",
+      "notes": "ripe and juicy"
+    },
+    {
+      "name": "2 medium cloves garlic",
+      "amount": "1 per tomato",
+      "notes": "minced finely"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": null
+    },
+    {
+      "name": "1 cup beef or vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "4 cups fresh chopped mixed greens (cabbage, carrots)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1"
+    }
+  ],
+  "instructions": [
+    "Prepare tomatoes by gently boiling them for about 30 seconds, then plunging into ice water to stop the cooking. Remove skins and finely chop.",
+    "In a large pot, heat olive oil over medium heat. Add garlic and sauté until fragrant but not browned.",
+    "Add chopped tomatoes, broth, salt, pepper, and mixed greens to the pot. Stir well.",
+    "Bring to a simmer, then reduce heat to low and let it gently simmer for about 20 minutes or until the vegetables are tender.",
+    "In a small bowl, mix tomato paste with lemon juice until smooth. Pour this mixture into the simmering soup, stirring well.",
+    "Simmer for an additional 10 minutes until slightly thickened, then serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "ukrainian",
+    "tomato",
+    "borscht",
+    "weeknight",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 10
+  },
+  "slug": "tomato-borscht",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tomato-borscht",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:31:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "tomatoes",
+    "diet": "egg-free",
+    "region": null
+  }
+}

@@ -101,6 +101,21 @@
     "shard": "t"
   },
   {
+    "slug": "tomato-borscht",
+    "title": "Garlicky Tomato Borscht",
+    "tags": [
+      "garlicky",
+      "ukrainian",
+      "tomato",
+      "borscht",
+      "weeknight",
+      "egg-free"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tomato-zing",
     "title": "Tomato Zing",
     "tags": [
