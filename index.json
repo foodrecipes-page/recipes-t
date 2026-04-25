@@ -1,5 +1,17 @@
 [
   {
+    "slug": "tadka-scrambled-eggs",
+    "title": "Tadka Scrambled Eggs",
+    "tags": [
+      "tadka",
+      "scrambled eggs",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 8,
+    "shard": "t"
+  },
+  {
     "slug": "thai-air-popped-fish-filé",
     "title": "Thai Air-Popped Fish Filé",
     "tags": [

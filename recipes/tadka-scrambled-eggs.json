@@ -1,0 +1,64 @@
+{
+  "title": "Tadka Scrambled Eggs",
+  "description": "A smoky and juicy quick-fix Russian dish featuring eggs seasoned with tadka (mixed spices) for a low-carb-friendly breakfast option.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Tadka Seasoning Mix (e.g., Garam Masala, Cumin Seeds, Turmeric Powder)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low-Sodium Vegetable Stock or Water",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt and Pepper to Taste",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Crack eggs into a mixing bowl.",
+    "Add tadka seasoning mix, vegetable stock, salt, and pepper. Mix well until evenly combined.",
+    "Heat a non-stick skillet over medium heat. Pour in the egg mixture.",
+    "Stir quickly to scramble the eggs thoroughly without letting them set too much. Cook for about 2 minutes or until desired doneness is reached.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tadka",
+    "scrambled eggs",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 6,
+    "carbs": 1,
+    "fat": 4
+  },
+  "slug": "tadka-scrambled-eggs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tadka-scrambled-eggs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:26:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "tadka",
+    "primaryIngredient": "eggs",
+    "diet": "low-carb",
+    "region": null
+  }
+}
