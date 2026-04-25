@@ -1,0 +1,76 @@
+{
+  "title": "Toast Show Off",
+  "description": "A peppery and dense Algerian dish featuring shiitake mushrooms on toasted bread, perfect for a raw-friendly breakfast or snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "10 pieces",
+      "notes": "Use wild or button mushrooms if shiitakes are not available."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "freshly chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices until golden brown, about 3-5 minutes per side.",
+    "Heat a few drops of olive oil in a pan over medium heat.",
+    "Add shiitake mushrooms and red pepper flakes to the pan. Season with salt.",
+    "Cook until the mushrooms release their moisture, then reduce the heat and continue cooking for another 2-3 minutes.",
+    "Gently fold the cooked shiitakes onto the toasted bread slices.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "toast-show-off",
+    "algerian-dish",
+    "peppery-mushrooms",
+    "raw-friendly-snack"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "toast-show-off",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/toast-show-off",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:24:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "raw",
+    "region": null
+  }
+}
