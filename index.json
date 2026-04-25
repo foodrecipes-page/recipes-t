@@ -116,6 +116,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spicy-light-bake-brussels-sprouts",
+    "title": "Tender Spicy Light Bake Brussels Sprouts",
+    "tags": [
+      "brussels-sprouts",
+      "jamaican-influenced",
+      "spicy-light",
+      "dish"
+    ],
+    "cuisine": "Jamaican-Inspired",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "thai-air-popped-fish-file",
     "title": "Thai Air-Popped Fish Filé",
     "tags": [
