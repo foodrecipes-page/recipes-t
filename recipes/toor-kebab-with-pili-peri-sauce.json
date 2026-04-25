@@ -1,0 +1,82 @@
+{
+  "title": "Toor Kebab with Pili Peri Sauce",
+  "description": "This tangy, crisp Toor Kebab with Pili Peri Sauce is a unique and delightful solo dinner dish featuring toor dal, perfect for pescatarian-friendly meals.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup Toor Dal (Split Yellow Lentils)",
+      "amount": "",
+      "notes": "Rinse and soak for at least 30 minutes"
+    },
+    {
+      "name": "2 tbsp Olive Oil",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 Bell Pepper (Chopped)",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 Green Chili (Chopped)",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp Pili Peri Sauce Mix (or substitute other spicy sauce mix available in the market)",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves Garlic (Finely Chopped)",
+      "amount": ""
+    },
+    {
+      "name": "Salt to Taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add Toor Dal and cook until it absorbs the oil, about 5 minutes.",
+    "Stir in lime juice, bell pepper juice, green chili, garlic, and salt. Cover and simmer for another 10-12 minutes or until lentils are tender.",
+    "Remove from heat and mix Pili Peri Sauce into the Toor Dal mixture to taste.",
+    "Serve hot as a main course with crusty bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toor dal",
+    "pili peri sauce",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 7,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "toor-kebab-with-pili-peri-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/toor-kebab-with-pili-peri-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:17:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "toor dal",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
