@@ -1,0 +1,75 @@
+{
+  "title": "Tangy Gooey Indulgent Korean Sultana Crumble",
+  "description": "A tangy and gooey indulgent dish featuring sultanas, toasted almond meal, and a touch of honey for a delicious breakfast or dessert.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups sultanas (Golden raisins)",
+      "amount": "",
+      "notes": "Soaked in hot water for 15 minutes"
+    },
+    {
+      "name": "2 tablespoons toasted almond meal",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons honey or maple syrup",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine sultanas, almond meal, honey, and a pinch of salt in a bowl.",
+    "Press mixture into the bottom of a greased 8x8 inch baking dish.",
+    "Bake for 25 minutes or until set. Remove from oven.",
+    "Cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "indulgent",
+    "tangy",
+    "gooey",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 6
+  },
+  "slug": "tangy-gooey-indulgent-korean-sultana-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-indulgent-korean-sultana-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:36:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "sultanas",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sultanas",
+    "descriptor": "Tangy Gooey Indulgent",
+    "dishForm": "Crumble"
+  }
+}
