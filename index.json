@@ -263,5 +263,18 @@
     "cuisine": "Filipino",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "turnip-tadka-crunch",
+    "title": "Turnip Tadka Crunch",
+    "tags": [
+      "turnip",
+      "tadka",
+      "jain-friendly",
+      "norwegian"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]

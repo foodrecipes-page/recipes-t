@@ -1,0 +1,79 @@
+{
+  "title": "Turnip Tadka Crunch",
+  "description": "A nutty, flaky, energizing Norwegian dish featuring turnips in a tadka seasoning blend that is jain-friendly and suitable for breakfast.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 cups thinly sliced"
+    },
+    {
+      "name": "Tadka Seasoning",
+      "amount": "1 tablespoon (can be adjusted based on preference)"
+    },
+    {
+      "name": "Coconut Oil or Ghee",
+      "amount": "3 tablespoons, for pan frying"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed, to cover turnips during simmering"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil or ghee in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for about 30 seconds, until they turn golden brown.",
+    "Add turmeric powder and coriander powder to the hot spices and mix well.",
+    "Stir in thinly sliced turnips into the spice mixture. Add enough water to cover the turnips completely.",
+    "Reduce heat to low and let simmer for about 10 minutes, until the turnips are tender but not mushy.",
+    "Turn off the heat and serve hot with a side of yogurt or raita."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turnip",
+    "tadka",
+    "jain-friendly",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "turnip-tadka-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/turnip-tadka-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:18:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "turnips",
+    "diet": "jain",
+    "region": null
+  }
+}
