@@ -1,0 +1,104 @@
+{
+  "title": "Thailand Grill Curry Vegetarian",
+  "description": "A quick-fix Ukrainian dish featuring rich and juicy Thai red curry paste combined with vegetables for a vegetarian-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 can (400g) chopped tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons Thai red curry paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 shallots, finely sliced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 yellow bell pepper, cut into strips",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 red bell pepper, cut into strips",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup unsalted cashews, chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat. Add curry paste and garlic; cook for about 2 minutes until fragrant.",
+    "Add shallots, bell peppers, and tomato can to the skillet with juice. Stir in vegetable broth, soy sauce, sugar, and cumin. Bring to a simmer.",
+    "Reduce heat to low and let the mixture cook until vegetables are tender, approximately 10 minutes.",
+    "Fold in cashews and stir well to coat them evenly in the curry sauce. Cook for an additional 2-3 minutes or until hot throughout.",
+    "Serve over steamed rice or as a side dish with noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-curry",
+    "vegetarian-friendly",
+    "quick-fix",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 43,
+    "fat": 9
+  },
+  "slug": "thailand-grill-curry-vegetarian",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/thailand-grill-curry-vegetarian",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:16:29Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "vegetarian",
+    "region": null
+  }
+}

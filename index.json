@@ -24,6 +24,19 @@
     "shard": "t"
   },
   {
+    "slug": "thailand-grill-curry-vegetarian",
+    "title": "Thailand Grill Curry Vegetarian",
+    "tags": [
+      "thai-curry",
+      "vegetarian-friendly",
+      "quick-fix",
+      "juicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "toast-show-off",
     "title": "Toast Show Off",
     "tags": [
