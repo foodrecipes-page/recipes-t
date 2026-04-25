@@ -1,0 +1,100 @@
+{
+  "title": "Tangy Flaky Greek Palm Sugar Crumble",
+  "description": "A tangy and flaky vegan-friendly meal-prep dish featuring palm sugar, designed to be enjoyed as a breakfast or snack option.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain and unsweetened"
+    },
+    {
+      "name": "2 tablespoons grated palm sugar",
+      "amount": "2 tbsp",
+      "notes": "ensure it's vegan-friendly if using palm sugar from sugarcane plant, otherwise replace with agave nectar or maple syrup"
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed for tanginess"
+    },
+    {
+      "name": "1/2 teaspoon sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Juice of 1 lime (optional)",
+      "amount": "juice of 1 lime",
+      "notes": "for extra tang and zest"
+    },
+    {
+      "name": "1/4 cup almond milk or any non-dairy milk alternative",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon cornstarch",
+      "amount": "1 tbsp",
+      "notes": "to thicken the crumble mixture"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "2 tablespoons unsalted butter, softened",
+      "amount": "2 tbsp",
+      "notes": "for a flaky texture"
+    },
+    {
+      "name": "1/4 cup coconut flakes (optional)",
+      "amount": "1/4 cup",
+      "notes": "to add crunch and flavor"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine Greek yogurt, palm sugar, lemon juice, sea salt, and optional lime juice. Stir in almond milk.",
+    "Add cornstarch to the mixture; mix well until no lumps remain.",
+    "Heat softened butter in a small saucepan over medium heat. Pour yogurt mixture into the pan and cook for about 2 minutes or until thickened slightly, stirring frequently to avoid sticking.",
+    "Fold in vanilla extract, coconut flakes (if using), and stir until fully combined.",
+    "Transfer crumble mixture onto baking sheets lined with parchment paper and let it cool completely before refrigerating. For meal prep, portion out into freezer-safe containers or individual portions for easy grab-and-go."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-flaky-greek",
+    "meal-prep-dish",
+    "vegan-friendly",
+    "greek-palm-sugar-crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "tangy-flaky-greek-palm-sugar-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-greek-palm-sugar-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:43:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "steam",
+    "primaryIngredient": "palm sugar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "palm_sugar",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Crumble"
+  }
+}
