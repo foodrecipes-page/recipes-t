@@ -70,5 +70,20 @@
     "cuisine": "Malaysian",
     "totalTimeMin": null,
     "shard": "t"
+  },
+  {
+    "slug": "turmeric-toasted-delight",
+    "title": "Turmeric Toasted Delight",
+    "tags": [
+      "turmeric",
+      "toasted",
+      "sour",
+      "creamy",
+      "indulgent",
+      "low-sodium"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]

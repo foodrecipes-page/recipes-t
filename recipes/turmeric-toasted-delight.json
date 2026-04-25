@@ -1,0 +1,85 @@
+{
+  "title": "Turmeric Toasted Delight",
+  "description": "A sour and creamy Filipino dish featuring turmeric powder, toast, with a low-sodium twist for an indulgent breakfast option.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast the slices of bread until lightly golden.",
+    "In a small bowl, mix coconut milk with lime juice and add in ginger powder and turmeric powder. Mix well.",
+    "Sprinkle nutritional yeast over the toasted bread slices.",
+    "Drizzle the coconut-milk mixture evenly on top of each slice of toast.",
+    "Bake for 10 minutes or until heated through and topping is golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "turmeric",
+    "toasted",
+    "sour",
+    "creamy",
+    "indulgent",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 3
+  },
+  "slug": "turmeric-toasted-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/turmeric-toasted-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:02:50Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "turmeric powder",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
