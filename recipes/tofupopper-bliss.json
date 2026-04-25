@@ -1,0 +1,82 @@
+{
+  "title": "TofuPopper Bliss",
+  "description": "A buttery, creamy, show-off Venezuelan dish featuring toffee popcorn, tadka, and whole30-friendly.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Toasted Tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "Buttery Cheese Sauce Mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "Popcorn, Buttered",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tadka Seasoning Mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Sugar Syrup Mix",
+      "amount": "1 pack"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 eggs"
+    },
+    {
+      "name": "Creme Fraiche",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C). Grease a baking dish.",
+    "In a pan, gently fry the Toasted Tofu until golden brown, about 10 minutes. Set aside.",
+    "Pour the Popcorn, Buttered into another pan and warm until hot, stirring occasionally. Add Egg to the mixture and stir thoroughly while it heats up; cook for an additional minute before setting aside.",
+    "In a separate pan, add Tadka Seasoning Mix followed by Sugar Syrup Mix and pour in Heavy Cream. Heat gently but ensure no burning occurs, about 3-5 minutes. Let cool slightly before adding Toasted Tofu and Popcorn mixture. Fold together carefully to combine.",
+    "Combine Buttery Cheese Sauce Mix with Creme Fraiche; stir until smooth. Add the cheesy sauce over top of tofu-popcorn mixture and bake for another 20 minutes or until golden and bubbling around edges.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tofu",
+    "popcorn",
+    "creme-fraiche",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 790,
+    "protein": 28,
+    "carbs": 61,
+    "fat": 35
+  },
+  "slug": "tofupopper-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tofupopper-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:31:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "tadka",
+    "primaryIngredient": "toffee popcorn",
+    "diet": "whole30",
+    "region": null
+  }
+}

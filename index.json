@@ -37,6 +37,19 @@
     "shard": "t"
   },
   {
+    "slug": "tofupopper-bliss",
+    "title": "TofuPopper Bliss",
+    "tags": [
+      "tofu",
+      "popcorn",
+      "creme-fraiche",
+      "tadka"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 80,
+    "shard": "t"
+  },
+  {
     "slug": "tomato-zing",
     "title": "Tomato Zing",
     "tags": [
