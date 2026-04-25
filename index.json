@@ -250,6 +250,19 @@
     "shard": "t"
   },
   {
+    "slug": "turkish-streaky-bacon-kotli",
+    "title": "Turkish Bitter Streaky Bacon Kotli",
+    "tags": [
+      "turkish",
+      "bitter",
+      "flaky",
+      "kotli"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
     "slug": "turmeric-toasted-delight",
     "title": "Turmeric Toasted Delight",
     "tags": [
