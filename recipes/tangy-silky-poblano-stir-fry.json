@@ -1,0 +1,89 @@
+{
+  "title": "Tangy Silky Poblano Stir-fry",
+  "description": "This kid-friendly Mexican dish features blanched poblanos and Gouda cheese in a tangy, silky sauce that's perfect for dipping with pita bread or tortilla chips.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Poblano peppers",
+      "amount": "2 medium",
+      "notes": "Blanched"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons fresh squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 450°F (230°C).",
+    "Blanch poblanos in boiling water for 1 minute, then shock in ice water.",
+    "Sauté minced garlic in olive oil until fragrant and slightly golden.",
+    "Add red pepper flakes, lemon juice, salt, and pepper. Stir well.",
+    "Remove poblano peppers from ice water and cut into strips.",
+    "Mix Gouda cheese with tomato sauce; set aside.",
+    "Combine Gouda-tomato sauce mixture with sautéed garlic-spice mixture.",
+    "Add poblano strips to the sauce and stir-fry until heated through.",
+    "Serve hot, as a side dish or dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "silky",
+    "kid-friendly",
+    "mexican",
+    "poblano"
+  ],
+  "nutrition": {
+    "calories": 218,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "tangy-silky-poblano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-poblano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T22:56:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "gouda cheese",
+    "diet": "low-fat",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Poblano",
+    "descriptor": "Tangy Silky",
+    "dishForm": "Stir-fry"
+  }
+}

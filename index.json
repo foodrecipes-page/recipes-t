@@ -76,6 +76,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-silky-poblano-stir-fry",
+    "title": "Tangy Silky Poblano Stir-fry",
+    "tags": [
+      "tangy",
+      "silky",
+      "kid-friendly",
+      "mexican",
+      "poblano"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
     "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
     "tags": [
