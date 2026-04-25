@@ -1,0 +1,81 @@
+{
+  "title": "Tamarind Comfort Broil",
+  "description": "A comforting Indian (Udipi) dish featuring tamarind balls, blended with a creamy base and topped with a peppery sauce for a whole30-friendly meal.",
+  "cuisine": "Indian (Udipi)",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe, peeled and pitted"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "green chili",
+      "amount": "3, chopped finely"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Blend the tamarind pulp with the avocado and spices until smooth.",
+    "Add almond milk, coconut cream, salt, and ginger. Blend again until creamy.",
+    "Heat a broiler in your oven or use an electric broil if available. Set up the dish according to your preference (e.g., preheated baking sheet).",
+    "Pour the blended mixture over the dish and sprinkle cumin seeds on top.",
+    "Broil for 10 minutes or until the edges are slightly golden brown.",
+    "Serve hot with a side of raita or sprouts as per taste."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tamarind-broil",
+    "udipi-dish",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 7
+  },
+  "slug": "tamarind-comfort-broil",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tamarind-comfort-broil",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:06:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "tamarind ball",
+    "diet": "whole30",
+    "region": "udupi"
+  }
+}

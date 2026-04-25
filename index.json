@@ -12,6 +12,18 @@
     "shard": "t"
   },
   {
+    "slug": "tamarind-comfort-broil",
+    "title": "Tamarind Comfort Broil",
+    "tags": [
+      "tamarind-broil",
+      "udipi-dish",
+      "whole30-friendly"
+    ],
+    "cuisine": "Indian (Udipi)",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "thai-air-popped-fish-filé",
     "title": "Thai Air-Popped Fish Filé",
     "tags": [
