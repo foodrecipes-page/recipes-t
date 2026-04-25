@@ -13,6 +13,19 @@
     "shard": "t"
   },
   {
+    "slug": "tomato-zing",
+    "title": "Tomato Zing",
+    "tags": [
+      "tomato",
+      "garlic",
+      "sour",
+      "crunchy"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "treacle-delight",
     "title": "Treacle Delight",
     "tags": [

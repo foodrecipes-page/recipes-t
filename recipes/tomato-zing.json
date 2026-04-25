@@ -1,0 +1,73 @@
+{
+  "title": "Tomato Zing",
+  "description": "A zesty one-pot Polish dish featuring sour and crunchy tomatoes in a gluten-free-friendly recipe.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium tomato",
+      "amount": "sliced"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "minced"
+    },
+    {
+      "name": "3 tablespoons of gluten-free all-purpose flour",
+      "amount": "mixed with water to form a slurry"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "freshly squeezed"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add garlic and cook for about 30 seconds until fragrant.",
+    "Sprinkle flour slurry into the skillet, whisking continuously to avoid lumps.",
+    "Increase heat to high and let the mixture bubble for about 1 minute.",
+    "Add sliced tomatoes along with their juices. Cook for 5 minutes.",
+    "Season with salt and pepper according to taste.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "garlic",
+    "sour",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "tomato-zing",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tomato-zing",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:47:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "saute",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
