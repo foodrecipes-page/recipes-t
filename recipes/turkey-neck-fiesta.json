@@ -1,0 +1,86 @@
+{
+  "title": "Turkey Neck Fiesta",
+  "description": "A whole30-friendly, sour and light Brazilian dish featuring turkey neck, baked to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Neck",
+      "amount": "1 (500g) per person"
+    },
+    {
+      "name": "Capers",
+      "amount": "1/4 cup, roughly chopped"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "3/4 cup, full-fat"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (392°F).",
+    "Season turkey neck with paprika and oregano.",
+    "Place in a baking dish, cover loosely with foil.",
+    "Bake for 60 minutes or until cooked through.",
+    "While turkey cooks, mix together lemon zest, lime juice, Dijon mustard, and sour cream. Stir well to combine.",
+    "Remove turkey from oven, allow to rest for 10 minutes.",
+    "Slice turkey neck into bite-sized pieces.",
+    "Garnish with capers over sliced turkey.",
+    "Drizzle warm sauce mixture over turkey slices.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 60,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkey neck",
+    "brazilian",
+    "whole30",
+    "sour dish"
+  ],
+  "nutrition": {
+    "calories": 721.9,
+    "protein": 60.5,
+    "carbs": 45.8,
+    "fat": 34.3
+  },
+  "slug": "turkey-neck-fiesta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/turkey-neck-fiesta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:11:51Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "turkey neck",
+    "diet": "whole30",
+    "region": null
+  }
+}
