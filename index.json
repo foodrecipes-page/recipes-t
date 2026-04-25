@@ -50,5 +50,13 @@
     "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "truffle-bhuna-keto",
+    "title": "Truffle Bhuna Keto",
+    "tags": [],
+    "cuisine": "Malaysian",
+    "totalTimeMin": null,
+    "shard": "t"
   }
 ]

@@ -1,0 +1,95 @@
+{
+  "title": "Truffle Bhuna Keto",
+  "description": "A floral and juicy Malaysian dish featuring truffle oil in a spicy bhuna sauce with a touch of keto-friendly vegetables for those looking to indulge without guilt.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "2 pieces",
+      "notes": "skinless and bone-in"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "low carb tomato paste"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "Green chilies",
+      "amount": "3",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "Thyme leaves",
+      "amount": "1 tablespoon",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "low fat or full-fat, as per preference"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the chicken by lightly salting and seasoning both sides. Heat a pan with some coconut oil over medium heat.",
+    "Add the onion and garlic to the pan, sautéing until translucent. Add the green chilies and cook for another minute.",
+    "Pour in the tomato sauce and add turmeric powder. Let it simmer for 5 minutes or until slightly thickened.",
+    "Place the chicken breast in the sauce, ensuring each piece is fully coated with the sauce mixture. Cover and reduce heat to low for about 10 minutes on each side.",
+    "While the chicken is cooking, stir fry sesame seeds until lightly browned in a different pan, set aside.",
+    "After the chicken finishes cooking, mix in the chopped fresh thyme leaves and the truffle oil. Serve with toasted sesame seeds as garnish.",
+    "If you prefer your dish spicier, add more green chilies or adjust the amount of turmeric powder for desired flavor profile.",
+    "prepTimeMin: 20",
+    "cookTimeMin: 45",
+    "totalTimeMin: 65",
+    "servings: 4",
+    "difficulty: 'medium'",
+    "tags: ['truffle', 'bhuna', 'keto', 'malaysian', 'spicy', 'show-off', 'floral', 'juicy', 'vegan-friendly', 'vegetarian-friendly' ]",
+    "nutrition: {",
+    "calories: 450",
+    "protein: 35g",
+    "carbs: 20g",
+    "fat: 18g"
+  ],
+  "slug": "truffle-bhuna-keto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/truffle-bhuna-keto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:14:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "truffle oil",
+    "diet": "keto",
+    "region": null
+  }
+}
