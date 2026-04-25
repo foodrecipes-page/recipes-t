@@ -1,0 +1,86 @@
+{
+  "title": "Tofu Gazpacho",
+  "description": "A garlicky and tender Mexican-inspired dish featuring silken tofu, served as a mediterranean-friendly appetizer.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Silken Tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves",
+      "notes": "Mince finely"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "3-4 sprigs, chopped fresh"
+    },
+    {
+      "name": "Fresh Mint Leaves",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Tomato Sauce or Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup, fresh squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut Silken Tofu into small cubes.",
+    "Toss the tofu cubes with garlic and lemon juice in a bowl, then set aside for about 10 minutes.",
+    "In a pan, heat olive oil over medium heat. Add onions and fry until translucent.",
+    "Add the marinaded tofu to the pan and stir for another minute.",
+    "Mix in tomato sauce or paste, mint, cilantro, and salt according to taste.",
+    "Transfer mixture into an oven-safe dish and bake at 350°F (175°C) for about 25 minutes until golden brown on top.",
+    "Serve hot with a side of avocado salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "mexican-gazpacho",
+    "vegan-appetizer",
+    "silken-tofu",
+    "garlic-mint"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "tofu-gazpacho",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tofu-gazpacho",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:01:59Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "silken tofu",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

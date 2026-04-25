@@ -25,6 +25,19 @@
     "shard": "t"
   },
   {
+    "slug": "tofu-gazpacho",
+    "title": "Tofu Gazpacho",
+    "tags": [
+      "mexican-gazpacho",
+      "vegan-appetizer",
+      "silken-tofu",
+      "garlic-mint"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tofu-marination-and-fold",
     "title": "Spicy Silky Post-Workout Tofu Marination and Fold",
     "tags": [
