@@ -1,0 +1,93 @@
+{
+  "title": "Toasty Toasted Chicken",
+  "description": "A salty and flaky show-off Algerian dish featuring crispy chicken breasts atop toasted bread for a low-fat-friendly breakfast option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Chicken Breasts",
+      "amount": "4",
+      "notes": "Skinless and boneless"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "For coating the chicken breasts"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Made from whole-grain breadcrumbs for added fiber and nutrients"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "6 tbsp",
+      "notes": "For toasting the bread"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "In a shallow dish, mix the all-purpose flour with the breadcrumbs and salt. Season the chicken breasts on both sides with black pepper.",
+    "Dip each chicken breast into the seasoned flour mixture, allowing any excess to fall off.",
+    "Heat 2 tablespoons of butter in a non-stick skillet over medium-high heat. Add the coated chicken breasts and cook for about 3 minutes on each side or until golden brown.",
+    "Transfer the chicken to a plate lined with paper towels to drain excess grease.",
+    "While the chicken cooks, prepare the toasts: spread a thin layer of dijon mustard onto one slice of bread, then drizzle with olive oil. Toast in a toaster or oven at 350°F (175°C) until golden brown and crispy. Repeat with another slice of bread for the second toast.",
+    "Combine the remaining 4 tablespoons of butter with lemon zest in a small saucepan over low heat to create a warm, spreadable compound butter.",
+    "Serve each chicken breast topped with one toasted piece of crusty bread (using half of the compound butter) and a dollop of the warm compound butter on top. Drizzle with extra dijon mustard if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "toasty-toast-toasted-chicken",
+    "salty-flaky-algerian-dish",
+    "chicken-breasts",
+    "toast",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 564,
+    "protein": 32,
+    "carbs": 27,
+    "fat": 28
+  },
+  "slug": "toasty-toasted-chicken",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-toasted-chicken",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:09:01Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "toast",
+    "primaryIngredient": "chicken breasts",
+    "diet": "low-fat",
+    "region": null
+  }
+}

@@ -62,6 +62,20 @@
     "shard": "t"
   },
   {
+    "slug": "toasty-toasted-chicken",
+    "title": "Toasty Toasted Chicken",
+    "tags": [
+      "toasty-toast-toasted-chicken",
+      "salty-flaky-algerian-dish",
+      "chicken-breasts",
+      "toast",
+      "low-fat-friendly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "toffee-popcorn-braised-vegan-treat",
     "title": "Toffee Popcorn Braised Vegan Treat",
     "tags": [
