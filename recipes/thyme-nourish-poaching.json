@@ -1,0 +1,77 @@
+{
+  "title": "Thyme Nourish Poaching",
+  "description": "An earthy and gooey Algerian dish featuring fresh thyme, poached in a comforting broth that's both kosher-friendly and easy to prepare.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Thyme Sprigs",
+      "amount": "8-10 sprigs"
+    },
+    {
+      "name": "Bone-In Chicken Breast",
+      "amount": "3 bone-in chicken breasts, cut into 2 pieces each"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Onion, Chopped",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Combine water, lemon juice, and salt in a large pot. Bring to a boil.",
+    "Add thyme sprigs, chicken pieces, garlic, and onion to the boiling liquid. Reduce heat to low and simmer gently for about 20 minutes.",
+    "Check if any bones are still hard by pricking with a fork; they should yield easily once cooked through.",
+    "Remove from heat and let sit for an additional 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thyme",
+    "algerian",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 29,
+    "carbs": 12,
+    "fat": 17
+  },
+  "slug": "thyme-nourish-poaching",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/thyme-nourish-poaching",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:55:46Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "poach",
+    "primaryIngredient": "fresh thyme",
+    "diet": "kosher",
+    "region": null
+  }
+}
