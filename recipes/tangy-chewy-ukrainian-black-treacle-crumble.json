@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Chewy Ukrainian Black Treacle Crumble",
+  "description": "This low-carb-friendly and solo-dinner dish features a tangy black treacle filling encased in an air-fried crumb topping.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "black treacle",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 eggs, room temperature"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 350°F (175°C).",
+    "Mix black treacle, vanilla extract, and cooking oil in a bowl.",
+    "Fold egg whites into the mixture until fully incorporated. Stir in cocoa powder, flaxseed meal, coconut flour, and almond extract.",
+    "Transfer half of the mixture to a lined baking dish. Spread evenly with a spatula and bake for 10 minutes or until golden brown on top.",
+    "Carefully invert onto a cooling rack and let it cool completely before slicing into pieces."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-treacle",
+    "chewy",
+    "tangy",
+    "ukraine"
+  ],
+  "nutrition": {
+    "calories": 289,
+    "protein": 7,
+    "carbs": 12,
+    "fat": 30
+  },
+  "slug": "tangy-chewy-ukrainian-black-treacle-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-ukrainian-black-treacle-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T05:40:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "black treacle",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "black treacle",
+    "descriptor": "Tangy Chewy",
+    "dishForm": "Crumble"
+  }
+}
