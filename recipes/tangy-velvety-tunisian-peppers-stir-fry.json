@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Velvety Tunisian Peppers Stir-fry",
+  "description": "A vibrant and aromatic dish featuring peppercorns, dumplings, and pescatarian-friendly vegetables to aid in a hangover cure.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 red bell pepper",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "1 yellow onion",
+      "amount": "",
+      "notes": "Diced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup chopped spinach leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh parsley, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "2 cups pearl barley dumplings",
+      "amount": "",
+      "notes": "(Prepared ahead)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and cook until translucent, about 4 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add bell pepper and spinach leaves to the pan. Stir-fry for 5-7 minutes until vegetables are slightly softened but still crisp-tender.",
+    "Stir in rice vinegar, cumin, and red pepper flakes. Mix well and cook for another minute.",
+    "Gently fold pearl barley dumplings into the stir-fry mixture and cook for an additional 2-3 minutes until dumplings are heated through.",
+    "Remove from heat and garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "velvety",
+    "hangover-cure",
+    "tunisian",
+    "peppercorns",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "tangy-velvety-tunisian-peppers-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-tunisian-peppers-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:40:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "peppercorns",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Peppers",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
