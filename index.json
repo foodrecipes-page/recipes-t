@@ -148,6 +148,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crusty-graham-cracker-ethiopian-crumb",
+    "title": "Tangy Crusty Graham Cracker Ethiopian Crumb",
+    "tags": [
+      "tangy",
+      "crusty",
+      "graham-cracker",
+      "ethiopian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 17,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-french-sichuan-pepper-crumble",
     "title": "Tangy Flaky French Sichuan Pepper Crumble",
     "tags": [

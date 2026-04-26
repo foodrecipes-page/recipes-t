@@ -1,0 +1,71 @@
+{
+  "title": "Tangy Crusty Graham Cracker Ethiopian Crumb",
+  "description": "A tangy and crisp meal-prep dish featuring graham cracker crumbs, perfect for an ethiopian-inspired snack.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Graham Cracker",
+      "amount": "8-10 pieces",
+      "notes": "Ensure they are crisp and not too soft."
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "2 pcs",
+      "notes": "Chopped finely for a spicy kick."
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1/4 tsp",
+      "notes": "To add tanginess and freshness."
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/4 cup",
+      "notes": "Use full-fat for creamier texture."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Chop the graham crackers into small pieces and place them on a baking sheet lined with parchment paper.",
+    "Sprinkle jalapeno peppers over the crumbs evenly, then drizzle with Greek yogurt. Mix gently to coat all crumbs.",
+    "Bake in the preheated oven for 10-12 minutes or until golden brown and crisp.",
+    "Remove from oven and let cool before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crusty",
+    "graham-cracker",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "tangy-crusty-graham-cracker-ethiopian-crumb",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crusty-graham-cracker-ethiopian-crumb",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:46:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Graham Cracker",
+    "descriptor": "Tangy",
+    "dishForm": "Crumble"
+  }
+}
