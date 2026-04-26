@@ -90,6 +90,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
+    "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
+    "tags": [
+      "cozy",
+      "floral",
+      "norwegian",
+      "cream-cheese",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-garlicky-oyster-mushroom-stir-fry",
     "title": "Tender Garlicky Oyster Mushroom Stir-fry",
     "tags": [

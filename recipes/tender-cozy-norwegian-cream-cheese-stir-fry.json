@@ -1,0 +1,84 @@
+{
+  "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
+  "description": "A floral and tender dish featuring dairy-free cream cheese in a creamy and comforting sauce, perfect for a cozy evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Broccoli Florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Peanut Butter (for sauce)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    },
+    {
+      "name": "Vegetable Stock",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add garlic cloves to the pan, sautéing for about 1 minute until fragrant.",
+    "Add broccoli florets and salt and pepper. Stir fry for about 5 minutes or until the broccoli is tender but still crisp.",
+    "In a separate bowl, mix together peanut butter and vegetable stock until smooth.",
+    "Pour the sauce over the stir-fried vegetables, and continue to cook for an additional 3-4 minutes, ensuring everything is heated through and evenly coated with the sauce.",
+    "Serve hot as a light dinner or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "floral",
+    "norwegian",
+    "cream-cheese",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-cozy-norwegian-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:36:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "steam",
+    "primaryIngredient": "cream cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cream cheese",
+    "descriptor": "tender cozy",
+    "dishForm": "Stir-fry"
+  }
+}
