@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Tender Light Slovakian Dried Shrimp Stir-fry",
+  "description": "This tangy and tender dish features light and flavorful dried shrimp simmered in a savory sauce, perfect for an Asian-inspired dinner.",
+  "cuisine": "Asian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of dried shrimps",
+      "amount": "cup",
+      "notes": "Soak in warm water for 30 minutes to rehydrate"
+    },
+    {
+      "name": "2 garlic cloves",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 red bell pepper, sliced thinly",
+      "amount": "slice",
+      "notes": "Choose fresh or frozen if unavailable"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tablespoons of low-sodium soy sauce (or tamari for gluten-free option)",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon of rice vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of sugar to taste",
+      "amount": "pinch"
+    },
+    {
+      "name": "2 tablespoons of low-sodium vegetable oil or sesame oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "A few sprigs of fresh mint leaves (optional)",
+      "amount": "",
+      "notes": "For added freshness"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine soaked dried shrimps with garlic cloves and onion. Sauté for about 5 minutes until fragrant.",
+    "Add sliced red bell pepper to the pot, stirring occasionally for another 2-3 minutes.",
+    "Whisk together soy sauce, rice vinegar, and sugar in a small bowl, then pour into the pot with the shrimps, peppers, and onions. Stir well to combine.",
+    "Cover the pot and let it simmer over medium heat for about 10 minutes until most of the liquid has evaporated, ensuring not to burn.",
+    "Add a few sprigs of fresh mint leaves if using (optional).",
+    "Garnish with sesame seeds or chopped green onions before serving. Serve hot as a side dish or main course.",
+    "Adjust seasoning and cooking time based on preference for tanginess and tenderness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "tender",
+    "light",
+    "slovenian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 9,
+    "carbs": 23,
+    "fat": 5
+  },
+  "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-light-slovakian-dried-shrimp-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:21:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "dried shrimp",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Dried Shrimp",
+    "descriptor": "Tangy Tender Light",
+    "dishForm": "Stir-fry"
+  }
+}
