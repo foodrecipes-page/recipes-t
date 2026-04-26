@@ -1,0 +1,87 @@
+{
+  "title": "Tender Garlicky Greek Pretzel Stir-fry",
+  "description": "A keto-friendly Greek dish featuring tender pretzels in a garlicky sauce, perfect for a quick and easy dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pretzels",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Protein source (optional, e.g., chicken)",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Black olives",
+      "amount": "1 can"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast pretzels until golden and crunchy.",
+    "In a skillet, sauté minced garlic in olive oil until fragrant.",
+    "Add yogurt and lemon juice, stir well. Bring to simmer for 2 minutes.",
+    "Fold in toasted pretzels and black olives. Season with salt and freshly ground black pepper.",
+    "If using protein, cook it separately on low heat, add back into the sauce to warm through.",
+    "Spoon mixture into oven-safe ramekins or baking dishes.",
+    "Bake for 20-25 minutes until cheese is bubbly and golden."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "tender-garlicky-greek-pretzel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-garlicky-greek-pretzel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:20:02Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "pretzels",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Pretzels",
+    "descriptor": "Garlicky Tender",
+    "dishForm": "Stir-fry"
+  }
+}

@@ -317,6 +317,18 @@
     "shard": "t"
   },
   {
+    "slug": "tender-garlicky-greek-pretzel-stir-fry",
+    "title": "Tender Garlicky Greek Pretzel Stir-fry",
+    "tags": [
+      "greek",
+      "stir-fry",
+      "keto-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-garlicky-oyster-mushroom-stir-fry",
     "title": "Tender Garlicky Oyster Mushroom Stir-fry",
     "tags": [
