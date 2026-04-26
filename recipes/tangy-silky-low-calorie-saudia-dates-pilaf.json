@@ -1,0 +1,91 @@
+{
+  "title": "Tangy Silky Low-Calorie Saudi Dates Pilaf",
+  "description": "A delectable date-night dish featuring tangy sauced saudi-style dates cooked with aromatic cumin and a touch of low-calorie-friendly ingredients for a refreshing meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "2 cups pitted and chopped",
+      "notes": "Use seedless or lightly pit them to make it easier"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp",
+      "notes": "For a low-calorie version, you can use coconut oil instead"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "To add more flavor and texture"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "For a slight smoky flavor"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp fresh or 2 tsp lemon extract",
+      "notes": "To enhance the tanginess"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "2 cups",
+      "notes": "For cooking and deglazing the pot"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add olive oil, cumin seeds, garlic, and cook until fragrant and the seeds are lightly browned, about 1 minute.",
+    "Deglaze with lemon juice, then add water or vegetable broth. Stir well to remove any stuck bits from the bottom of the pan.",
+    "Fold in chopped dates, reduce heat to low, cover, and simmer gently for about 10 minutes until the dates are soft and most of the liquid is absorbed.",
+    "Season with salt to taste and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dates",
+    "cumin",
+    "saudi",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 7
+  },
+  "slug": "tangy-silky-low-calorie-saudia-dates-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-low-calorie-saudia-dates-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:32:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "date-night",
+    "technique": "deglaze",
+    "primaryIngredient": "cumin",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Dates",
+    "descriptor": "Tangy Silky Low-Calorie",
+    "dishForm": "Pilaf"
+  }
+}
