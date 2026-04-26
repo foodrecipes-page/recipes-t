@@ -266,6 +266,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-serrano-ham-stir-fry",
+    "title": "Tender Smoky Serrano Ham Stir-fry",
+    "tags": [
+      "smoky",
+      "stir-fry",
+      "comforting",
+      "egyptian",
+      "friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
     "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
     "tags": [

@@ -1,0 +1,76 @@
+{
+  "title": "Tender Smoky Serrano Ham Stir-fry",
+  "description": "A comforting Egyptian dish featuring tenderly cooked serrano ham in a smoky sauce that's easy to make and very friendly for those with dietary restrictions.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Serrano Ham",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Minced Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tamari (Gluten-Free Soy Sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add chopped green onions, red pepper flakes, and tamari. Stir well to combine.",
+    "Slide serrano ham into the pan and stir-fry for an additional 5 minutes or until fully heated through and tender.",
+    "Serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoky",
+    "stir-fry",
+    "comforting",
+    "egyptian",
+    "friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 12
+  },
+  "slug": "tender-smoky-serrano-ham-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-serrano-ham-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:33:02Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "rest",
+    "primaryIngredient": "serrano ham",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Serrano Ham",
+    "descriptor": "Smoky Tender",
+    "dishForm": "Stir-fry"
+  }
+}
