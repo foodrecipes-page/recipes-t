@@ -25,6 +25,19 @@
     "shard": "t"
   },
   {
+    "slug": "tadka-greek-yogurt-crumble",
+    "title": "Tadka Greek Yogurt Crumble",
+    "tags": [
+      "greek-yogurt",
+      "tadka-spices",
+      "sweetened-condensed-milk",
+      "keto-friendly"
+    ],
+    "cuisine": "Indian/Greek Fusion",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tadka-scrambled-eggs",
     "title": "Tadka Scrambled Eggs",
     "tags": [

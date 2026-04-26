@@ -1,0 +1,91 @@
+{
+  "title": "Tadka Greek Yogurt Crumble",
+  "description": "A delicious and crowd-pleasing keto-friendly dessert featuring sweetened condensed milk, tadka spices, and Greek yogurt.",
+  "cuisine": "Indian/Greek Fusion",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek Yogurt",
+      "amount": "200g",
+      "notes": "Full-fat for best texture"
+    },
+    {
+      "name": "Sweetened Condensed Milk",
+      "amount": "150ml",
+      "notes": "Use a low-calorie sweetener if needed"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Ground Cumin",
+      "amount": "a pinch",
+      "notes": "For umami flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Ghee or Clarified Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Herbs (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tadka Spices Mix (to taste)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix Greek yogurt with sweetened condensed milk. Add all-purpose flour and ground cumin; stir well.",
+    "Mix in salt to taste. Fold in chopped fresh herbs if using.",
+    "Preheat oven to 170°C (325°F). Grease an 8x8 inch baking dish.",
+    "Heat a tablespoon of ghee or clarified butter in a small pan over medium heat. Add tadka spices and mix well until fragrant, about 30 seconds.",
+    "Pour the yogurt mixture into the prepared baking dish. Spread evenly with spatula.",
+    "Place the ghee-filled pan on top of the oven. Pour any remaining ghee evenly on top of the crumble batter.",
+    "Bake for 25 minutes or until golden brown and crispy around edges.",
+    "Cool slightly before serving. Serve warm as a dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "greek-yogurt",
+    "tadka-spices",
+    "sweetened-condensed-milk",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 16,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "tadka-greek-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tadka-greek-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:56:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "tadka",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Tadka",
+    "dishForm": "Stir-fry"
+  }
+}
