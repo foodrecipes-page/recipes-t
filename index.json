@@ -49,6 +49,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-american-flour-crumble",
+    "title": "Tangy American Flour Crumble",
+    "tags": [
+      "tangy",
+      "crisp",
+      "energizing",
+      "american_flour_crumble"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-greek-palm-sugar-crumble",
     "title": "Tangy Flaky Greek Palm Sugar Crumble",
     "tags": [

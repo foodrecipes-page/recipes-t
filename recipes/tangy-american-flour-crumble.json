@@ -1,0 +1,75 @@
+{
+  "title": "Tangy American Flour Crumble",
+  "description": "This tangy flour crumble is a breakfast treat that combines flours for a crispy texture and a burst of flavor with minimal cooking time.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup, melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix all ingredients together until well combined.",
+    "Transfer mixture to a greased baking dish or muffin tin and press down firmly into the bottom of the container.",
+    "Bake for 20-25 minutes, or until golden brown on top.",
+    "Allow to cool slightly before serving. Best enjoyed warm with your favorite dairy-free milk."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crisp",
+    "energizing",
+    "american_flour_crumble"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 10
+  },
+  "slug": "tangy-american-flour-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-american-flour-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:44:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Flour",
+    "descriptor": "Tangy",
+    "dishForm": "Crumble"
+  }
+}
