@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Crispy Portuguese Sweet Potatoes Crumble",
+  "description": "This meal-prep-friendly dish features sweet potatoes coated in a tangy crumble and baked to crispy perfection, perfect for breakfast or dinner.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large sweet potato",
+      "amount": "1 whole"
+    },
+    {
+      "name": "1/2 cup rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "1/4 cup gluten-free flour (if necessary)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1 tbsp vegan butter or coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1 whole lime"
+    },
+    {
+      "name": "2 tbsp fresh lemon juice (optional)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Rinse and dry the sweet potato.",
+    "Scrape out the insides of the sweet potato with a spoon, leaving about 1 inch unpeeled for easy handling.",
+    "In a mixing bowl, combine oats, flour, sugar, and salt. Stir in vegan butter or oil until well combined.",
+    "Add lime juice and optional lemon juice to the oat mixture. Mix thoroughly to evenly distribute flavors.",
+    "Coat sweet potato inside with half of the crumble mixture, ensuring it's evenly distributed and adhered to the insides.",
+    "Place coated sweet potatoes on a baking sheet lined with parchment paper or sprayed with cooking spray. Bake for 35-40 minutes, or until the outside is golden brown and crispy.",
+    "Let cool slightly before serving, ideally as part of a meal-prep routine."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crispy",
+    "portuguese",
+    "meal-prep",
+    "sweet-potatoes",
+    "dum"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-portuguese-sweet-potatoes-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:32:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Crumble"
+  }
+}
