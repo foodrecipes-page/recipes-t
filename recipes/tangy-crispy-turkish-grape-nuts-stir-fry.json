@@ -1,0 +1,83 @@
+{
+  "title": "Tangy Crispy Turkish Grape Nuts Stir-fry",
+  "description": "A tangy and crunchy keto-friendly monsoon dish featuring grape nut cereal, seasoned with a savory-sweet sauce that adds just the right amount of zing.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Turkish Grape Nuts",
+      "amount": "cup",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of half a lemon",
+      "amount": "half a lemon's juice"
+    },
+    {
+      "name": "1 tablespoon honey or agave nectar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "1/4 cup chopped fresh mint leaves",
+      "notes": "optional, for added freshness"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    }
+  ],
+  "instructions": [
+    "Toast the grape nuts until lightly golden brown in a dry pan over medium heat.",
+    "Heat olive oil in a non-stick skillet or wok over medium-high heat. Add toasted grape nuts and cook for about 2 minutes, stirring frequently to prevent burning.",
+    "Add minced garlic and mint (if using) into the skillet and stir well to coat with oil and spread evenly.",
+    "Pour in lemon juice and honey. Bring to a simmer, stirring occasionally until the mixture begins to thicken and coats the grape nuts evenly.",
+    "Turn off heat immediately after the desired consistency is reached and serve hot as a snack or light meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crispy",
+    "turkish",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 26,
+    "fat": 9
+  },
+  "slug": "tangy-crispy-turkish-grape-nuts-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-turkish-grape-nuts-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:36:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
