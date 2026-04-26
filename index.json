@@ -156,6 +156,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-egyptian-carrot-stir-fry",
+    "title": "Tangy Gooey Egyptian Carrot Stir-fry",
+    "tags": [
+      "egyptian",
+      "tangy",
+      "goosey"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-indulgent-korean-sultana-crumble",
     "title": "Tangy Gooey Indulgent Korean Sultana Crumble",
     "tags": [
