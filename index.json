@@ -385,6 +385,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spiced-british-ginger-stir-fry",
+    "title": "Tender Spiced British Ginger Stir-fry",
+    "tags": [
+      "british",
+      "garnished",
+      "stir-fry",
+      "hangover"
+    ],
+    "cuisine": [
+      "British",
+      "Indian"
+    ],
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-french-trout-stir-fry",
     "title": "Tender Spicy French Trout Stir-fry",
     "tags": [

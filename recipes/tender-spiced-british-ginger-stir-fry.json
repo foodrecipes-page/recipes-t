@@ -1,0 +1,98 @@
+{
+  "title": "Tender Spiced British Ginger Stir-fry",
+  "description": "A floral and tender hangover-cure dish featuring a blend of garam masala, bhuna spices, and other aromatic elements for an authentic Indian-inspired twist on traditional British ginger fare.",
+  "cuisine": [
+    "British",
+    "Indian"
+  ],
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh ginger root",
+      "amount": "",
+      "notes": "Peel and slice thinly"
+    },
+    {
+      "name": "3 tablespoons garam masala powder",
+      "amount": ""
+    },
+    {
+      "name": "2 teaspoons bhuna spice mix (cumin, coriander, cardamom)",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": ""
+    },
+    {
+      "name": "2 cups broccoli florets",
+      "amount": "",
+      "notes": "Boiled and drained"
+    },
+    {
+      "name": "1 cup baby carrots",
+      "amount": "",
+      "notes": "Blanched and drained"
+    },
+    {
+      "name": "1/4 cup fresh cilantro (coriander)",
+      "amount": "",
+      "notes": "Chopped finely"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add sliced ginger, garam masala powder, and bhuna spice mix; stir-fry for about 2 minutes.",
+    "Add minced garlic to the pan; sauté for an additional minute until fragrant.",
+    "Toss in chopped onions and stir well with the spices. Cook for about 5 more minutes or until onions start to soften slightly.",
+    "Gradually add both broccoli florets and baby carrots into the wok, tossing to combine evenly with the spices and vegetables. Season lightly with salt as needed.",
+    "Cook for another 2-3 minutes or until all ingredients are tender but still crisp.",
+    "Stir in fresh cilantro just before serving; give a quick stir to mix through the dish.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "garnished",
+    "stir-fry",
+    "hangover"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 12,
+    "carbs": 57,
+    "fat": 18
+  },
+  "slug": "tender-spiced-british-ginger-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spiced-british-ginger-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T14:59:41Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "garam masala",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "ginger",
+    "descriptor": "Tender Spiced",
+    "dishForm": "Stir-fry"
+  }
+}
