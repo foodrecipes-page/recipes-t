@@ -1,0 +1,99 @@
+{
+  "title": "Tender Light Tunisian Duck Stir-fry",
+  "description": "A vegetarian-friendly and mildly-flavored dish that features tender duck-like flavors without the meat. It's a light, temperate take on a classic Tunisian recipe.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup tofu",
+      "amount": "",
+      "notes": "Replaceable with tempeh or seitan for meat-like texture"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 bell peppers (any color), sliced",
+      "amount": "",
+      "notes": "Add for a vibrant pop of color and texture"
+    },
+    {
+      "name": "1 can chickpeas, rinsed and drained",
+      "amount": "",
+      "notes": "For added protein and creaminess"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp dried herbs (oregano, thyme, sumac, or za'atar)",
+      "amount": "",
+      "notes": "To balance the bitter flavors"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add minced garlic and onions, sauté until translucent.",
+    "Stir in bell peppers and cook for about 5 minutes or until softened.",
+    "Fold in drained chickpeas and add lemon juice. Stir well to combine all ingredients.",
+    "Sprinkle dried herbs on top of the mixture.",
+    "Season with salt and pepper as desired.",
+    "Taste test, adding more herbs if necessary for a pleasant bittersweet balance.",
+    "Serve immediately over quinoa or rice for a complete meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "tunisian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "tender-light-tunisian-duck-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-light-tunisian-duck-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T01:06:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "duck sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "duck",
+    "descriptor": "tender light",
+    "dishForm": "Stir-fry"
+  }
+}

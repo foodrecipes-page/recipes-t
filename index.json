@@ -132,6 +132,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-light-tunisian-duck-stir-fry",
+    "title": "Tender Light Tunisian Duck Stir-fry",
+    "tags": [
+      "vegan",
+      "vegetarian",
+      "tunisian",
+      "stir-fry"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-nostalgic-japanese-garlic-stir-fry",
     "title": "Tender Nostalgic Japanese Garlic Stir-fry",
     "tags": [
