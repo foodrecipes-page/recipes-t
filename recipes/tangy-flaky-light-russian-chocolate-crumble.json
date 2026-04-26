@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Flaky Light Russian Chocolate Crumble",
+  "description": "A tangy and flaky vegan dessert featuring light chocolate chips and a crispy exterior, perfect for any sweet craving.",
+  "cuisine": "Russian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "light brown sugar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chocolate chips, vegan",
+      "amount": "6 oz"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a mixing bowl, combine vegan butter, vanilla extract, and light brown sugar until creamy.",
+    "Gradually add in all-purpose flour, stirring until you get a dough-like consistency.",
+    "Fold in chocolate chips and cocoa powder. Mix well but avoid overworking the mixture to maintain its light texture.",
+    "Press half of the dough into an 8x8 inch baking dish coated with cooking spray or non-stick spray.",
+    "Sprinkle remaining mixture on top for added crunch, pressing down slightly.",
+    "Bake for about 20-25 minutes until edges are golden brown and center is firm to the touch.",
+    "Allow to cool before cutting into squares."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "vegan",
+    "flaky",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 167,
+    "protein": 1,
+    "carbs": 24,
+    "fat": 13
+  },
+  "slug": "tangy-flaky-light-russian-chocolate-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-light-russian-chocolate-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T09:45:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "fry",
+    "primaryIngredient": "chocolate chips",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Tangy Flaky Light",
+    "dishForm": "Crumble"
+  }
+}
