@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Silky Indulgent Venezuelan Barramundi Stir-fry",
+  "description": "This delicious and indulgent Venezuelan dish features tangy flavors with a silky texture, perfect for a quick and easy dinner or snack.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "diced onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "6"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C). Season the barramundi fillets with salt and pepper.",
+    "In a small saucepan, heat tomato sauce until hot. Reduce to simmer for about 10 minutes.",
+    "Add lime juice, lemon zest, diced onions, garlic, and red bell peppers into the tomato sauce mixture. Stir well and let it cook on medium-high heat until the vegetables are soft.",
+    "Once the vegetables are cooked, stir in the barramundi fillets. Cook for about 5-7 minutes or until just done.",
+    "Serve with a lime wedge to squeeze over each serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "barramundi",
+    "vietnamese-style",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 15,
+    "fat": 9
+  },
+  "slug": "tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:53:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "barramundi",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Barramundi",
+    "descriptor": "Tangy Silky Indulgent Whole30",
+    "dishForm": "Stir-fry"
+  }
+}
