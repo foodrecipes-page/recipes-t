@@ -116,6 +116,23 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-flaky-french-sichuan-pepper-crumble",
+    "title": "Tangy Flaky French Sichuan Pepper Crumble",
+    "tags": [
+      "tangy",
+      "flaky",
+      "romantic",
+      "french",
+      "sichuan"
+    ],
+    "cuisine": [
+      "French",
+      "Sichuan"
+    ],
+    "totalTimeMin": 17,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-greek-palm-sugar-crumble",
     "title": "Tangy Flaky Greek Palm Sugar Crumble",
     "tags": [

@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Flaky French Sichuan Pepper Crumble",
+  "description": "This tangy and flaky dish combines the unique flavors of France with the fiery kick of Sichuan pepper, marinated overnight for an extra depth of flavor. It's perfect as a romantic dessert or snack.",
+  "cuisine": [
+    "French",
+    "Sichuan"
+  ],
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe bananas",
+      "amount": "1 per serving"
+    },
+    {
+      "name": "2 tablespoons honey",
+      "amount": "1 tablespoon per serving"
+    },
+    {
+      "name": "30 grams all-purpose flour",
+      "amount": "5 grams per serving"
+    },
+    {
+      "name": "40 grams almond flour",
+      "amount": "6 grams per serving"
+    },
+    {
+      "name": "8 grams fine sea salt",
+      "amount": "1 gram per serving"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "0.33 tablespoons per serving"
+    },
+    {
+      "name": "2 teaspoons granulated sugar",
+      "amount": "0.5 teaspoon per serving"
+    },
+    {
+      "name": "6 fresh cilantro leaves",
+      "amount": "1 leaf per serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Marinate sliced bananas in honey and a pinch of salt for at least 4 hours.",
+    "Blend banana mixture with flours, oil, sugar, and finely chopped cilantro until a smooth spreadable consistency is achieved.",
+    "Spray baking sheets with cooking spray or line with parchment paper.",
+    "Spoon out spoonfuls onto the prepared sheet pans to form crumbles. Bake for 15 minutes until golden brown on top.",
+    "Serve warm, garnished with fresh cilantro leaves."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "flaky",
+    "romantic",
+    "french",
+    "sichuan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 76,
+    "fat": 9
+  },
+  "slug": "tangy-flaky-french-sichuan-pepper-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-french-sichuan-pepper-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:11:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "marinate",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "sichuan_pepper",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Crumble"
+  }
+}
