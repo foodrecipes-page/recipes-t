@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Light Cozy Russian Beef Stir-fry",
+  "description": "A tangy and cozy dish featuring pomegranate molasses to enhance the flavors of tender beef in a light coating.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "200g"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Chopped red bell pepper",
+      "amount": "25g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Low sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a non-stick skillet over medium heat.",
+    "Add minced garlic and sauté for about 30 seconds until fragrant.",
+    "Add chopped red bell pepper and cook for another minute, stirring occasionally.",
+    "Season the beef with black pepper and add to the pan. Cook for 2-3 minutes per side or until a doneness of your choice is reached.",
+    "Drizzle pomegranate molasses over the beef and stir-fry for an additional minute to let the flavors meld together.",
+    "Stir in low sodium soy sauce and cook for another minute, ensuring everything is heated through.",
+    "Serve hot as a main course with side dishes of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 31,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "tangy-light-cozy-russian-beef-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-cozy-russian-beef-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T23:10:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "saute",
+    "primaryIngredient": "pomegranate molasses",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Tangy Light Cozy",
+    "dishForm": "Stir-fry"
+  }
+}

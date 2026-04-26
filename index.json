@@ -323,6 +323,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-cozy-russian-beef-stir-fry",
+    "title": "Tangy Light Cozy Russian Beef Stir-fry",
+    "tags": [
+      "beef",
+      "stir-fry",
+      "keto-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-festive-french-egg-stir-fry",
     "title": "Tangy Silky Festive French Egg Stir-fry",
     "tags": [
