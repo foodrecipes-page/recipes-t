@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Juicy Indulgent Walnut Stir-fry",
+  "description": "A tangy and juicy walnut stir-fry that is both diabetic-friendly and indulgent, perfect for adding a flavorful twist to your meals.",
+  "cuisine": "Chinese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "main-course",
+  "ingredients": [
+    {
+      "name": "Walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, julienned"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, finely chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "2, minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Tangy Sauce (e.g., Hoisin or Sweet Chili)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add onions and bell peppers, sauté for about 5 minutes until softened.",
+    "Add garlic and walnuts, cook for another minute.",
+    "Pour in soy sauce, tangy sauce, lime juice, brown sugar, and water.",
+    "Stir well to combine, then add carrots.",
+    "Simmer for an additional 3-4 minutes or until the vegetables are tender.",
+    "Serve hot as a main-course dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "walnut-stir-fry",
+    "diabetic-friendly",
+    "tangy-juicy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "tangy-juicy-indulgent-walnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-indulgent-walnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T11:03:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "walnuts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "walnuts",
+    "descriptor": "tangy juicy indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

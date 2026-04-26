@@ -226,6 +226,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-indulgent-walnut-stir-fry",
+    "title": "Tangy Juicy Indulgent Walnut Stir-fry",
+    "tags": [
+      "walnut-stir-fry",
+      "diabetic-friendly",
+      "tangy-juicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-festive-french-egg-stir-fry",
     "title": "Tangy Silky Festive French Egg Stir-fry",
     "tags": [
