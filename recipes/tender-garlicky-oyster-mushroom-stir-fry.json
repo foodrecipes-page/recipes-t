@@ -1,0 +1,84 @@
+{
+  "title": "Tender Garlicky Oyster Mushroom Stir-fry",
+  "description": "A delicious Australian dish featuring oyster mushrooms that appeals to midnight cravings and is also friendly for Jains. It's a tasty stir-fry recipe with garlic, making it savory and aromatic.",
+  "cuisine": "Australian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oyster mushrooms",
+      "amount": "1 cup fresh or 2 cups dried",
+      "notes": "Ensure they are fully dried if using dried mushrooms."
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves (minced)"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil or coconut oil",
+      "amount": "3-4 tablespoons"
+    },
+    {
+      "name": "Salt and pepper to taste"
+    },
+    {
+      "name": "Fresh cilantro leaves (optional)",
+      "amount": "a few sprigs"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add minced garlic and cook for about 1 minute until fragrant, being careful not to burn it.",
+    "Stir in oyster mushrooms and season with salt and pepper. Cook until they are tender but still have some texture.",
+    "Toss in chopped scallions and cook for another minute.",
+    "Drizzle soy sauce over the top and stir well to combine all ingredients evenly.",
+    "Serve immediately while hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "tender",
+    "midnight-craving",
+    "australian",
+    "oyster-mushroom",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 7.5,
+    "carbs": 16,
+    "fat": 9
+  },
+  "slug": "tender-garlicky-oyster-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-garlicky-oyster-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T00:19:09Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Oyster Mushrooms",
+    "descriptor": "Garlicky Tender Midnight",
+    "dishForm": "Stir-fry"
+  }
+}
