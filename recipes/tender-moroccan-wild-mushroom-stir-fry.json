@@ -1,0 +1,68 @@
+{
+  "title": "Tender Moroccan Wild Mushroom Stir-fry",
+  "description": "A kid-friendly and umami-rich stir-fry featuring tender wild mushrooms that are perfect for young palates, baked to perfection in a nut-free-friendly dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Rinse and slice the mushrooms into bite-sized pieces.",
+    "Mince the garlic cloves and finely chop the onion. Heat a tablespoon of olive oil in a skillet over medium heat.",
+    "Add minced garlic and chopped onions, sauté for about 2 minutes until soft and fragrant. Add sliced mushrooms to the pan and stir fry for another 5 minutes.",
+    "Transfer the mushroom mixture into a baking dish. Sprinkle with salt and pepper to taste. Bake in the preheated oven for 10-12 minutes or until the mushrooms are tender and lightly golden on top.",
+    "Remove from the oven, let it cool down slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "wild-mushroom-stir-fry",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 13,
+    "carbs": 28,
+    "fat": 6
+  },
+  "slug": "tender-moroccan-wild-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-moroccan-wild-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T17:58:45Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "bake",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Wild Mushroom",
+    "descriptor": "Tender",
+    "dishForm": "Stir-fry"
+  }
+}

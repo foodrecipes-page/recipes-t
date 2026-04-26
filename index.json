@@ -403,6 +403,18 @@
     "shard": "t"
   },
   {
+    "slug": "tender-moroccan-wild-mushroom-stir-fry",
+    "title": "Tender Moroccan Wild Mushroom Stir-fry",
+    "tags": [
+      "moroccan",
+      "wild-mushroom-stir-fry",
+      "kid-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-nostalgic-japanese-garlic-stir-fry",
     "title": "Tender Nostalgic Japanese Garlic Stir-fry",
     "tags": [
