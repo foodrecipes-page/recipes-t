@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Juicy Canadian King Prawns Toast",
+  "description": "A keto-friendly dish featuring raw king prawns on toasted bread for a tangy and juicy solo dinner option.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Keto Bread",
+      "amount": "2 slices",
+      "notes": "Use any keto-friendly bread available"
+    },
+    {
+      "name": "King Prawns",
+      "amount": "4-6 pieces",
+      "notes": "Fresh and raw, thaw if frozen"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp",
+      "notes": "For added zing and freshness"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "3/4 tsp",
+      "notes": "To taste for prawns"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": "Optional, adds a subtle garlic flavor"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "Fresh squeezed for tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast the bread slices until golden brown, about 2-3 minutes each side.",
+    "Trim any shells from prawns and lightly season with salt and garlic powder if using. Pat dry with paper towels.",
+    "Place prawns on toasted bread slices. Drizzle with lemon juice to enhance flavors.",
+    "Sprinkle lemon zest over the top of each toast for extra zinginess.",
+    "Serve immediately while still hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "canadian",
+    "juicy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 178,
+    "protein": 14,
+    "carbs": 5,
+    "fat": 6
+  },
+  "slug": "tangy-juicy-canadian-king-prawns-toast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-canadian-king-prawns-toast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T20:28:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "raw king prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "King Prawns",
+    "descriptor": "Tangy Juicy",
+    "dishForm": "Toast"
+  }
+}
