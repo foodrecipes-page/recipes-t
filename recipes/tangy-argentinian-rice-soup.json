@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Argentinian Rice Soup",
+  "description": "This tangy, tender rice soup is a crowd-pleaser and low-calorie-friendly dish featuring flat rice noodles that are poached to perfection.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "soup",
+  "ingredients": [
+    {
+      "name": "Flat rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken or vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 pieces",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red bell pepper, sliced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "handful"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 lime"
+    },
+    {
+      "name": "Sliced green onions (for garnish)",
+      "amount": "1-2 pieces"
+    }
+  ],
+  "instructions": [
+    "Rinse the flat rice noodles with cold water and set aside.",
+    "In a pot, bring chicken or vegetable broth to a boil. Add the rinsed rice noodles, garlic, and onion; reduce heat to low and simmer for about 20 minutes until tender.",
+    "Stir in sliced red bell pepper and fresh cilantro leaves. Remove from heat.",
+    "Squeeze lime juice over the soup and stir gently to combine all ingredients evenly.",
+    "Serve hot with a sprinkle of green onions on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "tender",
+    "argentinian",
+    "crowd-pleaser"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 0.5
+  },
+  "slug": "tangy-argentinian-rice-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-argentinian-rice-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T06:34:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Rice",
+    "descriptor": "Tangy",
+    "dishForm": "Soup"
+  }
+}
