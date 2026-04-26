@@ -1,0 +1,73 @@
+{
+  "title": "Tangy Crunchy Peruvian Beef Crumble",
+  "description": "A tangy and crunchy brunch dish featuring mixed beef cuts with a fermentation twist, nut-free-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian",
+    "paleo",
+    "keto"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "1 lb (450g)"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fermented Vegetables (e.g., Kimchi)",
+      "notes": "Use sparingly as per taste preference"
+    },
+    {
+      "name": "Vegetable Oil for Pan-Frying",
+      "notes": "Adjust quantity based on pan size"
+    }
+  ],
+  "instructions": [
+    "Pat the beef brisket dry with paper towels.",
+    "Season both sides of the beef with salt and pepper, then coat in a thin layer of vegetable oil to prevent sticking.",
+    "Heat a large skillet or frying pan over medium-high heat. Add enough vegetable oil to lightly coat the bottom of the pan.",
+    "Once the oil is hot, place the seasoned brisket into the pan. Cook for about 5 minutes on each side until charred and cooked through. Remove from heat and set aside to rest.",
+    "In a mixing bowl, combine tahini, lemon juice, cumin powder, coriander powder, and salt. Stir well until there are no lumps left.",
+    "Slice the rested brisket into bite-sized pieces and fold in with the tahini mixture. Add any desired fermented vegetables for additional texture.",
+    "Serve immediately as a brunch dish or cold as a snack.",
+    "prepTimeMin"
+  ],
+  "slug": "tangy-crunchy-peruvian-beef-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-peruvian-beef-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:38:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Beef",
+    "descriptor": "Tangy Crunchy",
+    "dishForm": "Crumble"
+  }
+}
