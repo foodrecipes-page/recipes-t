@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Crumbly Indian Skirt Steak Cumble",
+  "description": "This monsoon-inspired dish features a tangy crumbly filling made from skirt steak, perfect for pescatarian meals and baked in the oven.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Skirt Steak",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Corn Starch or Arrowroot Powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cardamom Pods",
+      "amount": "3 whole, lightly crushed"
+    },
+    {
+      "name": "Garam Masala Powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut Milk or Almond Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Red Chilli Paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2-3 tsp (adjust to taste)"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the onion and garlic into small pieces.",
+    "Heat oil in a pan, add onions and sauté until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Mix tomato paste with corn starch or arrowroot powder to form a smooth sauce.",
+    "Pour this mixture over the onions and garlic, stir well until thickened.",
+    "Add cumin seeds, crushed cardamom pods, garam masala, red chilli paste, tamarind paste, coconut milk (or almond milk), and 1 cup of water. Stir to combine.",
+    "Bring to a boil, then reduce heat and simmer for about 30 minutes until the sauce thickens.",
+    "Cut skirt steak into small cubes, approximately 1 inch in size.",
+    "Toss the cubed meat in cornstarch or arrowroot powder before adding them to the sauce.",
+    "Simmer the meat in the sauce mixture for 5-7 minutes until heated through.",
+    "Sprinkle sesame seeds over the top of the creme just before serving.",
+    "Serve warm as a snack with some vegetables or whole wheat bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crumbly",
+    "indian",
+    "skirt_steak_crumble",
+    "monsoon",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 28,
+    "carbs": 42,
+    "fat": 16
+  },
+  "slug": "tangy-crumbly-indian-skirt-steak-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-indian-skirt-steak-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:16:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "skirty steak",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Skirt Steak",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
