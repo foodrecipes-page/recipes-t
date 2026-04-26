@@ -348,6 +348,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-syrian-lentil-stir-fry",
+    "title": "Tangy Syrian Lentil Stir-fry",
+    "tags": [
+      "tangy",
+      "crispy",
+      "syrian",
+      "stir-fry"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
     "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
     "tags": [

@@ -1,0 +1,78 @@
+{
+  "title": "Tangy Syrian Lentil Stir-fry",
+  "description": "A tangy, crispy dish featuring brown lentils with a low-sodium twist and hints of Middle Eastern flavors.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup brown lentils",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 carrot, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 bell pepper, thinly sliced",
+      "amount": "large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Rinse lentils and set aside.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add onions and sauté until translucent, about 5 minutes.",
+    "Add garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Stir in carrots and bell pepper, cooking for an additional 3-4 minutes until vegetables soften slightly.",
+    "Reserve some of the cooked vegetables on a plate. Add lentils to the skillet with any leftover vegetables from the wok.",
+    "Pour in low-sodium vegetable broth or water to cover the lentils, then add salt, pepper, and your preferred tangy sauce (such as lemon juice, vinegar, and spices like cumin and paprika).",
+    "Simmer for about 10 minutes until lentils are tender. If using a wok, mix in reserved vegetables with the lentils.",
+    "Transfer to an oven-safe dish. Broil under preheated broiler for 2-3 minutes until edges of the mixture turn golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "crispy",
+    "syrian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "tangy-syrian-lentil-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-syrian-lentil-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:07:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "broil",
+    "primaryIngredient": "brown lentils",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
