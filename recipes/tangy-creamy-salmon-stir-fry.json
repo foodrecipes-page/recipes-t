@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Creamy Salmon Stir-fry",
+  "description": "A creamy and tangy date-night dish featuring smoked salmon with a nut-free-friendly twist, ideal for those who prefer lighter meals.",
+  "cuisine": "Dutch",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 oz smoked salmon fillets",
+      "amount": "2 pieces",
+      "notes": "Ensure the salmon is well chilled."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup heavy cream",
+      "amount": "1 cup",
+      "notes": "Ensure it is at room temperature."
+    },
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Optionally, can use tamari for those allergic to soy."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh dill or parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the salmon fillets with salt and black pepper on both sides. Place them in the hot pan for about 3 minutes per side, until golden brown.",
+    "Remove the salmon from the pan and set aside to cool slightly.",
+    "In the same pan, add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic to the onions and cook for another minute or so until fragrant.",
+    "Pour in the heavy cream and soy sauce (or tamari), bring to a simmer. Stir constantly to prevent burning.",
+    "Once the cream mixture starts to thicken, add lemon juice, salt, black pepper, and chopped fresh dill or parsley. Mix well to combine all ingredients.",
+    "Return the salmon fillets to the pan with the creamy sauce on top. Let it cook for an additional 2-3 minutes until heated through and the juices are just starting to flow from the salmon.",
+    "Serve hot as a nutritious and comforting main course dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "creamy",
+    "date-night",
+    "smoked-salmon",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 16
+  },
+  "slug": "tangy-creamy-salmon-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-salmon-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T21:42:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "smoked salmon",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "smoked salmon",
+    "descriptor": "Creamy Tangy",
+    "dishForm": "Stir-fry"
+  }
+}

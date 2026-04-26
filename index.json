@@ -125,6 +125,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-salmon-stir-fry",
+    "title": "Tangy Creamy Salmon Stir-fry",
+    "tags": [
+      "tangy",
+      "creamy",
+      "date-night",
+      "smoked-salmon",
+      "nut-free"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-indian-skirt-steak-crumble",
     "title": "Tangy Crumbly Indian Skirt Steak Cumble",
     "tags": [
