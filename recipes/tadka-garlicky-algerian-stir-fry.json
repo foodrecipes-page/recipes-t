@@ -1,0 +1,78 @@
+{
+  "title": "Tadka Garlicky Algerian Stir-fry",
+  "description": "A dense, garlicky brunch-friendly dish featuring cream, tadka spices, and jain-friendly ingredients for a creamy yet comforting meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 pieces",
+      "notes": "minced finely"
+    },
+    {
+      "name": "almonds, slivered",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cream of mushroom soup",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tadka spices mix (optional)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add minced garlic and cook until fragrant, about 30 seconds.",
+    "Stir in slivered almonds and continue cooking for another minute.",
+    "Pour in cream of mushroom soup along with water or broth.",
+    "Simmer gently for about 5-7 minutes until the sauce thickens slightly.",
+    "If using tadka spices, stir them into the mixture before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "garlicy",
+    "tadka-spiced"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 29,
+    "fat": 14
+  },
+  "slug": "tadka-garlicky-algerian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tadka-garlicky-algerian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:54:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "cream",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Tadka",
+    "dishForm": "Stir-fry"
+  }
+}

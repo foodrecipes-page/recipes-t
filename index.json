@@ -25,6 +25,18 @@
     "shard": "t"
   },
   {
+    "slug": "tadka-garlicky-algerian-stir-fry",
+    "title": "Tadka Garlicky Algerian Stir-fry",
+    "tags": [
+      "algerian",
+      "garlicy",
+      "tadka-spiced"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tadka-greek-yogurt-crumble",
     "title": "Tadka Greek Yogurt Crumble",
     "tags": [
