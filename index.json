@@ -280,6 +280,17 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spicy-french-trout-stir-fry",
+    "title": "Tender Spicy French Trout Stir-fry",
+    "tags": [
+      "tender-spicy-french-trout-stir-fry",
+      "plant-based-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-garlic-middle-eastern-stir-fry",
     "title": "Tender Spicy Garlic Middle Eastern Stir-fry",
     "tags": [
