@@ -1,0 +1,81 @@
+{
+  "title": "Tangy Crunchy Japanese Date Pilaf",
+  "description": "A dairy-free Japanese date pilaf dish for a cozy date night, featuring tangy rice and crunchy dates.",
+  "cuisine": "Japanese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup unsalted cashews, chopped",
+      "amount": "cup"
+    },
+    {
+      "name": "3 dates, pitted and sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "1 tbsp rice vinegar or lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro for garnish (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice in cold water and drain well. In a medium saucepan, combine the rice with water and bring to a boil.",
+    "Once boiling, reduce heat to low, cover, and simmer for about 18-20 minutes or until water is absorbed. Remove from heat and let stand covered for another 10 minutes.",
+    "While the rice cooks, in a small mixing bowl, combine cashews, date slices, rice vinegar (or lemon juice), salt, and any remaining liquid released by the rice after cooking. Mix well to coat ingredients evenly with liquids.",
+    "When ready to serve, fluff the cooked rice with a fork and stir in the date-cashew mixture until thoroughly combined. Garnish with fresh cilantro if desired.",
+    "Serve warm as a side dish or on its own for a delicious Japanese date pilaf experience."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-date-pilaf",
+    "crunchy-rice-dish",
+    "date-night-dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 3,
+    "carbs": 27,
+    "fat": 4
+  },
+  "slug": "tangy-crunchy-japanese-date-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-japanese-date-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:30:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "steam",
+    "primaryIngredient": "basmati rice",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "date",
+    "descriptor": "Tangy Crunchy",
+    "dishForm": "Pilaf"
+  }
+}

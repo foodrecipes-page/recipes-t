@@ -154,6 +154,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-japanese-date-pilaf",
+    "title": "Tangy Crunchy Japanese Date Pilaf",
+    "tags": [
+      "japanese-date-pilaf",
+      "crunchy-rice-dish",
+      "date-night-dessert",
+      "vegan-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crunchy-peruvian-beef-crumble",
     "title": "Tangy Crunchy Peruvian Beef Crumble",
     "tags": [],
