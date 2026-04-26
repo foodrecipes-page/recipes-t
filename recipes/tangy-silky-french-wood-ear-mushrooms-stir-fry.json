@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Silky French Wood Ear Mushrooms Stir-fry",
+  "description": "This low-sodium-friendly stir-fry features tangy and silky wood ear mushrooms cooked in a simple sauce.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wood Ear Mushrooms",
+      "amount": "1 cup",
+      "notes": "Soaked in water for 30 minutes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium variety"
+    },
+    {
+      "name": "Worcestershire Sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium variety"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Fresh Thyme Sprigs",
+      "amount": "",
+      "notes": "For garnish, optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over medium-high heat.",
+    "Add wood ear mushrooms and garlic. Stir-fry for about 5 minutes until mushrooms are tender.",
+    "Mix Dijon mustard with soy sauce to make the tangy sauce, then pour it into the mushroom mixture.",
+    "Stir well to combine. Add Worcestershire Sauce, reduce heat to low, and let cook for another 2-3 minutes or until slightly thickened.",
+    "Garnish with thyme if desired before serving.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "wood ear mushrooms",
+    "stir-fry",
+    "tangy",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 231,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "tangy-silky-french-wood-ear-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-french-wood-ear-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:33:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "stir-fry",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Tangy Silky",
+    "dishForm": "Stir-fry"
+  }
+}
