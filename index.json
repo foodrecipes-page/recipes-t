@@ -361,6 +361,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-egg-white-stir-fry",
+    "title": "Tangy Tender Egg White Stir-fry",
+    "tags": [
+      "tangy",
+      "tender",
+      "turkish",
+      "veggie-friendly",
+      "keto",
+      "stir-fry"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 11,
+    "shard": "t"
+  },
+  {
     "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
     "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
     "tags": [

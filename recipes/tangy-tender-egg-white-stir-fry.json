@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Tender Egg White Stir-fry",
+  "description": "A quick and easy weeknight dish featuring tender egg whites marinated in a tangy sauce for a keto-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg Whites",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Red Pepper Flakes (or Crushed Red Peppers)",
+      "amount": "¼ teaspoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1/4 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Boil egg whites for 1 minute until slightly puffy.",
+    "In a small bowl, mix together lemon juice, red pepper flakes, minced garlic, Dijon mustard, olive oil, salt, and black pepper. Stir well.",
+    "Remove egg whites from boiling water and immediately add them to the marinade mixture in a large mixing bowl.",
+    "Stir gently until evenly coated with the tangy sauce.",
+    "Heat a non-stick skillet over medium heat. Add 1 tablespoon of olive oil.",
+    "Once hot, carefully pour the marinated egg whites into the skillet.",
+    "Cook for an additional 2-3 minutes or until lightly golden and fully cooked through.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "tender",
+    "turkish",
+    "veggie-friendly",
+    "keto",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 16,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "tangy-tender-egg-white-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-egg-white-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T18:42:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "egg white",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Egg White",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
