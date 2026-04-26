@@ -196,6 +196,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-silky-festive-french-egg-stir-fry",
+    "title": "Tangy Silky Festive French Egg Stir-fry",
+    "tags": [
+      "festive",
+      "french",
+      "stir-fry",
+      "vegan"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
     "title": "Tangy Silky Indulgent Venezuelan Barramundi Stir-fry",
     "tags": [

@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Silky Festive French Egg Stir-fry",
+  "description": "A vegan-friendly festive dish featuring eggs stir-fried with tangy and silky flavors to bring a touch of winter cheer.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "4 large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": "1"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "1"
+    },
+    {
+      "name": "3 tablespoons soy sauce (or tamari for a gluten-free option)",
+      "amount": "3"
+    },
+    {
+      "name": "1 tablespoon white vinegar",
+      "amount": "1"
+    },
+    {
+      "name": "2 teaspoons honey or maple syrup",
+      "amount": "2"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4"
+    },
+    {
+      "name": "1/4 teaspoon garlic powder",
+      "amount": "1/4"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or non-stick skillet over medium-high heat.",
+    "In a small bowl, mix together lemon juice, soy sauce, white vinegar, honey/maple syrup, and black pepper. Add garlic powder to taste; set aside.",
+    "Beat the eggs in another bowl until well combined. If using tofu for protein, crumble 4 oz of firm tofu into the egg mixture.",
+    "Add olive oil to your heated wok or skillet and heat until shimmering. Pour in beaten eggs and stir-fry for about 1 minute or until set but not fully cooked.",
+    "Toss in red bell pepper slices and onion chunks, continuing to stir-fry for an additional minute or until vegetables are tender-crisp.",
+    "Pour in the lemon-sauce mixture and bring to a simmer. Allow it to bubble gently for another minute, stirring occasionally.",
+    "Remove from heat and serve hot with steamed rice or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "french",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 10,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "tangy-silky-festive-french-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-festive-french-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T08:57:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "eggs",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg",
+    "descriptor": "Tangy Silky Festive",
+    "dishForm": "Stir-fry"
+  }
+}
