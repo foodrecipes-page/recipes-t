@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Flaky Paleo Friendly Polish Dish",
+  "description": "A tangy and flaky paleo-friendly twist on the classic Polish dish featuring Chinese five spice powder for a hangover cure.",
+  "cuisine": "Polish, Asian-Inspired",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chinese five spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "a few sprigs",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt and black pepper.",
+    "Heat a skillet over medium-high heat. Add avocado oil, then place chicken in skillet skin-side down. Cook for about 4 minutes until golden brown on one side. Flip and continue cooking until fully cooked through, approximately 6-8 more minutes total.",
+    "In another pan, sauté zucchini noodles with salt and pepper until tender, about 2-3 minutes.",
+    "Drizzle honey and lemon juice over chicken to add tanginess, then sprinkle Chinese five spice powder on top. Bake in preheated oven for 10-15 minutes or until golden brown and crispy on top.",
+    "Serve immediately with a garnish of fresh dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "flaky",
+    "tangy",
+    "hangover",
+    "chinese-five-spice"
+  ],
+  "nutrition": {
+    "calories": 423,
+    "protein": 38,
+    "carbs": 19,
+    "fat": 25
+  },
+  "slug": "tangy-flaky-paleo-friendly-polish-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-paleo-friendly-polish-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:06:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "chinese five spice powder",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tangerine",
+    "descriptor": "Tangy Flaky Paleo Friendly",
+    "dishForm": "Polish Dish"
+  }
+}
