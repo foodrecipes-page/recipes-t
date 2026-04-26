@@ -88,6 +88,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-spanish-garlic-stir-fry",
+    "title": "Tangy Chewy Spanish Garlic Stir-fry",
+    "tags": [
+      "spanish-garlic-stir-fry",
+      "tangy-chewy-dish",
+      "diabetic-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-ukrainian-black-treacle-crumble",
     "title": "Tangy Chewy Ukrainian Black Treacle Crumble",
     "tags": [

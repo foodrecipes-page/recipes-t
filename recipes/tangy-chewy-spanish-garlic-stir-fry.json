@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Chewy Spanish Garlic Stir-fry",
+  "description": "A tangy and chewy brunch-friendly dish featuring minced garlic in a balanced sweet and savory sauce, perfect for those with diabetes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 ripe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon (optional)"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "Finely chop the garlic and mince the onions.",
+    "Peel and finely chop the tomatoes.",
+    "Heat olive oil in a pan over medium heat. Add butter if using, mix well and cook until the butter is melted.",
+    "Add minced garlic and onion to the hot pan. Sauté for about 2 minutes until they start to soften.",
+    "Toss in chopped tomatoes along with thyme leaves. Season with salt and pepper according to taste.",
+    "Stir-fry briefly, just enough to allow flavors to meld together without overcooking the vegetables.",
+    "Serve immediately as a side dish or garnish on top of a quiche or croissant for a delicious brunch treat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-garlic-stir-fry",
+    "tangy-chewy-dish",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 6
+  },
+  "slug": "tangy-chewy-spanish-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-spanish-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T13:01:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "rest",
+    "primaryIngredient": "minced garlic",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Tangy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
