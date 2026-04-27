@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Crumbly Mediterranean Semolina Crumble",
+  "description": "A comforting Polish dish featuring tangy marinated semolina flour baked into a crumbly topping that complements grilled meats or as a standalone dessert.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almonds, finely ground",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice concentrate",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "butter, softened",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F). In a mixing bowl, combine semolina flour, ground almonds, orange juice concentrate, baking powder, cinnamon, and salt. Stir until well combined.",
+    "Gradually add softened butter and sugar while stirring until the mixture resembles coarse crumbs. The texture should be crumbly but hold together when pressed between fingers.",
+    "Transfer the crumble mixture to a lightly greased 9x9 inch pan. Smooth the top with the back of a spoon for an even layer.",
+    "Bake in preheated oven for 25-30 minutes or until golden brown and crisp on top, stirring every 10 minutes to prevent burning.",
+    "Cool completely before serving as a dessert. Store leftovers in an airtight container at room temperature for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "crumble",
+    "mediterranean",
+    "comforting",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tangy-crumbly-mediterranean-semolina-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-mediterranean-semolina-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:55:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "marinate",
+    "primaryIngredient": "semolina flour",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Semolina",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
