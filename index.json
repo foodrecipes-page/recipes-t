@@ -421,6 +421,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-bhuna-beetroot-stir-fry",
+    "title": "Tangy Juicy Bhuna Beetroot Stir-fry",
+    "tags": [
+      "tangy-beetroot-stir-fry",
+      "juicy-bhuna-dish",
+      "monsoon-argentinean-dish"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-canadian-king-prawns-toast",
     "title": "Tangy Juicy Canadian King Prawns Toast",
     "tags": [

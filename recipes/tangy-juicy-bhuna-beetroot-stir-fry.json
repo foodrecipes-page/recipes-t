@@ -1,0 +1,116 @@
+{
+  "title": "Tangy Juicy Bhuna Beetroot Stir-fry",
+  "description": "A tangy and juicy monsoon Argentinean dish featuring beetroot stir-fried with a blend of spicy and sweet flavors, ideal for a light meal.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "1 (medium-sized)",
+      "notes": "Ensure beetroot is cooked thoroughly to reduce oxalic acid."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons finely minced",
+      "notes": "Fresh ginger adds a robust flavor and aroma."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, finely chopped",
+      "notes": "Provides sweetness to the dish."
+    },
+    {
+      "name": "Tomato Sauce or Paste",
+      "amount": "2 tablespoons",
+      "notes": "Choose low-sodium variety if available."
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 tablespoon",
+      "notes": "For natural tartness and umami flavor."
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "½ teaspoon",
+      "notes": "Adds a warm, earthy aroma and taste"
+    },
+    {
+      "name": "Red Chili Flakes or Crushed Red Pepper",
+      "amount": "¼ teaspoon",
+      "notes": "For heat; adjust to personal preference."
+    },
+    {
+      "name": "Low-Sodium Soy Sauce (or Tamari)",
+      "amount": "1 tablespoon",
+      "notes": "Enhances umami and adds a subtle sweetness."
+    },
+    {
+      "name": "Lime Juice or Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "Citrus juice brings out the natural flavors of beetroot and provides acidity."
+    },
+    {
+      "name": "Vegetable Oil (or Olive Oil)",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing vegetables and cooking the stir-fry"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Wash beetroot thoroughly under cold running water. Peel it and cut into bite-sized pieces.",
+    "Heat a large pan or wok with vegetable oil over medium-high heat. Once the oil is hot, add chopped onions and sauté until translucent.",
+    "Add minced ginger, garlic, and cumin powder to the pan. Stir-fry for about 1 minute until fragrant.",
+    "Fold in finely chopped beetroot pieces. Sauté for another minute allowing them to absorb the spices.",
+    "Drizzle tamarind paste and red chili flakes into the pan. Mix well ensuring they are evenly distributed over the beetroot.",
+    "Stir in tomato sauce or paste, followed by lime juice (or lemon), soy sauce, and a pinch of salt. Bring the mixture to a boil then reduce heat to low.",
+    "Simmer for 5 minutes allowing flavors to meld together. Stir occasionally to prevent sticking.",
+    "Once most of the liquid has been absorbed, turn off the heat. The dish should be slightly tangy and flavorful.",
+    "Plate the stir-fried beetroot with additional fresh lime wedges or a sprinkle of chopped cilantro (optional) for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy-beetroot-stir-fry",
+    "juicy-bhuna-dish",
+    "monsoon-argentinean-dish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "tangy-juicy-bhuna-beetroot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-bhuna-beetroot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:54:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "beetroot",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beetroot",
+    "descriptor": "tangy juicy",
+    "dishForm": "Stir-fry"
+  }
+}
