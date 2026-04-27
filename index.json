@@ -565,6 +565,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-smoked-beans-stir-fry",
+    "title": "Tangy Smoked Beans Stir-fry",
+    "tags": [
+      "stir-fry",
+      "tangy",
+      "dairy-free"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-syrian-lentil-stir-fry",
     "title": "Tangy Syrian Lentil Stir-fry",
     "tags": [

@@ -1,0 +1,91 @@
+{
+  "title": "Tangy Smoked Beans Stir-fry",
+  "description": "A dense and tangy Kenyan-inspired dish featuring white sauerkraut, smoke flavoring, and dairy-free options to create a satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Use a store-bought variety or homemade, ensuring it's well-cured."
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "White Beans (or Cannellini beans)",
+      "amount": "1 cup",
+      "notes": "Soaked overnight and drained."
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves",
+      "notes": "Chopped finely."
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Chili Flakes (optional)",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "In a small bowl, mix Soy Sauce, White Sauerkraut, Smoked Paprika, Sea Salt, and Lime Juice. Set aside.",
+    "Drain the soaked beans if necessary and roughly chop them. Add to a large wok or frying pan with Olive Oil over medium heat.",
+    "Add Garlic Cloves and Red Chili Flakes (if using) and stir for 1-2 minutes until fragrant but not browned.",
+    "Pour in the Sauerkraut-Soy Sauce mixture, reduce heat to low-medium, cover, and let simmer for about 5 minutes.",
+    "Increase heat to medium-high and cook beans uncovered, stirring occasionally until slightly thickened, about 3-4 more minutes.",
+    "Serve hot with additional Lime Juice on side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "tangy",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 10,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "tangy-smoked-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-smoked-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T12:53:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beans",
+    "descriptor": "Tangy Smoked",
+    "dishForm": "Stir-fry"
+  }
+}
