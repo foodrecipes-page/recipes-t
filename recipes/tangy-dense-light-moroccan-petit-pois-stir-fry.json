@@ -1,0 +1,82 @@
+{
+  "title": "Tangy Dense Light Moroccan Petit Pois Stir-fry",
+  "description": "A tangy and dense light Moroccan-inspired dish featuring steamed petit pois that is both flavorful and low in carbohydrates.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "low-carb",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup petit pois",
+      "amount": "",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "2 tbsp lemon juice",
+      "amount": "tbsp",
+      "notes": "ensure it is fresh, not bottled"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "Pinch of cinnamon",
+      "amount": "",
+      "notes": "optional for extra flavor"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": "adjust based on the natural sweetness of the petit pois"
+    }
+  ],
+  "instructions": [
+    "Steam the petits pois until just tender, about 5 minutes.",
+    "In a small bowl, mix together lemon juice, cumin, turmeric, and cinnamon (if using).",
+    "Drizzle the mixture over the steamed petits pois and toss well to coat evenly.",
+    "Season with salt as needed. Serve immediately while warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "petit pois",
+    "vegan-friendly",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 1
+  },
+  "slug": "tangy-dense-light-moroccan-petit-pois-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-light-moroccan-petit-pois-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:45:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "petit pois",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Petit pois",
+    "descriptor": "Tangy Dense Light",
+    "dishForm": "Stir-fry"
+  }
+}
