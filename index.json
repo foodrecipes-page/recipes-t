@@ -692,6 +692,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoke-greek-citrus-stir-fry",
+    "title": "Tender Smoke Greek Citrus Stir-fry",
+    "tags": [
+      "tender",
+      "smoke",
+      "greek",
+      "citrus",
+      "dairy-free"
+    ],
+    "cuisine": "Grecian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-serrano-ham-stir-fry",
     "title": "Tender Smoky Serrano Ham Stir-fry",
     "tags": [
