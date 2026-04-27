@@ -220,6 +220,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crumbly-algerian-lettuce-crumble",
+    "title": "Tangy Crumbly Algerian Lettuce Cumber",
+    "tags": [
+      "algerian",
+      "lettuce",
+      "tangy",
+      "crumbly"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-butter-crumble",
     "title": "Tangy Crumbly Butter Crumble",
     "tags": [

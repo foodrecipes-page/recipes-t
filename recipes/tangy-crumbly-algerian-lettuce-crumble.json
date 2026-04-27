@@ -1,0 +1,89 @@
+{
+  "title": "Tangy Crumbly Algerian Lettuce Cumber",
+  "description": "A kid-friendly Algerian dish featuring little gem lettuce crumbled with toasted almond slices and a tangy lemon dressing, perfect as a light lunch or snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Little Gem Lettuce",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup, toasted"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    },
+    {
+      "name": "Pepper",
+      "amount": "Dash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast almonds in a dry skillet over medium heat for about 2-3 minutes or until lightly golden.",
+    "Wash and dry the lettuce. Remove outer leaves, leaving only the tender inner parts.",
+    "Chop the lettuce into bite-sized pieces and place them on a baking sheet lined with parchment paper.",
+    "Sprinkle toasted almonds evenly over the top of the lettuce.",
+    "In a small bowl, whisk together lemon zest, Dijon mustard, apple cider vinegar, olive oil, salt, and pepper. Pour dressing over the lettuce and almonds mixture.",
+    "Toss gently to coat all ingredients evenly with the dressing.",
+    "Bake for 10-12 minutes or until edges of lettuce are slightly crisp but not browned.",
+    "Serve warm as a snack or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "lettuce",
+    "tangy",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 7
+  },
+  "slug": "tangy-crumbly-algerian-lettuce-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-algerian-lettuce-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:10:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "little gem lettuce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
