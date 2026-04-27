@@ -1,0 +1,87 @@
+{
+  "title": "Tangy Chewy Argentinian Haricot Beans Stir-fry",
+  "description": "A tangy and chewy meal-prep Argentinean dish featuring gluten-free haricot beans that can be prepared in advance for easy lunches or dinners.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "500g Haricot Beans",
+      "amount": "1 bag",
+      "notes": "Soak haricot beans overnight for easier cooking"
+    },
+    {
+      "name": "2 red bell peppers",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "2 medium onions",
+      "amount": "2 pcs"
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "1 red onion (chopped)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Juice of 2 limes",
+      "amount": "2 lime juiced"
+    },
+    {
+      "name": "1/4 cup white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or skillet over medium-high heat.",
+    "Add sliced onions and garlic, sauté until translucent.",
+    "Stir in chopped bell peppers and cook for about 2 minutes.",
+    "Drain soaked haricot beans (if not already cooked), add to the pan with the vegetables, and stir well.",
+    "Pour in lime juice and white vinegar, bring to a simmer.",
+    "Reduce heat to medium-low, cover the wok/pan, and let it cook for 5 minutes or until most of the liquid is absorbed.",
+    "Season with salt and pepper to taste, remove from heat and serve warm or at room temperature.",
+    "Store in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinean",
+    "tangy",
+    "chewy",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "tangy-chewy-argentinian-haricot-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-argentinian-haricot-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T15:50:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "haricot beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Haricot Beans",
+    "descriptor": "Tangy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}
