@@ -204,6 +204,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crust-crumble-rice",
+    "title": "Tangy Crust Crumble Rice",
+    "tags": [
+      "tangy",
+      "crust crumble",
+      "rice",
+      "plant-based",
+      "festive",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crusty-graham-cracker-ethiopian-crumb",
     "title": "Tangy Crusty Graham Cracker Ethiopian Crumb",
     "tags": [

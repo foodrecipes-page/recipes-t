@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Crust Crumble Rice",
+  "description": "A festive American dish featuring a tangy crust crumble made with palm sugar and cooked in rice, perfect for breakfast or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Any type of short-grain or brown rice"
+    },
+    {
+      "name": "Palm Sugar",
+      "amount": "1/4 cup",
+      "notes": "Can substitute with agave nectar for a similar sweet flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "For taste enhancement"
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "3 cups",
+      "notes": "To cover the rice and help it absorb liquid"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup",
+      "notes": "Any type of flour can be used for the crust crumble"
+    },
+    {
+      "name": "Palm Sugar Powder (Optional)",
+      "amount": "1 tablespoon",
+      "notes": "For a more concentrated sweetness if needed"
+    },
+    {
+      "name": "Vegetable Oil or Butter",
+      "amount": "2 tablespoons",
+      "notes": "For greasing and cooking purposes"
+    }
+  ],
+  "instructions": [
+    "Wash the rice thoroughly to remove any excess starch. In a large pot, combine the rice with water or vegetable stock, palm sugar, salt, and a pinch of flour.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for about 15 minutes until the liquid is absorbed by the rice. Turn off the heat and let it rest covered for an additional 10 minutes.",
+    "While the rice rests, prepare the crust crumble: mix together the palm sugar powder (if using), flour, and oil or butter in a small bowl. Heat up a non-stick skillet over medium heat and add the crust crumble mixture to coat the bottom of the pan evenly.",
+    "After the rice has rested, fluff it with a fork and pour it into the prepared crust layer, spreading it evenly and compactly. Allow it to cool slightly before topping with more palm sugar powder for added sweetness.",
+    "Serve the Tangy Crust Crumble Rice as an accompaniment to any main dish or enjoy it on its own as a dessert-inspired breakfast treat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crust crumble",
+    "rice",
+    "plant-based",
+    "festive",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 6,
+    "carbs": 72,
+    "fat": 14
+  },
+  "slug": "tangy-crust-crumble-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crust-crumble-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:50:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "palm sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Crispy Rice",
+    "descriptor": "Tangy",
+    "dishForm": "Crumble"
+  }
+}
