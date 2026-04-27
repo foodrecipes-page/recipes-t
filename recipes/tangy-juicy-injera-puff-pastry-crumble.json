@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Juicy Injera Puff Pastry Crumble",
+  "description": "A tangy and juicy monsoon-inspired Ethiopian dish featuring puff pastry crumbles over injera bread for a unique breakfast or snack option, low-sodium friendly.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Injera Bread",
+      "amount": "1 slice",
+      "notes": "Thawed or cold from the fridge"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "6 sheets",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato, diced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber, sliced",
+      "amount": "2 spears",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "handful",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Low-sodium tomato sauce (optional)",
+      "amount": "",
+      "notes": "To make the dish tangier and juicier without adding salt"
+    }
+  ],
+  "instructions": [
+    "Thaw injera bread according to package instructions or serve it cold.",
+    "Preheat oven to 375°F (190°C).",
+    "Place puff pastry sheets on a parchment-lined baking sheet. Using a sharp knife, carefully cut each sheet into six triangles and slightly press the edges down with your fingers for easier shaping.",
+    "In a pan over medium heat, sauté chopped onion until translucent, then add minced garlic and cook for another minute.",
+    "Stir in diced tomatoes, cover, reduce heat to low, and simmer for 5 minutes. Stir occasionally; adjust seasoning if necessary (e.g., with lemon juice or low-sodium tomato sauce).",
+    "Fold puff pastry triangles in half at the top edge towards the center, then fold down one-third of each sheet to create a crumbly layer over the tomato filling.",
+    "Place filled sheets on an oven-safe plate and bake for 12-15 minutes until golden brown. Garnish with fresh mint leaves before serving hot.",
+    "Serve immediately with sour milk or yogurt for added flavor, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "juicy",
+    "injera",
+    "puff pastry",
+    "monsoon",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "tangy-juicy-injera-puff-pastry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-injera-puff-pastry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T09:17:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "monsoon",
+    "technique": "rest",
+    "primaryIngredient": "puff pastry",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "injera",
+    "descriptor": "tangy juicy",
+    "dishForm": "Puff Pastry Crumble"
+  }
+}
