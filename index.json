@@ -526,6 +526,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-lazy-sunday-french-potato-stir-fry",
+    "title": "Tangy Juicy Lazy-Sunday French Potato Stir-fry",
+    "tags": [
+      "lazy-sunday",
+      "tangy-juicy",
+      "potato-stir-fry",
+      "halal-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
     "title": "Tangy Light Algerian Rhubarb Stir-fry",
     "tags": [

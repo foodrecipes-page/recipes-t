@@ -1,0 +1,77 @@
+{
+  "title": "Tangy Juicy Lazy-Sunday French Potato Stir-fry",
+  "description": "A tangy and juicy French potato dish cooked on the stove for a leisurely Sunday meal. Halal-friendly.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French fries",
+      "amount": "200 grams"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "a few pinches"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "1-2, minced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "half a lemon, juiced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and chili flakes to the pan and cook until fragrant.",
+    "Pour in Dijon mustard and stir well, allowing it to absorb the flavors for about 30 seconds.",
+    "Gradually add French fries into the pan, ensuring they are evenly coated with the mixture.",
+    "Stir occasionally until potatoes are golden brown and crispy on all sides.",
+    "Drizzle lemon juice over the top of the potato mix to enhance the tangy flavor.",
+    "Remove from heat once the potatoes have absorbed most of the sauce."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lazy-sunday",
+    "tangy-juicy",
+    "potato-stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tangy-juicy-lazy-sunday-french-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-lazy-sunday-french-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:26:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "slow-cook",
+    "primaryIngredient": "fries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Potato",
+    "descriptor": "Tangy Juicy Lazy-Sunday",
+    "dishForm": "Stir-fry"
+  }
+}
