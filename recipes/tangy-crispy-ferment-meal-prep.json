@@ -1,0 +1,72 @@
+{
+  "title": "Tangy Crispy Ferment Meal-Prep",
+  "description": "A paleo-friendly Slovakian dish featuring balsamic vinegar and fermented vegetables for a tangy and crispy meal-prep option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together balsamic vinegar, extra virgin olive oil, salt, and pepper.",
+    "Drizzle the dressing over the fermented vegetables, ensuring they are evenly coated.",
+    "Gently toss to combine and let sit for at least 5 minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crispy",
+    "meal-prep",
+    "ferment",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 98,
+    "protein": 1.3,
+    "carbs": 6.7,
+    "fat": 4.2
+  },
+  "slug": "tangy-crispy-ferment-meal-prep",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-ferment-meal-prep",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:14:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "ferment",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ferment",
+    "descriptor": "tangy crispy",
+    "dishForm": "meal-prep"
+  }
+}
