@@ -753,6 +753,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-crunchy-spanish-hazelnut-stir-fry",
+    "title": "Tender Crunchy Spanish Hazelnut Stir-fry",
+    "tags": [
+      "spanish-dish",
+      "crunchy-stir-fry",
+      "sour-creamy",
+      "gluten-free-friendly"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 65,
+    "shard": "t"
+  },
+  {
     "slug": "tender-garlicky-greek-pretzel-stir-fry",
     "title": "Tender Garlicky Greek Pretzel Stir-fry",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Tender Crunchy Spanish Hazelnut Stir-fry",
+  "description": "A sour and crowd-pleasing Spanish dish featuring shelled hazelnuts in a gluten-free-friendly stir-fry recipe.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup (shelled and chopped)"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon, chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Place chicken breasts in a baking dish. Season with salt and pepper.",
+    "Roast the chicken for about 20 minutes until fully cooked. Remove from oven and set aside.",
+    "In a large skillet, heat olive oil over medium-high heat. Add onion and garlic, sautéing until softened, about 5 minutes.",
+    "Add chopped hazelnuts to the skillet and stir fry for an additional 2-3 minutes until fragrant.",
+    "Pour in vegetable broth, add red pepper flakes, and mix well. Bring to a simmer, then reduce heat to low.",
+    "Slice chicken breasts into thin strips and place them gently into the skillet with the hazelnut mixture, ensuring not to overcrowd the pan.",
+    "Cover with a lid if available for steaming purposes or simply by placing aluminum foil over it until heated through. This should take around 10 minutes.",
+    "Once done, remove from heat and stir in sour cream gently before serving. Garnish with fresh parsley if desired.",
+    "Serve hot as a side dish or main course based on preference."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish-dish",
+    "crunchy-stir-fry",
+    "sour-creamy",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 390,
+    "protein": 35,
+    "carbs": 26,
+    "fat": 18
+  },
+  "slug": "tender-crunchy-spanish-hazelnut-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crunchy-spanish-hazelnut-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:15:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Hazelnuts",
+    "descriptor": "Tender Crunchy",
+    "dishForm": "Stir-fry"
+  }
+}
