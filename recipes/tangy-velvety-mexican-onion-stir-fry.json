@@ -1,0 +1,102 @@
+{
+  "title": "Tangy Velvety Mexican Onion Stir-fry",
+  "description": "A festive mexican dish featuring onion rings in a tangy sauce made with low-fat-friendly ingredients for a velvety texture and low-calorie meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion rings",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red bell pepper, julienned",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jalapenos, finely chopped",
+      "amount": "2 slices"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-fat mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat.",
+    "Add onion rings and sauté for about 5 minutes, or until they start to brown.",
+    "Remove from heat and set aside.",
+    "In the same skillet, add chopped jalapenos, minced garlic, and sliced red bell peppers. Cook for about 3-4 minutes until vegetables are tender.",
+    "Pour in vegetable broth, lime juice, mayonnaise, vinegar, honey, salt, and pepper. Stir to combine all ingredients into a tangy sauce.",
+    "Return the onion rings to skillet and stir-fry for another minute or two, allowing the onions to soak up the sauce until they reach your desired consistency and flavor profile.",
+    "Serve hot as an appetizer or side dish with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "velvety",
+    "mexican",
+    "onion-rings",
+    "stir-fry",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4.5,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "tangy-velvety-mexican-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-mexican-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T02:41:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "stir-fry",
+    "primaryIngredient": "onion rings",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Onion",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
