@@ -139,6 +139,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-spanish-steak-stir-fry",
+    "title": "Tangy Creamy Spanish Steak Stir-fry",
+    "tags": [
+      "spanish-stir-fry",
+      "hangover-cure",
+      "steak-in-a-tangy-sauce"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crispy-ferment-meal-prep",
     "title": "Tangy Crispy Ferment Meal-Prep",
     "tags": [

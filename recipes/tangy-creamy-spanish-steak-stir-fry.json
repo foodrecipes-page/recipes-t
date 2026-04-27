@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Creamy Spanish Steak Stir-fry",
+  "description": "A tangy and creamy blend of fillet of steak with blanched vegetables in a savory sauce, designed as an easy hangover-cure dish for breakfast.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Steak Fillet",
+      "amount": "150g",
+      "notes": "Grilled fresh"
+    },
+    {
+      "name": "Bell Peppers, Green and Red",
+      "amount": "2",
+      "notes": "Sliced thin"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "2 tbsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "1 tbsp",
+      "notes": "As a creamy base"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "To add depth of flavor"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill or a non-stick skillet over medium-high heat.",
+    "Grill the steak fillet for about 5 minutes on each side, until desired doneness is achieved. Let it rest while preparing the vegetables and sauce.",
+    "In a small bowl, mix together peanut butter, soy sauce, salt, and pepper to make the tangy creamy sauce.",
+    "Meanwhile, in another pan, sauté the sliced bell peppers and chopped onion over medium heat for about 5 minutes or until they start to soften.",
+    "Add minced garlic to the pan with vegetables; cook for an additional minute. Pour in the sauce and stir well until it thickens slightly, then add the blanched green peas (if using) and spinach (if using).",
+    "Slice the rested steak into strips and mix them evenly into the vegetable-cream sauce.",
+    "Transfer the dish onto serving plates; garnish with cilantro leaves. Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish-stir-fry",
+    "hangover-cure",
+    "steak-in-a-tangy-sauce"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 28,
+    "carbs": 34,
+    "fat": 17
+  },
+  "slug": "tangy-creamy-spanish-steak-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-spanish-steak-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T05:48:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "blanch",
+    "primaryIngredient": "fillet of steak",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "steak",
+    "descriptor": "Tangy Creamy",
+    "dishForm": "Stir-fry"
+  }
+}
