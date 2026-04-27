@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Light Syrian Monkfish Crumble",
+  "description": "A light and tangy date-night dish featuring monkfish in a paleo-friendly crumble sauce, perfect for those who prefer simple yet flavorful meals.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish fillets",
+      "amount": "200g",
+      "notes": "freshly caught or canned"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin for added flavor"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "3 tbsp",
+      "notes": "fresh squeezed, add more to taste"
+    },
+    {
+      "name": "Dried sumac",
+      "amount": "1 tsp",
+      "notes": "for a slight tangy kick"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced for a mild garlic flavor"
+    },
+    {
+      "name": "Watercress leaves (optional)",
+      "amount": "a few handfuls",
+      "notes": "fresh, to garnish the plate"
+    },
+    {
+      "name": "Herbs de Provence",
+      "amount": "1 tsp",
+      "notes": "for a touch of authenticity and flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 200°C (392°F).",
+    "Season the monkfish fillets with a pinch of salt and pepper on both sides.",
+    "Heat 1 tbsp of olive oil in a skillet over medium-high heat. Add the monkfish fillets, skin-side down, and cook for about 4-5 minutes or until golden brown. Flip and cook for another 3-4 minutes or until done to your liking (internal temperature should reach at least 63°C or 145°F). Remove from heat.",
+    "In a small bowl, mix together lemon juice, dried sumac, minced garlic, and herbs de Provence. Pour this mixture over the cooked monkfish fillets. Let it sit for about 2-3 minutes to allow flavors to meld.",
+    "Arrange watercress leaves on plates as a garnish (if using). Serve hot with the monkfish fillets on top of the crumble sauce and the watercress leaves for extra freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "light",
+    "syrian",
+    "monkfish",
+    "crumble",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 32,
+    "carbs": 14,
+    "fat": 19
+  },
+  "slug": "tangy-light-syrian-monkfish-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-syrian-monkfish-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:39:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "fold",
+    "primaryIngredient": "monkfish",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Monkfish",
+    "descriptor": "Tangy Light",
+    "dishForm": "Crumble"
+  }
+}
