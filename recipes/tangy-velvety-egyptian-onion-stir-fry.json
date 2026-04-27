@@ -1,0 +1,83 @@
+{
+  "title": "Tangy Velvety Egyptian Onion Stir-fry",
+  "description": "This tangy and velvety dish features scallions and fermented substances to provide a hangover-cure effect in a nut-free-friendly version.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Fermented black garlic paste (for flavor enhancement)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Scallions, thinly sliced",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Honey or agave syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy sauce (tamari or gluten-free soy sauce)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Stir in minced garlic, fermented black garlic paste, soy sauce, Worcestershire sauce, and lemon juice. Bring to a simmer.",
+    "Reduce heat to low and let the mixture cook for another 10-12 minutes or until it's reduced slightly and onions are soft.",
+    "Slice scallions thinly and add them to the pan. Cook for an additional 3 minutes.",
+    "Remove from heat, adjust seasoning if necessary, and serve as a snack."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-egyptian-onion-stir-fry",
+    "hangover-cure",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 9,
+    "fat": 5
+  },
+  "slug": "tangy-velvety-egyptian-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-egyptian-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T17:08:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "ferment",
+    "primaryIngredient": "scallions",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Onion",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
