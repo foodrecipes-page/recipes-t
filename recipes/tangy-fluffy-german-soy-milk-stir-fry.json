@@ -1,0 +1,106 @@
+{
+  "title": "Tangy Fluffy German Soy Milk Stir-fry",
+  "description": "A monsoon-inspired German dish featuring tofu and soy milk for a tangy-flavored, fluffy texture. Halal-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (400g)",
+      "notes": "Extra firm tofu"
+    },
+    {
+      "name": "Soy Milk",
+      "amount": "250ml",
+      "notes": "Use vegan if needed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Peppers (green or red)",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "50ml"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Chili Paste",
+      "amount": "1-2 tbsp (adjust to taste)"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend tofu, soy milk, water, turmeric powder, and chili paste in a blender until smooth.",
+    "Heat olive oil in a pan over medium heat. Add garlic, onions, carrots, and peppers.",
+    "Stir-fry for about 5 minutes until vegetables are slightly softened.",
+    "Pour the blended mixture into the pan and stir well to combine.",
+    "Simmer for another 10 minutes while stirring occasionally.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy-fluffy-german-dish",
+    "monsoon-season",
+    "soy-milk-stir-fry",
+    "halal-friendly",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "tangy-fluffy-german-soy-milk-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-german-soy-milk-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T08:04:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "soy milk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Soy Milk",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Stir-fry"
+  }
+}
