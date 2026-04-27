@@ -1,0 +1,75 @@
+{
+  "title": "Tender Salted Saudi Tomato Stir-fry",
+  "description": "This vibrant dish features tender salted vine tomatoes in a flavorful sauce, perfect for brunch or light meals.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "vine tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red chili flakes (optional)",
+      "amount": "a few pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Trim the vine tomatoes and dice them into small pieces. Slice the onion thinly.",
+    "Mince the garlic cloves finely.",
+    "Heat a tablespoon of olive oil in a wok or frying pan over medium heat. Add the sliced onions first, stir-fry for about 2 minutes until translucent.",
+    "Add minced garlic to the onions and continue stirring for another minute until fragrant but not browned.",
+    "Toss in the diced vine tomatoes along with a pinch of red chili flakes (if using). Season with salt to taste and stir gently. Continue cooking for an additional 5-7 minutes, allowing the tomatoes to release their juices and soften slightly.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tomato",
+    "stir-fry",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 97,
+    "protein": 1.6,
+    "carbs": 15,
+    "fat": 4
+  },
+  "slug": "tender-salted-saudia-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-salted-saudia-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T20:53:26Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "tomato",
+    "descriptor": "Tender Salted",
+    "dishForm": "Stir-fry"
+  }
+}

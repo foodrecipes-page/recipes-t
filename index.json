@@ -832,6 +832,18 @@
     "shard": "t"
   },
   {
+    "slug": "tender-salted-saudia-tomato-stir-fry",
+    "title": "Tender Salted Saudi Tomato Stir-fry",
+    "tags": [
+      "tomato",
+      "stir-fry",
+      "saudi-arabian"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoke-greek-citrus-stir-fry",
     "title": "Tender Smoke Greek Citrus Stir-fry",
     "tags": [
