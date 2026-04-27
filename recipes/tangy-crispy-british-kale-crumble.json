@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Crispy British Kale Crumble",
+  "description": "A tangy and flaky gluten-free-friendly dish featuring Chinese kale leaf that's perfect as a hangover cure, baked to perfection.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chinese Kale",
+      "amount": "2 cups",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Gluten-Free All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "3 tablespoons",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Caster Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "1/2 cup",
+      "notes": "Fine ground, gluten-free if needed"
+    },
+    {
+      "name": "Pinch of Salt",
+      "notes": "Regular table salt"
+    },
+    {
+      "name": "Fresh Lemon Juice",
+      "amount": "3 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Freshly Grated Parmesan Cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the chopped Chinese kale with the ground almonds and salt.",
+    "Add grated Parmesan cheese, coconut oil, caster sugar, and lemon juice. Mix well until all ingredients are evenly distributed.",
+    "Spread the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for about 15-20 minutes or until golden brown and crispy. Keep an eye on it to avoid burning.",
+    "Let it cool slightly before serving as a gluten-free snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "tangy",
+    "british",
+    "hangover_cure"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "tangy-crispy-british-kale-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-british-kale-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T06:43:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "chinese leaf",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Kale",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Crumble"
+  }
+}
