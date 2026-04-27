@@ -207,6 +207,17 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crumbly-butter-crumble",
+    "title": "Tangy Crumbly Butter Crumble",
+    "tags": [
+      "tangy-butter-crumbly-ukrainian-dish",
+      "kosher-friendly"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-indian-skirt-steak-crumble",
     "title": "Tangy Crumbly Indian Skirt Steak Cumble",
     "tags": [
