@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Light Algerian Rhubarb Stir-fry",
+  "description": "A diabetic-friendly solo dinner dish featuring tangy and light flavors of rhubarb cooked in a pressure cooker for quick and easy preparation.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Wash and thinly slice the rhubarb.",
+    "Chop the garlic into small pieces.",
+    "Heat a tablespoon of olive oil in a pressure cooker over medium heat.",
+    "Add the sliced rhubarb and sauté for about 3 minutes, stirring occasionally.",
+    "Add chopped garlic and red pepper flakes to the pan. Stir well for another minute.",
+    "Pour in the lemon juice and stir until fully incorporated.",
+    "Stir in the sugar and salt; taste and adjust seasoning if necessary.",
+    "Cook under high pressure for 15 minutes on a medium-high heat setting, then quick-release the pressure.",
+    "Serve hot with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-algerian-rhubarb-stir-fry",
+    "diabetic-friendly-dinner",
+    "quick-pressure-cook"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "tangy-light-algerian-rhubarb-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-algerian-rhubarb-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T11:07:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rhubarb",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Tangy Light",
+    "dishForm": "Stir-fry"
+  }
+}
