@@ -1,0 +1,92 @@
+{
+  "title": "Tender Garlic Indian Crumble",
+  "description": "A tender garlic Indian crumble dish featuring peppers and baked to perfection in one pot, suitable for raw-friendly eating.",
+  "cuisine": "Indian (Bengali)",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp ghee or vegan butter",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": "large"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 bell pepper, any color, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp ground coriander",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp turmeric powder",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": null
+    },
+    {
+      "name": "Fresh cilantro, chopped for garnish (optional)",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat ghee or vegan butter in a large skillet over medium heat.",
+    "Add onions and cook until softened and translucent, about 5 minutes.",
+    "Stir in minced garlic and cook for another minute, stirring frequently to prevent burning.",
+    "Add bell pepper, cumin, coriander, turmeric powder, and salt. Mix well.",
+    "Cook for an additional 2-3 minutes or until peppers are tender but slightly crisp.",
+    "Transfer the mixture into a baking dish.",
+    "Bake in a preheated oven at 400°F (205°C) for about 15-20 minutes, stirring halfway through cooking.",
+    "Serve warm with naan bread or other accompaniments."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "tender",
+    "indian",
+    "bengali",
+    "one-pot",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 14
+  },
+  "slug": "tender-garlic-indian-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-garlic-indian-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T21:41:01Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "peppers",
+    "diet": "raw",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Tender",
+    "dishForm": "Stir-fry"
+  }
+}
