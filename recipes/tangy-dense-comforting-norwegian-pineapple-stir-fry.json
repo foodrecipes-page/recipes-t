@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Dense Comforting Norwegian Pineapple Stir-fry",
+  "description": "This tangy and dense comfort dish features sweet pineapple chunks in a savory sauce, perfect for a paleo-friendly snack or side dish.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup (chopped)"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, fresh"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat. Add minced ginger and onion, sauté until translucent.",
+    "Add pineapple chunks to the skillet, toss with coconut aminos and lime juice.",
+    "Slice zucchini into thin rounds and add them to the skillet, season with salt and cook for 5 minutes on each side.",
+    "Garnish with sesame seeds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "stir-fry",
+    "norwegian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 291,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 7
+  },
+  "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-comforting-norwegian-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T10:22:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "saute",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pineapple",
+    "descriptor": "tangy dense comforting",
+    "dishForm": "Stir-fry"
+  }
+}
