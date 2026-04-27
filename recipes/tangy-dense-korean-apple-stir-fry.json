@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Dense Korean Apple Stir-fry",
+  "description": "This tangy and dense apple stir-fry is low-calorie-friendly and can help cure hangovers. Made with Braeburn apples, this dish features a unique blend of savory and sweet flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-calorie",
+    "hangover-cure"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gochujang (Korean red pepper paste)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 pieces",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lightly packed brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Wash and chop the Braeburn apples into small pieces.",
+    "In a mixing bowl, combine low-sodium soy sauce, gochujang, apple cider vinegar, brown sugar, and olive oil. Mix well until sugar dissolves.",
+    "Add the chopped apple pieces to the dressing and stir-fry over medium heat for about 5 minutes or until most of the liquid is absorbed.",
+    "Garnish with green onions before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "dense",
+    "korean",
+    "apple",
+    "hangover-cure",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 2
+  },
+  "slug": "tangy-dense-korean-apple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-korean-apple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:32:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "steam",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Apples",
+    "descriptor": "Tangy Dense",
+    "dishForm": "Stir-fry"
+  }
+}
