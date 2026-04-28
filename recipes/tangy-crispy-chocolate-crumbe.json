@@ -1,0 +1,85 @@
+{
+  "title": "Tangy Crispy Chocolate Crumbe",
+  "description": "A tangy and crispy chocolate crumble recipe that combines simple ingredients for a romantic and keto-friendly dessert.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "30g coconut sugar",
+      "amount": "grams"
+    },
+    {
+      "name": "125ml heavy cream",
+      "amount": "milliliters"
+    },
+    {
+      "name": "80g unsalted butter",
+      "amount": "grams"
+    },
+    {
+      "name": "70g dark chocolate (at least 70% cocoa)",
+      "amount": "grams"
+    },
+    {
+      "name": "125g almond flour",
+      "amount": "grams"
+    },
+    {
+      "name": "1/4 tsp sea salt",
+      "amount": "teaspoons"
+    },
+    {
+      "name": "Handful of fresh mint leaves",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 175°C (350°F).",
+    "Grease a baking dish with coconut oil or line it with parchment paper.",
+    "In a medium bowl, combine coconut sugar, heavy cream, and unsalted butter. Stir until the mixture is smooth and well combined.",
+    "Add in dark chocolate and stir until melted and fully incorporated into the mixture. The mixture will be thick and syrupy in texture.",
+    "Stir in almond flour and sea salt until a crumbly consistency is achieved.",
+    "Transfer the mixture to the greased baking dish or onto a silicone sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown and crisp on top. Remove from oven and let cool before garnishing with fresh mint leaves if desired.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crispy",
+    "chocolate",
+    "crumbe",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 10,
+    "carbs": 16,
+    "fat": 24
+  },
+  "slug": "tangy-crispy-chocolate-crumbe",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-chocolate-crumbe",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:30:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "plain chocolate",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Crumble"
+  }
+}
