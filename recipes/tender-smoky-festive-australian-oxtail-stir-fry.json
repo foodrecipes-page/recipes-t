@@ -1,0 +1,96 @@
+{
+  "title": "Tender Smoky Festive Australian Oxtail Stir-fry",
+  "description": "This gluten-free-friendly dish features tender oxtail cooked in a smoky and festive marinade to create a flavorful stir-fry that's perfect for dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oxtail",
+      "amount": "250g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6"
+    },
+    {
+      "name": "Green onions (scallions)",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Marinate the oxtail in a mixture of soy sauce, brown sugar, fish sauce, lemon juice, and pepper for at least an hour.",
+    "Heat olive oil in a large skillet over medium-high heat. Sauté garlic and green onions until fragrant.",
+    "Add marinated oxtail to the pan, reducing to low-medium heat. Cook until the oxtail is tender and nicely caramelized on all sides.",
+    "Stir in vegetable stock and simmer for an additional 10 minutes to thicken the sauce.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "tender",
+    "festival",
+    "australian",
+    "oxtail",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 675,
+    "protein": 40,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "tender-smoky-festive-australian-oxtail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-festive-australian-oxtail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:53:39Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "oxtail",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "oxtail",
+    "descriptor": "smoky tender festive",
+    "dishForm": "Stir-fry"
+  }
+}

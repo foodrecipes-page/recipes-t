@@ -914,6 +914,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-festive-australian-oxtail-stir-fry",
+    "title": "Tender Smoky Festive Australian Oxtail Stir-fry",
+    "tags": [
+      "smoky",
+      "tender",
+      "festival",
+      "australian",
+      "oxtail",
+      "stir-fry",
+      "gluten-free"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-serrano-ham-stir-fry",
     "title": "Tender Smoky Serrano Ham Stir-fry",
     "tags": [
