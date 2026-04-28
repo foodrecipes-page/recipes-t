@@ -1,0 +1,80 @@
+{
+  "title": "Tender Spanish Garlic Stir-fry",
+  "description": "A garlicky, tender vegetarian-friendly Spanish dish featuring turmeric to add a vibrant color and flavor profile that will appeal to the whole family.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 large, diced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon (optional)"
+    },
+    {
+      "name": "Vegetable Oil or Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chili Peppers, optional",
+      "amount": "A few, finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add garlic and onions until translucent, about 3 minutes.",
+    "Stir in bell peppers and red pepper flakes (if using).",
+    "Sprinkle turmeric powder over the vegetables and mix well to coat evenly.",
+    "If you prefer a bit of spice, add finely chopped chili peppers and continue stirring for another minute.",
+    "Serve hot with crusty bread or as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "garlic-stir-fry",
+    "vegetarian-friendly",
+    "turmeric"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 3,
+    "fat": 6
+  },
+  "slug": "tender-spanish-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spanish-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T10:21:40Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "turmeric",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Garlic",
+    "descriptor": "Tender",
+    "dishForm": "Stir-fry"
+  }
+}

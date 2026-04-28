@@ -1061,6 +1061,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spanish-garlic-stir-fry",
+    "title": "Tender Spanish Garlic Stir-fry",
+    "tags": [
+      "spanish",
+      "garlic-stir-fry",
+      "vegetarian-friendly",
+      "turmeric"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spiced-british-ginger-stir-fry",
     "title": "Tender Spiced British Ginger Stir-fry",
     "tags": [
