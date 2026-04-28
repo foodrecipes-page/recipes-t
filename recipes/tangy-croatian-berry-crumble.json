@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Croatian Berry Crumble",
+  "description": "A quick-fix croatian dish featuring tangy reduced mixed berries topped with a crumbly, halal-friendly topping.",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup frozen mixed berries",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup reduced cherry juice concentrate",
+      "amount": "cup"
+    },
+    {
+      "name": "3 tbsp honey or maple syrup",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/2 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/2 tsp ground ginger",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup packed light brown sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "6 tbsp unsalted butter, melted",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, combine berries, reduced cherry juice concentrate, honey or maple syrup, cinnamon, and ginger. Mix well.",
+    "Fold in flour and brown sugar. Stir until the mixture is moist but not soupy.",
+    "Spread berry mixture evenly into an 8x8 inch baking dish. Dot with melted butter.",
+    "In another bowl, mix together all-purpose flour and brown sugar. Add melted butter and stir until crumbly.",
+    "Sprinkle crumble topping over the berries in the pan.",
+    "Bake for 25-30 minutes or until topping is golden brown and juices are bubbling up from bottom of dish.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-croatian-berry-crumble",
+    "quick-fix-dish",
+    "halal-friendly",
+    "dessert-recipe"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 1.9,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "tangy-croatian-berry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-croatian-berry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:41:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "reduce",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Berries",
+    "descriptor": "Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
