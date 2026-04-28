@@ -1,0 +1,76 @@
+{
+  "title": "Tangy Crumbly Zanzibari Arabic Rice Crock",
+  "description": "A kid-friendly, tangy croatian dish featuring vegetarian-friendly Arabic rice blended with a mix of spices and served as a crumble on the side.",
+  "cuisine": "Croatian / Middle Eastern fusion",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup uncooked Arabic rice"
+    },
+    {
+      "name": "2 tablespoons olive oil"
+    },
+    {
+      "name": "Juice of 1 lemon"
+    },
+    {
+      "name": "1 teaspoon ground cumin"
+    },
+    {
+      "name": "Pinch of salt"
+    },
+    {
+      "name": "Grated zest of 1 lemon (optional)"
+    },
+    {
+      "name": "1 cup fresh herbs (e.g., parsley, cilantro) finely chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add rice and cook until lightly toasted, about 5 minutes.",
+    "Stir in lemon juice, cumin, salt, and zest (if using).",
+    "Add herbs to the pot, stir well, and let simmer for an additional 5-7 minutes or until rice is cooked through.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crumbly",
+    "kid-friendly",
+    "arabic-rice",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "tangy-crumbly-zanzibari-arabic-rice-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-zanzibari-arabic-rice-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:28:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "arabic rice",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Arabic Rice",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
