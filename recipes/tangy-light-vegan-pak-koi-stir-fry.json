@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Light Vegan Pak Koi Stir-fry",
+  "description": "An adventurous Italian-inspired dish featuring baby pak kai in a tangy sauce with light spices and aromatics for a vegan-friendly meal.",
+  "cuisine": "Italian fusion",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby Pak Koi",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Celery Sticks",
+      "amount": "5 pieces"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tangy Sauce (Vegan)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Thyme Leaves",
+      "amount": "A few"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or frying pan over medium-high heat.",
+    "Add garlic and red onion, sauté for about 2 minutes until softened.",
+    "Include celery sticks and cook for another minute. Add baby pak kai and stir-fry together for 1-2 more minutes.",
+    "Drizzle tangy sauce evenly over the vegetables in the wok, ensuring all ingredients are well-coated.",
+    "Sprinkle sesame seeds on top of the dish and finish with a few thyme leaves for garnish.",
+    "Taste and adjust salt level if necessary. Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "pak kai",
+    "vegan",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "tangy-light-vegan-pak-koi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-vegan-pak-koi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:28:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "baby pak koi",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pak koi",
+    "descriptor": "Tangy Light Vegan",
+    "dishForm": "Stir-fry"
+  }
+}
