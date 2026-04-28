@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Chewy Midnight Olive Fry Crumble",
+  "description": "A savory and chewy Peruvian dish featuring black olives in a tangy sauce to satisfy midnight cravings without eggs.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "ovo-lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup black olives",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup diced onion",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped garlic",
+      "amount": "cup"
+    },
+    {
+      "name": "1 medium tomato, finely chopped",
+      "amount": "tomato"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "tsp"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "to taste"
+    },
+    {
+      "name": "2-3 dried black peppercorns",
+      "amount": "peppercorn(s)"
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "cup"
+    },
+    {
+      "name": "Vegetable broth (optional)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Place the chopped onions and garlic in a pan, sauté until translucent.",
+    "Add the finely chopped tomato, salt, cumin, and black peppercorns. Stir well.",
+    "Pour in lemon juice and allow to simmer for about 5 minutes.",
+    "While sauce is simmering, place black olives on a plate lined with parchment paper or silicone mat.",
+    "Drizzle olive oil over the olives evenly and bake at 200°C for approximately 10-15 minutes until crispy.",
+    "Once done, sprinkle chopped tomatoes and onions on top of each crumble to enhance flavors."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "tangy",
+    "chewy",
+    "midnight-olive-craving"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3.5,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "tangy-chewy-midnight-olive-fry-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-midnight-olive-fry-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:50:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "black olives",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Alfafa Sprouts",
+    "descriptor": "Tangy Chewy Midnight Olive Fry",
+    "dishForm": "Crumble"
+  }
+}
