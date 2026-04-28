@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Kenyan Almond Stir-fry",
+  "description": "This dense, tangy dish features almond essence and dates marinated for a date-night favorite, made with almonds and other non-dairy ingredients to accommodate FODMAP-friendly diets.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup almond slices",
+      "amount": "cup"
+    },
+    {
+      "name": "1/2 cup diced almonds",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup chopped dates",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp lemon juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tsp honey",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 small onion, diced",
+      "amount": "onion"
+    },
+    {
+      "name": "1 bell pepper, diced (any color)",
+      "amount": "piece"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "Mix almond slices and chopped dates with lemon juice and honey. Place in a baking dish and bake for 20 minutes until golden brown.",
+    "Meanwhile, heat oil in a pan over medium-high heat. Add minced garlic and diced onion; sauté until softened, about 2 minutes.",
+    "Add bell pepper to the pan and cook for another minute. Stir in almond mixture from the baking dish and continue cooking for 5 more minutes or until heated through.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "dense",
+    "date-night",
+    "kenyan",
+    "almond-stir-fry",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "tangy-kenyan-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-kenyan-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:03:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "marinate",
+    "primaryIngredient": "almond essence",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyani",
+    "mainIngredient": "Almonds",
+    "descriptor": "Tangy",
+    "dishForm": "Stir-fry"
+  }
+}

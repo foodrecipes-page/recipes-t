@@ -662,6 +662,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-kenyan-almond-stir-fry",
+    "title": "Tangy Kenyan Almond Stir-fry",
+    "tags": [
+      "tangy",
+      "dense",
+      "date-night",
+      "kenyan",
+      "almond-stir-fry",
+      "vegan-friendly"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
     "title": "Tangy Light Algerian Rhubarb Stir-fry",
     "tags": [
