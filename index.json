@@ -234,6 +234,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crispy-greek-cauliflower-stir-fry",
+    "title": "Tangy Crispy Greek Cauliflower Stir-fry",
+    "tags": [
+      "tangy",
+      "crispy",
+      "greek",
+      "midnight-craving"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 23,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble",
     "title": "Tangy Crispy Portuguese Sweet Potatoes Crumble",
     "tags": [

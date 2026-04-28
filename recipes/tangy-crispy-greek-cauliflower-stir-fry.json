@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Crispy Greek Cauliflower Stir-fry",
+  "description": "A tangy, crispy vegan Greek dish featuring cauliflower, baking powder, and other essential ingredients for a midnight craving.",
+  "cuisine": "Greek",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cauliflower florets",
+      "amount": "",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "2 tablespoons lemon juice or vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon baking soda",
+      "amount": "",
+      "notes": "For crispiness and tanginess"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Combine cauliflower, lemon juice/vinegar, baking soda, garlic, olive oil, salt, and pepper in a large bowl.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes or until golden brown and crispy. Stir occasionally to ensure even cooking.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 18,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crispy",
+    "greek",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 13,
+    "fat": 8
+  },
+  "slug": "tangy-crispy-greek-cauliflower-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-greek-cauliflower-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:38:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "boil",
+    "primaryIngredient": "baking powder",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
