@@ -1,0 +1,80 @@
+{
+  "title": "Earthy Zucchini Fry",
+  "description": "This vegan-friendly brunch dish features tender fried zucchini, perfect for a light and healthy meal.",
+  "cuisine": "American",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "2 medium"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "t酥 fry seasoning blend",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Slice zucchini into thin rounds.",
+    "Mix flaxseed meal, cornstarch, and seasoning in a bowl. Add salt and pepper to taste.",
+    "Dip each zucchini slice into the seasoning mixture until fully coated.",
+    "Heat olive oil in a frying pan over medium-high heat. Fry zucchini slices for about 2-3 minutes on each side or until golden brown.",
+    "Remove from pan and serve hot as is, or with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan-friendly",
+    "earthy",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "tender-fried-american-zucchini-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-fried-american-zucchini-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T15:35:02Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "fry",
+    "primaryIngredient": "zucchini",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "zucchini",
+    "descriptor": "tender fried",
+    "dishForm": "fry"
+  }
+}
