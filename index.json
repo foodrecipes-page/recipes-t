@@ -341,6 +341,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-ferment-crumble",
+    "title": "Tangy Crunchy Ferment Crumble",
+    "tags": [
+      "slovakian-dish",
+      "tangy-crunchy-ferment-crumble",
+      "gluten-free-friendly"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crunchy-hail-stir-fry",
     "title": "Tangy Crunchy Hail Stir-fry",
     "tags": [

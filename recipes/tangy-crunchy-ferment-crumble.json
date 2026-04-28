@@ -1,0 +1,80 @@
+{
+  "title": "Tangy Crunchy Ferment Crumble",
+  "description": "An adventurous Slovakian dish featuring a tangy and crunchy ferment crumble made with vegetable oil, gluten-free-friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegan fermented tofu",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "heated to medium-high"
+    },
+    {
+      "name": "sour cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Combine fermented tofu, vegetable oil, sour cream, lime juice, and salt in a bowl.",
+    "Add flax seeds and chia seeds to the mixture.",
+    "Mix well until all ingredients are evenly distributed.",
+    "Transfer the crumble to a baking dish and bake at 350°F (175°C) for about 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-dish",
+    "tangy-crunchy-ferment-crumble",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 21,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "tangy-crunchy-ferment-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-ferment-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:34:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "ferment",
+    "primaryIngredient": "vegetable oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ferment",
+    "descriptor": "tangy crunchy gluten-free",
+    "dishForm": "Crumble"
+  }
+}
