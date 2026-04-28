@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Light Fish Stir-fry",
+  "description": "A delicious and crowd-pleasing American dish featuring sake for a light and tangy flavor profile. Whole30-friendly with a touch of sake to enhance the dish without compromising dietary restrictions.",
+  "cuisine": "American",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mirin (sweet rice wine)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-6 cloves, minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch, sliced"
+    },
+    {
+      "name": "Kumquats (optional)",
+      "amount": "5 pieces, halved"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Season fish with salt and pepper on both sides. Place in a baking dish and bake for about 12-15 minutes until cooked through.",
+    "Meanwhile, heat oil in a wok or large skillet over medium-high heat. Add minced garlic and red pepper flakes; stir-fry for about 30 seconds until fragrant.",
+    "Add soy sauce and mirin to the wok; stir well to combine with garlic mixture. Bring to a simmer then add kumquats (if using).",
+    "Remove fish from oven and set aside. If desired, drizzle some of the sauce over the cooked fish for extra flavor. Add green onions on top.",
+    "Serve hot as a main course or side dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "light",
+    "fish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 27,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "tangy-light-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:44:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "cure",
+    "primaryIngredient": "sake",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "fish",
+    "descriptor": "Tangy Light Whole30-friendly",
+    "dishForm": "Stir-fry"
+  }
+}

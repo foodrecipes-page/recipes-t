@@ -780,6 +780,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-fish-stir-fry",
+    "title": "Tangy Light Fish Stir-fry",
+    "tags": [
+      "tangy",
+      "light",
+      "fish",
+      "stir-fry"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-italian-egg-stir-fry",
     "title": "Tangy Light Italian Egg Stir-fry",
     "tags": [
