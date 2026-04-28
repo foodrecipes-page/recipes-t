@@ -848,6 +848,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-earthy-syrian-falafel-stir-fry",
+    "title": "Earthy Syrian Falafel Stir-fry",
+    "tags": [
+      "falafel",
+      "stir-fry",
+      "earthly",
+      "kid-friendly",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-festive-sweet-potato-stir-fry",
     "title": "Tender Festive Sweet Potato Stir-fry",
     "tags": [

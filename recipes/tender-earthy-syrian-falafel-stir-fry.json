@@ -1,0 +1,73 @@
+{
+  "title": "Earthy Syrian Falafel Stir-fry",
+  "description": "This kid-friendly Syrian dish combines tender falafel with earthy vegetables in a savory stir-fry, perfect for lunch or dinner.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup chickpeas",
+      "amount": "crushed"
+    },
+    {
+      "name": "2 tablespoons fresh parsley",
+      "amount": "chopped"
+    },
+    {
+      "name": "1 small onion",
+      "amount": "diced"
+    },
+    {
+      "name": "1 small bell pepper",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "8 falafel balls (store-bought or homemade)",
+      "amount": "each"
+    }
+  ],
+  "instructions": [
+    "Warm the falafel in a pan until they crisp up slightly.",
+    "In a separate pan, sauté the diced onion with some oil until translucent.",
+    "Add the chopped parsley to the onion for color and flavor.",
+    "Toss in the sliced bell pepper and stir-fry briefly to soften it.",
+    "Combine all vegetables and falafel together in a bowl. Toss gently to coat evenly.",
+    "Serve hot as a main course or side dish with pita bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "falafel",
+    "stir-fry",
+    "earthly",
+    "kid-friendly",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 295,
+    "protein": 8,
+    "carbs": 37,
+    "fat": 10
+  },
+  "slug": "tender-earthy-syrian-falafel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-earthy-syrian-falafel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T04:34:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "falafel",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "falafel",
+    "descriptor": "Earthy Tender Kid-Friendly",
+    "dishForm": "Stir-fry"
+  }
+}
