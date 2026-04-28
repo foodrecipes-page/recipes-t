@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Crunchy Hail Stir-fry",
+  "description": "A tangy and indulgent Korean dish featuring hails (a type of seaweed) that are blanched before being stir-fried with other crunchy vegetables for a delightful, kosher-friendly meal.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 hails",
+      "amount": "each"
+    },
+    {
+      "name": "3 bell peppers, sliced",
+      "amount": "medium"
+    },
+    {
+      "name": "2 scallions, thinly sliced",
+      "amount": "1 per person"
+    },
+    {
+      "name": "1 red pepper, julienned",
+      "amount": "about 1/4 cup"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "generous"
+    },
+    {
+      "name": "1 tablespoon rice vinegar",
+      "amount": "1-2 tbsp"
+    },
+    {
+      "name": "1 teaspoon sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pinch of red pepper flakes (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Wash and slice the hails. Blanch them in boiling water for about 3 minutes, then drain.",
+    "In a small bowl, mix soy sauce, rice vinegar, and sugar until the sugar is dissolved.",
+    "Heat a wok or large skillet over medium-high heat. Add oil, then add the blanched hails and bell peppers. Stir-fry for 2-3 minutes.",
+    "Add scallions and red pepper, stir-frying for another minute until vegetables are just tender.",
+    "Pour the soy sauce mixture into the wok or skillet, stirring to coat everything evenly. Add red pepper flakes if using, then toss everything together briefly.",
+    "Serve hot as a side dish with rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crunchy",
+    "indulgent",
+    "korean",
+    "seaweed"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "tangy-crunchy-hail-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-hail-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:58:00Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "hail",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Hail",
+    "descriptor": "Tangy Crunchy Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}

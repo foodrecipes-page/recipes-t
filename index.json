@@ -329,6 +329,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-hail-stir-fry",
+    "title": "Tangy Crunchy Hail Stir-fry",
+    "tags": [
+      "tangy",
+      "crunchy",
+      "indulgent",
+      "korean",
+      "seaweed"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crunchy-japanese-date-pilaf",
     "title": "Tangy Crunchy Japanese Date Pilaf",
     "tags": [
