@@ -1,0 +1,80 @@
+{
+  "title": "Tender Earthy Avocado Mousse with Fermented Ingredients",
+  "description": "A quick-fix Brazilian dish featuring a tender and earthy avocado mousse served in meringue nests, infused with fermented flavors for a unique twist on keto-friendly desserts.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cacao nibs",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fermented coconut water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "agave nectar or honey (optional)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Blend avocado, coconut milk, coconut cream, cacao nibs, fermented coconut water, and agave nectar/honey until smooth.",
+    "Fold in vanilla extract gently to enhance the flavor without over-mixing.",
+    "Place meringue nests (if using) into a small baking dish or molds. Freeze until set, about 30 minutes.",
+    "Once nests are frozen, pour mixture evenly over them and freeze for an additional 2 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "cacao",
+    "coconut",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "tender-earthy-avocado-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-earthy-avocado-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T02:55:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "ferment",
+    "primaryIngredient": "meringue nests",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "earthly",
+    "mainIngredient": "avocado",
+    "descriptor": "tender",
+    "dishForm": "mousse"
+  }
+}
