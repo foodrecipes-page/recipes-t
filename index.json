@@ -834,6 +834,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-festive-sweet-potato-stir-fry",
+    "title": "Tender Festive Sweet Potato Stir-fry",
+    "tags": [
+      "festive",
+      "peruvian",
+      "sweetpotato",
+      "stirfry"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-garlic-indian-crumble",
     "title": "Tender Garlic Indian Crumble",
     "tags": [

@@ -1,0 +1,80 @@
+{
+  "title": "Tender Festive Sweet Potato Stir-fry",
+  "description": "An earthy and festive Peruvian dish featuring sweet potatoes cooked with chili powder for a whole30-friendly meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "preferably organic and peeled"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4, minced",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "a few drops",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut sweet potatoes into thin slices and bell pepper into strips.",
+    "Toss the sweet potato slices with chili powder, a pinch of salt, and some oil. Spread evenly on a baking sheet lined with parchment paper.",
+    "Roast in the oven for 18-20 minutes until golden brown and tender.",
+    "In a separate pan over medium heat, add a few drops of vegetable oil if needed, then sauté minced garlic till fragrant.",
+    "Add roasted sweet potatoes to the pan. Cook for an additional 3-5 minutes mixing in between to combine flavors.",
+    "Remove from heat and serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "peruvian",
+    "sweetpotato",
+    "stirfry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 8
+  },
+  "slug": "tender-festive-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-festive-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:07:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "chilli powder",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "earthly tender festive",
+    "dishForm": "Stir-fry"
+  }
+}
