@@ -1,0 +1,82 @@
+{
+  "title": "Tangy Crispy Uruguayan Dates Crumble",
+  "description": "A comforting Uruguayan dish featuring stoned dates mixed with tangy flavors and topped with a crispy crumble for an irresistible snack or dessert.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Stoned Dates",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsweetened Condensed Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Flaxseed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Grated Lime Zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a large bowl, mix the dates with condensed milk and ground flaxseed. Stir in olive oil, vanilla extract, cinnamon powder, and grated lime zest.",
+    "Transfer half of the mixture onto an ungreased baking sheet lined with parchment paper. Spread it out into a thin layer to form a base for the crumble.",
+    "For the topping: In another bowl, combine almond flour with remaining 1/4 cup of condensed milk. Stir until smooth and pour over the date mixture on the pan.",
+    "Bake for 20-25 minutes or until golden brown and crispy. Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan-dates",
+    "crispy-crumb",
+    "tangy-date"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 16,
+    "fat": 4
+  },
+  "slug": "tangy-crispy-uruguayan-dates-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-uruguayan-dates-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:59:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "fold",
+    "primaryIngredient": "stoned dates",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "dates",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Crumble"
+  }
+}
