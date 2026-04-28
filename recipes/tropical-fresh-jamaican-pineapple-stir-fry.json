@@ -1,0 +1,73 @@
+{
+  "title": "Tropical Fresh Jamaican Pineapple Stir-fry",
+  "description": "A fresh and tender jamaican dish featuring fresh pineapple in a ground nut oil base, perfect for a romantic dinner or light meal.",
+  "cuisine": "jamaican",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ground nut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat ground nut oil in a skillet over medium heat.",
+    "Add ginger and sauté for about 30 seconds or until fragrant.",
+    "Cut pineapple into small pieces, leaving the skin on for texture.",
+    "Add pineapple to the skillet with the ginger and continue cooking for 5 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot as a side dish or main meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "pineapple",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 108,
+    "protein": 3.6,
+    "carbs": 22.9,
+    "fat": 7.4
+  },
+  "slug": "tropical-fresh-jamaican-pineapple-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-fresh-jamaican-pineapple-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:51:20Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "ground nut oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Tropical Fresh",
+    "dishForm": "Stir-fry"
+  }
+}

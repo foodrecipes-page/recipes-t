@@ -1470,6 +1470,18 @@
     "shard": "t"
   },
   {
+    "slug": "tropical-fresh-jamaican-pineapple-stir-fry",
+    "title": "Tropical Fresh Jamaican Pineapple Stir-fry",
+    "tags": [
+      "jamaican",
+      "pineapple",
+      "paleo-friendly"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "trout-toastie",
     "title": "Trout Toastie",
     "tags": [
