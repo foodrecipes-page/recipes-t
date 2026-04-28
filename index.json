@@ -569,6 +569,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-vietnamese-crust",
+    "title": "Tangy Gooey Vietnamese Crust",
+    "tags": [
+      "tangy",
+      "gooey",
+      "vegan",
+      "vietnamese",
+      "crust",
+      "curry",
+      "brunch"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-bhuna-beetroot-stir-fry",
     "title": "Tangy Juicy Bhuna Beetroot Stir-fry",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Gooey Vietnamese Crust",
+  "description": "A vegan-friendly brunch dish featuring gooey crust with a tangy currant sauce, perfect for savory or sweet cravings.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups almond flour",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup coconut oil",
+      "amount": "",
+      "notes": "melted"
+    },
+    {
+      "name": "3 tablespoons apple cider vinegar",
+      "amount": "",
+      "notes": "or white wine vinegar for a slight difference in flavor"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1 cup currants (raisins)",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup maple syrup or agave nectar",
+      "amount": "",
+      "notes": "adjust for sweetness preference"
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "amount": ""
+    },
+    {
+      "name": "Juice from 1 lime",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine almond flour, melted coconut oil, apple cider vinegar, salt, and currants. Mix well until no lumps remain.",
+    "Transfer mixture to an ungreased baking dish. Bake for 40-45 minutes or until the crust is golden brown and gooey in the center.",
+    "Meanwhile, in a small saucepan, mix maple syrup with juice from one lime. Stir in red pepper flakes. Heat over medium heat until it starts to bubble but do not let it boil.",
+    "Once the crust is done, pour the hot currant mixture into a blender and process until smooth. Pour this mixture back onto the warm crust, spreading evenly.",
+    "Let it cool for 10-15 minutes before serving. The tangy sauce should be drizzled over the top to serve as an additional layer of flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "gooey",
+    "vegan",
+    "vietnamese",
+    "crust",
+    "curry",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "tangy-gooey-vietnamese-crust",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-vietnamese-crust",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:57:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "slow-cook",
+    "primaryIngredient": "currants",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "currants",
+    "descriptor": "tangy gooey",
+    "dishForm": "Stir-fry"
+  }
+}
