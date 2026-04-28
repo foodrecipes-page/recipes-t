@@ -820,6 +820,17 @@
     "shard": "t"
   },
   {
+    "slug": "tempered-canadian-stilton-cheese-salad",
+    "title": "Tempered Canadian Stilton Cheese Salad",
+    "tags": [
+      "canadian-stilton-cheese-salad",
+      "diabetic-friendly-appetizer"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 5,
+    "shard": "t"
+  },
+  {
     "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
     "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
     "tags": [

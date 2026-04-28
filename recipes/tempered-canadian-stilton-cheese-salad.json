@@ -1,0 +1,71 @@
+{
+  "title": "Tempered Canadian Stilton Cheese Salad",
+  "description": "A fresh, tender, and light Canadian dish featuring Stilton cheese that is gently tempered for a diabetic-friendly treat.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Stilton Cheese",
+      "amount": "1 oz"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "few drops"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Mince the Stilton cheese into small cubes.",
+    "Chop the mixed greens and parsley finely.",
+    "Mix the Stilton cubes with the chopped greens and herbs.",
+    "Drizzle olive oil over the mixture, followed by a few drops of white wine vinegar to temper the cheese gently.",
+    "Toss well to combine all ingredients evenly."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-stilton-cheese-salad",
+    "diabetic-friendly-appetizer"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 10,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "tempered-canadian-stilton-cheese-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tempered-canadian-stilton-cheese-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T08:01:53Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "temper",
+    "primaryIngredient": "stilton cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Stilton Cheese",
+    "descriptor": "Tempered",
+    "dishForm": "Salad"
+  }
+}
