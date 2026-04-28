@@ -113,6 +113,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-ginger-festive-stir-fry",
+    "title": "Tangy Chewy Ginger Festive Stir-fry",
+    "tags": [
+      "tangy",
+      "chewy",
+      "festive",
+      "ginger",
+      "stir-fry",
+      "slovakian",
+      "pescatarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-spanish-garlic-stir-fry",
     "title": "Tangy Chewy Spanish Garlic Stir-fry",
     "tags": [

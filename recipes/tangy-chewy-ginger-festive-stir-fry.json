@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Chewy Ginger Festive Stir-fry",
+  "description": "A savory and festive dish featuring chewy ginger mixed with tangy flavors for a pescatarian-friendly snack or light meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "Pepperoni (optional)",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium, diced"
+    },
+    {
+      "name": "Broccoli florets",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "White Wine or Beer (optional)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Honey or Molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add scallions and ginger, sauté for about 3 minutes until softened.",
+    "Stir in garlic, honey/molasses, soy sauce, white wine/beer (if using), lemon juice. Simmer for another minute to reduce the mixture.",
+    "Add diced carrots and broccoli florets. Stir occasionally until vegetables are tender-crisp.",
+    "If desired, top with pepperoni slices before serving to add a bit of texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "chewy",
+    "festive",
+    "ginger",
+    "stir-fry",
+    "slovakian",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 62,
+    "fat": 14
+  },
+  "slug": "tangy-chewy-ginger-festive-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-ginger-festive-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T00:58:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "ginger",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Slovenian",
+    "mainIngredient": "Ginger",
+    "descriptor": "Tangy Chewy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
