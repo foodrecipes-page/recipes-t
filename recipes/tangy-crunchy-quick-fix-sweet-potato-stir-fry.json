@@ -1,0 +1,97 @@
+{
+  "title": "Tangy Crunchy Quick-Fix Sweet Potato Stir-fry",
+  "description": "A tangy and crunchy Chinese-style sweet potato dish prepared with minimal effort and a low-fat twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": "Waxed or peeled"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 (minced)",
+      "notes": "Can be substituted with garlic paste for a smoother texture"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4 green onions, chopped",
+      "notes": "Green parts only"
+    },
+    {
+      "name": "Tomato sauce or juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Soy sauce (low-sodium)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey or maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your wok or non-stick pan over medium-high heat.",
+    "Slice the sweet potatoes into thin rounds. You can either leave them whole and slice while cooking, or cut off about 1 inch of stem if you prefer peeled slices.",
+    "In a small bowl, mix together oil, minced garlic, tomato sauce, soy sauce, oyster sauce, honey or maple syrup, cumin seeds, and black pepper until well combined. Set aside for later.",
+    "If using waxed sweet potatoes, peel them now while they are still warm from the peeler. Cut into thin rounds as above.",
+    "Add all ingredients from step 3 to the wok/pan and stir fry for about 2-3 minutes or until the vegetables start to soften.",
+    "Add sliced scallions and continue to cook for an additional minute.",
+    "Turn off heat, transfer to a serving dish, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potato",
+    "bhuna-style",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 135,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "tangy-crunchy-quick-fix-sweet-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-quick-fix-sweet-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T14:09:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Tangy Crunchy Quick-Fix",
+    "dishForm": "Stir-fry"
+  }
+}

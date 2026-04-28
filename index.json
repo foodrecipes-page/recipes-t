@@ -350,6 +350,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-quick-fix-sweet-potato-stir-fry",
+    "title": "Tangy Crunchy Quick-Fix Sweet Potato Stir-fry",
+    "tags": [
+      "sweet-potato",
+      "bhuna-style",
+      "quick-fix"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crust-crumble-rice",
     "title": "Tangy Crust Crumble Rice",
     "tags": [
