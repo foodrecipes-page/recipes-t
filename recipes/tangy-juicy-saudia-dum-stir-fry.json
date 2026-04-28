@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Juicy Saudia Dum Stir-fry",
+  "description": "This vegan-friendly Tangy Juicy Saudia Dum Stir-fry combines creamy condensed milk with tender dumplings for a delicious and romantic Middle Eastern dish.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 tbsp soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "cup"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "pieces"
+    },
+    {
+      "name": "1 onion, sliced",
+      "amount": "piece"
+    },
+    {
+      "name": "2 medium-sized dumplings (about 6-8 pieces)",
+      "amount": "servings"
+    },
+    {
+      "name": "1 can of condensed milk (15oz)",
+      "amount": "can"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tsp honey or maple syrup",
+      "amount": "tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and onion, sauté for about 2 minutes until fragrant and soft.",
+    "Gently stir-fry dumplings on high heat to seal them up slightly.",
+    "Pour in condensed milk, honey or maple syrup, and water into the pan. Stir well.",
+    "Simmer for another 5-7 minutes until the sauce thickens and it coats the dumplings nicely.",
+    "Season with salt if needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia-dum",
+    "tangy-juicy",
+    "romantic-middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 10,
+    "carbs": 34,
+    "fat": 14
+  },
+  "slug": "tangy-juicy-saudia-dum-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-saudia-dum-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T09:48:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "dum",
+    "primaryIngredient": "condensed milk",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "dum",
+    "descriptor": "tangy juicy",
+    "dishForm": "Stir-fry"
+  }
+}

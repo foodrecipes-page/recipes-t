@@ -581,6 +581,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-saudia-dum-stir-fry",
+    "title": "Tangy Juicy Saudia Dum Stir-fry",
+    "tags": [
+      "saudia-dum",
+      "tangy-juicy",
+      "romantic-middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
     "title": "Tangy Light Algerian Rhubarb Stir-fry",
     "tags": [
