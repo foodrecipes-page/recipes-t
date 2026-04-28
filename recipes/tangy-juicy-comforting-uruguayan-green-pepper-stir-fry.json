@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Juicy Comforting Uruguayan Green Pepper Stir-fry",
+  "description": "This tangy and juicy dish features green peppers in a comforting vegetarian-friendly stew that can be enjoyed as a side or main course.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Green Peppers",
+      "amount": "2 medium-sized",
+      "notes": "Washed and chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 large (chopped)",
+      "notes": "Fresh or canned, depending on availability and preference"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small (finely chopped)",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves (minced)",
+      "notes": "To enhance the dish's flavor profile"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "1 cup",
+      "notes": "Ensure it is packed with vegetables for a vegetarian-friendly option"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons (optional, add to taste)",
+      "notes": "For added tanginess and umami flavor"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon (for thickening the sauce)",
+      "notes": ""
+    },
+    {
+      "name": "Water or Vegetable Stock",
+      "amount": "Enough to cover all ingredients",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "A few grains (freshly ground, optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic, sautéing until translucent.",
+    "Add the green peppers and tomatoes. Cook for about 5 minutes or until softened slightly.",
+    "Pour in the vegetable broth and soy sauce (if using). Stir well to combine all ingredients.",
+    "Bring the mixture to a simmer, then reduce heat to low.",
+    "Stir in the cornstarch mixture dissolved in water or vegetable stock, blending well into the soup.",
+    "Cook for an additional 5-10 minutes until the mixture thickens and everything is heated through.",
+    "Season with salt and black pepper (if using). Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "juicy",
+    "comforting",
+    "uruguayan",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:18:47Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "boil",
+    "primaryIngredient": "green pepper",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "green pepper",
+    "descriptor": "Tangy Juicy Comforting",
+    "dishForm": "Stir-fry"
+  }
+}

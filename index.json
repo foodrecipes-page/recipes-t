@@ -674,6 +674,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
+    "title": "Tangy Juicy Comforting Uruguayan Green Pepper Stir-fry",
+    "tags": [
+      "tangy",
+      "juicy",
+      "comforting",
+      "uruguayan",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-indulgent-walnut-stir-fry",
     "title": "Tangy Juicy Indulgent Walnut Stir-fry",
     "tags": [
