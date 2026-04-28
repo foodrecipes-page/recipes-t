@@ -1,0 +1,89 @@
+{
+  "title": "Tangy Light Vegan Avocado Wraps",
+  "description": "An energizing Peruvian dish featuring light and tangy flavors with bread, made for a quick breakfast or snack.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole wheat wraps",
+      "amount": "12",
+      "notes": "Choose gluten-free options if needed"
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Freshly chopped for freshness"
+    },
+    {
+      "name": "Avocado",
+      "amount": "3 ripe avocados",
+      "notes": "Sliced and diced finely"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "2 medium",
+      "notes": "Rinse under cold water, seeds removed"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed for the best flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For drizzling over wraps"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the cilantro, avocado, and jalapeno peppers by washing them thoroughly.",
+    "In a mixing bowl, combine avocados with lemon juice and olive oil until smooth.",
+    "Fold in chopped cilantro and finely diced jalapenos. Season with salt and pepper to taste.",
+    "Take one whole wheat wrap, spread half of the avocado mixture on each, top with more fresh cilantro leaves if desired.",
+    "Wrap tightly around the filling for a perfect bite-sized snack or meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "light",
+    "energizing",
+    "peruvian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 47,
+    "carbs": 127,
+    "fat": 39
+  },
+  "slug": "tangy-light-vegan-avocado-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-vegan-avocado-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T03:50:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "bread",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "avocado",
+    "descriptor": "Tangy Light Vegan",
+    "dishForm": "Wraps"
+  }
+}
