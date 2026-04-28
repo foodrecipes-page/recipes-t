@@ -1,0 +1,76 @@
+{
+  "title": "Tangy Crumbly Middle Eastern Manchego Cheese Crumble",
+  "description": "This tangy and crumbly manchego cheese casserole is perfect for midnight cravings, with a dash-friendly and grill-ready option.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "4 ounces Manchego Cheese",
+      "amount": "1 block"
+    },
+    {
+      "name": "2 tablespoons Lemon Juice",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup Fresh Mint Leaves",
+      "amount": "cup"
+    },
+    {
+      "name": "1/3 cup Grated Parmesan Cheese",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "Pinch of Salt",
+      "amount": ""
+    },
+    {
+      "name": "2 tablespoons Olive Oil",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Chop the Manchego cheese into small cubes.",
+    "Combine the lemon juice, mint leaves, grated Parmesan, salt, and olive oil in a mixing bowl until well combined. Stir gently to ensure all ingredients are evenly distributed.",
+    "Add the Manchego cheese cubes to the mixture and mix thoroughly.",
+    "Place the mixture on a baking dish lined with parchment paper for easy cleanup.",
+    "Bake at 350°F (175°C) for about 20 minutes or until golden brown.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crumbly",
+    "middle-eastern",
+    "grill-ready"
+  ],
+  "nutrition": {
+    "calories": 186,
+    "protein": 7.2,
+    "carbs": 3.5,
+    "fat": 9
+  },
+  "slug": "tangy-crumbly-middle-eastern-manchego-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-middle-eastern-manchego-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:56:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "manchego",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Manchego Cheese",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
