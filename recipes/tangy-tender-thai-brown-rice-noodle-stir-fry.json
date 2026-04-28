@@ -1,0 +1,83 @@
+{
+  "title": "Tangy Tender Thai Brown Rice Noodle Stir-fry",
+  "description": "A tangy and tender post-workout dish featuring brown rice noodles that are perfect for quick meals.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup brown rice noodles",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon fish sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 teaspoon red pepper flakes",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "cup"
+    },
+    {
+      "name": "1 green onion, sliced",
+      "amount": "slice"
+    },
+    {
+      "name": "1 bell pepper, julienned (any color)",
+      "amount": "piece"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice noodles and soak them in hot water for about 5 minutes or until they are tender. Drain well.",
+    "In a small bowl, whisk together soy sauce and fish sauce; set aside.",
+    "Heat oil in a wok or large skillet over medium-high heat. Add the soaked rice noodles, red pepper flakes, green onion, and julienned bell peppers.",
+    "Pour the soy sauce mixture into the pan and stir-fry for about 2 minutes until the liquid is absorbed and the vegetables are slightly tender.",
+    "Stir in the chopped cilantro and remove from heat.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "tender",
+    "thai",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 59,
+    "fat": 7
+  },
+  "slug": "tangy-tender-thai-brown-rice-noodle-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-thai-brown-rice-noodle-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:22:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "whisk",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Brown Rice Noodle",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
