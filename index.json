@@ -712,6 +712,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-midnight-rice-krispie-crumble",
+    "title": "Tangy Midnight Rice Krispie Crumble",
+    "tags": [
+      "tangy",
+      "fluffy",
+      "rice-krispie-crumble",
+      "midnight-dessert",
+      "philippine-inspired"
+    ],
+    "cuisine": "Philippine-Inspired Dessert",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-adventurous-algerian-bean-stir-fry",
     "title": "Tangy Silky Adventurous Algerian Bean Stir-fry",
     "tags": [

@@ -1,0 +1,85 @@
+{
+  "title": "Tangy Midnight Rice Krispie Crumble",
+  "description": "A tangy and fluffy Filipino-inspired dessert featuring rice krispies, crispy fried potatoes (sweet or regular), dairy-free elements for midnight cravings.",
+  "cuisine": "Philippine-Inspired Dessert",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice Krispie Treats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cashews (soaked)",
+      "amount": "30g",
+      "notes": "For added crunch and texture"
+    },
+    {
+      "name": "Coconut Milk or Almond Milk",
+      "amount": "60ml",
+      "notes": "Dairy-free option for milk-based tanginess"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds (optional)",
+      "amount": "1 tbsp",
+      "notes": "For a decorative touch and added crunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch",
+      "notes": "To taste, for extra tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Combine the Rice Krispie Treats and soaked cashews in a bowl.",
+    "Add the coconut milk or almond milk, vanilla extract, salt, and sesame seeds if using. Mix well until evenly distributed.",
+    "Spread the mixture onto a greased baking sheet and press down gently to create an even layer.",
+    "Bake for 10-12 minutes or until golden brown on top.",
+    "Remove from oven and let it cool slightly before serving with your choice of toppings such as honey, dark chocolate shavings, or more sesame seeds if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "fluffy",
+    "rice-krispie-crumble",
+    "midnight-dessert",
+    "philippine-inspired"
+  ],
+  "nutrition": {
+    "calories": 205,
+    "protein": 4,
+    "carbs": 31,
+    "fat": 7
+  },
+  "slug": "tangy-midnight-rice-krispie-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-midnight-rice-krispie-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T16:55:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "fry",
+    "primaryIngredient": "rice krispies",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Rice Krispies",
+    "descriptor": "Tangy Midnight",
+    "dishForm": "Crumble"
+  }
+}
