@@ -1223,6 +1223,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-sour-almond-peruvian-crumble",
+    "title": "Tender Sour Almond Peruvian Crumble",
+    "tags": [
+      "peruvian",
+      "sour",
+      "tender",
+      "almond_flour"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spanish-garlic-stir-fry",
     "title": "Tender Spanish Garlic Stir-fry",
     "tags": [
