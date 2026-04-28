@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Silky Adventurous Algerian Bean Stir-fry",
+  "description": "This tangy and silky dish features a blend of savory flavors with soy sauce, creating an adventurous vegetarian-friendly meal.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garbanzo beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2 large, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "6, soaked and drained"
+    },
+    {
+      "name": "Cilantro leaves",
+      "amount": "2 tbsp, finely chopped (optional)"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "To taste"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat and add water chestnuts. Cook for about 2 minutes, stirring occasionally.",
+    "Add onion and cook until translucent, approximately 3-4 minutes.",
+    "Toss in garlic and bell peppers; stir-fry for about 5 more minutes.",
+    "Pour in tomato sauce, soy sauce, apple cider vinegar, and a pinch of salt. Stir well to combine all ingredients.",
+    "Lower heat to low-medium and simmer for another 5 minutes until the sauce thickens slightly.",
+    "Add water chestnuts back into the pan. Give it a last stir before serving.",
+    "Finish with chopped cilantro on top if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "silky",
+    "adventurous",
+    "algerian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 253,
+    "protein": 10,
+    "carbs": 41,
+    "fat": 7
+  },
+  "slug": "tangy-silky-adventurous-algerian-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-adventurous-algerian-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:57:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "soy sauce",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "bean",
+    "descriptor": "Tangy Silky Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
