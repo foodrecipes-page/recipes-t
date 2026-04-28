@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Flaky Light Kurdish Ackee Crumble",
+  "description": "A tangy and flaky light Middle Eastern dish featuring ackee as the main ingredient, this recipe is nut-free-friendly and suitable for a breakfast or snack.",
+  "cuisine": "Kurdish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup fresh or frozen (thawed if frozen)"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup plain yogurt"
+    },
+    {
+      "name": "Jalapeno peppers",
+      "amount": "3-4 finely chopped, seeds removed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3 minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium saucepan, heat olive oil over medium heat. Add onion and garlic, sauté until softened.",
+    "Stir in tomato paste and cook for another minute. Mix in yogurt, jalapeno peppers, and sour cream; let it simmer for 2-3 minutes.",
+    "Remove from heat and fold in the thawed ackee gently to avoid breaking them apart too much.",
+    "Transfer mixture to a greased baking dish. Spread evenly.",
+    "Bake for 15-20 minutes or until golden brown and crisp on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-flaky-light-ackee-crumb",
+    "kurdish-dish",
+    "nut-free-friendly",
+    "middle-eastern-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 9,
+    "carbs": 36,
+    "fat": 14
+  },
+  "slug": "tangy-flaky-light-kurdish-ackee-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-light-kurdish-ackee-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:33:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "ackee",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Kurdish",
+    "mainIngredient": "Ackee",
+    "descriptor": "Tangy Flaky Light",
+    "dishForm": "Crumble"
+  }
+}
