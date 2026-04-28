@@ -1,0 +1,76 @@
+{
+  "title": "Tender Fermented Raspberries Dessert",
+  "description": "This tender fermented raspberries dessert is a delightful and romantic Ukrainian dish that combines the tangy sweetness of ripe raspberries with a dairy-free-friendly touch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Agar Agar (agar-agar)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Almond Milk (or any preferred plant-based milk)",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Wash the raspberries thoroughly and remove any stems or leaves. Rinse agar-agar in cold water to remove its natural sweetness.",
+    "Place the washed raspberries in a blender with agar-agar, honey/maple syrup, vanilla extract, and almond milk. Blend until smooth.",
+    "Pour the mixture into a pot and bring it to a gentle boil over medium heat while stirring continuously to prevent burning.",
+    "Once boiling, reduce the heat to low and simmer for about 15 minutes, or until thickened and fully fermented. Stir occasionally during this time.",
+    "Strain the mixture through a fine mesh sieve to remove any solids and cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "tender",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 1
+  },
+  "slug": "tender-fermented-raspberries-dessert",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-fermented-raspberries-dessert",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:29:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "temper",
+    "primaryIngredient": "raspberries",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Raspberries",
+    "descriptor": "Fermented Tender Romantic",
+    "dishForm": "Dessert"
+  }
+}
