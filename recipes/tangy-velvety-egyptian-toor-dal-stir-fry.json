@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Velvety Egyptian Toor Dal Stir-fry",
+  "description": "A crowd-pleasing paleo-friendly dish featuring tangy-toasted toor dal with a delectable glaze for added depth and texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup soaked and drained toor dal",
+      "amount": "",
+      "notes": "Soaked overnight in salt water"
+    },
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": ""
+    },
+    {
+      "name": "1 onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 red bell pepper, sliced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup lemon juice",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp honey or agave nectar",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro, chopped (optional garnish)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add onions and sauté until translucent, about 3 minutes.",
+    "Add garlic and cook for another minute until fragrant.",
+    "Stir in toor dal, cumin, turmeric powder, lemon juice, honey or agave nectar, and salt. Cook for 5-7 minutes, stirring occasionally.",
+    "Deglaze the skillet with a splash of water, scraping up any browned bits from the bottom. Reduce heat to low and simmer until liquid is almost evaporated.",
+    "Stir in red bell pepper slices and cook for an additional 2-3 minutes or until soft and slightly tender.",
+    "Serve hot as a side dish or over cauliflower rice (optional). Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "toor dal",
+    "egyptian",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 276,
+    "protein": 10,
+    "carbs": 32,
+    "fat": 8
+  },
+  "slug": "tangy-velvety-egyptian-toor-dal-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-egyptian-toor-dal-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T01:50:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "toor dal",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "toor dal",
+    "descriptor": "tangy velvety",
+    "dishForm": "Stir-fry"
+  }
+}
