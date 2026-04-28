@@ -1,0 +1,76 @@
+{
+  "title": "Tender Midnight Craving American Wonton Wrap",
+  "description": "A tender midnight craving dish featuring wonton skin and umami flavors for an authentic American taste.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wonton Skin",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2 slices (medium)"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2 ripe avocado"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small, finely chopped"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4 green onions, sliced thinly"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "A pinch"
+    }
+  ],
+  "instructions": [
+    "Chop cucumber into thin slices and finely chop red onion. Rinse and slice avocado.",
+    "Combine cucumber, red onion, avocado, salt in a bowl for about 5 minutes to draw out the moisture.",
+    "Dip wonton skin into water first by soaking them in water for 30 seconds on each side. Lay one wonton skin flat on your work surface.",
+    "Place some of the prepared vegetables and green onions onto the center of the wonton skin. Fold over the sides to enclose the fillings, pinching edges together with fingers or a fork to seal.",
+    "Heat up a non-stick pan over medium heat for about 1 minute. Place the wrapped wontons seam-side down into the hot pan and fry until golden brown on both sides, approximately 2-3 minutes per side.",
+    "Remove from heat and serve immediately while still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tender-midnight-craving",
+    "american-wonton-wrap",
+    "umami",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 4
+  },
+  "slug": "tender-midnight-craving-american-wonton-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-midnight-craving-american-wonton-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:43:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "wonton skin",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Wonton skin",
+    "descriptor": "Tender Midnight Craving",
+    "dishForm": "Wrap"
+  }
+}
