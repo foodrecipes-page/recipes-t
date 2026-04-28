@@ -1,0 +1,87 @@
+{
+  "title": "Tangy Mediterranean Semolina Stir-fry",
+  "description": "A tangy and creamy mediterranean dish featuring semolina flour that is both ferment-friendly and suitable for vegetarians.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons fresh squeezed from organic lemons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "2 cups fresh, chopped"
+    },
+    {
+      "name": "olive oil for cooking",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine semolina flour with minced garlic and red pepper flakes. Stir in olive oil to create a paste.",
+    "Add lemon juice to the mixture and continue stirring until a smooth sauce forms.",
+    "Heat a non-stick skillet over medium-high heat. Once hot, add more olive oil if necessary.",
+    "Pour the semolina sauce into the skillet and stir continuously for 1 minute or until semolina is slightly thickened.",
+    "Fold in chopped spinach leaves and feta cheese. Cook for an additional 2 minutes until greens wilt and everything is evenly distributed.",
+    "Remove from heat immediately to prevent burning. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "creamy",
+    "mediterranean",
+    "semolina",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "tangy-mediterranean-semolina-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-mediterranean-semolina-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:46:32Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "semolina flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Semolina",
+    "descriptor": "Tangy",
+    "dishForm": "Stir-fry"
+  }
+}

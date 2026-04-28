@@ -808,6 +808,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-mediterranean-semolina-stir-fry",
+    "title": "Tangy Mediterranean Semolina Stir-fry",
+    "tags": [
+      "tangy",
+      "creamy",
+      "mediterranean",
+      "semolina",
+      "jain-friendly"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-midnight-rice-krispie-crumble",
     "title": "Tangy Midnight Rice Krispie Crumble",
     "tags": [
