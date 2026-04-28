@@ -1,0 +1,94 @@
+{
+  "title": "Tender Buttery Rhubarb Crumble",
+  "description": "A light German dish featuring tender and buttery rhubarb folded into a crumbly topping.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups fresh rhubarb",
+      "amount": "",
+      "notes": "stemmed, halved"
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon ground cinnamon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "6 tablespoons unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups almond flour or gluten-free flour blend",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup packed light brown sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix rhubarb, sugar, flour, and cinnamon in a large bowl.",
+    "Stir in melted butter until evenly coated.",
+    "Press mixture into a greased 8x8 inch baking dish.",
+    "In another bowl, mix almond flour, brown sugar, and salt. Mix in melted butter until crumbly texture forms.",
+    "Spread crumble topping over rhubarb filling.",
+    "Bake for about 30 minutes or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "tender",
+    "buttery",
+    "light-german-dish",
+    "fold",
+    "dash-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "tender-buttery-rhubarb-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-buttery-rhubarb-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T13:09:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "rhubarb",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Rhubarb",
+    "descriptor": "Buttery, Tender, Light",
+    "dishForm": "Crumble"
+  }
+}
