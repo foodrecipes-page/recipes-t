@@ -1,0 +1,82 @@
+{
+  "title": "Tangy Light Italian Egg Stir-fry",
+  "description": "A light and tangy take on an Italian egg dish, perfect for high-protein-friendly meals, made with air-fried elements to keep the fat content low.",
+  "cuisine": "Italian (Neapolitan)",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4, minced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup halved"
+    },
+    {
+      "name": "Spinach leaves",
+      "amount": "1 bunch, loosely packed"
+    },
+    {
+      "name": "Olive oil spray",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon freshly squeezed from 1 lemon"
+    },
+    {
+      "name": "Minced parsley",
+      "amount": "1-2 teaspoons for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to a temperature of 375°F (190°C).",
+    "In a large bowl, whisk together eggs and lemon juice. Season with salt and freshly ground black pepper.",
+    "Add minced garlic, cherry tomatoes, spinach leaves into the egg mixture and gently fold in until fully incorporated. Ensure the spinach is just wilted but not overcooked to maintain its vibrant green color.",
+    "Heat 2 tablespoons of olive oil spray in your air fryer basket at 375°F (190°C). Pour the egg mixture evenly into the hot basket and cook for about 8-10 minutes or until golden brown on the outside and fully cooked through but still juicy inside. The total cooking time should be around 12-15 minutes in air fryer.",
+    "Once done, remove from heat immediately to avoid overcooking. Serve garnished with chopped parsley for extra freshness."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "light",
+    "italian",
+    "stir-fry",
+    "high-protein-friendly"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 15,
+    "carbs": 3,
+    "fat": 4
+  },
+  "slug": "tangy-light-italian-egg-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-italian-egg-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:05:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "eggs",
+    "diet": "high-protein",
+    "region": "neapolitan",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "egg",
+    "descriptor": "Tangy Light",
+    "dishForm": "Stir-fry"
+  }
+}

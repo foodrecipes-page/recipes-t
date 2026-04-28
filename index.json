@@ -725,6 +725,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-italian-egg-stir-fry",
+    "title": "Tangy Light Italian Egg Stir-fry",
+    "tags": [
+      "tangy",
+      "light",
+      "italian",
+      "stir-fry",
+      "high-protein-friendly"
+    ],
+    "cuisine": "Italian (Neapolitan)",
+    "totalTimeMin": 13,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-syrian-monkfish-crumble",
     "title": "Tangy Light Syrian Monkfish Crumble",
     "tags": [
