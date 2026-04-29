@@ -1,0 +1,78 @@
+{
+  "title": "Tender Kenyan Butter Stir-fry",
+  "description": "A low-carb-friendly solo-dinner dish featuring tender meat or tofu, infused with the rich flavors of tahini paste and fermented vegetables.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast fillet",
+      "amount": "150g"
+    },
+    {
+      "name": "tahini paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented vegetables (such as kimchi)",
+      "notes": "about 1/4 cup finely chopped"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F). Season the chicken with salt and pepper.",
+    "Heat 2 tablespoons of oil in a non-stick skillet over medium-high heat. Add the chicken, cooking until browned on all sides.",
+    "Add tahini paste and fermented vegetables to the skillet. Stir well until the mixture thickens and coats the chicken evenly.",
+    "Reduce heat to low and let the dish simmer for about 5 minutes, allowing flavors to meld together.",
+    "Transfer the stir-fry into a serving plate. Drizzle with remaining oil if needed and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tender",
+    "buttery",
+    "kenyan",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 256,
+    "protein": 21,
+    "carbs": 7,
+    "fat": 9
+  },
+  "slug": "tender-kenyan-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-kenyan-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:28:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "ferment",
+    "primaryIngredient": "tahini paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyans",
+    "mainIngredient": "Butter",
+    "descriptor": "Tender",
+    "dishForm": "Stir-fry"
+  }
+}

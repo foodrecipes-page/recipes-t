@@ -1463,6 +1463,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-kenyan-butter-stir-fry",
+    "title": "Tender Kenyan Butter Stir-fry",
+    "tags": [
+      "tender",
+      "buttery",
+      "kenyan",
+      "fermented"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-light-tunisian-duck-stir-fry",
     "title": "Tender Light Tunisian Duck Stir-fry",
     "tags": [
