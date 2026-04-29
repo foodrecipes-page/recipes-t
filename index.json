@@ -1022,6 +1022,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-middle-eastern-almond-stir-fry",
+    "title": "Tangy Tender Middle Eastern Almond Stir-fry",
+    "tags": [
+      "tangy",
+      "middle-eastern",
+      "snack",
+      "almond-free"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-tender-thai-brown-rice-noodle-stir-fry",
     "title": "Tangy Tender Thai Brown Rice Noodle Stir-fry",
     "tags": [

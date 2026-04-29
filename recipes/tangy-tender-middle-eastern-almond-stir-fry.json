@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Tender Middle Eastern Almond Stir-fry",
+  "description": "A light and tangy Middle Eastern dish featuring tender rice, almonds, and a zesty lemon-tahini sauce for a nut-free-friendly meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "Basmati or any white rice"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed for best flavor"
+    },
+    {
+      "name": "Tahini paste",
+      "amount": "2 tbsp",
+      "notes": "For extra creaminess and tang"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "1 clove",
+      "notes": "Finely minced to release flavors"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1/4 cup",
+      "notes": "To add sweetness and crunch"
+    },
+    {
+      "name": "Almonds, sliced or ground",
+      "amount": "1/2 cup",
+      "notes": "For a crunchy texture, optional to make it nut-free-friendly"
+    },
+    {
+      "name": "Fresh parsley leaves",
+      "amount": "handful",
+      "notes": "Chopped for freshness and color"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "To balance flavors"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, rinse the rice thoroughly under cold water. Rinse again until the water runs clear.",
+    "Add the rinsed rice to the same pan with about 2 cups of water and bring to a boil. Reduce heat to low, cover, and simmer for about 15-20 minutes or until all the liquid is absorbed.",
+    "While the rice cooks, mix together lemon juice, tahini paste, chopped garlic, and salt in a small bowl.",
+    "After the rice is cooked, fluff it with a fork and stir in the garlic-tahini sauce. Let sit for 10 minutes to allow flavors to meld.",
+    "In a skillet or wok heated on medium-high heat (350°F), add oil and sliced onions. Sauté until golden brown and slightly softened.",
+    "Add the chopped almonds, if using, and continue sautéing until they are lightly toasted and fragrant. Season with salt if needed.",
+    "Combine the cooked rice with the sautéed vegetables and nuts, stirring well to coat all ingredients evenly.",
+    "Sprinkle fresh parsley on top for a pop of color and garnish. Serve immediately while hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "middle-eastern",
+    "snack",
+    "almond-free"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "tangy-tender-middle-eastern-almond-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-middle-eastern-almond-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T01:49:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "rice",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Almonds",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Stir-fry"
+  }
+}
