@@ -1,0 +1,81 @@
+{
+  "title": "Tender Floral Energizing Argentinian Callaloo Stir-fry",
+  "description": "A floral and tender gluten-free Argentinean dish featuring callaloo that is energizing and easy to prepare.",
+  "cuisine": "Argentine",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or skillet over medium-high heat.",
+    "Add minced garlic, onion, and ginger to the hot pan, stir for about 30 seconds until fragrant.",
+    "Add callaloo to the pan, season with salt and black pepper. Stir well to combine.",
+    "Stir-fry for another 2-3 minutes or until the leaves start to wilt slightly.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "callaloo",
+    "floral",
+    "energizing",
+    "argentine"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 6,
+    "carbs": 23,
+    "fat": 10
+  },
+  "slug": "tender-floral-energizing-argentinian-callaloo-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-floral-energizing-argentinian-callaloo-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T11:47:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "blanch",
+    "primaryIngredient": "callaloo",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Callaloo",
+    "descriptor": "Floral Tender Energizing",
+    "dishForm": "Stir-fry"
+  }
+}
