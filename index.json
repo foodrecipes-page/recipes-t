@@ -1142,6 +1142,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-adventurous-garlic-slovakian-stir-fry",
+    "title": "Tender Adventurous Garlic Slovakian Stir-fry",
+    "tags": [
+      "garlicky",
+      "tender",
+      "adventurous",
+      "slovakian",
+      "gluten-free"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-buttery-rhubarb-crumble",
     "title": "Tender Buttery Rhubarb Crumble",
     "tags": [

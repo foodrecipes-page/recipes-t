@@ -1,0 +1,86 @@
+{
+  "title": "Tender Adventurous Garlic Slovakian Stir-fry",
+  "description": "A gluten-free and adventurous garlic Slovakian dish featuring tender vegetables with apricot flavoring and cured meats.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g mixed vegetables (carrots, bell peppers, onions)",
+      "amount": "medium",
+      "notes": "Choose firm and tender vegetables"
+    },
+    {
+      "name": "2 cloves garlic finely minced",
+      "amount": null
+    },
+    {
+      "name": "1 apricot, sliced or diced",
+      "amount": "medium"
+    },
+    {
+      "name": "50g gluten-free paprika",
+      "amount": "small handful"
+    },
+    {
+      "name": "25g mixed cured meats (like salami and chorizo), finely chopped",
+      "amount": "large handful"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": null
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": null
+    },
+    {
+      "name": "Water or gluten-free stock to cover vegetables",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut mixed vegetables into bite-sized pieces and place them in a baking dish.",
+    "Mix together finely minced garlic, chopped apricot, paprika, olive oil, salt, pepper, and water or stock. Pour over the vegetables in the baking dish.",
+    "Roast in preheated oven for 20 minutes, stirring occasionally to ensure even cooking.",
+    "Add mixed cured meats on top of the roasted vegetables during the last minute of roasting time.",
+    "Remove from oven once cooked through and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "tender",
+    "adventurous",
+    "slovakian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "tender-adventurous-garlic-slovakian-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-adventurous-garlic-slovakian-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:29:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "cure",
+    "primaryIngredient": "apricot",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "garlic",
+    "descriptor": "tender adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
