@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Tender Festive Saudia Cauliflower Stir-fry",
+  "description": "A tangy and festive cauliflower dish infused with Middle Eastern flavors, perfect for a savory side or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 large head",
+      "notes": "Rinse and chop into florets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Pressed or minced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "Use for a tangy kick"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing vegetables and adding flavor to the cauliflower"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "For its umami taste and natural acidity"
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "2 tbsp",
+      "notes": "To add tanginess"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp",
+      "notes": "For a Mediterranean twist"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 tsp",
+      "notes": "To give it a slight heat, optional"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": null,
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Toss the cauliflower florets with olive oil until coated. Place them on the prepared baking sheet and roast for about 20 minutes, flipping halfway through.",
+    "Meanwhile, in a small bowl, mix together tomato paste, soy sauce, white wine vinegar, oregano, red pepper flakes (if using), salt, and black pepper to create your tangy marinade. Set aside.",
+    "Heat olive oil in a large skillet over medium-high heat. Add finely chopped onion and sauté for about 5 minutes until translucent.",
+    "Add garlic and cook for another minute until fragrant. Pour in the reserved marinade from step 3, stir well, then add roasted cauliflower florets to the pan.",
+    "Stir everything together thoroughly. Cover with a lid if you have one and let it cook for an additional 5-10 minutes until the cauliflower is tender and nicely coated with the sauce.",
+    "Serve hot as a side dish or main course depending on your preference."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "tender",
+    "festive",
+    "saudia",
+    "arabian",
+    "middle-eastern",
+    "stir-fry",
+    "cauliflower",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "tangy-tender-festive-saudia-cauliflower-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-festive-saudia-cauliflower-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:44:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "whisk",
+    "primaryIngredient": "cauliflower",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Tangy Tender Festive",
+    "dishForm": "Stir-fry"
+  }
+}
