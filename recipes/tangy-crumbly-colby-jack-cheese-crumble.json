@@ -1,0 +1,70 @@
+{
+  "title": "Tangy Crumbly Colby Jack Cheese Crumble",
+  "description": "A tangy, crumbly cheese crumble featuring Colby Jack cheese that's perfect as a raw-friendly topping for vegetables or grain bowls.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Colby Jack Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Honey or Maple Syrup",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Chopped Fresh Herbs (like Oregano, Dill)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and Pepper to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 250°F.",
+    "In a mixing bowl, combine Colby Jack cheese with Greek yogurt, honey/maple syrup, chopped herbs, salt, and pepper.",
+    "Mix well until the mixture is crumbly but holds together when pressed lightly. It may require chilling for an hour or two if too sticky.",
+    "Transfer to a parchment-lined baking sheet and bake in the oven for about 15-20 minutes or until golden brown.",
+    "Let cool before serving as a topping for salads, vegetables, grain bowls, etc."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "crumbly",
+    "colby jack cheese",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "tangy-crumbly-colby-jack-cheese-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-colby-jack-cheese-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:01:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "colby jack cheese",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Colby Jack Cheese",
+    "descriptor": "Tangy Crumbly Raw",
+    "dishForm": "Crumble"
+  }
+}
