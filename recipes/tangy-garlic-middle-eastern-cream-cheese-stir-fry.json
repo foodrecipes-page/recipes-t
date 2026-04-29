@@ -1,0 +1,85 @@
+{
+  "title": "Tangy Garlic Middle Eastern Cream Cheese Stir-fry",
+  "description": "A tangy and creamy mid-day dish that pairs perfectly with grilled meats or vegetables. Halal-friendly and midnight-craving.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cream Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chicken Broth or Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Red Pepper Flakes (optional)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend cream cheese, garlic powder, and red pepper flakes in a blender or food processor until smooth.",
+    "Add olive oil to the blended mixture and blend again for about one minute until creamy.",
+    "Stir in chicken broth (or water) and salt/pepper to taste. Heat gently over low-medium heat to combine all ingredients.",
+    "Pour into a shallow pan and let it simmer for 5-10 minutes, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "creamy",
+    "middle-eastern",
+    "stir-fry",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 290,
+    "protein": 16,
+    "carbs": 3,
+    "fat": 22
+  },
+  "slug": "tangy-garlic-middle-eastern-cream-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-garlic-middle-eastern-cream-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:24:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "grill",
+    "primaryIngredient": "cream",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cream Cheese",
+    "descriptor": "Tangy Garlic",
+    "dishForm": "Stir-fry"
+  }
+}
