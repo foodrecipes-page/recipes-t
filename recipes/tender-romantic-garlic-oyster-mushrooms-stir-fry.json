@@ -1,0 +1,84 @@
+{
+  "title": "Tender Romantic Garlic Oyster Mushrooms Stir-fry",
+  "description": "A low-carb-friendly tender garlic oyster mushrooms stir-fry that is perfect for a romantic dinner with its mild and earthy flavor notes.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup fresh oyster mushrooms",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 medium shallots, finely chopped (optional)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup low-carb-friendly sauce like soy sauce or tamari (low sodium preferred)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh herbs for garnish (e.g., parsley, chives) - optional",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Clean the oyster mushrooms and slice them into thin pieces.",
+    "Heat the olive oil in a wok or large skillet over medium-high heat. Add the sliced oyster mushrooms and cook for about 2-3 minutes until they start to soften.",
+    "Add finely chopped shallots (if using) and garlic, stirring constantly to prevent burning. Cook for another minute.",
+    "Pour in the low-carb-friendly sauce and continue to stir-fry for about 1 more minute or until the mushrooms are fully cooked and nicely glazed.",
+    "Remove from heat and serve hot with fresh herbs for garnish if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "garlicky",
+    "tender",
+    "romantic",
+    "turkish",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 9
+  },
+  "slug": "tender-romantic-garlic-oyster-mushrooms-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-romantic-garlic-oyster-mushrooms-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:41:50Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "knead",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Oyster Mushrooms",
+    "descriptor": "Garlicky Tender Romantic",
+    "dishForm": "Stir-fry"
+  }
+}
