@@ -1300,6 +1300,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-velvety-korean-carrot-stir-fry",
+    "title": "Tangy Velvety Korean Carrot Stir-fry",
+    "tags": [
+      "vegan",
+      "korean",
+      "carrot",
+      "stir-fry",
+      "tangy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-velvety-mexican-onion-stir-fry",
     "title": "Tangy Velvety Mexican Onion Stir-fry",
     "tags": [

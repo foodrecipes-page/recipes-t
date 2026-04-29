@@ -1,0 +1,70 @@
+{
+  "title": "Tangy Velvety Korean Carrot Stir-fry",
+  "description": "A tangy and velvety Korean dish featuring carrots infused with fermented flavors, perfect for a Mediterranean-friendly meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup of chopped carrots",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons of soy sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 tablespoon of fermented shiitake sauce",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the chopped carrots and sauté for about 5 minutes until they start to soften.",
+    "Pour in the soy sauce, fermented shiitake sauce, and lime juice.",
+    "Stir well to combine all ingredients, then reduce heat to low and let it simmer for another 3-4 minutes.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "korean",
+    "carrot",
+    "stir-fry",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 1
+  },
+  "slug": "tangy-velvety-korean-carrot-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-korean-carrot-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T13:43:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "carrots",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "carrot",
+    "descriptor": "tangy velvety",
+    "dishForm": "Stir-fry"
+  }
+}
