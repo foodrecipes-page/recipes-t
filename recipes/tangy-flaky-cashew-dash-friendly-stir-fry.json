@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Flaky Cashew Dash-Friendly Stir-fry",
+  "description": "A lazy Sunday dish combining tangy flavors with flaky cashews in a dash-friendly stir-fry that hails from Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Roasted and crushed"
+    },
+    {
+      "name": "Green Peppers",
+      "amount": "2 pcs",
+      "notes": "Sliced thinly"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "3 pcs",
+      "notes": "Halved and seeded"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "4 cloves",
+      "notes": "Pressed for easy chopping"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, can be replaced with dashi or low sodium soy sauce"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "2 tsp",
+      "notes": "For added tanginess"
+    },
+    {
+      "name": "Oil",
+      "amount": "3 tbsp",
+      "notes": "Neutral-flavored, for cooking and serving"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet with oil over medium heat.",
+    "Add cashews, garlic, onions, green peppers, tomatoes, and optional soy sauce to the pan.",
+    "Stir-fry until vegetables are slightly softened and cashews are lightly toasted, about 5 minutes.",
+    "In a small bowl, mix together mirin, white wine vinegar, and water. Pour over stir-fried ingredients and toss to coat evenly.",
+    "Cook for another minute or two until the sauce thickens slightly.",
+    "Serve immediately as a side dish with your favorite noodles or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cashew",
+    "dash-friendly",
+    "stir-fry",
+    "tangy",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "tangy-flaky-cashew-dash-friendly-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-cashew-dash-friendly-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T07:12:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "cashews",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cashews",
+    "descriptor": "tangy flaky lazy-sunday dash-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
