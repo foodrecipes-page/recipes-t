@@ -1448,6 +1448,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-floral-indulgent-stir-fry-gouda-cheese",
+    "title": "Tender Floral Indulgent Stir-fry Gouda Cheese",
+    "tags": [
+      "floral",
+      "tender",
+      "indulgent",
+      "gouda_cheese",
+      "norwegian",
+      "plant_based"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-fried-american-zucchini-fry",
     "title": "Earthy Zucchini Fry",
     "tags": [

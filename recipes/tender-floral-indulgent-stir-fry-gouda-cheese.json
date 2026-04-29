@@ -1,0 +1,89 @@
+{
+  "title": "Tender Floral Indulgent Stir-fry Gouda Cheese",
+  "description": "A floral, tender, indulgent Norwegian dish featuring gouda cheese and plant-based-friendly ingredients for a unique culinary experience.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda Cheese",
+      "amount": "1/2 cup (soft), vegan substitute if needed"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "Leaves of Fresh Rosemary",
+      "amount": "4, small handful"
+    },
+    {
+      "name": "Julienned Zucchini",
+      "amount": "1/2 cup (thinly sliced)"
+    },
+    {
+      "name": "Fruit Chunks of Pineapple",
+      "amount": "1/4 cup (chopped), fresh or vegan substitute"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon, optional for heat"
+    },
+    {
+      "name": "Oil-based Vegan Butter Spread",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil and olive oil in a non-stick skillet over medium-high heat.",
+    "Add minced garlic and cook until fragrant, about 1 minute.",
+    "Fold in rosemary leaves, zucchini, pineapple chunks, and red pepper flakes (if using).",
+    "Pour vegan cheese into the pan and stir until it melts completely.",
+    "Garnish with fresh basil or mint for added floral notes if desired.",
+    "Serve immediately while hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "tender",
+    "indulgent",
+    "gouda_cheese",
+    "norwegian",
+    "plant_based"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 19,
+    "fat": 14
+  },
+  "slug": "tender-floral-indulgent-stir-fry-gouda-cheese",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-floral-indulgent-stir-fry-gouda-cheese",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:21:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "gouda cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Floral Tender Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
