@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Gooey Croatian Tomato Stir-fry",
+  "description": "A kid-friendly Mediterranean-inspired dish featuring tangy tomatoes cooked with spices and a hint of fermentation for extra flavor.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup cherry tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon cumin seeds",
+      "amount": "",
+      "notes": "Roasted and crushed for a deeper flavor"
+    },
+    {
+      "name": "1/4 cup fermented vegetables (e.g., kimchi or sauerkraut), finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Chop the cherry tomatoes in half.",
+    "Place cherry tomato halves, garlic, and cumin seeds on a baking sheet. Drizzle with olive oil and sprinkle with salt and pepper. Roast for about 8-10 minutes until the edges are slightly browned.",
+    "While tomatoes are roasting, mix together lime juice, chopped fermented vegetables, parsley, and a pinch of salt in a large bowl.",
+    "Stir-fry roasted cherry tomato halves in a wok or large skillet over medium heat with a tablespoon of olive oil. Cook until the pieces are tender but still juicy and coated with oil, about 5 minutes.",
+    "Add lime mixture to stir-fried tomatoes and cook for another 2-3 minutes until heated through.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "tomato",
+    "stir-fry",
+    "kid-friendly",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 7
+  },
+  "slug": "tangy-gooey-croatian-tomato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-croatian-tomato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T08:03:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "ferment",
+    "primaryIngredient": "cumin",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "tomato",
+    "descriptor": "Tangy Gooey",
+    "dishForm": "Stir-fry"
+  }
+}

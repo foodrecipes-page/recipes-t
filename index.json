@@ -690,6 +690,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-croatian-tomato-stir-fry",
+    "title": "Tangy Gooey Croatian Tomato Stir-fry",
+    "tags": [
+      "croatian",
+      "tomato",
+      "stir-fry",
+      "kid-friendly",
+      "fermented"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-egyptian-carrot-stir-fry",
     "title": "Tangy Gooey Egyptian Carrot Stir-fry",
     "tags": [
