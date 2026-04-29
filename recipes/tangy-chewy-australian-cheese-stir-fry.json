@@ -1,0 +1,107 @@
+{
+  "title": "Tangy Chewy Australian Cheese Stir-fry",
+  "description": "A tangy and chewy one-pot dish featuring cheese in an easy-to-make, sugar-free-friendly meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium each (red, green, yellow)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter or olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine vinegar (or lemon juice)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "thyme leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "amount": "3 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Cut chicken into bite-sized pieces. Slice bell peppers and onion.",
+    "In a large skillet or frying pan, heat butter or olive oil over medium-high heat.",
+    "Add garlic cloves and cook for about 1 minute until fragrant.",
+    "Add sliced onions and stir-fry for another 2-3 minutes.",
+    "Add chicken pieces and stir fry for an additional 5 minutes, breaking them into smaller chunks as they start to brown.",
+    "Stir in bell peppers and continue cooking for a few more minutes until all vegetables are slightly tender but still have some crunch.",
+    "Pour tomato paste over the veggies and mix well. Reduce heat to medium-low.",
+    "Slowly add white wine vinegar (or lemon juice) and maple syrup, stirring continuously. The mixture will thicken.",
+    "Once the sauce has reduced to a rich consistency, stir in grated cheddar cheese until completely melted and smoothly incorporated.",
+    "Season with black pepper and salt to taste. Let simmer for an extra 2-3 minutes to let flavors meld together.",
+    "Garnish with fresh thyme leaves if desired. Serve hot as a side dish or main course over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-dish",
+    "tangy-stir-fry",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "tangy-chewy-australian-cheese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-australian-cheese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:30:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "simmer",
+    "primaryIngredient": "cheese",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "cheese",
+    "descriptor": "Tangy Chewy",
+    "dishForm": "Stir-fry"
+  }
+}

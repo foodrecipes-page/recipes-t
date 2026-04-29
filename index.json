@@ -113,6 +113,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-australian-cheese-stir-fry",
+    "title": "Tangy Chewy Australian Cheese Stir-fry",
+    "tags": [
+      "australian-dish",
+      "tangy-stir-fry",
+      "sugar-free-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-ginger-festive-stir-fry",
     "title": "Tangy Chewy Ginger Festive Stir-fry",
     "tags": [
