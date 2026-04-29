@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Velvety Argentinian Pork Stir-fry",
+  "description": "A tangy and velvety meal-prep Argentinean dish featuring digestive biscuits as a key ingredient for its unique texture.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "argentinian pork",
+      "amount": "150g",
+      "notes": "ensure meat is cooked to at least 62.5°C (145°F) to avoid foodborne illnesses"
+    },
+    {
+      "name": "digestive biscuits",
+      "amount": "3 pieces",
+      "notes": "crumbled for added texture and flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1tsp, freshly grated"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2tbsp fresh lime juice"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch",
+      "notes": "for taste adjustment"
+    },
+    {
+      "name": "palm sugar or honey",
+      "amount": "2tbsps, to balance flavors"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1tbsp, for a bit of umami"
+    },
+    {
+      "name": "oil",
+      "amount": "2tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "a few leaves, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 180°C (350°F). Pre-heat oil in a pan and fry the digestive biscuits until golden brown. Set aside.",
+    "Sauté the pork with ginger for about 5 minutes over medium heat, ensuring it's well-cooked through.",
+    "Add soy sauce, palm sugar/honey, lime juice, salt, and enough water to cover the meat; let simmer for a few minutes till reduced slightly.",
+    "Combine the stir-fried pork and digestive biscuits in a bowl. Garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "velvety",
+    "argentinian",
+    "meal-prep",
+    "digestive-biscuits",
+    "gluten-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 27,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "tangy-velvety-argentinian-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-argentinian-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T00:59:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "fry",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pork",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Stir-fry"
+  }
+}
