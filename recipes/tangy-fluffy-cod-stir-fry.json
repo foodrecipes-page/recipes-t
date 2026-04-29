@@ -1,0 +1,89 @@
+{
+  "title": "Tangy Fluffy Cod Stir-fry",
+  "description": "A festive Australian dish featuring cod in a tangy and fluffy sauce, perfect for a light lunch or dinner that's keto-friendly.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "12 ounces"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "onions",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C). Season the cod fillets with salt and black pepper.",
+    "Heat a non-stick skillet over medium-high heat. Add olive oil, cook until it starts smoking lightly.",
+    "Add minced garlic and onions to the hot pan for about 2 minutes or until fragrant but not browned.",
+    "Pour in lemon juice and white wine vinegar. Stir well to combine all ingredients, scraping the bottom of the pan to remove any brown bits.",
+    "Place cod fillets on top of the sauce mixture. Cover with a lid and bake in the oven for 15 minutes or until the fish flakes easily with a fork.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "fluffy",
+    "festive",
+    "australian",
+    "cod",
+    "stir-fry",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 31,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "tangy-fluffy-cod-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-cod-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:40:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "slow-cook",
+    "primaryIngredient": "cod",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Cod",
+    "descriptor": "Fluffy Tangy",
+    "dishForm": "Stir-fry"
+  }
+}
