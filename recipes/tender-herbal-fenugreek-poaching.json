@@ -1,0 +1,74 @@
+{
+  "title": "Tender Herbal Fenugreek Poaching",
+  "description": "A tender herbal dish featuring fenugreek for a romantic Uruguayan mediterranean-friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup dried fenugreek seeds",
+      "amount": "",
+      "notes": "Soak overnight"
+    },
+    {
+      "name": "4 cups water",
+      "amount": "room temperature"
+    },
+    {
+      "name": "3 medium onions, thinly sliced",
+      "amount": ""
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, zested and juiced",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the water in a large pot until just below boiling.",
+    "Add the soaked fenugreek seeds and bring to a gentle simmer. Simmer for about 20 minutes.",
+    "Stir in the onions, garlic, and lemon zest/juice. Continue poaching for another 15 minutes or until desired tenderness is reached.",
+    "Garnish with fresh herbs like parsley or mint before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fenugreek",
+    "poaching",
+    "herbal",
+    "tender",
+    "romantic",
+    "uruguayan",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 143,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "tender-herbal-fenugreek-poaching",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-herbal-fenugreek-poaching",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T04:19:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "fenugreek",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Fenugreek",
+    "descriptor": "Herbal Tender",
+    "dishForm": "Poaching"
+  }
+}
