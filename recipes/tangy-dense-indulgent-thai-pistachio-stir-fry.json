@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Dense Indulgent Thai Pistachio Stir-fry",
+  "description": "A tangy and indulgent Thai dish featuring pistachio paste, stir-fried with a blend of aromatic spices to create a dense and whole30-friendly meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 tablespoon Thai green curry paste",
+      "amount": "",
+      "notes": "Ensure it's low-sodium"
+    },
+    {
+      "name": "2 tablespoons sunflower oil",
+      "amount": "",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "1 cup mixed vegetables (e.g., bell peppers, onions)",
+      "amount": "",
+      "notes": "Chopped into bite-sized pieces"
+    },
+    {
+      "name": "1/2 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": "For garnish and flavor"
+    },
+    {
+      "name": "1/4 cup finely diced roasted pistachios",
+      "amount": "",
+      "notes": "Ensure they are whole nuts, not ground or paste form"
+    },
+    {
+      "name": "1 small onion, thinly sliced",
+      "amount": "",
+      "notes": "Optional for added depth of flavor"
+    },
+    {
+      "name": "1 teaspoon fish sauce (optional)",
+      "amount": "",
+      "notes": "For extra umami and depth"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat. Add the sunflower oil.",
+    "Add the Thai green curry paste to the hot pan, stirring constantly to prevent burning. Cook for about 1 minute until fragrant but not browned.",
+    "If using, add sliced onions and cook for an additional minute until softened slightly.",
+    "Increase heat to high, then add mixed vegetables. Stir-fry for another 3-5 minutes or until vegetables are crisp-tender.",
+    "Add finely diced pistachios and fish sauce (if using). Continue stirring to combine all ingredients well.",
+    "Remove from heat immediately after the last ingredients have been added, as the stir-fry should be kept hot and dense in texture for a better mouthfeel."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "dense",
+    "indulgent",
+    "thai",
+    "pistachio",
+    "stir-fry",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "tangy-dense-indulgent-thai-pistachio-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-indulgent-thai-pistachio-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T05:06:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "indulgent",
+    "technique": "stir-fry",
+    "primaryIngredient": "pistachio paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "pistachio",
+    "descriptor": "Tangy Dense Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
