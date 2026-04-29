@@ -326,6 +326,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crumbly-american-sesame-crumble",
+    "title": "Tangy Crumbly American Sesame Crumble",
+    "tags": [
+      "tangy",
+      "crumbly",
+      "american",
+      "sesame-butter",
+      "grill-friendly",
+      "plant-based"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-butter-crumble",
     "title": "Tangy Crumbly Butter Crumble",
     "tags": [
