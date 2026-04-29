@@ -1,0 +1,85 @@
+{
+  "title": "Tender Indulgent French Garlic Stir-fry with Passion Fruit and Dumplings",
+  "description": "A Mediterranean-inspired dish featuring tender garlic stir-fried with passion fruit pulp and dumplings for a touch of indulgence.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "6 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 cup passion fruit pulp",
+      "amount": "fresh, chilled"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "vegetarian"
+    },
+    {
+      "name": "1/4 cup fresh parsley, chopped (optional)",
+      "amount": null
+    },
+    {
+      "name": "1 lb dumplings",
+      "amount": "diced and cooked ahead of time"
+    },
+    {
+      "name": "1 red bell pepper, diced",
+      "amount": "fresh"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "vegetarian"
+    },
+    {
+      "name": "2 cups mixed vegetables (e.g., zucchini, eggplant, spinach)",
+      "amount": "vegetarian"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a wok or large skillet over high heat. Add minced garlic and sauté until fragrant and golden.",
+    "Add passion fruit pulp and stir to combine with the garlic. Cook for about 2 minutes, allowing flavors to meld together.",
+    "Stir in diced dumplings, chopped parsley (if using), red bell pepper, and onions. Continue to cook for an additional 5-7 minutes until vegetables are tender but still slightly crisp.",
+    "Add mixed vegetables and stir well into the mixture. Cook for another 3-4 minutes or until all ingredients are heated through and well combined.",
+    "Serve hot as a side dish with grilled chicken or fish, or use as a filling in dumplings for an indulgent dinner option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tender",
+    "indulgent",
+    "french",
+    "garlicky",
+    "passion fruit",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 13,
+    "carbs": 40,
+    "fat": 7
+  },
+  "slug": "tender-indulgent-french-garlic-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-indulgent-french-garlic-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T03:44:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Garlic",
+    "descriptor": "Tender Indulgent",
+    "dishForm": "Stir-fry"
+  }
+}
