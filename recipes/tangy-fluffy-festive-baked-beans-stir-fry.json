@@ -1,0 +1,97 @@
+{
+  "title": "Tangy Fluffy Festive Baked Beans Stir-fry",
+  "description": "A tangy and fluffy Mediterranean-inspired dish featuring low-calorie-friendly baked beans combined with aromatic vegetables in a flavorful sauce.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baked Beans",
+      "amount": "1 can (400g)",
+      "notes": "Drained and rinsed"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 small",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "3 cloves",
+      "notes": "Mashed finely"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "a few",
+      "notes": "Fresh or dried, to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin for drizzling"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "For a touch of heat"
+    },
+    {
+      "name": "Salt and Black Pepper",
+      "amount": "To taste",
+      "notes": "Adjust to personal preference"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a mixing bowl, mash the garlic cloves with a fork.",
+    "Add onions, olive oil, and red pepper flakes to the mashed garlic. Mix well until evenly coated.",
+    "Drain and rinse the baked beans in cold water. Spread them out on a baking sheet lined with parchment paper.",
+    "Arrange tomatoes around the baked beans on the baking tray, placing them in a circular pattern if possible for even cooking.",
+    "Add thyme sprigs over the top of the mixture and season with salt and pepper to taste.",
+    "Drizzle olive oil evenly over the entire surface. Bake for 20 minutes.",
+    "After 20 minutes, remove from oven and mix all ingredients together in a single layer using a spatula or spoon.",
+    "Bake again for an additional 10-15 minutes until vegetables are tender and lightly browned on top.",
+    "Allow to cool slightly before serving as a snack or side dish with a sprinkle of fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "fluffy",
+    "festive",
+    "mediterranean",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "tangy-fluffy-festive-baked-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-festive-baked-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:12:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "baked beans",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Baked Beans",
+    "descriptor": "Tangy Fluffy Festive",
+    "dishForm": "Stir-fry"
+  }
+}
