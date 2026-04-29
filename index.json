@@ -1049,6 +1049,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-ethiopian-chickpea-stir-fry",
+    "title": "Tangy Tender Ethiopian Chickpea Stir-Fry",
+    "tags": [
+      "tangy",
+      "sick-day",
+      "ethiopian",
+      "stir-fry"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
     "title": "Tangy Tender Light Slovakian Dried Shrimp Stir-fry",
     "tags": [
