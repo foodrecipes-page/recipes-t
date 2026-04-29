@@ -367,6 +367,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crumbly-paprika-crumble",
+    "title": "Tangy Crumbly Paprika Crumble",
+    "tags": [
+      "crumble",
+      "paprika",
+      "tangy",
+      "canadian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-zanzibari-arabic-rice-crumble",
     "title": "Tangy Crumbly Zanzibari Arabic Rice Crock",
     "tags": [

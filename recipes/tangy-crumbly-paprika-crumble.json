@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Crumbly Paprika Crumble",
+  "description": "A quick-fix Canadian dish featuring tangy paprika crumble as a side or topping for meals.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a pinch"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooking spray",
+      "notes": "for greasing pan if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix dijon mustard, mayonnaise, paprika, salt, and pepper in a bowl.",
+    "Gradually add flour while stirring until mixture becomes crumbly but holds together.",
+    "Add butter cubes. Stir until the mixture is evenly coated with oil from the butter.",
+    "Spray an oven-safe dish lightly with cooking spray if needed. Spread the paprika crumble evenly over it.",
+    "Bake for 10-12 minutes or until golden brown and crispy on top. Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "paprika",
+    "tangy",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 283,
+    "protein": 7.6,
+    "carbs": 11,
+    "fat": 9.2
+  },
+  "slug": "tangy-crumbly-paprika-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-paprika-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T02:53:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "dum",
+    "primaryIngredient": "paprika",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Paprika",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Crumble"
+  }
+}
