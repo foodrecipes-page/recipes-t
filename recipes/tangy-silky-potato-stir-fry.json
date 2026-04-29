@@ -1,0 +1,85 @@
+{
+  "title": "Tangy Silky Potato Stir-fry",
+  "description": "This tangy and silky dish features baby new potatoes in a savory sauce that is both comforting and light, perfect for a monsoon-friendly meal. It's prepared with minimal ingredients to ensure it's safe for those on a fodmap diet.",
+  "cuisine": "venezulan",
+  "diet": [
+    "low-fat",
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and peel baby new potatoes. Slice them into bite-sized pieces.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add sliced onions and sauté until translucent, about 3-4 minutes.",
+    "Add garlic and cook for another minute until fragrant but not browned.",
+    "Toss in the potato slices and continue to cook for another 5 minutes.",
+    "Pour in tomato puree and lemon juice. Stir well to combine all ingredients evenly.",
+    "Reduce heat to low, cover with a lid if your wok or skillet has one. Let it simmer gently until potatoes are tender, about 10-12 minutes.",
+    "Adjust seasoning with salt as needed.",
+    "Serve hot with a side of steamed vegetables or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "silky",
+    "potato",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3.6,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "tangy-silky-potato-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-potato-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T09:11:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "pressure-cook",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "potato",
+    "descriptor": "Tangy Silky",
+    "dishForm": "Stir-fry"
+  }
+}

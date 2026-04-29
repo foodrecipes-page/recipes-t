@@ -1067,6 +1067,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-silky-potato-stir-fry",
+    "title": "Tangy Silky Potato Stir-fry",
+    "tags": [
+      "tangy",
+      "silky",
+      "potato",
+      "stir-fry"
+    ],
+    "cuisine": "venezulan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-smoked-beans-stir-fry",
     "title": "Tangy Smoked Beans Stir-fry",
     "tags": [
