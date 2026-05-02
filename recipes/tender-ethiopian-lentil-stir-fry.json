@@ -1,0 +1,94 @@
+{
+  "title": "Tender Ethiopian Lentil Stir-fry",
+  "description": "A nostalgic Ethiopian dish featuring peppery lentils, molasses, and a quick stir-fry that's sugar-free and flavorful.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "sugar-free",
+    "plant-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "spice blend",
+      "amount": "1 tsp",
+      "notes": "ethiopian spice mix (cardamom, cumin, coriander)"
+    },
+    {
+      "name": "molasses",
+      "amount": "1 tbsp",
+      ": ": ", "
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add onion and garlic; sauté until fragrant (2 mins).",
+    "Add red lentils, spice blend, and molasses; stir to combine.",
+    "Cook for 10 minutes until lentils are tender and sauce thickens slightly.",
+    "Add bell pepper; cook for 3 more minutes until crisp-tender.",
+    "Season with salt to taste. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "lentil",
+    "stir-fry",
+    "sugar-free",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "tender-ethiopian-lentil-stir-fry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ethiopian-lentil-stir-fry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T23:15:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "molasses",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "tender",
+    "dishForm": "Stir-fry"
+  }
+}

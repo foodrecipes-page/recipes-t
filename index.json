@@ -1469,6 +1469,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-ethiopian-lentil-stir-fry",
+    "title": "Tender Ethiopian Lentil Stir-fry",
+    "tags": [
+      "ethiopian",
+      "lentil",
+      "stir-fry",
+      "sugar-free",
+      "peppery"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tender-fermented-raspberries-dessert",
     "title": "Tender Fermented Raspberries Dessert",
     "tags": [
