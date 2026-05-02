@@ -831,6 +831,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-indian-basil-curry",
+    "title": "Tangy Indian Basil Curry",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "curry",
+      "tangy",
+      "basil",
+      "crunchy",
+      "one_pot"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-bhuna-beetroot-stir-fry",
     "title": "Tangy Juicy Bhuna Beetroot Stir-fry",
     "tags": [

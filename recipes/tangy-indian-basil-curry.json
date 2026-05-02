@@ -1,0 +1,117 @@
+{
+  "title": "Tangy Indian Basil Curry",
+  "description": "A quick, tangy, and crunchy vegetarian curry using fresh basil, blanched for optimal flavor. Perfect for a light dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": "fresh, blanched for 30 seconds"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      ": ": "notes"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "slit lengthwise"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a pan over medium heat.",
+    "Sauté onions and bell peppers for 5 minutes until soft.",
+    "Add garlic, ginger, turmeric, and red chili flakes; cook for 1 minute.",
+    "Stir in tamarind paste, coconut milk, and salt. Simmer for 10 minutes.",
+    "Add blanched basil leaves and cook for 2 minutes to retain crunch.",
+    "Taste and adjust seasoning. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "curry",
+    "tangy",
+    "basil",
+    "crunchy",
+    "one_pot"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "tangy-indian-basil-curry",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-indian-basil-curry",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:05:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "blanch",
+    "primaryIngredient": "fresh basil",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "basil",
+    "descriptor": "Tangy",
+    "dishForm": "Curry"
+  }
+}
