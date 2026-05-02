@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Monsoon Vegetables Salad",
+  "description": "A light, refreshing salad featuring raw vegetables and a tangy fermented dressing inspired by Monsoon Chinese cuisine. Perfect for a quick lunch or snack.",
+  "cuisine": "monsoon chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "jicama",
+      "amount": "1 medium",
+      "notes": "peeled and julienned"
+    },
+    {
+      "name": "radish",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kale",
+      ": ": "amount",
+      "notes": "stems removed, leaves torn"
+    },
+    {
+      "name": "fermented black garlic",
+      "amount": "1 tbsp",
+      "notes": "unopened jar, uses natural fermentation"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "raw, unfiltered"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for balance"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Wash and prepare all vegetables as specified.",
+    "In a small bowl, combine fermented black garlic, apple cider vinegar, sugar, and sea salt.",
+    "Toss the prepared vegetables in the dressing until evenly coated.",
+    "Chill for 10 minutes before serving for optimal tanginess."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "monsoon",
+    "vegetables",
+    "salad",
+    "fermented",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 1,
+    "carbs": 14,
+    "fat": 0
+  },
+  "slug": "tangy-monsoon-vegetables-salad",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-monsoon-vegetables-salad",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-02T22:34:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "raw vegetables",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Monsoon",
+    "mainIngredient": "vegetables",
+    "descriptor": "Tangy",
+    "dishForm": "Salad"
+  }
+}
