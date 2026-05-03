@@ -1248,6 +1248,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-british-chicken-curry",
+    "title": "Tangy Juicy British Chicken Curry",
+    "tags": [
+      "british-cuisine",
+      "chicken-recipes",
+      "curry-dishes",
+      "tamarind-recipes",
+      "high-protein-meals"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-canadian-king-prawns-toast",
     "title": "Tangy Juicy Canadian King Prawns Toast",
     "tags": [

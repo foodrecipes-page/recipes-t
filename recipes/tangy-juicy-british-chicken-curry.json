@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Juicy British Chicken Curry",
+  "description": "A crowd-pleasing British dish featuring tender chicken in a rich, tangy tamarind curry sauce, perfect for a high-protein dinner. This recipe combines the bold flavors of tamarind pulp with the comfort of a traditional British curry.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tamarind pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the chicken to the pan and cook until browned on all sides, about 5-7 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the tamarind pulp, coconut milk, chicken broth, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cook, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Stir in any accumulated juices and adjust seasoning as needed.",
+    "Garnish with chopped cilantro and serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "chicken-recipes",
+    "curry-dishes",
+    "tamarind-recipes",
+    "high-protein-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tangy-juicy-british-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-british-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:23:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy juicy",
+    "dishForm": "Curry"
+  }
+}
