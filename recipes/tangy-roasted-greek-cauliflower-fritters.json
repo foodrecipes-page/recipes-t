@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Roasted Greek Cauliflower Fritters",
+  "description": "A juicy, Mediterranean-inspired fritter featuring roasted cauliflower and tangy Greek yogurt for a kid-friendly, DASH-diet compliant meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "Vegetarian",
+    "DASH-friendly",
+    "Low-Sodium"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 medium head",
+      "notes": "cut into small florets"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain, full-fat or low-fat for tanginess"
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "3/4 cup",
+      "notes": "helps with binding and protein"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1 tsp",
+      "notes": "Mediterranean flavor profile"
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tbsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 tsp",
+      "notes": "low-sodium seasoning"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for air-fryer coating"
+    }
+  ],
+  "instructions": [
+    "Steam or roast the cauliflower florets until tender, then mash them coarsely in a large bowl.",
+    "Fold in the Greek yogurt, lemon zest, and dried oregano into the mashed cauliflower.",
+    "Add the beaten egg and garlic powder, mixing thoroughly to combine.",
+    "Gradually stir in the chickpea flour until a thick, scoopable batter forms.",
+    "Preheat the air fryer to 375°F (190°C).",
+    "Form the mixture into 8-10 small patties, roughly 2 inches in diameter.",
+    "Lightly brush both sides of the patties with olive oil or use a propellant-free spray.",
+    "Place the fritters in the air fryer basket in a single layer, ensuring they do not touch.",
+    "Air fry for 12-15 minutes, flipping halfway through, until golden brown and crispy.",
+    "Serve warm with an extra dollop of yogurt for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "mediterranean",
+    "kid-friendly",
+    "high-protein",
+    "cauliflower"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 11,
+    "carbs": 18,
+    "fat": 8
+  },
+  "slug": "tangy-roasted-greek-cauliflower-fritters",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-roasted-greek-cauliflower-fritters",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T19:07:00Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "cauliflower",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Cauliflower",
+    "descriptor": "Tangy Roasted",
+    "dishForm": "Fritters"
+  }
+}
