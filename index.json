@@ -1150,6 +1150,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-greek-beef-kebabs",
+    "title": "Tangy Gooey Greek Beef Kebabs",
+    "tags": [
+      "greek",
+      "beef",
+      "kebabs",
+      "kid-friendly",
+      "halal"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-indulgent-korean-sultana-crumble",
     "title": "Tangy Gooey Indulgent Korean Sultana Crumble",
     "tags": [
