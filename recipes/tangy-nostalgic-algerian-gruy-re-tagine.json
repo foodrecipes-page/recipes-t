@@ -1,0 +1,135 @@
+{
+  "title": "Tangy Nostalgic Algerian Gruyère Tagine",
+  "description": "A hearty and comforting Algerian dish featuring tender lamb, caramelized onions, and a rich, creamy sauce made with Gruyère cheese.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds boneless lamb shoulder, cut into 1-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "2 medium onions, chopped",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon grated fresh ginger",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground cinnamon",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 teaspoon ground turmeric",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon cayenne pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup Gruyère cheese, grated",
+      "amount": null,
+      "notes": "gluten-free"
+    },
+    {
+      "name": "1/4 cup all-purpose gluten-free flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 cups lamb or chicken broth",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes. Remove lamb and set aside.",
+    "Add onions and cook until caramelized, about 8 minutes.",
+    "Add garlic, ginger, cumin, smoked paprika, cinnamon, turmeric, and cayenne pepper. Cook for 1 minute.",
+    "Add lamb back to the pot and stir to combine.",
+    "Add broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours or until lamb is tender.",
+    "Stir in Gruyère cheese until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped parsley if desired.",
+    "Serve with gluten-free couscous or rice.",
+    "Note: Traditionally, a clay tagine is used to cook this dish. If you have one, use it! Otherwise, a Dutch oven will work just fine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "lamb",
+    "tagine",
+    "gruyère",
+    "north african",
+    "comfort food",
+    "hearty",
+    "gluten-free friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "tangy-nostalgic-algerian-gruy-re-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-nostalgic-algerian-gruy-re-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:54:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "temper",
+    "primaryIngredient": "gruy re",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Gruy Re",
+    "descriptor": "Tangy Nostalgic",
+    "dishForm": "Tagine"
+  }
+}
