@@ -2449,6 +2449,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-italian-chicken-risotto",
+    "title": "Tender Italian Chicken Risotto",
+    "tags": [
+      "italian",
+      "poached-chicken",
+      "nut-free",
+      "comfort-food",
+      "one-pot"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-italian-egg-free-oregano-chicken-lasagna",
     "title": "Tender Italian Oregano Chicken Lasagna",
     "tags": [

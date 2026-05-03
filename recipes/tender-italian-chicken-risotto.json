@@ -1,0 +1,95 @@
+{
+  "title": "Tender Italian Chicken Risotto",
+  "description": "Savory, tender risotto featuring poached chicken and creamy soya milk, finished with Parmesan and fresh herbs for a crowd‑pleasing Italian dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless skinless chicken breasts",
+      "amount": "400g",
+      "notes": "poached with herbs"
+    },
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup (190g)"
+    },
+    {
+      "name": "Low‑sodium vegetable broth",
+      "amount": "4 cups (950ml)",
+      "notes": "warm"
+    },
+    {
+      "name": "Unsweetened soya milk",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium (150g)",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    "{\"name\":\"Dry white wine\",\"amount\":\"1/2 cup (120ml)\",\"notes\":\"optional\"}",
+    "{\"name\":\"Freshly grated Parmesan cheese\",\"amount\":\"1/4 cup (25g)\"}",
+    "{\"name\":\"Mixed Italian herbs\",\"amount\":\"1 tsp (3g)\"}",
+    "{\"name\":\"Salt and pepper\",\"amount\":\"to taste\"}",
+    "{\"name\":\"Fresh parsley\",\"amount\":\"for garnish\"}"
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a pot and keep it at a gentle simmer.",
+    "In a separate pan, heat the olive oil over medium heat and sauté the chopped onion until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for another minute until fragrant.",
+    "Stir in the arborio rice, coating each grain with oil, and toast for 1 minute.",
+    "Pour in the white wine (if using) and let it absorb completely.",
+    "Slowly ladle in the warm broth, one ladleful at a time, stirring constantly. Wait until the liquid is almost fully absorbed before adding the next ladleful.",
+    "When about halfway through the risotto (after 15 minutes), fold in the poached chicken pieces and the soya milk. Continue adding broth and stirring until the rice is creamy and al dente, about 15 more minutes.",
+    "Fold in the Parmesan cheese and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley. Enjoy the tender, creamy Italian chicken risotto!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "poached-chicken",
+    "nut-free",
+    "comfort-food",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 38,
+    "carbs": 42,
+    "fat": 18
+  },
+  "slug": "tender-italian-chicken-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-italian-chicken-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:27:37Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "soya milk",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tender",
+    "dishForm": "Risotto"
+  }
+}
