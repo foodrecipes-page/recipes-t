@@ -1106,6 +1106,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-norwegian-almond-broil",
+    "title": "Tangy Norwegian Almond Broil",
+    "tags": [
+      "norwegian",
+      "tangy",
+      "almond",
+      "broil",
+      "kosher",
+      "snack",
+      "crumbly"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 3,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-norwegian-tangy-potatoes-roast",
     "title": "Tangy Norwegian Tangy Potatoes Roast",
     "tags": [

@@ -1,0 +1,81 @@
+{
+  "title": "Tangy Norwegian Almond Broil",
+  "description": "A quick, crumbly Norwegian-inspired dish using almond butter and broiling for a tangy flavor profile. Perfect for a kosher-friendly snack or light meal.",
+  "cuisine": "norwegian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted, smooth"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coarse salt",
+      "amount": "1/4 tsp",
+      "notes": "for flavor balance"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 small sprig",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      ": ": "",
+      "notes": "for light coating"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine almond butter, apple cider vinegar, coarse salt, and chopped dill.",
+    "Gently mix until the ingredients are well combined and the dill is fully integrated.",
+    "Place the mixture on a broiler-safe dish and broil for 2 minutes at 500°F (260°C).",
+    "Remove from heat and let cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 1,
+  "cookTimeMin": 2,
+  "totalTimeMin": 3,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "tangy",
+    "almond",
+    "broil",
+    "kosher",
+    "snack",
+    "crumbly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "tangy-norwegian-almond-broil",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-norwegian-almond-broil",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:26:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "broil",
+    "primaryIngredient": "almond butter",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "almonds",
+    "descriptor": "tangy",
+    "dishForm": "Broil"
+  }
+}
