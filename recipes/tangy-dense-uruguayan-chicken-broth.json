@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Dense Uruguayan Chicken Broth",
+  "description": "A hearty and refreshing Uruguayan-inspired chicken broth, perfect for post-workout meals. This paleo-friendly dish is made with chicken stock, poached chicken, and a blend of tangy spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine chicken stock, lime juice, oregano, cilantro, garlic, and ginger. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the chicken to the pot and poach for 15-20 minutes, or until cooked through.",
+    "Remove the chicken from the pot and let it rest for 5 minutes before slicing it into thin strips.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the sliced chicken back to the pot and season with salt and black pepper to taste.",
+    "Simmer the broth over low heat for an additional 5 minutes to allow the flavors to meld.",
+    "Serve the broth hot, garnished with additional cilantro if desired.",
+    "Let the broth cool completely before refrigerating or freezing for later use.",
+    "Reheat the broth to an internal temperature of at least 165°F (74°C) before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "chicken-broth",
+    "paleo",
+    "post-workout",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "tangy-dense-uruguayan-chicken-broth",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-uruguayan-chicken-broth",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:59:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "poach",
+    "primaryIngredient": "chicken stock",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy dense",
+    "dishForm": "Broth"
+  }
+}
