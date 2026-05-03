@@ -1,0 +1,111 @@
+{
+  "title": "Tangy Fluffy Ukrainian Aubergine Pancakes",
+  "description": "Light, airy pancakes that combine tender baby aubergine with a bright pickle tang, making a kid‑friendly Ukrainian breakfast that’s both colorful and flavorful.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Baby aubergine (small eggplants)",
+      "amount": "2 medium (≈250 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "Dill pickles",
+      "amount": "2 large (≈150 g)",
+      "notes": "finely diced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "3/4 cup (95 g)"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp (5 g)",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp (2.5 g)"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp (25 g)",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup (180 ml)",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp (45 ml)",
+      "notes": "2 tbsp for batter, 1 tbsp for cooking"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1 (≈50 g)",
+      "notes": "beaten"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp chopped (optional)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp (5 ml)"
+    }
+  ],
+  "instructions": [
+    "1. Dice the baby aubergine into small cubes and finely dice the dill pickles. Set aside.",
+    "2. In a medium bowl whisk the flour, baking powder, salt, and sugar until well combined.",
+    "3. In a separate bowl whisk together the water, beaten egg, 2 tbsp olive oil, and lemon juice until smooth.",
+    "4. Pour the wet mixture into the dry ingredients and stir just until the batter is smooth; let it rest for 5 minutes to develop fluffiness.",
+    "5. Gently fold in the diced aubergine, pickles, and chopped dill (if using).",
+    "6. Heat a non‑stick skillet over medium heat and add a thin layer of olive oil.",
+    "7. Pour about 1/4 cup of batter onto the skillet for each pancake; cook 2‑3 minutes until bubbles form and the edges set.",
+    "8. Flip the pancakes and cook another 1‑2 minutes until golden and cooked through.",
+    "9. Serve the pancakes warm, optionally with a dollop of plain yogurt or a splash of sour cream.",
+    "10. Enjoy this tangy, fluffy Ukrainian breakfast with the whole family!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "kid-friendly",
+    "fluffy",
+    "tangy",
+    "aubergine",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 247,
+    "protein": 22,
+    "carbs": 114,
+    "fat": 46
+  },
+  "slug": "tangy-fluffy-ukrainian-aubergine-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-ukrainian-aubergine-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:16:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "baby aubergine",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "aubergine",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Pancakes"
+  }
+}
