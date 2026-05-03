@@ -897,6 +897,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-uruguayan-farfalle-pasta",
+    "title": "Tangy Crunchy Uruguayan Farfalle Pasta",
+    "tags": [
+      "simmer-dish",
+      "pasta",
+      "low-sodium",
+      "vegetarian",
+      "crunchy",
+      "tangy"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crust-crumble-rice",
     "title": "Tangy Crust Crumble Rice",
     "tags": [

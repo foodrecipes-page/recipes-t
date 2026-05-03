@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Crunchy Uruguayan Farfalle Pasta",
+  "description": "A cozy, low‑sodium Uruguayan dish that pairs tender bowtie pasta with a zesty tomato‑lemon sauce and a golden, crunchy panko topping.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle (bowtie pasta)",
+      "amount": "250 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sauté"
+    },
+    {
+      "name": "low‑sodium canned crushed tomatoes",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup (50 g)"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1/2 cup (60 g)"
+    },
+    {
+      "name": "corn kernels (fresh or frozen)",
+      "amount": "1/4 cup (40 g)"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of lightly salted water to a boil. Add farfalle and cook for 8–10 minutes until al dente. Drain and set aside.",
+    "While the pasta cooks, heat olive oil in a large skillet over medium heat. Add minced garlic and sauté for 30 seconds until fragrant.",
+    "Pour in the crushed tomatoes, dried oregano, smoked paprika, and a pinch of black pepper. Stir and let the sauce simmer for 8–10 minutes, stirring occasionally.",
+    "Stir in the lemon juice, then reduce the heat to low. Add the cooked farfalle, corn kernels, and half of the mozzarella, tossing gently to combine and let the pasta heat through for 2 minutes.",
+    "Transfer the pasta mixture to a baking dish. Sprinkle the panko breadcrumbs evenly over the top, then finish with the remaining mozzarella.",
+    "Place the dish under a preheated broiler for 3–4 minutes, or until the cheese is melted and the breadcrumbs are golden brown. Watch closely to prevent burning.",
+    "Remove from the oven, let rest for 1 minute, then serve warm. Garnish with a light dusting of freshly ground black pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "simmer-dish",
+    "pasta",
+    "low-sodium",
+    "vegetarian",
+    "crunchy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 405,
+    "protein": 13,
+    "carbs": 60,
+    "fat": 11
+  },
+  "slug": "tangy-crunchy-uruguayan-farfalle-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-uruguayan-farfalle-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:06:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "bowtie pasta",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Farfalle",
+    "descriptor": "Tangy Crunchy",
+    "dishForm": "Pasta"
+  }
+}
