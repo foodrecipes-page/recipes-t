@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Fluffy Dutch Chickpea Pancakes",
+  "description": "A nostalgic Dutch-inspired pancake that's tangy, fluffy, and high‑protein, made from chickpea flour and a quick fermented batter.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "300 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": "optional, adds extra tang"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "for serving, optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the chickpea flour, sea salt, and yeast.",
+    "Add the warm water gradually, whisking until a smooth batter forms with no lumps.",
+    "Stir in the apple cider vinegar and lemon zest until fully incorporated.",
+    "Cover the bowl with a damp cloth and let the batter ferment at room temperature for 30 minutes; it will bubble slightly.",
+    "Heat a non‑stick skillet over medium heat and brush with a little olive oil.",
+    "Pour 1/4 cup of batter onto the skillet for each pancake, spreading gently with a spatula to form circles about 6–8 cm in diameter.",
+    "Cook 2–3 minutes until bubbles form on the surface and the edges lift, then flip and cook another 2 minutes until golden and fluffy.",
+    "Serve warm drizzled with maple syrup, with a splash of lemon juice or a dollop of yogurt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pancake",
+    "chickpea",
+    "fluffy",
+    "high-protein",
+    "vegan",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 5
+  },
+  "slug": "tangy-fluffy-dutch-chickpea-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-dutch-chickpea-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:13:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "chickpea flour",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Pancakes"
+  }
+}
