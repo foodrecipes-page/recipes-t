@@ -1,0 +1,103 @@
+{
+  "title": "Tender Ukrainian Oyster Mushroom Toast",
+  "description": "A savory, vegan-friendly toast topped with sautéed oyster mushrooms infused with garlic, thyme, and nutritional yeast for a deep umami flavor.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oyster mushrooms",
+      "amount": "200g",
+      "notes": "cleaned and sliced"
+    },
+    {
+      "name": "whole grain bread",
+      "amount": "4 slices",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a skillet over medium heat and add minced garlic; sauté for 1 minute until aromatic.",
+    "Add sliced oyster mushrooms to the skillet and cook, stirring frequently, until they release moisture and become tender, about 5-6 minutes.",
+    "Stir in thyme leaves, nutritional yeast, lemon juice, salt, and pepper; cook another 1-2 minutes until the mushrooms are well coated.",
+    "While the mushrooms cook, toast bread slices in a toaster or on a separate skillet until golden brown.",
+    "Spread the sautéed mushroom mixture evenly over each toast slice.",
+    "Lightly melt vegan butter in a small saucepan and drizzle over the mushroom-topped toast.",
+    "Serve immediately while warm; optionally garnish with fresh parsley or additional thyme.",
+    "Enjoy this quick, umami-packed snack or light lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "mushroom",
+    "toast",
+    "ukrainian",
+    "umami",
+    "quick",
+    "breakfast",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 11
+  },
+  "slug": "tender-ukrainian-oyster-mushroom-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ukrainian-oyster-mushroom-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:52:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "toast",
+    "primaryIngredient": "oyster mushrooms",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Oyster Mushroom",
+    "descriptor": "Tender",
+    "dishForm": "Toast"
+  }
+}
