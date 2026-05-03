@@ -1,0 +1,120 @@
+{
+  "title": "Tonic Middle Eastern Poppy Seeds Stew",
+  "description": "A fermented, glassy-jelly vegan stew packed with ground poppy seeds, perfect for a post-workout meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "2 tbsp",
+      "notes": "≈30 g"
+    },
+    {
+      "name": "fermented soy sauce",
+      "amount": "3 tbsp",
+      "notes": "≈45 ml"
+    },
+    {
+      "name": "tamari",
+      "amount": "1 tbsp",
+      "notes": "≈15 ml"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "≈480 ml"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "≈164 g"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup",
+      "notes": "≈240 ml"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "2 cups",
+      "notes": "≈60 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "≈6 g"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tbsp",
+      "notes": "≈15 g"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "≈30 ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp",
+      "notes": "≈1 g"
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 small",
+      "notes": "≈70 g"
+    }
+  ],
+  "instructions": [
+    "Saute the chopped onion in a splash of oil in the pressure cooker until soft and fragrant.",
+    "Add minced garlic and ginger, cook for 30 seconds until aromatic.",
+    "Stir in ground poppy seeds and toast for one minute to release flavor.",
+    "Pour in fermented soy sauce, tamari, lemon juice, and water, then mix well.",
+    "Add chickpeas and diced tomatoes, stir to combine.",
+    "Secure the pressure cooker lid and set to high pressure for 5 minutes.",
+    "Release pressure naturally for 5 minutes, then perform a quick release to finish the cycle.",
+    "Stir in fresh spinach and black pepper, allowing it to wilt for another minute.",
+    "Taste and adjust seasoning if needed, then transfer the stew to a serving bowl.",
+    "Serve warm over cooked quinoa or rice for a post-workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "glassy-jelly",
+    "middle-eastern",
+    "post-workout",
+    "pressure-cook",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 8
+  },
+  "slug": "tonic-middle-eastern-poppy-seeds-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tonic-middle-eastern-poppy-seeds-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:34:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Tonic",
+    "dishForm": "Stew"
+  }
+}
