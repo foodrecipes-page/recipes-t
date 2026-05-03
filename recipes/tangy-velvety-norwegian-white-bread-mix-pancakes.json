@@ -1,0 +1,86 @@
+{
+  "title": "Tangy Velvety Norwegian White Bread Mix Pancakes",
+  "description": "These pancakes combine tangy flavors from buttermilk and lemon zest with a velvety texture, all achieved using a white bread mix. Perfect for a quick kid-friendly breakfast or brunch.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "whole30-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "melted unsalted butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together the white bread mix, eggs, buttermilk, lemon zest, maple syrup, and sugar.",
+    "The batter should still be slightly lumpy.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as melted butter, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "kid-friendly",
+    "one-pan",
+    "quick-breakfast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "tangy-velvety-norwegian-white-bread-mix-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-norwegian-white-bread-mix-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:02:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "blanch",
+    "primaryIngredient": "white bread mix",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "white bread mix",
+    "descriptor": "tangy velvety",
+    "dishForm": "Pancakes"
+  }
+}
