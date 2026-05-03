@@ -1,0 +1,114 @@
+{
+  "title": "Tangy Dense Slovakian Turkey Ham Dumplings",
+  "description": "A comforting Slovakian-inspired dish featuring hearty turkey ham dumplings simmered in a tangy tomato-broth, perfect for a cozy date night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced turkey ham",
+      "amount": "200g",
+      "notes": "lean, diced"
+    },
+    {
+      "name": "flour blend",
+      "amount": "100g",
+      "notes": "80g all-purpose, 20g rice flour for density"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "whole"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "30g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "15ml",
+      "notes": "tangy kick"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine minced turkey ham, flour blend, salt, pepper, and egg. Stir until well mixed. Add almond milk gradually, mixing until a firm but pliable dough forms. Let rest 10 minutes.",
+    "While dough rests, prepare sauce: In a saucepan, sauté onion and garlic in a splash of oil until translucent. Add tomato paste and cook 2 minutes.",
+    "Pour in vegetable broth, bring to a gentle simmer, then add apple cider vinegar. Season with salt and pepper, simmer 5 minutes to meld flavors.",
+    "Take spoonfuls of dough (about 1 tablespoon) and shape into small dumplings. Gently drop them into the simmering sauce. Do not overcrowd; cook in batches.",
+    "Cover and cook dumplings for 10 minutes, or until they rise and the dough is cooked through.",
+    "Stir in chopped parsley just before serving, allowing it to wilt slightly.",
+    "Taste the sauce; adjust acidity with more vinegar or seasoning as needed.",
+    "Transfer dumplings to a serving dish, spoon some sauce over them.",
+    "Serve hot, optionally with a side of steamed greens or a fresh green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "turkey",
+    "dumplings",
+    "plant-based-friendly",
+    "gluten-free",
+    "dairy-free",
+    "date-night",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 920,
+    "protein": 56,
+    "carbs": 134,
+    "fat": 19
+  },
+  "slug": "tangy-dense-slovakian-turkey-ham-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-slovakian-turkey-ham-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:39:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "turkey ham",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Tangy Dense",
+    "dishForm": "Dumplings"
+  }
+}
