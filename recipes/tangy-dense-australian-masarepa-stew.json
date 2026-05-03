@@ -1,0 +1,126 @@
+{
+  "title": "Tangy Dense Australian Masarepa Stew",
+  "description": "A comforting, tangy stew packed with creamy white masarepa, citrusy lime, and tamarind, perfect for a sick day.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white masarepa",
+      "amount": "150 g"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "400 ml",
+      "notes": "Use a low‑fat variety"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "spinach",
+      "amount": "200 g",
+      "notes": "fresh"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "rehydrate in 30 ml warm water if needed"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onion and minced garlic; sauté until translucent, about 3–4 minutes.",
+    "Stir in diced carrot and sweet potato, cooking for 5 minutes.",
+    "Pour in tomato puree and stir to combine.",
+    "Add vegetable broth, bring to a gentle simmer (85–95 °C).",
+    "Stir in the white masarepa, whisking continuously to prevent lumps.",
+    "Reduce heat to low, cover, and simmer for 45 minutes.",
+    "Stir in light coconut milk, tamarind paste, lime juice, salt and pepper; continue to simmer uncovered for another 15 minutes until thickened.",
+    "Add spinach, cooking until just wilted, about 2 minutes, then adjust seasoning.",
+    "Serve hot, optionally garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "vegan",
+    "gluten-free",
+    "slow-cook",
+    "sick-day",
+    "tangy",
+    "masarepa"
+  ],
+  "nutrition": {
+    "calories": 376,
+    "protein": 7,
+    "carbs": 78,
+    "fat": 7
+  },
+  "slug": "tangy-dense-australian-masarepa-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-australian-masarepa-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:35:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "white masarepa",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Masarepa",
+    "descriptor": "Tangy Dense",
+    "dishForm": "Stew"
+  }
+}
