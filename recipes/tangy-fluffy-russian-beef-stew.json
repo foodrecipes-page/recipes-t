@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Fluffy Russian Beef Stew",
+  "description": "A one-pot, low-calorie-friendly Russian dish featuring tender beef, fluffy texture, and tangy flavors from tomato juice and spices. Perfect for a hearty dinner on a chilly evening.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tomato juice",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the tomato juice, beef broth, Dijon mustard, thyme, paprika, black pepper, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Stir in the sour cream and continue to simmer, uncovered, for an additional 30 minutes, or until the stew has thickened slightly.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "russian-cuisine",
+    "beef-stew",
+    "low-calorie",
+    "one-pot-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "tangy-fluffy-russian-beef-stew",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-russian-beef-stew",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:24:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "cure",
+    "primaryIngredient": "tomato juice",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "tangy fluffy",
+    "dishForm": "Stew"
+  }
+}

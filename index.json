@@ -762,6 +762,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-fluffy-russian-beef-stew",
+    "title": "Tangy Fluffy Russian Beef Stew",
+    "tags": [
+      "russian-cuisine",
+      "beef-stew",
+      "low-calorie",
+      "one-pot-meal"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 140,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-garlic-middle-eastern-cream-cheese-stir-fry",
     "title": "Tangy Garlic Middle Eastern Cream Cheese Stir-fry",
     "tags": [
