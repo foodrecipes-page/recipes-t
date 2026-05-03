@@ -1064,6 +1064,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-filipino-chicken-bake",
+    "title": "Tangy Light Filipino Chicken Bake",
+    "tags": [
+      "filipino-cuisine",
+      "chicken-recipe",
+      "low-calorie",
+      "baked-dish"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-fish-stir-fry",
     "title": "Tangy Light Fish Stir-fry",
     "tags": [

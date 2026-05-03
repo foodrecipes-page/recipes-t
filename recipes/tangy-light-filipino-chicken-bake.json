@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Light Filipino Chicken Bake",
+  "description": "A zesty and flavorful Filipino-inspired dish made with chicken, red chilli powder, and a hint of citrus, perfect for a solo dinner. This recipe is low in calories and rich in protein.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "freshly squeezed calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together red chilli powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the spice mixture.",
+    "In a separate bowl, whisk together calamansi juice and olive oil.",
+    "Add the minced garlic to the bowl and mix well.",
+    "Add the sliced onion and diced tomato to the bowl and toss to combine.",
+    "Add the chicken to the bowl and toss to coat with the calamansi mixture.",
+    "Transfer the chicken and vegetable mixture to a baking dish.",
+    "Bake for 25-30 minutes or until the chicken is cooked through.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "filipino-cuisine",
+    "chicken-recipe",
+    "low-calorie",
+    "baked-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tangy-light-filipino-chicken-bake",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-filipino-chicken-bake",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:22:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "bake",
+    "primaryIngredient": "red chilli powder",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy light",
+    "dishForm": "Bake"
+  }
+}
