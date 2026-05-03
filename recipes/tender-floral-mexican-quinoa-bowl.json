@@ -1,0 +1,99 @@
+{
+  "title": "Tender Floral Mexican Quinoa Bowl",
+  "description": "A low‑calorie, floral‑infused quinoa bowl brimming with tender roasted poblano, crisp lettuce, and a splash of lime vinaigrette, perfect for a romantic lunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black beans",
+      "amount": "1/2 cup",
+      "notes": "canned, drained"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "poblano pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "4 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "edible violet petals",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa under cold water until the water runs clear.",
+    "In a small saucepan, bring 1 cup of water to a boil, add the quinoa, reduce heat to low, cover, and simmer for 12‑15 minutes until fluffy and water is absorbed.",
+    "While the quinoa cooks, preheat the broiler. Slice the poblano pepper into thin strips, brush lightly with olive oil, and season with salt and pepper.",
+    "Place the pepper slices on a broiler pan and broil for 3‑4 minutes, turning halfway, until the edges are slightly charred.",
+    "In a large bowl, arrange a bed of chopped romaine lettuce. Layer the cooked quinoa, black beans, cherry tomatoes, roasted poblano, and diced avocado on top.",
+    "Squeeze the juice of one lime over the bowl and sprinkle with chopped cilantro and edible violet petals.",
+    "Gently toss the bowl to combine flavors, ensuring the lime juice coats all ingredients evenly.",
+    "Serve immediately, adding a final drizzle of olive oil if desired.",
+    ""
+  ],
+  "slug": "tender-floral-mexican-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-floral-mexican-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:03:32Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "quinoa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "quinoa",
+    "descriptor": "Tender Floral",
+    "dishForm": "Bowl"
+  }
+}
