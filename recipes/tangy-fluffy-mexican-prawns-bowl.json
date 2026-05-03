@@ -1,0 +1,90 @@
+{
+  "title": "Tangy Fluffy Mexican Prawns Bowl",
+  "description": "A midnight‑craving keto bowl featuring tangy lime, fluffy coconut cream, and spicy bhuna‑seasoned prawns atop cauliflower rice.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "gluten‑free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw frozen prawns, peeled and deveined",
+      "amount": "500g",
+      "notes": "Thaw in cold water for 30 minutes"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "2 cups (≈240g)",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime",
+      "amount": "1, juiced",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup (≈50g)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/4 cup",
+      "notes": "Whisk until fluffy"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna spice mix",
+      "amount": "3 teaspoons (1 tsp cumin, 1 tsp coriander, 1 tsp smoked paprika, 1/2 tsp garam masala, 1/2 tsp chili powder, 1/2 tsp salt, 1/4 tsp pepper)",
+      "notes": "Blend together"
+    },
+    {
+      "name": "Keto‑friendly mayo",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Thaw the prawns in cold water for 30 minutes, then pat dry.",
+    "Heat the olive oil in a skillet over medium heat; add the bhuna spice mix and sauté for 1 minute until fragrant.",
+    "Add the prawns to the skillet and cook for 2–3 minutes per side, or until they turn opaque; remove from heat.",
+    "In the same skillet, add the cauliflower rice and stir‑fry for 3–4 minutes until tender.",
+    "In a bowl, layer cauliflower rice as the base, then top with prawns, avocado slices, shredded cheese, and chopped cilantro.",
+    "Drizzle the lime juice and keto‑friendly mayo over the bowl.",
+    "Whisk the coconut cream until fluffy and spoon it over the bowl for a light, airy finish.",
+    "Garnish with extra cilantro and serve immediately."
+  ],
+  "slug": "tangy-fluffy-mexican-prawns-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-mexican-prawns-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:56:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "bhuna",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Prawns",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Bowl"
+  }
+}
