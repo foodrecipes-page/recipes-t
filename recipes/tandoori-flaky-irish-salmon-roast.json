@@ -1,0 +1,112 @@
+{
+  "title": "Tandoori Flaky Irish Salmon Roast",
+  "description": "A fragrant, floral salmon roast with galangal paste and tandoori spices, perfect for a quick weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "200g",
+      "notes": "skin on, cut 2 pieces"
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "3 tbsp",
+      "notes": "use dairy-free if needed"
+    },
+    {
+      "name": "Galangal paste",
+      "amount": "1 tbsp",
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": "adds depth"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground for flavor"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp",
+      "notes": "classic tandoori spice"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "1 tbsp",
+      "notes": "brightens the dish"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting"
+    }
+  ],
+  "instructions": [
+    "Marinate the salmon fillets in yogurt, galangal paste, smoked paprika, cumin, garam masala, lemon juice, salt, pepper, and olive oil for 10 minutes.",
+    "Preheat the oven to 220°C (430°F) with a baking rack set in the middle and an oven-safe pan in the lower rack for drip collection.",
+    "Place the marinated fillets on a baking sheet lined with parchment, skin side down.",
+    "Roast the salmon for 20 minutes or until the flesh flakes easily and the skin is crisp.",
+    "Remove the salmon from the oven and let it rest for 5 minutes before serving.",
+    "Serve the tandoori salmon with a side of roasted potatoes and a drizzle of lemon yogurt sauce.",
+    "Optionally garnish with fresh cilantro or parsley for added color.",
+    "Enjoy with a glass of chilled Irish stout or a light white wine.",
+    "Keep leftovers refrigerated; reheat gently in a skillet to preserve flakiness.",
+    "Store in an airtight container for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "nut-free",
+    "one-pan",
+    "salmon",
+    "tandoor-style",
+    "tandoori",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 33,
+    "carbs": 3,
+    "fat": 20
+  },
+  "slug": "tandoori-flaky-irish-salmon-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tandoori-flaky-irish-salmon-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:56:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "tandoor",
+    "primaryIngredient": "galangal paste",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Tandoori Flaky",
+    "dishForm": "Roast"
+  }
+}

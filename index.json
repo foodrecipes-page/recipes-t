@@ -74,6 +74,22 @@
     "shard": "t"
   },
   {
+    "slug": "tandoori-flaky-irish-salmon-roast",
+    "title": "Tandoori Flaky Irish Salmon Roast",
+    "tags": [
+      "irish",
+      "nut-free",
+      "one-pan",
+      "salmon",
+      "tandoor-style",
+      "tandoori",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-algerian-lamb-bake",
     "title": "Tangy Algerian Lamb Bake",
     "tags": [
@@ -3264,6 +3280,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-moroccan-chicken-tagine",
+    "title": "Tender Moroccan Chicken Tagine",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "moroccan",
+      "one-pot",
+      "travel-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {

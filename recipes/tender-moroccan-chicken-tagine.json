@@ -1,0 +1,108 @@
+{
+  "title": "Tender Moroccan Chicken Tagine",
+  "description": "A salty, tender, dairy-free Moroccan chicken tagine with olives and a fragrant spice tadka, perfect for meal‑prep.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, bone‑in, skin removed",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green olives, pitted",
+      "amount": "200 g"
+    },
+    {
+      "name": "low‑fat vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a heavy‑bottomed pot over medium heat until shimmering.",
+    "Add the chicken thighs and brown on all sides, about 5 minutes, then remove and set aside.",
+    "In the same pot, sauté the sliced onion until translucent, about 4 minutes.",
+    "Stir in the minced garlic and tomato paste, cooking for 1 minute to release aromas.",
+    "Mix in the cumin, coriander, cinnamon, and smoked paprika, letting the spices toast for 30 seconds.",
+    "Return the browned chicken to the pot and pour in the vegetable broth, scraping up any browned bits.",
+    "Bring the mixture to a gentle boil, then reduce the heat, cover, and simmer for 25 minutes, or until the chicken is tender.",
+    "Add the pitted olives and lemon juice, and stir gently; cook for an additional 5 minutes to meld flavors.",
+    "Taste and season with salt and pepper if needed, then remove the lid and let the sauce thicken for 2 minutes.",
+    "Serve hot over cooked couscous or rice, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "moroccan",
+    "one-pot",
+    "travel-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 55,
+    "carbs": 18,
+    "fat": 35
+  },
+  "slug": "tender-moroccan-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-moroccan-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:55:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "olives",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender",
+    "dishForm": "Tagine"
+  }
+}
