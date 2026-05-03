@@ -1763,6 +1763,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-algerian-lentil-tagine",
+    "title": "Tangy Light Algerian Lentil Tagine",
+    "tags": [
+      "algerian",
+      "lentil",
+      "tagine",
+      "diabetic-friendly",
+      "low-calorie",
+      "vegetarian",
+      "steamed"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
     "title": "Tangy Light Algerian Rhubarb Stir-fry",
     "tags": [
