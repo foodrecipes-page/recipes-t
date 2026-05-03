@@ -1,0 +1,79 @@
+{
+  "title": "Tender Ethiopian Prunes Omelette",
+  "description": "A salty, tender brunch dish featuring marinated prunes in a light Ethiopian-style omelette, perfect for sugar-free diets.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "sugar-free",
+    "low-sodium"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "ethiopian prunes",
+      "amount": "1 cup",
+      "notes": "fresh or dried, pitted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "spices",
+      "amount": "1/2 tsp cumin",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine prunes, cumin, and salt; marinate for 10 minutes.",
+    "Heat a non-stick pan over medium heat; add eggs and cook until slightly set.",
+    "Pour in the marinated prunes and mix gently until tender.",
+    "Drizzle with water and cook for 2 more minutes until prunes are soft and omelette is set."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "prunes",
+    "brunch",
+    "sugar-free",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 8
+  },
+  "slug": "tender-ethiopian-prunes-omelette",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ethiopian-prunes-omelette",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T01:00:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "prunes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "prunes",
+    "descriptor": "tender",
+    "dishForm": "Omelette"
+  }
+}
