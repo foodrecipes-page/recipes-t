@@ -1,0 +1,107 @@
+{
+  "title": "Tender Earthy British Beet Casserole",
+  "description": "A comforting, slow‑cooked beet casserole with a sweet blackcurrant jam glaze that evokes nostalgic British family dinners.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beets, medium, peeled and cubed",
+      "amount": "800g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2 cloves",
+      "notes": "about 6g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "30ml"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "15ml"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "1/4 cup",
+      "notes": "60g"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup",
+      "notes": "240ml"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "2g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tablespoon",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Heat 1 tablespoon of olive oil in a large oven‑proof skillet over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cubed beets, remaining olive oil, balsamic vinegar, dried thyme, and a pinch of salt; stir to coat.",
+    "Pour in the vegetable stock and bring to a gentle simmer.",
+    "Cover the skillet and transfer to the oven; braise for 45 minutes, stirring once halfway through, until the beets are tender.",
+    "Remove from the oven, swirl in the blackcurrant jam until the mixture is glossy and slightly thickened.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "beet",
+    "casserole",
+    "british",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 7
+  },
+  "slug": "tender-earthy-british-beet-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-earthy-british-beet-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:08:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "braise",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Beet",
+    "descriptor": "Tender Earthy",
+    "dishForm": "Casserole"
+  }
+}
