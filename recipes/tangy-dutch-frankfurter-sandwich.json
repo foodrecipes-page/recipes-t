@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Dutch Frankfurter Sandwich",
+  "description": "A quick weeknight Dutch-style sandwich with tangy flavors and flaky texture, perfect for keto diets.",
+  "cuisine": "dutch",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dutch frankfurter",
+      "amount": "2 medium",
+      "notes": "pre-cooked, sliced thin"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for tanginess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "dill pickle",
+      "amount": "1 medium",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp",
+      ": ": ", ",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Slice the frankfurters into thin rounds using a sharp knife.",
+    "In a small bowl, mix apple cider vinegar with 1 tsp olive oil and a pinch of salt for tang.",
+    "Layer sliced frankfurters on a plate, then add a thin layer of the vinegar mixture.",
+    "Top with sliced pickle, red onion, and sour cream.",
+    "Add a light sprinkle of dijon mustard if desired.",
+    "Serve immediately for best texture and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "dutch",
+    "lunch",
+    "sandwich",
+    "tangy",
+    "frankfurter"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "tangy-dutch-frankfurter-sandwich",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dutch-frankfurter-sandwich",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T06:49:25Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "frankfurter",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "frankfurter",
+    "descriptor": "tangy",
+    "dishForm": "Sandwich"
+  }
+}
