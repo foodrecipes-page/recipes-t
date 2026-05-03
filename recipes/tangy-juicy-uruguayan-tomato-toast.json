@@ -1,0 +1,102 @@
+{
+  "title": "Tangy Juicy Uruguayan Tomato Toast",
+  "description": "A bright, kid-friendly toast topped with fresh tomatoes, chives, and a tangy lemon‑olive oil dressing, perfect for a quick snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": "preferably crusty"
+    },
+    {
+      "name": "ripe tomatoes",
+      "amount": "2 medium, diced",
+      "notes": "optional: add a pinch of salt to enhance juiciness"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "2 tbsp, finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "lemon",
+      "amount": "juice of 1/2, zest 1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "balsamic glaze",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or a skillet over medium heat.",
+    "Toast the bread slices until golden brown, about 2‑3 minutes.",
+    "In a small bowl, whisk together olive oil, lemon juice, lemon zest, garlic, salt, and pepper to create a dressing.",
+    "Spread the dressing evenly over the hot toast.",
+    "Top each slice with diced tomatoes, chives, and parsley if using.",
+    "Drizzle a small amount of balsamic glaze over the tomatoes for added tang.",
+    "Serve immediately while the toast is still warm and the tomatoes are juicy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "kid-friendly",
+    "quick",
+    "snack",
+    "uruguayan",
+    "vegetarian",
+    "toasted",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tangy-juicy-uruguayan-tomato-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-uruguayan-tomato-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:00:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "toast",
+    "primaryIngredient": "chives",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Tomato",
+    "descriptor": "Tangy Juicy",
+    "dishForm": "Toast"
+  }
+}

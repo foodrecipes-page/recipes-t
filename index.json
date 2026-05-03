@@ -1564,6 +1564,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-uruguayan-tomato-toast",
+    "title": "Tangy Juicy Uruguayan Tomato Toast",
+    "tags": [
+      "kid-friendly",
+      "quick",
+      "snack",
+      "uruguayan",
+      "vegetarian",
+      "toasted",
+      "tomato"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 8,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-zanzibari-white-asparagus-soup",
     "title": "Tangy Juicy Zanzibari White Asparagus Soup",
     "tags": [
