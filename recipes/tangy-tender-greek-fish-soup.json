@@ -1,0 +1,113 @@
+{
+  "title": "Tangy Tender Greek Fish Soup",
+  "description": "A quick, tangy Mediterranean fish soup with tender white fish, fresh tomatoes, lemon, and toasted walnuts, perfect for a comforting sick-day meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato, peeled & chopped",
+      "amount": "3 medium (≈450g)"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "4 cups (960 ml)"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp (from 1 lemon)"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "White fish fillets (cod or haddock)",
+      "amount": "400g"
+    },
+    {
+      "name": "Walnuts, chopped",
+      "amount": "½ cup (to toast separately)",
+      "notes": "Toast in a dry skillet until fragrant, then chop finely."
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp (garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 4–5 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add chopped tomatoes and cook for 5 minutes until softened.",
+    "Pour in vegetable stock and bring the mixture to a gentle simmer.",
+    "Stir in lemon juice, dried oregano, salt, and black pepper; let the soup simmer for 5 minutes to meld flavors.",
+    "Add the fish fillets, cover, and cook for 6–8 minutes until the fish flakes easily.",
+    "While the fish cooks, toast the walnuts in a dry skillet over medium heat until fragrant, about 3–4 minutes, then chop finely.",
+    "Remove the pot from heat and stir in the toasted walnuts.",
+    "Ladle the soup into bowls, garnish with fresh parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "fish-soup",
+    "walnut",
+    "quick-meal",
+    "sick-day",
+    "pescatarian-friendly",
+    "gluten-free",
+    "mediterranean",
+    "white-fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "tangy-tender-greek-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-greek-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:34:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "walnuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Fish",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Soup"
+  }
+}

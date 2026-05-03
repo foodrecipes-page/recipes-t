@@ -1707,6 +1707,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-greek-fish-soup",
+    "title": "Tangy Tender Greek Fish Soup",
+    "tags": [
+      "tangy",
+      "fish-soup",
+      "walnut",
+      "quick-meal",
+      "sick-day",
+      "pescatarian-friendly",
+      "gluten-free",
+      "mediterranean",
+      "white-fish"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
     "title": "Tangy Tender Light Slovakian Dried Shrimp Stir-fry",
     "tags": [
