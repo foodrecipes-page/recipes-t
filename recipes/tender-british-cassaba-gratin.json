@@ -1,0 +1,101 @@
+{
+  "title": "Tender British Cassaba Gratin",
+  "description": "A delicate and flavorful British dish featuring poached cassaba, perfect for a crowd. This low-fat-friendly recipe is sure to please with its tender texture and floral notes.",
+  "cuisine": "British",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cassaba melon",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "low-fat cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pot, combine the diced cassaba melon and enough water to cover it. Bring to a boil, then reduce the heat and simmer for 10-12 minutes, or until tender.",
+    "Drain the cassaba and set it aside to cool.",
+    "In a blender or food processor, combine the cooled cassaba, low-fat cream, grated cheddar cheese, chopped fresh mint leaves, lemon juice, and honey. Blend until smooth.",
+    "Season the mixture with salt and black pepper to taste.",
+    "In a separate bowl, whisk the egg whites until stiff peaks form.",
+    "Fold the egg whites into the cassaba mixture until well combined.",
+    "Transfer the mixture to a baking dish and top with whole wheat breadcrumbs.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "low-fat",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "tender-british-cassaba-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-cassaba-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:49:25Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "poach",
+    "primaryIngredient": "cassaba",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cassaba",
+    "descriptor": "tender floral",
+    "dishForm": "Gratin"
+  }
+}
