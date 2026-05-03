@@ -1,0 +1,99 @@
+{
+  "title": "Tender Irish Beef Toast",
+  "description": "Savor the flavors of Ireland with this tender beef toast dish, featuring snow peas and served as a delicious solo dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grass-fed Irish beef (6 oz)",
+      "amount": "6 oz",
+      "notes": "Slice thinly for even cooking"
+    },
+    {
+      "name": "Fresh snow peas (1 cup)",
+      "amount": "1 cup",
+      "notes": "Trim ends for best results"
+    },
+    {
+      "name": "Fodmap-friendly Irish cheddar cheese (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Shred for even melting"
+    },
+    {
+      "name": "Fresh thyme (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Chopped for best flavor"
+    },
+    {
+      "name": "Garlic-infused olive oil (2 tbsp)",
+      "amount": "2 tbsp",
+      "notes": "For sautéing beef and snow peas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use to season beef and snow peas"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": "Use to season beef and snow peas"
+    },
+    {
+      "name": "Toasted Irish bread (1 slice)",
+      "amount": "1 slice",
+      "notes": "For serving with beef and snow peas"
+    },
+    {
+      "name": "Fresh parsley (chopped)",
+      "amount": "to garnish",
+      "notes": "For added freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the Irish beef with salt and black pepper. Heat garlic-infused olive oil in a skillet over medium-high heat. Sear the beef for 2-3 minutes per side, then transfer to a baking sheet and roast in the oven for 8-10 minutes or until cooked to your liking.",
+    "While the beef is cooking, heat a small amount of garlic-infused olive oil in the same skillet. Add the snow peas and cook until tender, about 3-4 minutes. Season with salt and black pepper to taste.",
+    "Toast the Irish bread until lightly browned. Top with the cooked beef, snow peas, and shredded Irish cheddar cheese.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grain-free",
+    "low-carb",
+    "beef",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-irish-beef-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-irish-beef-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:52:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "toast",
+    "primaryIngredient": "snow peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "tender",
+    "dishForm": "Toast"
+  }
+}

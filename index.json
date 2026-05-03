@@ -1995,6 +1995,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-irish-beef-toast",
+    "title": "Tender Irish Beef Toast",
+    "tags": [
+      "grain-free",
+      "low-carb",
+      "beef",
+      "irish"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
     "slug": "tender-irish-sugar-dish",
     "title": "Tender Irish Sugar Dish",
     "tags": [
