@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Creamy British Potato Gratin",
+  "description": "A zesty, creamy gratin featuring baby new potatoes, plant‑based yogurt, and a tangy mustard‑lemon sauce—perfect for a sophisticated date night.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Baby new potatoes",
+      "amount": "600 g",
+      "notes": "Halved"
+    },
+    {
+      "name": "Unsweetened almond milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Plain soy yogurt",
+      "amount": "150 g"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Chopped parsley (optional garnish)",
+      "amount": "2 Tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 °C (400 °F).",
+    "In a bowl whisk together almond milk, soy yogurt, mustard, lemon zest, lemon juice, and minced garlic until smooth. Season with salt and pepper.",
+    "Toss the halved baby potatoes in olive oil and season with a pinch of salt. Spread them in a baking dish. Pour the yogurt mixture over the potatoes, ensuring even coverage.",
+    "Bake for 25–30 minutes, until the potatoes are tender and the top is golden. Let rest for 5 minutes.",
+    "Garnish with chopped parsley before serving. Serve hot as a hearty dinner side or main.",
+    "Enjoy the tangy, creamy flavors of this British-inspired gratin."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "vegan",
+    "potato",
+    "gratin",
+    "date-night",
+    "creamy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 165,
+    "protein": 11,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "tangy-creamy-british-potato-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-british-potato-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:06:39Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "rest",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "potato",
+    "descriptor": "Tangy Creamy",
+    "dishForm": "Gratin"
+  }
+}
