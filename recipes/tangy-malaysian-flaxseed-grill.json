@@ -1,0 +1,116 @@
+{
+  "title": "Tangy Malaysian Flaxseed Grill",
+  "description": "A festive, tangy grilled tofu dish infused with tamarind and lime, topped with toasted flax seeds for a nutty crunch, perfect for a kosher-friendly meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g",
+      "notes": "pressed and sliced into 1/2\" thick slabs"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kosher soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey or maple syrup",
+      "amount": "1 tbsp (optional)",
+      "notes": "balances the sourness"
+    },
+    {
+      "name": "toasted flax seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili",
+      "amount": "1",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "fresh coriander",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for at least 30 minutes to remove excess moisture, then slice into 1/2\" thick slabs.",
+    "In a bowl, whisk together tamarind paste, lime juice, soy sauce, honey (if using), grated ginger, minced garlic, sliced chili, sesame oil, salt and pepper to create the marinate.",
+    "Place tofu slabs in the bowl and coat them thoroughly with the marinade, cover, and let them sit for 15 minutes to absorb flavors.",
+    "Preheat a grill or grill pan over medium heat and lightly oil the grates to prevent sticking.",
+    "Grill the tofu slabs for about 4 minutes on each side, or until golden brown and the exterior is slightly charred.",
+    "While the tofu is grilling, toast flax seeds in a dry skillet over low heat until fragrant, about 2 minutes.",
+    "Once grilled, transfer the tofu to a serving plate and drizzle any remaining marinade over it.",
+    "Sprinkle toasted flax seeds, chopped coriander, and green onions over the tofu.",
+    "Serve immediately with a wedge of lime for extra zing.",
+    "Enjoy the burst of tangy, savory, and nutty flavors!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 35,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "kosher-friendly",
+    "vegetarian",
+    "grill",
+    "flaxseed",
+    "malaysian",
+    "sour",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "tangy-malaysian-flaxseed-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-malaysian-flaxseed-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:18:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "flaxseed",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Flaxseed",
+    "descriptor": "Tangy",
+    "dishForm": "Grill"
+  }
+}

@@ -372,6 +372,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crispy-german-applesauce-toast",
+    "title": "Tangy Crispy German Applesauce Toast",
+    "tags": [
+      "german",
+      "brunch",
+      "applesauce",
+      "crispy",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crispy-greek-cauliflower-stir-fry",
     "title": "Tangy Crispy Greek Cauliflower Stir-fry",
     "tags": [
@@ -1374,6 +1389,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-kenyan-grains-curry",
+    "title": "Tangy Kenyan Grains Curry",
+    "tags": [
+      "tangy",
+      "kenyan",
+      "keto-friendly",
+      "meal-prep",
+      "curry",
+      "cauliflower-rice"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
     "title": "Tangy Light Algerian Rhubarb Stir-fry",
     "tags": [
@@ -1504,6 +1534,22 @@
       "tangy"
     ],
     "cuisine": "Italian fusion",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-malaysian-flaxseed-grill",
+    "title": "Tangy Malaysian Flaxseed Grill",
+    "tags": [
+      "kosher-friendly",
+      "vegetarian",
+      "grill",
+      "flaxseed",
+      "malaysian",
+      "sour",
+      "tamarind"
+    ],
+    "cuisine": "Malaysian",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -2025,6 +2071,19 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 210,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-british-lamb-roast",
+    "title": "Tender British Lamb Roast",
+    "tags": [
+      "lamb-roast",
+      "british-cuisine",
+      "whole30",
+      "gluten-free"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 80,
     "shard": "t"
   },
   {

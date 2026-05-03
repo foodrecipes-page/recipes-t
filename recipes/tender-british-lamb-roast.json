@@ -1,0 +1,93 @@
+{
+  "title": "Tender British Lamb Roast",
+  "description": "A garlicky and tender lamb roast with a hint of sweetness, featuring powdered sugar in a light British dish. This Whole30-friendly recipe is perfect for a special occasion.",
+  "cuisine": "British",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb leg",
+      "amount": "1.5 kg",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C.",
+    "In a small bowl, mix together minced garlic, powdered sugar, salt, and black pepper.",
+    "Rub the garlic-sugar mixture all over the lamb leg, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb leg until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes per kilogram, or until it reaches an internal temperature of 63°C.",
+    "Baste the lamb with lemon juice and sprinkle with chopped rosemary after 30 minutes of roasting.",
+    "Continue roasting until the lamb is tender and cooked to your liking.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-roast",
+    "british-cuisine",
+    "whole30",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "tender-british-lamb-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-lamb-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:18:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "roast",
+    "primaryIngredient": "powdered sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "tender roast",
+    "dishForm": "Roast"
+  }
+}
