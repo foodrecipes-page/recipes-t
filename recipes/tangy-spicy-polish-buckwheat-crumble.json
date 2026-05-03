@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Spicy Polish Buckwheat Crumble",
+  "description": "A zesty, crispy buckwheat crumble with Sichuan pepper and a lemony tang, perfect for a solo dinner that's Mediterranean-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sichuan peppercorns, ground",
+      "amount": "1 tsp",
+      "notes": "for heat"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 lemon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond flour",
+      "amount": "60 g"
+    }
+  ],
+  "instructions": [
+    "Rinse 200 g of buckwheat groats under cold water and drain well.",
+    "In a medium saucepan, heat 1 tbsp olive oil over medium heat and toast the buckwheat, stirring until fragrant, about 2 minutes.",
+    "Add the remaining 1 tbsp olive oil, Sichuan peppercorns, red pepper flakes, smoked paprika, oregano, and 1 tsp salt. Cook for 1 minute to bloom the spices.",
+    "Pour in 250 ml of water, bring to a boil, reduce heat to low, cover, and simmer for 15 minutes until the buckwheat is tender and liquid is absorbed.",
+    "While the buckwheat cooks, zest one lemon and juice it into a small bowl. Set aside.",
+    "When the buckwheat is ready, fluff it with a fork and stir in the lemon zest, lemon juice, and a pinch of extra salt if needed.",
+    "Transfer the buckwheat mixture to a baking dish and sprinkle evenly with almond flour.",
+    "Bake at 200°C (400°F) for 10-12 minutes or until the almond topping turns golden and crisp.",
+    "Remove from the oven, let cool for a few minutes, then serve warm as a standalone dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "quick",
+    "easy",
+    "crunchy",
+    "buckwheat",
+    "spicy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 1273,
+    "protein": 39,
+    "carbs": 154,
+    "fat": 64
+  },
+  "slug": "tangy-spicy-polish-buckwheat-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-spicy-polish-buckwheat-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:22:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "whisk",
+    "primaryIngredient": "sichuan pepper",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Tangy Spicy",
+    "dishForm": "Crumble"
+  }
+}
