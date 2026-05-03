@@ -1,0 +1,115 @@
+{
+  "title": "Tangy Crumbly Syrian Sausage Soup",
+  "description": "A refreshing, low‑fat soup featuring sliced German bratwurst, fresh vegetables, and a tangy yogurt‑lemon sauce topped with crunchy crackers.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "German bratwurst, sliced",
+      "amount": "2",
+      "notes": "about 200 g total"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Celery stalk, diced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Low‑sodium chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Low‑fat plain yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Whole‑wheat crackers, crushed",
+      "amount": "½ cup",
+      "notes": "crumbly topping"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of olive oil.",
+    "Sauté the diced onion and minced garlic until translucent and fragrant, about 3 minutes.",
+    "Add the diced carrot and celery and cook for another 4 minutes.",
+    "Insert the sliced bratwurst into the pot and brown on all sides for 5 minutes.",
+    "Pour in the chicken broth, bring to a gentle boil, then reduce heat and simmer for 10 minutes.",
+    "Stir in the ground cumin, salt, and pepper to taste.",
+    "Remove the pot from heat and whisk in the low‑fat yogurt and lemon juice until fully combined.",
+    "Return the pot to low heat and warm the soup for 2 minutes, ensuring the yogurt does not boil.",
+    "Season with fresh parsley, adjust salt if needed, and ladle the soup into bowls.",
+    "Sprinkle the crushed whole‑wheat crackers over each serving for a crunchy, crumbly contrast."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "low-fat",
+    "sour",
+    "syrian",
+    "german-sausage",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "tangy-crumbly-syrian-sausage-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-syrian-sausage-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:28:40Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "german sausages",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sausage",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Soup"
+  }
+}
