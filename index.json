@@ -3408,6 +3408,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-peruvian-potatoes-bake",
+    "title": "Tender Peruvian Potatoes Bake",
+    "tags": [
+      "breakfast",
+      "comfort-food",
+      "lacto-vegetarian",
+      "one-pan",
+      "peruvian",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tender-polish-potato-toast",
     "title": "Tender Polish Potato Toast",
     "tags": [

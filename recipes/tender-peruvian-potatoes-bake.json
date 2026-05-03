@@ -1,0 +1,100 @@
+{
+  "title": "Tender Peruvian Potatoes Bake",
+  "description": "Fermented, velvety, and nostalgic Peruvian dish featuring extra clotted cream and infused oil. Serve warm on a lazy Susan spinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "8 medium",
+      "notes": "Yukon potatoes or similar variety"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "2 cups",
+      "notes": "Extra or ultra clotted cream"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "Red pepper flakes or Peruvian aji amarillo powder"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "Mince or crush garlic to release flavors"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "Infused with Peruvian herbs or spices"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Whole or ground cumin powder"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/2 tsp",
+      "notes": "Whole or ground coriander powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Flaky sea salt or kosher salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pierce the potatoes 3-4 times with a fork to allow steam to escape.",
+    "Bake the potatoes for 45 minutes or until they are tender.",
+    "While the potatoes are baking, mix the clotted cream, chili flakes, garlic, cumin, coriander, and salt in a bowl.",
+    "Once the potatoes are done, let them cool for 5-10 minutes.",
+    "Slice the potatoes in half lengthwise and scoop out some of the flesh to make room for the cream mixture.",
+    "Fill each potato shell with the clotted cream mixture and drizzle with infused oil.",
+    "Return the potatoes to the oven for an additional 10-15 minutes or until the filling is heated through.",
+    "Serve the potatoes warm on a lazy Susan spinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 55,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "peruvian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-peruvian-potatoes-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-peruvian-potatoes-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:55:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Tender",
+    "dishForm": "Bake"
+  }
+}
