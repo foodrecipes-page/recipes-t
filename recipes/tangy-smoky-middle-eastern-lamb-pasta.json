@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Smoky Middle Eastern Lamb Pasta",
+  "description": "A fragrant fettuccine tossed with smoky ground lamb and tangy harissa, finished with fresh herbs and lemon for a high‑protein, date‑night delight.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "400g"
+    },
+    {
+      "name": "ground lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "onion, finely diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato sauce, low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh mint, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook fettuccine according to package instructions until al dente; drain and set aside.",
+    "In a large skillet, heat olive oil over medium‑high heat. Add diced onion and bell pepper, sautéing until softened, about 4 minutes.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Add the ground lamb to the skillet, breaking it up with a spoon. Cook until browned and cooked through, about 6 minutes. Drain excess fat if needed.",
+    "Stir in tomato sauce, harissa paste, smoked paprika, cumin, and coriander. Reduce heat to medium and simmer for 5 minutes, allowing flavors to meld.",
+    "Return the cooked fettuccine to the skillet, tossing to coat the pasta evenly with the lamb sauce.",
+    "Season with sea salt, black pepper, lemon juice, and half of the chopped mint and parsley. Toss well.",
+    "Serve hot, garnished with the remaining mint and parsley, and a drizzle of extra olive oil if desired."
+  ],
+  "slug": "tangy-smoky-middle-eastern-lamb-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-smoky-middle-eastern-lamb-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:14:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "fettuccine",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Tangy Smoky",
+    "dishForm": "Pasta"
+  }
+}
