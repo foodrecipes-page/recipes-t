@@ -1,0 +1,109 @@
+{
+  "title": "Tangy Tender Canadian Udon Casserole",
+  "description": "A heartwarming, dairy‑free baked udon dish with a tangy lime‑maple glaze, tender tofu, and fresh veggies, inspired by Canadian comfort cuisine.",
+  "cuisine": "Canadian",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "200 g"
+    },
+    {
+      "name": "Firm tofu",
+      "amount": "200 g"
+    },
+    {
+      "name": "Baby spinach",
+      "amount": "150 g"
+    },
+    {
+      "name": "Sliced shiitake mushrooms",
+      "amount": "100 g"
+    },
+    {
+      "name": "Shredded carrots",
+      "amount": "1 cup (120 g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "Low‑sodium soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup (240 ml)"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pecans, chopped",
+      "amount": "¼ cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the udon noodles according to package directions until al dente; drain and set aside.",
+    "In a small bowl whisk together soy sauce, lime juice, coconut milk, maple syrup, minced garlic, and grated ginger to make the tangy sauce.",
+    "Press and crumble the tofu into bite‑size cubes; toss in a drizzle of the sauce until coated, then set aside.",
+    "In a large skillet, sauté the mushrooms and carrots over medium heat until they start to soften, about 5 minutes; add the spinach and cook until wilted, about 2 minutes.",
+    "Combine the cooked noodles, sautéed veggies, tofu, and remaining sauce in a 9‑x‑13‑inch baking dish, tossing gently to coat everything evenly.",
+    "Sprinkle the chopped pecans over the top and bake in a preheated oven at 180 °C (350 °F) for 20 minutes, or until the casserole is heated through and the cheese‑like topping is golden.",
+    "Remove from oven, let rest 5 minutes, then serve hot, optionally garnished with fresh cilantro or lime wedges.",
+    "Enjoy the creamy, tangy, and tender flavors in each bite!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "vegan",
+    "comfort-food",
+    "baked",
+    "udon",
+    "tangy",
+    "indulgent",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 1150,
+    "protein": 47,
+    "carbs": 124,
+    "fat": 61
+  },
+  "slug": "tangy-tender-canadian-udon-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-canadian-udon-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:34:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "bake",
+    "primaryIngredient": "udon noodles",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "udon",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Casserole"
+  }
+}
