@@ -47,9 +47,9 @@
   ],
   "nutrition": {
     "calories": 98,
-    "protein": 1.3,
-    "carbs": 6.7,
-    "fat": 4.2
+    "protein": 1,
+    "carbs": 7,
+    "fat": 4
   },
   "slug": "tangy-crispy-ferment-meal-prep",
   "source": "ollama-qwen2.5:3b",

@@ -69,5 +69,7 @@
     "mainIngredient": "sugar",
     "descriptor": "tender",
     "dishForm": "Dish"
-  }
+  },
+  "totalTimeMin": 40,
+  "servings": 4
 }

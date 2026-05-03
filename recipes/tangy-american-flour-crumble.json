@@ -31,7 +31,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Mix all ingredients together until well combined.",
     "Transfer mixture to a greased baking dish or muffin tin and press down firmly into the bottom of the container.",
     "Bake for 20-25 minutes, or until golden brown on top.",
@@ -46,7 +46,7 @@
     "tangy",
     "crisp",
     "energizing",
-    "american_flour_crumble"
+    "american-flour-crumble"
   ],
   "nutrition": {
     "calories": 165,

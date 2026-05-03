@@ -1,6 +1,6 @@
 {
   "title": "Tangy Cheesy Kenyan Eggs Frittata",
-  "description": "A quick, tangy and gooey Kenyan-style frittata that blends eggs, sharp cheddar, sautéed onions, tomatoes, and green chili for a low-carb breakfast fix.",
+  "description": "A quick, tangy and gooey Kenyan-style frittata that blends eggs, sharp cheddar, sauteed onions, tomatoes, and green chili for a low-carb breakfast fix.",
   "cuisine": "Kenyan",
   "diet": [
     "low-carb"
@@ -20,7 +20,7 @@
     {
       "name": "shortening",
       "amount": "30g",
-      "notes": "neutral shortening for sauté"
+      "notes": "neutral shortening for saut\u00e9"
     },
     {
       "name": "onion",
@@ -44,11 +44,11 @@
     },
     {
       "name": "salt",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "black pepper",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "spinach",
@@ -58,9 +58,9 @@
   ],
   "instructions": [
     "Heat a large non-stick skillet over medium heat and add the shortening until melted.",
-    "Add the diced onion and sauté for 2-3 minutes until translucent.",
+    "Add the diced onion and saut\u00e9 for 2-3 minutes until translucent.",
     "Stir in the chopped green chili and diced tomato, cooking for another 2 minutes until the tomato softens.",
-    "Whisk the eggs in a bowl and pour them over the sautéed mixture, tilting the pan to spread the eggs evenly.",
+    "Whisk the eggs in a bowl and pour them over the saut\u00e9ed mixture, tilting the pan to spread the eggs evenly.",
     "Cook the eggs for 1-2 minutes until the edges start to set, then sprinkle the grated cheddar cheese evenly on top.",
     "Reduce the heat to low, cover the skillet, and let the frittata steam for 3-4 minutes until the cheese is melted and the eggs are fully set.",
     "Season the frittata with salt and black pepper, then fold in the chopped spinach if using.",

@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine softened butter and sugar until well blended.",
     "Add lemon juice and vanilla extract; mix until smooth.",
     "Gradually stir in flour and salt while continuing to mix until the mixture forms a thick paste.",
@@ -52,7 +52,7 @@
   ],
   "nutrition": {
     "calories": 275,
-    "protein": 3.5,
+    "protein": 4,
     "carbs": 19,
     "fat": 18
   },

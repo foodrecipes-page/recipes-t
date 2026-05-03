@@ -1,6 +1,6 @@
 {
   "title": "Tangy Chewy Vietnamese Cheese Pho",
-  "description": "A vegan twist on classic pho featuring tangy tamarind broth, chewy rice noodles, and creamy gouda cheese that melts into a nostalgic, savory‑sour experience.",
+  "description": "A vegan twist on classic pho featuring tangy tamarind broth, chewy rice noodles, and creamy gouda cheese that melts into a nostalgic, savorysour experience.",
   "cuisine": "Vietnamese",
   "diet": [
     "vegan"
@@ -58,12 +58,12 @@
     }
   ],
   "instructions": [
-    "Combine vegetable broth, tamarind paste, soy sauce, lime juice, brown sugar, star anise, cinnamon stick, sliced ginger, and bruised lemongrass in a large pot. Bring to a gentle boil (≈190°F / 88 °C) then reduce to a simmer and let infuse for 30 minutes.",
-    "Strain the broth through a fine‑mesh sieve, discarding the solids. Keep the clear broth warm. In a separate non‑stick skillet, deglaze with a splash of hot broth to lift browned bits and add depth of flavor.",
-    "Return the remaining broth to a gentle simmer, maintaining 170–190°F (77–88 °C). While the broth simmers, blanch rice noodles in boiling water for 3–4 minutes, then drain and rinse with cold water to stop cooking.",
+    "Combine vegetable broth, tamarind paste, soy sauce, lime juice, brown sugar, star anise, cinnamon stick, sliced ginger, and bruised lemongrass in a large pot. Bring to a gentle boil (\u2248190\u00b0F / 88\u202f\u00b0C) then reduce to a simmer and let infuse for 30\u202fminutes.",
+    "Strain the broth through a fine\u2011mesh sieve, discarding the solids. Keep the clear broth warm. In a separate non\u2011stick skillet, deglaze with a splash of hot broth to lift browned bits and add depth of flavor.",
+    "Return the remaining broth to a gentle simmer, maintaining 170\u2013190\u00b0F (77\u201388\u202f\u00b0C). While the broth simmers, blanch rice noodles in boiling water for 3\u20134 minutes, then drain and rinse with cold water to stop cooking.",
     "Heat the noodles briefly in a few tablespoons of hot broth to soften them before serving. Divide the noodles into bowls, ladle hot broth over them, and sprinkle shredded vegan gouda on top. The heat will melt the cheese, creating a creamy layer.",
     "Garnish with fresh cilantro, and optionally serve with lime wedges, a dash of sriracha or chili paste, and pickled bean sprouts for added crunch. Serve immediately while the broth is piping hot.",
-    "Safety note: Ensure all liquids are simmering at 170–190°F (77–88 °C) to keep any contaminants at bay, and keep the skillet or pot covered to prevent splashes."
+    "Safety note: Ensure all liquids are simmering at 170\u2013190\u00b0F (77\u201388\u202f\u00b0C) to keep any contaminants at bay, and keep the skillet or pot covered to prevent splashes."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,

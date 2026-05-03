@@ -13,11 +13,11 @@
     },
     {
       "name": "sour cream",
-      "amount": "½ cup"
+      "amount": "\u00bd cup"
     },
     {
       "name": "maple syrup or agave nectar (sweetener)",
-      "amount": "¼ cup"
+      "amount": "\u00bc cup"
     },
     {
       "name": "vanilla extract",
@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a mixing bowl, combine almond flour and sour cream.",
     "Add vanilla extract and maple syrup or agave nectar, mix well until smooth.",
     "Fold in unsalted butter pieces until just combined. It should be crumbly but not dry.",
@@ -50,7 +50,7 @@
     "peruvian",
     "sour",
     "tender",
-    "almond_flour"
+    "almond-flour"
   ],
   "nutrition": {
     "calories": 180,

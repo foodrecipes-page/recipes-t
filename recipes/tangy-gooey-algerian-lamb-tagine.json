@@ -92,9 +92,9 @@
   ],
   "nutrition": {
     "calories": 630,
-    "protein": "43g",
-    "carbs": "40g",
-    "fat": "32g"
+    "protein": 43,
+    "carbs": 40,
+    "fat": 32
   },
   "slug": "tangy-gooey-algerian-lamb-tagine",
   "source": "groq-llama-3.1-8b-instant",

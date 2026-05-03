@@ -1,6 +1,6 @@
 {
   "title": "Tangy Creamy British Potato Gratin",
-  "description": "A zesty, creamy gratin featuring baby new potatoes, plant‑based yogurt, and a tangy mustard‑lemon sauce—perfect for a sophisticated date night.",
+  "description": "A zesty, creamy gratin featuring baby new potatoes, plantbased yogurt, and a tangy mustardlemon sauce-perfect for a sophisticated date night.",
   "cuisine": "British",
   "diet": [
     "vegetarian",
@@ -10,28 +10,28 @@
   "ingredients": [
     {
       "name": "Baby new potatoes",
-      "amount": "600 g",
+      "amount": "600\u202fg",
       "notes": "Halved"
     },
     {
       "name": "Unsweetened almond milk",
-      "amount": "200 ml"
+      "amount": "200\u202fml"
     },
     {
       "name": "Plain soy yogurt",
-      "amount": "150 g"
+      "amount": "150\u202fg"
     },
     {
       "name": "Dijon mustard",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "Lemon zest",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Lemon juice",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Garlic clove, minced",
@@ -39,26 +39,26 @@
     },
     {
       "name": "Olive oil",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Sea salt",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Freshly ground black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd\u202ftsp"
     },
     {
       "name": "Chopped parsley (optional garnish)",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     }
   ],
   "instructions": [
-    "Preheat the oven to 200 °C (400 °F).",
+    "Preheat the oven to 200\u202f\u00b0C (400\u202f\u00b0F).",
     "In a bowl whisk together almond milk, soy yogurt, mustard, lemon zest, lemon juice, and minced garlic until smooth. Season with salt and pepper.",
     "Toss the halved baby potatoes in olive oil and season with a pinch of salt. Spread them in a baking dish. Pour the yogurt mixture over the potatoes, ensuring even coverage.",
-    "Bake for 25–30 minutes, until the potatoes are tender and the top is golden. Let rest for 5 minutes.",
+    "Bake for 25\u201330\u202fminutes, until the potatoes are tender and the top is golden. Let rest for 5\u202fminutes.",
     "Garnish with chopped parsley before serving. Serve hot as a hearty dinner side or main.",
     "Enjoy the tangy, creamy flavors of this British-inspired gratin."
   ],

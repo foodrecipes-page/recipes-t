@@ -5,7 +5,7 @@
   "diet": [
     "dairy-free"
   ],
-  "meal": "dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "white flour",
@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "In a large bowl, mix flour and smoke flavoring. Stir in garlic and onion.",
     "Fold in the citrus zest into the flour mixture.",
     "Transfer the doughy mixture onto a baking sheet lined with parchment paper.",

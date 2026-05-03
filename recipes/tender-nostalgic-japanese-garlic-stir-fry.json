@@ -63,9 +63,9 @@
   ],
   "nutrition": {
     "calories": 165,
-    "protein": 4.9,
-    "carbs": 23.4,
-    "fat": 3.8
+    "protein": 5,
+    "carbs": 23,
+    "fat": 4
   },
   "slug": "tender-nostalgic-japanese-garlic-stir-fry",
   "source": "ollama-qwen2.5:3b",

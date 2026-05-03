@@ -3,7 +3,7 @@
   "description": "This vibrant dish features tender salted vine tomatoes in a flavorful sauce, perfect for brunch or light meals.",
   "cuisine": "Saudi Arabian",
   "diet": null,
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "vine tomato",
@@ -50,7 +50,7 @@
   ],
   "nutrition": {
     "calories": 97,
-    "protein": 1.6,
+    "protein": 2,
     "carbs": 15,
     "fat": 4
   },

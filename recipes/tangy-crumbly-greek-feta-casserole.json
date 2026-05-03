@@ -1,6 +1,6 @@
 {
   "title": "Tangy Crumbly Greek Feta Casserole",
-  "description": "A kid‑friendly Greek casserole that blends the saltiness of feta with a bright tamarind tang, finished with poached eggs for a comforting, oddly delightful dish.",
+  "description": "A kidfriendly Greek casserole that blends the saltiness of feta with a bright tamarind tang, finished with poached eggs for a comforting, oddly delightful dish.",
   "cuisine": "Greek",
   "diet": null,
   "meal": "dinner",
@@ -54,8 +54,8 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Sauté spinach and tomatoes in olive oil in a skillet over medium heat until spinach wilts and tomatoes soften, about 4 minutes."
+    "Preheat oven to 375\u00b0F (190\u00b0C).",
+    "Saut\u00e9 spinach and tomatoes in olive oil in a skillet over medium heat until spinach wilts and tomatoes soften, about 4 minutes."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

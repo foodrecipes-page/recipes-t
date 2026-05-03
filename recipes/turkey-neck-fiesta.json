@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (392°F).",
+    "Preheat oven to 200\u00b0C (392\u00b0F).",
     "Season turkey neck with paprika and oregano.",
     "Place in a baking dish, cover loosely with foil.",
     "Bake for 60 minutes or until cooked through.",
@@ -58,16 +58,16 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "turkey neck",
+    "turkey-neck",
     "brazilian",
     "whole30",
-    "sour dish"
+    "sour-dish"
   ],
   "nutrition": {
-    "calories": 721.9,
-    "protein": 60.5,
-    "carbs": 45.8,
-    "fat": 34.3
+    "calories": 722,
+    "protein": 60,
+    "carbs": 46,
+    "fat": 34
   },
   "slug": "turkey-neck-fiesta",
   "source": "ollama-qwen2.5:3b",

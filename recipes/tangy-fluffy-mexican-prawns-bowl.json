@@ -1,10 +1,10 @@
 {
   "title": "Tangy Fluffy Mexican Prawns Bowl",
-  "description": "A midnight‑craving keto bowl featuring tangy lime, fluffy coconut cream, and spicy bhuna‑seasoned prawns atop cauliflower rice.",
+  "description": "A midnightcraving keto bowl featuring tangy lime, fluffy coconut cream, and spicy bhunaseasoned prawns atop cauliflower rice.",
   "cuisine": "Mexican",
   "diet": [
     "keto",
-    "gluten‑free"
+    "gluten\u2011free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -15,7 +15,7 @@
     },
     {
       "name": "Cauliflower rice",
-      "amount": "2 cups (≈240g)",
+      "amount": "2 cups (\u2248240g)",
       "notes": ""
     },
     {
@@ -35,7 +35,7 @@
     },
     {
       "name": "Shredded cheddar cheese",
-      "amount": "1/2 cup (≈50g)",
+      "amount": "1/2 cup (\u224850g)",
       "notes": ""
     },
     {
@@ -54,18 +54,18 @@
       "notes": "Blend together"
     },
     {
-      "name": "Keto‑friendly mayo",
+      "name": "Keto\u2011friendly mayo",
       "amount": "2 tablespoons",
       "notes": "Optional"
     }
   ],
   "instructions": [
     "Thaw the prawns in cold water for 30 minutes, then pat dry.",
-    "Heat the olive oil in a skillet over medium heat; add the bhuna spice mix and sauté for 1 minute until fragrant.",
-    "Add the prawns to the skillet and cook for 2–3 minutes per side, or until they turn opaque; remove from heat.",
-    "In the same skillet, add the cauliflower rice and stir‑fry for 3–4 minutes until tender.",
+    "Heat the olive oil in a skillet over medium heat; add the bhuna spice mix and saut\u00e9 for 1 minute until fragrant.",
+    "Add the prawns to the skillet and cook for 2\u20133 minutes per side, or until they turn opaque; remove from heat.",
+    "In the same skillet, add the cauliflower rice and stir\u2011fry for 3\u20134 minutes until tender.",
     "In a bowl, layer cauliflower rice as the base, then top with prawns, avocado slices, shredded cheese, and chopped cilantro.",
-    "Drizzle the lime juice and keto‑friendly mayo over the bowl.",
+    "Drizzle the lime juice and keto\u2011friendly mayo over the bowl.",
     "Whisk the coconut cream until fluffy and spoon it over the bowl for a light, airy finish.",
     "Garnish with extra cilantro and serve immediately."
   ],
@@ -86,5 +86,20 @@
     "mainIngredient": "Prawns",
     "descriptor": "Tangy Fluffy",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "dinner"
+  ]
 }

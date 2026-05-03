@@ -68,7 +68,7 @@
   "prepTimeMin": 20,
   "cookTimeMin": 210,
   "totalTimeMin": 230,
-  "servings": "6-8",
+  "servings": 7,
   "difficulty": "hard",
   "tags": [
     "cantonese",
@@ -79,9 +79,9 @@
   ],
   "nutrition": {
     "calories": 840,
-    "protein": "54g",
-    "carbs": "44g",
-    "fat": "54g"
+    "protein": 54,
+    "carbs": 44,
+    "fat": 54
   },
   "slug": "tangy-juicy-cantonese-pork-belly-braise",
   "source": "groq-llama-3.1-8b-instant",

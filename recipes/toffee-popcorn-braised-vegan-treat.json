@@ -63,7 +63,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "Cook pearl couscous as directed on package, soaking it in unsweetened almond milk.",
     "In a large skillet over medium heat, melt vegan butter and coconut oil together. Add popped corn kernels and cook until they start popping, stirring occasionally to prevent burning.",
     "Gradually stir in the maple syrup, soy sauce (or tamari), and optional coconut sugar into the hot popcorn mixture. Let it come to a simmer for 2-3 minutes, stirring frequently.",
@@ -84,9 +84,9 @@
   ],
   "nutrition": {
     "calories": 381,
-    "protein": 6.7,
-    "carbs": 58.4,
-    "fat": 9.6
+    "protein": 7,
+    "carbs": 58,
+    "fat": 10
   },
   "slug": "toffee-popcorn-braised-vegan-treat",
   "source": "ollama-qwen2.5:3b",

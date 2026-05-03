@@ -30,7 +30,7 @@
   ],
   "instructions": [
     "Heat ground nut oil in a skillet over medium heat.",
-    "Add ginger and sauté for about 30 seconds or until fragrant.",
+    "Add ginger and saut\u00e9 for about 30 seconds or until fragrant.",
     "Cut pineapple into small pieces, leaving the skin on for texture.",
     "Add pineapple to the skillet with the ginger and continue cooking for 5 minutes, stirring occasionally.",
     "Season with salt and pepper to taste.",
@@ -48,9 +48,9 @@
   ],
   "nutrition": {
     "calories": 108,
-    "protein": 3.6,
-    "carbs": 22.9,
-    "fat": 7.4
+    "protein": 4,
+    "carbs": 23,
+    "fat": 7
   },
   "slug": "tropical-fresh-jamaican-pineapple-stir-fry",
   "source": "ollama-qwen2.5:3b",

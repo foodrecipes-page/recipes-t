@@ -1,6 +1,6 @@
 {
   "title": "Tangy Kenyan Grains Curry",
-  "description": "A flavorful, tangy Kenyan curry packed with mixed grains and a spicy tadka, perfect for meal‑prep and keto‑friendly comfort.",
+  "description": "A flavorful, tangy Kenyan curry packed with mixed grains and a spicy tadka, perfect for mealprep and ketofriendly comfort.",
   "cuisine": "Kenyan",
   "diet": [
     "keto-friendly"
@@ -14,12 +14,12 @@
     {
       "name": "millet",
       "amount": "1/4 cup (cooked)",
-      "notes": "pre‑cook before adding to curry"
+      "notes": "pre\u2011cook before adding to curry"
     },
     {
       "name": "quinoa",
       "amount": "1/4 cup (cooked)",
-      "notes": "pre‑cook before adding to curry"
+      "notes": "pre\u2011cook before adding to curry"
     },
     {
       "name": "coconut oil",
@@ -34,7 +34,7 @@
       "amount": "1 tsp"
     },
     {
-      "name": "ginger‑garlic paste",
+      "name": "ginger\u2011garlic paste",
       "amount": "1 tbsp"
     },
     {
@@ -54,21 +54,21 @@
       "amount": "1/4 cup"
     },
     {
-      "name": "coconut milk (low‑fat)",
+      "name": "coconut milk (low\u2011fat)",
       "amount": "1 cup"
     }
   ],
   "instructions": [
-    "In a pot, bring 1 cup of water to a boil. Add cooked millet and quinoa, simmer 10 minutes, then set aside.",
-    "Heat coconut oil in a large pan over medium heat. Add mustard seeds and cumin seeds; when popping, stir in ginger‑garlic paste and sauté 30 seconds.",
-    "Add diced tomatoes, cook 2 minutes until softened.",
-    "Sprinkle the Kenyan spice blend over the tomatoes, stir to coat, and cook 1 minute.",
+    "In a pot, bring 1 cup of water to a boil. Add cooked millet and quinoa, simmer 10\u202fminutes, then set aside.",
+    "Heat coconut oil in a large pan over medium heat. Add mustard seeds and cumin seeds; when popping, stir in ginger\u2011garlic paste and saut\u00e9 30\u202fseconds.",
+    "Add diced tomatoes, cook 2\u202fminutes until softened.",
+    "Sprinkle the Kenyan spice blend over the tomatoes, stir to coat, and cook 1\u202fminute.",
     "Add cauliflower rice, millet, and quinoa to the pan; mix well.",
     "Pour in coconut milk and 1 cup of water (or broth). Bring to a gentle simmer.",
-    "Reduce heat to low, cover, and let the curry cook for 15 minutes, stirring occasionally.",
+    "Reduce heat to low, cover, and let the curry cook for 15\u202fminutes, stirring occasionally.",
     "Check seasoning; add more salt or lemon juice if desired.",
     "Remove from heat, sprinkle chopped cilantro, and stir.",
-    "Let the curry rest for 5 minutes before serving or storing in meal‑prep containers."
+    "Let the curry rest for 5\u202fminutes before serving or storing in meal\u2011prep containers."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,

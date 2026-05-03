@@ -1,6 +1,6 @@
 {
   "title": "Tangy Fluffy British Rice Noodles Bowl",
-  "description": "A quick, festive British bowl that blends tangy citrus flavors with fluffy rice stick noodles and protein-packed tofu, all in a diabetic-friendly, low‑sugar package.",
+  "description": "A quick, festive British bowl that blends tangy citrus flavors with fluffy rice stick noodles and protein-packed tofu, all in a diabetic-friendly, lowsugar package.",
   "cuisine": "British",
   "diet": [
     "vegetarian",
@@ -11,15 +11,15 @@
     {
       "name": "rice stick noodles",
       "amount": "200g",
-      "notes": "pre‑cooked or fresh"
+      "notes": "pre\u2011cooked or fresh"
     },
     {
-      "name": "extra‑firm tofu",
+      "name": "extra\u2011firm tofu",
       "amount": "100g",
       "notes": "cubed"
     },
     {
-      "name": "low‑sodium soy sauce",
+      "name": "low\u2011sodium soy sauce",
       "amount": "1 tbsp"
     },
     {
@@ -78,14 +78,14 @@
     }
   ],
   "instructions": [
-    "Bring a pot of salted water to a boil. Add rice stick noodles and cook for 3‑4 minutes until tender but firm. Drain and rinse under cold water; set aside.",
-    "While noodles cook, heat 1 tsp of olive oil in a skillet over medium heat. Add cubed tofu and stir‑fry until golden on all sides, about 5 minutes. Remove tofu and set aside.",
-    "In the same skillet, add the remaining 1 tsp oil. Sauté minced garlic and diced red onion for 2 minutes until fragrant.",
+    "Bring a pot of salted water to a boil. Add rice stick noodles and cook for 3\u20114 minutes until tender but firm. Drain and rinse under cold water; set aside.",
+    "While noodles cook, heat 1 tsp of olive oil in a skillet over medium heat. Add cubed tofu and stir\u2011fry until golden on all sides, about 5 minutes. Remove tofu and set aside.",
+    "In the same skillet, add the remaining 1 tsp oil. Saut\u00e9 minced garlic and diced red onion for 2 minutes until fragrant.",
     "Stir in sliced cucumber, tomato, and cook for another 2 minutes, just until warmed.",
     "In a small bowl, whisk together soy sauce, rice vinegar, lemon juice, mustard, and chili flakes to make the tangy dressing.",
     "Pour the dressing over the vegetables and toss to coat evenly.",
     "Divide the cooked noodles between 2 bowls.",
-    "Top each bowl with the sautéed vegetables, tofu, chopped chives, and a sprinkle of salt and pepper.",
+    "Top each bowl with the saut\u00e9ed vegetables, tofu, chopped chives, and a sprinkle of salt and pepper.",
     "Drizzle a teaspoon of olive oil over each bowl for richness and serve immediately with a wedge of lemon on the side."
   ],
   "prepTimeMin": 10,

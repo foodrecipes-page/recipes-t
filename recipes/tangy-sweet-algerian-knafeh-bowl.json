@@ -1,6 +1,6 @@
 {
   "title": "Tangy Sweet Algerian Knafeh Bowl",
-  "description": "A romantic bowl of golden knafeh layered with sweet cheese, almond‑yogurt sauce, and fragrant tadka, finished with a splash of rose water—low‑sodium, tender, and utterly irresistible.",
+  "description": "A romantic bowl of golden knafeh layered with sweet cheese, almondyogurt sauce, and fragrant tadka, finished with a splash of rose water-lowsodium, tender, and utterly irresistible.",
   "cuisine": "Algerian",
   "diet": [
     "low-sodium",
@@ -13,7 +13,7 @@
       "amount": "100 g"
     },
     {
-      "name": "Low‑fat mozzarella cheese, grated",
+      "name": "Low\u2011fat mozzarella cheese, grated",
       "amount": "100 g"
     },
     {
@@ -37,36 +37,36 @@
       "amount": "20 g"
     },
     {
-      "name": "Ghee or extra‑virgin olive oil",
+      "name": "Ghee or extra\u2011virgin olive oil",
       "amount": "1 tbsp"
     },
     {
-      "name": "Low‑fat plain yogurt",
+      "name": "Low\u2011fat plain yogurt",
       "amount": "200 ml"
     },
     {
       "name": "Ground cardamom",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Ground cinnamon",
-      "amount": "¼ tsp"
+      "amount": "\u00bc tsp"
     },
     {
       "name": "Tadka mix",
-      "amount": "1 tsp oil, ¼ tsp cumin seeds, pinch dried red chili, ⅛ tsp black salt"
+      "amount": "1 tsp oil, \u00bc tsp cumin seeds, pinch dried red chili, \u215b tsp black salt"
     }
   ],
   "instructions": [
-    "Preheat the oven to 180 °C (356 °F). Arrange the shredded phyllo in a shallow baking dish and lightly drizzle with ghee, then bake for 12–15 minutes until golden and crisp.",
+    "Preheat the oven to 180\u202f\u00b0C (356\u202f\u00b0F). Arrange the shredded phyllo in a shallow baking dish and lightly drizzle with ghee, then bake for 12\u201315\u202fminutes until golden and crisp.",
     "While the phyllo bakes, combine mozzarella, ricotta, sugar, lemon zest, cardamom, cinnamon, and a pinch of black salt in a bowl to create the sweet cheese filling.",
     "Once the phyllo is golden, spread the cheese mixture evenly over it, then sprinkle toasted almonds on top.",
-    "Return the assembled dish to the oven for an additional 8–10 minutes, or until the cheese melts and the edges turn a deep amber.",
+    "Return the assembled dish to the oven for an additional 8\u201310\u202fminutes, or until the cheese melts and the edges turn a deep amber.",
     "In a small bowl whisk the yogurt, rose water, a pinch of black salt, and a pinch of dried chili until smooth, setting aside for later use.",
     "Heat a teaspoon of oil in a small skillet, add cumin seeds and let them pop, then stir in the dried chili and a splash of rose water to create the tadka.",
     "Remove the knafeh from the oven and drizzle the yogurt sauce over the top, followed by a generous pour of the tadka.",
     "Ladle the warm knafeh into dessert bowls, garnish with extra toasted almonds and a light dusting of cinnamon if desired.",
-    "Serve immediately, allowing the aromatic rose water to mingle with the sweet‑tangy flavors.",
+    "Serve immediately, allowing the aromatic rose water to mingle with the sweet\u2011tangy flavors.",
     "Allow the bowl to cool slightly before eating to enjoy the full spectrum of textures and aromas."
   ],
   "slug": "tangy-sweet-algerian-knafeh-bowl",
@@ -86,5 +86,20 @@
     "mainIngredient": "Knafeh",
     "descriptor": "Tangy Sweet",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "algerian",
+    "dessert"
+  ]
 }

@@ -6,7 +6,7 @@
     "FODMAP-friendly",
     "gluten-free"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "lamb shoulder",
@@ -55,7 +55,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300°F (150°C).",
+    "Preheat the oven to 300\u00b0F (150\u00b0C).",
     "In a large Dutch oven, heat the olive oil over medium-high heat.",
     "Add the lamb pieces and brown on all sides, about 5 minutes. Remove the browned lamb from the pot and set aside.",
     "Add the chopped onion to the pot and cook until softened, about 5 minutes.",

@@ -1,6 +1,6 @@
 {
   "title": "Tangy Crumbly Syrian Sausage Soup",
-  "description": "A refreshing, low‑fat soup featuring sliced German bratwurst, fresh vegetables, and a tangy yogurt‑lemon sauce topped with crunchy crackers.",
+  "description": "A refreshing, lowfat soup featuring sliced German bratwurst, fresh vegetables, and a tangy yogurtlemon sauce topped with crunchy crackers.",
   "cuisine": "Syrian",
   "diet": [
     "low-fat"
@@ -33,12 +33,12 @@
       "notes": null
     },
     {
-      "name": "Low‑sodium chicken broth",
+      "name": "Low\u2011sodium chicken broth",
       "amount": "4 cups",
       "notes": null
     },
     {
-      "name": "Low‑fat plain yogurt",
+      "name": "Low\u2011fat plain yogurt",
       "amount": "1 cup",
       "notes": null
     },
@@ -58,22 +58,22 @@
       "notes": null
     },
     {
-      "name": "Whole‑wheat crackers, crushed",
-      "amount": "½ cup",
+      "name": "Whole\u2011wheat crackers, crushed",
+      "amount": "\u00bd cup",
       "notes": "crumbly topping"
     }
   ],
   "instructions": [
     "Heat a large pot over medium heat and add a splash of olive oil.",
-    "Sauté the diced onion and minced garlic until translucent and fragrant, about 3 minutes.",
+    "Saut\u00e9 the diced onion and minced garlic until translucent and fragrant, about 3 minutes.",
     "Add the diced carrot and celery and cook for another 4 minutes.",
     "Insert the sliced bratwurst into the pot and brown on all sides for 5 minutes.",
     "Pour in the chicken broth, bring to a gentle boil, then reduce heat and simmer for 10 minutes.",
     "Stir in the ground cumin, salt, and pepper to taste.",
-    "Remove the pot from heat and whisk in the low‑fat yogurt and lemon juice until fully combined.",
+    "Remove the pot from heat and whisk in the low\u2011fat yogurt and lemon juice until fully combined.",
     "Return the pot to low heat and warm the soup for 2 minutes, ensuring the yogurt does not boil.",
     "Season with fresh parsley, adjust salt if needed, and ladle the soup into bowls.",
-    "Sprinkle the crushed whole‑wheat crackers over each serving for a crunchy, crumbly contrast."
+    "Sprinkle the crushed whole\u2011wheat crackers over each serving for a crunchy, crumbly contrast."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,

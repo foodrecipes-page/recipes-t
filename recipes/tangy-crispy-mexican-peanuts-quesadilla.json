@@ -1,6 +1,6 @@
 {
   "title": "Tangy Crispy Mexican Peanuts Quesadilla",
-  "description": "A vibrant, vegetarian Mexican quesadilla bursting with tangy lime, crunchy peanuts, and a buttery, crispy finish. Perfect for a show‑off snack or light lunch.",
+  "description": "A vibrant, vegetarian Mexican quesadilla bursting with tangy lime, crunchy peanuts, and a buttery, crispy finish. Perfect for a showoff snack or light lunch.",
   "cuisine": "Mexican",
   "diet": [
     "vegetarian"
@@ -65,11 +65,11 @@
   ],
   "instructions": [
     "In a small bowl whisk together peanut butter, agave, lime juice, cumin, smoked paprika, and cayenne until smooth. Add 1 tsp water if mixture is too thick.",
-    "Spread 2 tbsp of the peanut mixture on one side of each tortilla, leaving a 1‑inch border.",
+    "Spread 2 tbsp of the peanut mixture on one side of each tortilla, leaving a 1\u2011inch border.",
     "Sprinkle chopped cilantro, shredded cheese, and chopped peanuts over the spread. Top with another tortilla, peanut side down.",
-    "Heat a non‑stick skillet over medium heat and add 1 tbsp melted butter. Place the quesadilla in the skillet.",
-    "Cook 3‑4 minutes until the bottom is golden and the tortilla is crisp. Flip carefully with a spatula.",
-    "Cook another 3‑4 minutes, pressing gently until the cheese melts and the tortilla is evenly crisp.",
+    "Heat a non\u2011stick skillet over medium heat and add 1 tbsp melted butter. Place the quesadilla in the skillet.",
+    "Cook 3\u20114 minutes until the bottom is golden and the tortilla is crisp. Flip carefully with a spatula.",
+    "Cook another 3\u20114 minutes, pressing gently until the cheese melts and the tortilla is evenly crisp.",
     "Remove from skillet, let rest 1 minute, then cut into wedges.",
     "Serve with lime wedges and a drizzle of extra peanut sauce if desired."
   ],
@@ -90,5 +90,20 @@
     "mainIngredient": "Peanuts",
     "descriptor": "Tangy Crispy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "snack"
+  ]
 }

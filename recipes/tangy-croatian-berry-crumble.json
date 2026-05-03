@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "In a medium bowl, combine berries, reduced cherry juice concentrate, honey or maple syrup, cinnamon, and ginger. Mix well.",
     "Fold in flour and brown sugar. Stir until the mixture is moist but not soupy.",
     "Spread berry mixture evenly into an 8x8 inch baking dish. Dot with melted butter.",
@@ -63,7 +63,7 @@
   ],
   "nutrition": {
     "calories": 230,
-    "protein": 1.9,
+    "protein": 2,
     "carbs": 25,
     "fat": 8
   },

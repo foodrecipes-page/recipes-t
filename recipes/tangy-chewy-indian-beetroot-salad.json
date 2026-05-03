@@ -1,6 +1,6 @@
 {
   "title": "Tangy Chewy Indian Beetroot Salad",
-  "description": "A vibrant, tangy salad featuring tender beetroot, fresh vegetables, and a zesty yogurt‑lemon dressing, finished with a fragrant tadka. Perfect for festive gatherings and diabetes‑friendly diets.",
+  "description": "A vibrant, tangy salad featuring tender beetroot, fresh vegetables, and a zesty yogurtlemon dressing, finished with a fragrant tadka. Perfect for festive gatherings and diabetesfriendly diets.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
@@ -11,7 +11,7 @@
     {
       "name": "beetroot",
       "amount": "5 medium",
-      "notes": "peeled, chopped into 1‑inch cubes"
+      "notes": "peeled, chopped into 1\u2011inch cubes"
     },
     {
       "name": "cucumber",
@@ -26,7 +26,7 @@
     {
       "name": "plain Greek yogurt",
       "amount": "1/2 cup",
-      "notes": "low‑fat"
+      "notes": "low\u2011fat"
     },
     {
       "name": "lemon juice",
@@ -80,17 +80,17 @@
     }
   ],
   "instructions": [
-    "Wash and boil beetroot cubes until tender, about 20‑25 minutes. Drain and cool, then grate the beetroot.",
+    "Wash and boil beetroot cubes until tender, about 20\u201125 minutes. Drain and cool, then grate the beetroot.",
     "Dice the cucumber and grate the carrot. Set aside.",
-    "Heat 1 tsp oil in a small pan over medium heat. Add mustard seeds and cumin seeds until they start to pop.",
-    "Add the finely chopped green chili and sauté for 30 seconds.",
+    "Heat 1\u202ftsp oil in a small pan over medium heat. Add mustard seeds and cumin seeds until they start to pop.",
+    "Add the finely chopped green chili and saut\u00e9 for 30\u202fseconds.",
     "Pour the hot tadka over the grated beetroot and stir to coat evenly.",
-    "In a bowl whisk together ½ cup Greek yogurt, 2 Tbsp lemon juice, salt, pepper, and chaat masala.",
+    "In a bowl whisk together \u00bd\u202fcup Greek yogurt, 2\u202fTbsp lemon juice, salt, pepper, and chaat masala.",
     "Fold the yogurt dressing into the beetroot mixture, then add grated carrot and diced cucumber.",
     "Stir in chopped coriander leaves.",
     "If using peanuts, sprinkle them over the salad for added crunch.",
     "Taste and adjust seasoning with more lemon juice or salt if needed.",
-    "Refrigerate the salad for 15 minutes to allow flavors to meld.",
+    "Refrigerate the salad for 15\u202fminutes to allow flavors to meld.",
     "Serve chilled or at room temperature."
   ],
   "slug": "tangy-chewy-indian-beetroot-salad",
@@ -110,5 +110,20 @@
     "mainIngredient": "Beetroot",
     "descriptor": "Tangy Chewy",
     "dishForm": "Salad"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "indian",
+    "snack"
+  ]
 }

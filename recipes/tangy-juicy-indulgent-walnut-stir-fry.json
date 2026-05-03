@@ -5,7 +5,7 @@
   "diet": [
     "diabetic-friendly"
   ],
-  "meal": "main-course",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "Walnuts",
@@ -54,7 +54,7 @@
   ],
   "instructions": [
     "Heat olive oil in a wok or large skillet over medium-high heat.",
-    "Add onions and bell peppers, sauté for about 5 minutes until softened.",
+    "Add onions and bell peppers, saut\u00e9 for about 5 minutes until softened.",
     "Add garlic and walnuts, cook for another minute.",
     "Pour in soy sauce, tangy sauce, lime juice, brown sugar, and water.",
     "Stir well to combine, then add carrots.",

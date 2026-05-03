@@ -1,6 +1,6 @@
 {
   "title": "Tender German Lentils Stew",
-  "description": "A hearty, low‑sodium stew of brown lentils simmered with caramelized onions, garlic, and fresh sage, perfect for monsoon afternoons.",
+  "description": "A hearty, lowsodium stew of brown lentils simmered with caramelized onions, garlic, and fresh sage, perfect for monsoon afternoons.",
   "cuisine": "German",
   "diet": [
     "vegetarian",
@@ -10,7 +10,7 @@
   "ingredients": [
     {
       "name": "Dry brown lentils",
-      "amount": "1 cup (200 g)",
+      "amount": "1 cup (200\u202fg)",
       "notes": "Rinse before cooking"
     },
     {
@@ -30,8 +30,8 @@
       "amount": "1, diced"
     },
     {
-      "name": "Low‑sodium vegetable broth",
-      "amount": "3 cups (720 ml)"
+      "name": "Low\u2011sodium vegetable broth",
+      "amount": "3 cups (720\u202fml)"
     },
     {
       "name": "Olive oil",
@@ -39,11 +39,11 @@
     },
     {
       "name": "Fresh sage leaves",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Tomato paste",
-      "amount": "1 tbsp"
+      "amount": "1\u202ftbsp"
     },
     {
       "name": "Bay leaf",
@@ -56,19 +56,19 @@
     },
     {
       "name": "Water",
-      "amount": "1 / 4 cup",
+      "amount": "1\u202f/\u202f4\u202fcup",
       "notes": "Optional, to adjust consistency"
     }
   ],
   "instructions": [
     "Rinse the lentils and set aside.",
-    "Heat the olive oil in a large pot over medium heat. Add the diced onion and cook until translucent, about 5 minutes.",
-    "Add the minced garlic and cook for another 30 seconds until fragrant.",
-    "Add the diced carrot and celery and sauté for 3–4 minutes until they start to soften.",
-    "Stir in the tomato paste, coating the vegetables, and cook for 1 minute.",
+    "Heat the olive oil in a large pot over medium heat. Add the diced onion and cook until translucent, about 5\u202fminutes.",
+    "Add the minced garlic and cook for another 30\u202fseconds until fragrant.",
+    "Add the diced carrot and celery and saut\u00e9 for 3\u20134\u202fminutes until they start to soften.",
+    "Stir in the tomato paste, coating the vegetables, and cook for 1\u202fminute.",
     "Add the lentils to the pot and stir to combine with the vegetable mixture.",
-    "Pour in the low‑sodium vegetable broth, add the bay leaf, fresh sage leaves, and a pinch of black pepper. Bring the mixture to a gentle boil.",
-    "Reduce the heat to low, cover, and simmer for 25–30 minutes, or until the lentils are tender and the stew has thickened.",
+    "Pour in the low\u2011sodium vegetable broth, add the bay leaf, fresh sage leaves, and a pinch of black pepper. Bring the mixture to a gentle boil.",
+    "Reduce the heat to low, cover, and simmer for 25\u201330\u202fminutes, or until the lentils are tender and the stew has thickened.",
     "Stir occasionally, adding water if the stew becomes too thick or too dry.",
     "Remove the bay leaf, taste, and adjust seasoning with additional pepper if desired.",
     "Serve hot, garnished with extra fresh sage if desired."

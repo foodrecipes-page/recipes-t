@@ -1,6 +1,6 @@
 {
   "title": "Tangy Irish Lamb Stew",
-  "description": "A low-sodium, dense one-pot lamb stew with rose water and a bright citrus tang, featuring a sous‑vide tender core.",
+  "description": "A low-sodium, dense one-pot lamb stew with rose water and a bright citrus tang, featuring a sousvide tender core.",
   "cuisine": "Irish",
   "diet": [
     "low-sodium"
@@ -10,7 +10,7 @@
     {
       "name": "Lamb shoulder, trimmed",
       "amount": "1.5 kg",
-      "notes": "cut into 2.5‑cm cubes"
+      "notes": "cut into 2.5\u2011cm cubes"
     },
     {
       "name": "Olive oil",
@@ -45,7 +45,7 @@
       "amount": "1 tsp"
     },
     {
-      "name": "Low‑sodium chicken broth",
+      "name": "Low\u2011sodium chicken broth",
       "amount": "4 cups"
     },
     {
@@ -53,19 +53,19 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Salt (low‑sodium)",
+      "name": "Salt (low\u2011sodium)",
       "amount": "1/2 tsp"
     }
   ],
   "instructions": [
-    "Season the lamb cubes with salt and rosemary, then vacuum‑seal them for sous‑vide.",
-    "Cook the lamb sous‑vide at 140°F (60°C) for 24 hours to achieve melt‑in‑your‑mouth tenderness.",
+    "Season the lamb cubes with salt and rosemary, then vacuum\u2011seal them for sous\u2011vide.",
+    "Cook the lamb sous\u2011vide at 140\u00b0F (60\u00b0C) for 24\u202fhours to achieve melt\u2011in\u2011your\u2011mouth tenderness.",
     "Remove the lamb from the bag, pat dry, and sear in a hot skillet with olive oil until browned on all sides.",
     "Transfer the lamb to a large pot and add diced onion, minced garlic, sliced carrots, and diced potatoes.",
-    "Stir in lemon zest, lemon juice, rose water, and low‑sodium chicken broth.",
-    "Bring to a gentle boil, then reduce to a simmer and cook uncovered for 30 minutes, or until vegetables are tender.",
-    "Slice the sous‑vide lamb into thin strips and return them to the pot.",
-    "Simmer for an additional 5 minutes to meld flavors, adjusting seasoning as needed.",
+    "Stir in lemon zest, lemon juice, rose water, and low\u2011sodium chicken broth.",
+    "Bring to a gentle boil, then reduce to a simmer and cook uncovered for 30\u202fminutes, or until vegetables are tender.",
+    "Slice the sous\u2011vide lamb into thin strips and return them to the pot.",
+    "Simmer for an additional 5\u202fminutes to meld flavors, adjusting seasoning as needed.",
     "Serve the stew hot, optionally garnished with fresh rosemary sprigs."
   ],
   "prepTimeMin": 15,

@@ -1,6 +1,6 @@
 {
   "title": "Tangy Flaky Canadian Squash Pie",
-  "description": "A quick, Mediterranean‑friendly pie with slow‑cooked butternut squash, tangy lemon‑vinegar sauce, and buttery flaky pastry.",
+  "description": "A quick, Mediterraneanfriendly pie with slowcooked butternut squash, tangy lemonvinegar sauce, and buttery flaky pastry.",
   "cuisine": "Canadian",
   "diet": [
     "vegetarian"
@@ -8,16 +8,16 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Store‑bought puff pastry sheet",
-      "amount": "1 sheet (250 g)"
+      "name": "Store\u2011bought puff pastry sheet",
+      "amount": "1 sheet (250\u202fg)"
     },
     {
       "name": "Butternut squash",
-      "amount": "1 medium (400 g)"
+      "amount": "1 medium (400\u202fg)"
     },
     {
       "name": "Onion",
-      "amount": "1 medium, diced (100 g)"
+      "amount": "1 medium, diced (100\u202fg)"
     },
     {
       "name": "Garlic",
@@ -25,48 +25,48 @@
     },
     {
       "name": "Olive oil",
-      "amount": "2 Tbsp"
+      "amount": "2\u202fTbsp"
     },
     {
       "name": "Lemon juice",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Dried thyme",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Sea salt",
-      "amount": "1 tsp"
+      "amount": "1\u202ftsp"
     },
     {
       "name": "Black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd\u202ftsp"
     },
     {
       "name": "Maple syrup",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Apple cider vinegar",
-      "amount": "1 Tbsp"
+      "amount": "1\u202fTbsp"
     },
     {
       "name": "Parmesan cheese, grated",
-      "amount": "2 Tbsp",
+      "amount": "2\u202fTbsp",
       "notes": "optional topping"
     }
   ],
   "instructions": [
-    "Preheat oven to 200 °C (400 °F) and lightly oil a 9‑inch pie dish.",
-    "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sauté until translucent, about 3–4 minutes.",
-    "Add cubed butternut squash, thyme, salt, and pepper; cook for 5 minutes until slightly softened.",
-    "Stir in lemon juice, maple syrup, and apple cider vinegar; cook for another 2 minutes letting flavors meld. Remove from heat and let sit 2 minutes.",
+    "Preheat oven to 200\u202f\u00b0C (400\u202f\u00b0F) and lightly oil a 9\u2011inch pie dish.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic, saut\u00e9 until translucent, about 3\u20134\u202fminutes.",
+    "Add cubed butternut squash, thyme, salt, and pepper; cook for 5\u202fminutes until slightly softened.",
+    "Stir in lemon juice, maple syrup, and apple cider vinegar; cook for another 2\u202fminutes letting flavors meld. Remove from heat and let sit 2\u202fminutes.",
     "Roll out puff pastry to fit the dish. Press into the dish, trimming any excess edges.",
     "Evenly spoon the squash filling into the crust, smoothing the top.",
     "Sprinkle grated parmesan over the filling if desired.",
-    "Bake for 25–30 minutes until pastry is golden brown and the squash is fully tender.",
-    "Let the pie cool for 10 minutes before slicing and serving."
+    "Bake for 25\u201330\u202fminutes until pastry is golden brown and the squash is fully tender.",
+    "Let the pie cool for 10\u202fminutes before slicing and serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,

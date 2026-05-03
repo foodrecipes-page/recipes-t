@@ -35,7 +35,7 @@
     "Combine the lemon juice, mint leaves, grated Parmesan, salt, and olive oil in a mixing bowl until well combined. Stir gently to ensure all ingredients are evenly distributed.",
     "Add the Manchego cheese cubes to the mixture and mix thoroughly.",
     "Place the mixture on a baking dish lined with parchment paper for easy cleanup.",
-    "Bake at 350°F (175°C) for about 20 minutes or until golden brown.",
+    "Bake at 350\u00b0F (175\u00b0C) for about 20 minutes or until golden brown.",
     "Let cool slightly before serving."
   ],
   "prepTimeMin": 15,
@@ -51,8 +51,8 @@
   ],
   "nutrition": {
     "calories": 186,
-    "protein": 7.2,
-    "carbs": 3.5,
+    "protein": 7,
+    "carbs": 4,
     "fat": 9
   },
   "slug": "tangy-crumbly-middle-eastern-manchego-cheese-crumble",

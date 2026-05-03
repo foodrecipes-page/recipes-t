@@ -3,7 +3,7 @@
   "description": "A quick-fix Canadian dish featuring tangy paprika crumble as a side or topping for meals.",
   "cuisine": "Canadian",
   "diet": null,
-  "meal": "side-dish",
+  "meal": "dinner",
   "ingredients": [
     {
       "name": "paprika",
@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Mix dijon mustard, mayonnaise, paprika, salt, and pepper in a bowl.",
     "Gradually add flour while stirring until mixture becomes crumbly but holds together.",
     "Add butter cubes. Stir until the mixture is evenly coated with oil from the butter.",
@@ -59,9 +59,9 @@
   ],
   "nutrition": {
     "calories": 283,
-    "protein": 7.6,
+    "protein": 8,
     "carbs": 11,
-    "fat": 9.2
+    "fat": 9
   },
   "slug": "tangy-crumbly-paprika-crumble",
   "source": "ollama-qwen2.5:3b",

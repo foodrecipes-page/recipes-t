@@ -5,7 +5,7 @@
   "diet": [
     "vegan"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "zucchini",
@@ -16,7 +16,7 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "t酥 fry seasoning blend",
+      "name": "t\u9165 fry seasoning blend",
       "amount": "1/2 tsp"
     },
     {

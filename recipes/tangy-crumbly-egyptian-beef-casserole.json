@@ -1,6 +1,6 @@
 {
   "title": "Tangy Crumbly Egyptian Beef Casserole",
-  "description": "A bright, tangy casserole featuring lean minced beef, aromatic spices, and a crumbly low‑fat topping—perfect for a comforting sick‑day meal.",
+  "description": "A bright, tangy casserole featuring lean minced beef, aromatic spices, and a crumbly lowfat topping-perfect for a comforting sickday meal.",
   "cuisine": "Egyptian",
   "diet": [
     "low-fat",
@@ -14,11 +14,11 @@
     },
     {
       "name": "Onion, diced",
-      "amount": "1 medium (≈150g)"
+      "amount": "1 medium (\u2248150g)"
     },
     {
       "name": "Garlic cloves, minced",
-      "amount": "3 cloves (≈10g)"
+      "amount": "3 cloves (\u224810g)"
     },
     {
       "name": "Tomato puree",
@@ -45,22 +45,22 @@
       "amount": "1 tbsp"
     },
     {
-      "name": "Low‑fat feta cheese, crumbled",
+      "name": "Low\u2011fat feta cheese, crumbled",
       "amount": "50g"
     },
     {
-      "name": "Low‑fat breadcrumbs",
+      "name": "Low\u2011fat breadcrumbs",
       "amount": "30g"
     }
   ],
   "instructions": [
-    "Preheat the oven to 180°C (350°F).",
-    "Heat a large skillet over medium heat and add the diced onion; sauté until translucent, about 5 minutes.",
+    "Preheat the oven to 180\u00b0C (350\u00b0F).",
+    "Heat a large skillet over medium heat and add the diced onion; saut\u00e9 until translucent, about 5 minutes.",
     "Add the minced garlic and cook for 1 minute until fragrant.",
-    "Increase heat to medium‑high, add the lean ground beef, breaking it up with a spoon, and cook until browned, about 8 minutes.",
+    "Increase heat to medium\u2011high, add the lean ground beef, breaking it up with a spoon, and cook until browned, about 8 minutes.",
     "Stir in the tomato puree, cumin, coriander, smoked paprika, lemon juice, and apple cider vinegar; reduce heat to low and simmer for 10 minutes to meld flavors.",
     "Transfer the beef mixture to a greased 20cm (8inch) baking dish, spreading it evenly.",
-    "In a small bowl, combine the crumbled low‑fat feta and low‑fat breadcrumbs; sprinkle evenly over the beef.",
+    "In a small bowl, combine the crumbled low\u2011fat feta and low\u2011fat breadcrumbs; sprinkle evenly over the beef.",
     "Bake in the preheated oven for 25 minutes, or until the topping is lightly golden and the casserole is heated through.",
     "Remove from oven, let rest 5 minutes, then serve warm."
   ],

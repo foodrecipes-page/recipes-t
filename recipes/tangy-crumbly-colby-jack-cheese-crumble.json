@@ -26,7 +26,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 250°F.",
+    "Preheat oven to 250\u00b0F.",
     "In a mixing bowl, combine Colby Jack cheese with Greek yogurt, honey/maple syrup, chopped herbs, salt, and pepper.",
     "Mix well until the mixture is crumbly but holds together when pressed lightly. It may require chilling for an hour or two if too sticky.",
     "Transfer to a parchment-lined baking sheet and bake in the oven for about 15-20 minutes or until golden brown.",
@@ -40,7 +40,7 @@
   "tags": [
     "tangy",
     "crumbly",
-    "colby jack cheese",
+    "colby-jack-cheese",
     "raw-friendly"
   ],
   "nutrition": {

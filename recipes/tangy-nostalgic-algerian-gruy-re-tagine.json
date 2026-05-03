@@ -1,6 +1,6 @@
 {
-  "title": "Tangy Nostalgic Algerian Gruyère Tagine",
-  "description": "A hearty and comforting Algerian dish featuring tender lamb, caramelized onions, and a rich, creamy sauce made with Gruyère cheese.",
+  "title": "Tangy Nostalgic Algerian Gruyere Tagine",
+  "description": "A hearty and comforting Algerian dish featuring tender lamb, caramelized onions, and a rich, creamy sauce made with Gruyere cheese.",
   "cuisine": "North African",
   "diet": [
     "gluten-free",
@@ -54,7 +54,7 @@
       "notes": null
     },
     {
-      "name": "1 cup Gruyère cheese, grated",
+      "name": "1 cup Gruy\u00e8re cheese, grated",
       "amount": null,
       "notes": "gluten-free"
     },
@@ -87,7 +87,7 @@
     "Add lamb back to the pot and stir to combine.",
     "Add broth and bring to a boil.",
     "Reduce heat to low and simmer, covered, for 1 1/2 hours or until lamb is tender.",
-    "Stir in Gruyère cheese until melted and smooth.",
+    "Stir in Gruy\u00e8re cheese until melted and smooth.",
     "Season with salt and pepper to taste.",
     "Serve hot, garnished with chopped parsley if desired.",
     "Serve with gluten-free couscous or rice.",
@@ -102,11 +102,11 @@
     "algerian",
     "lamb",
     "tagine",
-    "gruyère",
-    "north african",
-    "comfort food",
+    "gruyere",
+    "north-african",
+    "comfort-food",
     "hearty",
-    "gluten-free friendly"
+    "gluten-free-friendly"
   ],
   "nutrition": {
     "calories": 540,

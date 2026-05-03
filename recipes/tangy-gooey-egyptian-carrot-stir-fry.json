@@ -5,7 +5,7 @@
   "diet": [
     "low-carb"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "carrots",
@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C).",
+    "Preheat oven to 400\u00b0F (205\u00b0C).",
     "Toss carrots with pomegranate molasses, lemon juice, olive oil, minced garlic, red pepper flakes, salt, and black pepper in a large bowl.",
     "Spread the carrot mixture on a baking sheet lined with parchment paper.",
     "Bake for about 30 minutes until the carrots are tender and slightly caramelized.",
@@ -59,9 +59,9 @@
   ],
   "nutrition": {
     "calories": 167,
-    "protein": 2.8,
-    "carbs": 5.4,
-    "fat": 10.3
+    "protein": 3,
+    "carbs": 5,
+    "fat": 10
   },
   "slug": "tangy-gooey-egyptian-carrot-stir-fry",
   "source": "ollama-qwen2.5:3b",

@@ -58,18 +58,18 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     }
   ],
   "instructions": [
     "Heat the vegetable oil in a large pot over medium heat.",
-    "Add the diced onion and sauté until translucent, about 3 minutes.",
+    "Add the diced onion and saut\u00e9 until translucent, about 3 minutes.",
     "Stir in the minced garlic, cumin, smoked paprika, and ground coriander; cook for 30 seconds until fragrant.",
     "Add the tomato paste, mixing well to coat the spices.",
     "Pour in the vegetable broth and bring the mixture to a gentle boil.",
     "Add the fermented black beans, reduce heat, and simmer uncovered for 15 minutes.",
     "Stir in the apple cider vinegar, then season with salt and black pepper.",
-    "Continue to simmer for another 5 minutes, ensuring the stew reaches at least 165°F for safety.",
+    "Continue to simmer for another 5 minutes, ensuring the stew reaches at least 165\u00b0F for safety.",
     "Remove from heat and let the stew sit for 5 minutes; the liquid will thicken into a fluffy consistency.",
     "Serve hot, optionally garnished with fresh herbs or a dollop of low-fat yogurt."
   ],
@@ -82,7 +82,7 @@
     "protein-packed",
     "tangy",
     "fluffy",
-    "Russian",
+    "russian",
     "vegetarian",
     "high-protein"
   ],

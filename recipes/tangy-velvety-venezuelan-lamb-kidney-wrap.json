@@ -1,6 +1,6 @@
 {
   "title": "Tangy Velvety Venezuelan Lamb Kidney Wrap",
-  "description": "A luscious Venezuelan wrap with marinated lamb kidneys, creamy cilantro lime sauce, and freshly kneaded corn masa, perfect for a show‑stopper dinner.",
+  "description": "A luscious Venezuelan wrap with marinated lamb kidneys, creamy cilantro lime sauce, and freshly kneaded corn masa, perfect for a showstopper dinner.",
   "cuisine": "Venezuelan",
   "diet": [
     "contains-meat"
@@ -22,7 +22,7 @@
       "notes": "minced"
     },
     {
-      "name": "Fresh chili (ají dulce or habanero)",
+      "name": "Fresh chili (aj\u00ed dulce or habanero)",
       "amount": "1",
       "notes": "finely chopped"
     },
@@ -66,7 +66,7 @@
     },
     {
       "name": "Salt for masa",
-      "amount": "½ tsp"
+      "amount": "\u00bd tsp"
     },
     {
       "name": "Optional vegan filling (seitan or tofu)",
@@ -75,17 +75,17 @@
     },
     {
       "name": "Onion",
-      "amount": "½",
+      "amount": "\u00bd",
       "notes": "sliced thinly"
     }
   ],
   "instructions": [
     "1. In a small bowl whisk together olive oil, minced garlic, chopped chili, cumin, coriander, salt, lime juice, vinegar, and chopped cilantro to create the marination mixture.",
     "2. Place the lamb kidneys in a shallow dish, pour the marination mixture over them, cover, and refrigerate for at least 30 minutes to absorb flavors.",
-    "3. While the kidneys marinate, prepare the masa dough: combine corn masa harina, 250 ml water, and ½ tsp salt in a bowl; knead with clean hands until smooth and pliable, then cover and let rest for 10 min.",
-    "4. Divide the rested masa into 8 equal portions and roll each into a 6‑inch disc using a rolling pin or hand, then flatten slightly to about ½ inch thickness.",
-    "5. Heat a dry griddle or skillet over medium‑high heat; cook each tortilla for 1–2 min on each side until lightly browned and warmed through, then keep warm on a plate.",
-    "6. Remove the kidneys from the refrigerator and pat dry. Heat a non‑stick pan over medium‑high heat and sear the kidneys for 3–4 min per side, or until a golden crust forms and the interior is pink and tender.",
+    "3. While the kidneys marinate, prepare the masa dough: combine corn masa harina, 250\u202fml water, and \u00bd\u202ftsp salt in a bowl; knead with clean hands until smooth and pliable, then cover and let rest for 10\u202fmin.",
+    "4. Divide the rested masa into 8 equal portions and roll each into a 6\u2011inch disc using a rolling pin or hand, then flatten slightly to about \u00bd\u202finch thickness.",
+    "5. Heat a dry griddle or skillet over medium\u2011high heat; cook each tortilla for 1\u20132\u202fmin on each side until lightly browned and warmed through, then keep warm on a plate.",
+    "6. Remove the kidneys from the refrigerator and pat dry. Heat a non\u2011stick pan over medium\u2011high heat and sear the kidneys for 3\u20134\u202fmin per side, or until a golden crust forms and the interior is pink and tender.",
     "7. While the kidneys cook, lightly toast the bread crumbs in a dry pan until golden for added crunch in the wrap.",
     "8. Assemble the wrap: lay a warm tortilla flat, spread a thin layer of the cilantro lime sauce (blend the remaining lime juice, vinegar, olive oil, and cilantro until silky), then add a few sliced onions, a portion of seared kidney, and a sprinkle of toasted bread crumbs.",
     "9. If using the vegan alternative, replace the lamb kidney with the marinated seitan or tofu, cooked until golden same as the kidney step.",

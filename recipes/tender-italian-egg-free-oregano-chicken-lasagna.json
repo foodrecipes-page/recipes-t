@@ -66,7 +66,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
+    "Preheat the oven to 375\u00b0F (190\u00b0C).",
     "Cook the lasagna noodles according to package instructions. Drain and set aside.",
     "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes.",
     "Add the chicken breast to the skillet and cook until browned and cooked through, about 5-6 minutes.",
@@ -95,8 +95,8 @@
     "egg-free",
     "gluten-free",
     "lactose-free",
-    "comfort food",
-    "cozy dinner"
+    "comfort-food",
+    "cozy-dinner"
   ],
   "nutrition": {
     "calories": 550,

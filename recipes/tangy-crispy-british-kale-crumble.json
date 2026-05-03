@@ -43,7 +43,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (200°C).",
+    "Preheat your oven to 400\u00b0F (200\u00b0C).",
     "In a large mixing bowl, combine the chopped Chinese kale with the ground almonds and salt.",
     "Add grated Parmesan cheese, coconut oil, caster sugar, and lemon juice. Mix well until all ingredients are evenly distributed.",
     "Spread the mixture onto a baking sheet lined with parchment paper.",
@@ -59,7 +59,7 @@
     "gluten-free",
     "tangy",
     "british",
-    "hangover_cure"
+    "hangover-cure"
   ],
   "nutrition": {
     "calories": 150,

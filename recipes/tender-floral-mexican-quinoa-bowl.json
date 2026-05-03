@@ -1,6 +1,6 @@
 {
   "title": "Tender Floral Mexican Quinoa Bowl",
-  "description": "A low‑calorie, floral‑infused quinoa bowl brimming with tender roasted poblano, crisp lettuce, and a splash of lime vinaigrette, perfect for a romantic lunch.",
+  "description": "A lowcalorie, floralinfused quinoa bowl brimming with tender roasted poblano, crisp lettuce, and a splash of lime vinaigrette, perfect for a romantic lunch.",
   "cuisine": "Mexican",
   "diet": [
     "vegetarian"
@@ -69,9 +69,9 @@
   ],
   "instructions": [
     "Rinse the quinoa under cold water until the water runs clear.",
-    "In a small saucepan, bring 1 cup of water to a boil, add the quinoa, reduce heat to low, cover, and simmer for 12‑15 minutes until fluffy and water is absorbed.",
+    "In a small saucepan, bring 1 cup of water to a boil, add the quinoa, reduce heat to low, cover, and simmer for 12\u201115 minutes until fluffy and water is absorbed.",
     "While the quinoa cooks, preheat the broiler. Slice the poblano pepper into thin strips, brush lightly with olive oil, and season with salt and pepper.",
-    "Place the pepper slices on a broiler pan and broil for 3‑4 minutes, turning halfway, until the edges are slightly charred.",
+    "Place the pepper slices on a broiler pan and broil for 3\u20114 minutes, turning halfway, until the edges are slightly charred.",
     "In a large bowl, arrange a bed of chopped romaine lettuce. Layer the cooked quinoa, black beans, cherry tomatoes, roasted poblano, and diced avocado on top.",
     "Squeeze the juice of one lime over the bowl and sprinkle with chopped cilantro and edible violet petals.",
     "Gently toss the bowl to combine flavors, ensuring the lime juice coats all ingredients evenly.",
@@ -95,5 +95,20 @@
     "mainIngredient": "quinoa",
     "descriptor": "Tender Floral",
     "dishForm": "Bowl"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "mexican",
+    "lunch"
+  ]
 }

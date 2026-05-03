@@ -6,7 +6,7 @@
     "vegan",
     "vegetarian"
   ],
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Silken Tofu",
@@ -43,13 +43,13 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 350°F (175°C).",
+    "Preheat oven to 350\u00b0F (175\u00b0C).",
     "Cut Silken Tofu into small cubes.",
     "Toss the tofu cubes with garlic and lemon juice in a bowl, then set aside for about 10 minutes.",
     "In a pan, heat olive oil over medium heat. Add onions and fry until translucent.",
     "Add the marinaded tofu to the pan and stir for another minute.",
     "Mix in tomato sauce or paste, mint, cilantro, and salt according to taste.",
-    "Transfer mixture into an oven-safe dish and bake at 350°F (175°C) for about 25 minutes until golden brown on top.",
+    "Transfer mixture into an oven-safe dish and bake at 350\u00b0F (175\u00b0C) for about 25 minutes until golden brown on top.",
     "Serve hot with a side of avocado salsa."
   ],
   "prepTimeMin": 15,

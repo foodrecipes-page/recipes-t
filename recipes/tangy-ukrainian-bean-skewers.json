@@ -1,6 +1,6 @@
 {
   "title": "Tangy Ukrainian Bean Skewers",
-  "description": "A romantic, chewy bean skewer with a tangy balsamic glaze, broiled to caramelized perfection. Dairy‑free and perfect for a quick dinner.",
+  "description": "A romantic, chewy bean skewer with a tangy balsamic glaze, broiled to caramelized perfection. Dairyfree and perfect for a quick dinner.",
   "cuisine": "Ukrainian",
   "diet": [
     "vegetarian",
@@ -54,8 +54,8 @@
   "instructions": [
     "Preheat the broiler to high and line a baking sheet with foil.",
     "In a large bowl, combine the drained beans, olive oil, balsamic vinegar, oregano, garlic powder, paprika, salt, and pepper. Toss until beans are evenly coated.",
-    "Thread 50‑60 g of the seasoned beans onto each soaked skewer.",
-    "Place the skewers on the prepared baking sheet and broil for 4–6 minutes, turning halfway, until the beans are caramelized and slightly charred.",
+    "Thread 50\u201160 g of the seasoned beans onto each soaked skewer.",
+    "Place the skewers on the prepared baking sheet and broil for 4\u20136 minutes, turning halfway, until the beans are caramelized and slightly charred.",
     "Remove from the broiler and let them rest for 2 minutes.",
     "Serve hot, garnished with lemon wedges for an extra burst of freshness.",
     "Optional: drizzle a little more balsamic glaze over the skewers before serving."
@@ -74,9 +74,9 @@
   ],
   "nutrition": {
     "calories": 171,
-    "protein": 4.4,
+    "protein": 4,
     "carbs": 15,
-    "fat": 10.4
+    "fat": 10
   },
   "slug": "tangy-ukrainian-bean-skewers",
   "source": "ocloud-gpt-oss:20b",

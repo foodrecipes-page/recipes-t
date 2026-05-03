@@ -1,6 +1,6 @@
 {
   "title": "Tangy Gooey Chinese Pork Bao",
-  "description": "Sour, savory pork filling wrapped in warm potato buns, finished with a glossy tangy glaze—perfect for a comforting date‑night dinner.",
+  "description": "Sour, savory pork filling wrapped in warm potato buns, finished with a glossy tangy glaze-perfect for a comforting datenight dinner.",
   "cuisine": "Chinese",
   "diet": [
     "high-protein"
@@ -10,7 +10,7 @@
     {
       "name": "pork shoulder",
       "amount": "500 g",
-      "notes": "cut into 2‑cm cubes"
+      "notes": "cut into 2\u2011cm cubes"
     },
     {
       "name": "soy sauce",
@@ -54,10 +54,10 @@
     }
   ],
   "instructions": [
-    "In a bowl combine soy sauce, dry rice wine, brown sugar, rice vinegar, sesame oil, garlic, ginger, and half the scallions; whisk until sugar dissolves. Add pork cubes, toss to coat, and marinate for 15 min.",
-    "Heat a large skillet or grill pan over medium‑high heat. Add pork with its liquid, cooking 5–6 min until browned and caramelized, stirring frequently.",
-    "Stir in cornstarch mixed with 1 tbsp water to create a glossy sauce; simmer until thickened, about 2 min. Remove from heat and stir in remaining scallions.",
-    "Warm the potato buns on the grill or in a toaster oven for 1–2 min until lightly toasted.",
+    "In a bowl combine soy sauce, dry rice wine, brown sugar, rice vinegar, sesame oil, garlic, ginger, and half the scallions; whisk until sugar dissolves. Add pork cubes, toss to coat, and marinate for 15\u202fmin.",
+    "Heat a large skillet or grill pan over medium\u2011high heat. Add pork with its liquid, cooking 5\u20136\u202fmin until browned and caramelized, stirring frequently.",
+    "Stir in cornstarch mixed with 1\u202ftbsp water to create a glossy sauce; simmer until thickened, about 2\u202fmin. Remove from heat and stir in remaining scallions.",
+    "Warm the potato buns on the grill or in a toaster oven for 1\u20132\u202fmin until lightly toasted.",
     "Divide the pork filling among the buns, smother with extra sauce, and serve hot."
   ],
   "slug": "tangy-gooey-chinese-pork-bao",
@@ -77,5 +77,20 @@
     "mainIngredient": "pork",
     "descriptor": "Tangy Gooey",
     "dishForm": "Bao"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "chinese",
+    "dinner"
+  ]
 }
