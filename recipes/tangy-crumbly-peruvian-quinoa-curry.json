@@ -1,0 +1,137 @@
+{
+  "title": "Tangy Crumbly Peruvian Quinoa Curry",
+  "description": "A vegan Peruvian-inspired quinoa curry that balances tangy lime, smoky bhuna spices, and a crumbly vegan feta topping for a satisfying meal prep dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup halved"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "dry roast in a dry skillet for 30 seconds"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "dry roast in a dry skillet for 30 seconds"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "½ cup"
+    },
+    {
+      "name": "vegan feta crumble",
+      "amount": "½ cup",
+      "notes": "toss into the curry just before serving"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until the water runs clear. Drain.",
+    "In a small pan, dry roast cumin, coriander, and smoked paprika on medium heat until fragrant, about 30 seconds. Set aside.",
+    "Combine quinoa and vegetable broth in a medium saucepan. Bring to a boil, then reduce heat to low, cover, and simmer for 15 minutes until quinoa is tender and liquid is absorbed.",
+    "Meanwhile, heat a large skillet over medium heat and add a splash of oil. Sauté sweet potato, carrots, and red bell pepper for 3-4 minutes.",
+    "Add the roasted spices, chili powder, turmeric, salt, and black pepper to the vegetables; stir to coat and cook for 1 minute.",
+    "Pour in coconut milk, add cherry tomatoes, and bring to a gentle simmer. Cook for another 5 minutes until vegetables are tender and sauce slightly thickens.",
+    "Fold in the cooked quinoa, kale, and lime juice. Stir until kale wilts and everything is heated through, about 2 minutes.",
+    "Remove from heat, discard the bay leaf, and transfer the curry to meal prep containers. Sprinkle vegan feta crumble over each portion.",
+    "Let cool to room temperature, then cover and refrigerate up to 4 days. Reheat in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "vegan",
+    "quinoa",
+    "curry",
+    "bhuna",
+    "meal-prep",
+    "crumbly",
+    "tangy",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tangy-crumbly-peruvian-quinoa-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-peruvian-quinoa-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:39:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "bay leaf",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Curry"
+  }
+}
