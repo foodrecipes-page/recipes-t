@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Algerian Lamb Bake",
+  "description": "A slow-baked, tangy lamb dish infused with red wine, lemon, and cumin, perfect for lazy Sundays and low-sodium appetites.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-sodium-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder (bone-in)",
+      "amount": "2 kg",
+      "notes": "use bone-in for richer flavor"
+    },
+    {
+      "name": "Red wine",
+      "amount": "750 ml"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "60 ml (4 tbsp)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium beef broth",
+      "amount": "250 ml"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (320°F).",
+    "Pat the lamb dry with paper towels.",
+    "Whisk together red wine, lemon juice, tomato paste, garlic, cumin, coriander, paprika, olive oil, and broth.",
+    "Place the lamb in a roasting tin and pour the mixture over it.",
+    "Cover tightly with foil and bake for 3 hours.",
+    "Remove foil, increase temperature to 190°C, and bake for an additional 30 minutes until a golden crust forms.",
+    "Let the lamb rest for 10 minutes before slicing.",
+    "Sprinkle chopped parsley over the top.",
+    "Serve slices with couscous or crusty bread.",
+    "Enjoy the rich tang and aromatic flavors."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "slow-cook",
+    "tangy",
+    "low-sodium-friendly",
+    "lamb",
+    "red-wine",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "tangy-algerian-lamb-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-algerian-lamb-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:13:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "red wine",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Tangy",
+    "dishForm": "Bake"
+  }
+}

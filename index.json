@@ -74,6 +74,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-algerian-lamb-bake",
+    "title": "Tangy Algerian Lamb Bake",
+    "tags": [
+      "slow-cook",
+      "tangy",
+      "low-sodium-friendly",
+      "lamb",
+      "red-wine",
+      "bake"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 230,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-american-flour-crumble",
     "title": "Tangy American Flour Crumble",
     "tags": [
