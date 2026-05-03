@@ -1,0 +1,105 @@
+{
+  "title": "Tender Smoky Chinese Penne Rigate Dim Sum",
+  "description": "A smoky and juicy Chinese dish featuring penne rigate, kombu cold extract, and Buddhist temple friendly ingredients, served in a dim sum form and cooked in a Dutch oven.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "12 oz",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "8 oz",
+      "notes": "extra firm"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "cold pressed"
+    },
+    {
+      "name": "dim sum wrappers",
+      "amount": "20 sheets",
+      "notes": "round and thin"
+    }
+  ],
+  "instructions": [
+    "Preheat the Dutch oven to 400 degrees Fahrenheit with a small amount of sesame oil.",
+    "Cook the penne rigate according to package instructions until al dente, then set aside.",
+    "In the Dutch oven, sauté the grated ginger and minced garlic until fragrant.",
+    "Add the smoked tofu and cook until lightly browned on all sides.",
+    "Add the kombu cold extract, soy sauce, and cooked penne rigate to the Dutch oven, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Assemble the dim sum by placing a small amount of the penne rigate mixture onto a dim sum wrapper, topping with a slice of scallion, and sealing the wrapper.",
+    "Steam the dim sum in the Dutch oven for 5 minutes, or until the wrappers are tender and slightly translucent.",
+    "Serve the dim sum hot, garnished with additional scallions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dim-sum",
+    "dutch-oven",
+    "one-pan",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tender-smoky-chinese-penne-rigate-dim-sum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-chinese-penne-rigate-dim-sum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:54:19Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "penne rigate",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "penne rigate",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Dim Sum"
+  }
+}

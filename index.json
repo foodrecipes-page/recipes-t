@@ -3325,6 +3325,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-middle-eastern-jersey-royal-potatoes-flatbread",
+    "title": "Tender Middle Eastern Jersey Royal Potatoes Flatbread",
+    "tags": [
+      "brunch",
+      "flatbread",
+      "gluten-free",
+      "middle-eastern",
+      "potato",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-midnight-craving-american-wonton-wrap",
     "title": "Tender Midnight Craving American Wonton Wrap",
     "tags": [
@@ -3457,6 +3472,21 @@
       "dairy-free"
     ],
     "cuisine": "Grecian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-smoky-chinese-penne-rigate-dim-sum",
+    "title": "Tender Smoky Chinese Penne Rigate Dim Sum",
+    "tags": [
+      "chinese",
+      "dim-sum",
+      "dutch-oven",
+      "one-pan",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
     "totalTimeMin": 45,
     "shard": "t"
   },
@@ -3822,6 +3852,22 @@
       "paleo-friendly"
     ],
     "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tropical-tuscan-egg-frittata",
+    "title": "Tropical Tuscan Egg Frittata",
+    "tags": [
+      "monsoon",
+      "one-pan",
+      "quick",
+      "springy",
+      "tadka",
+      "tropical",
+      "vegetarian"
+    ],
+    "cuisine": "Tuscan",
     "totalTimeMin": 25,
     "shard": "t"
   },

@@ -1,0 +1,113 @@
+{
+  "title": "Tropical Tuscan Egg Frittata",
+  "description": "A funky, springy frittata that blends Tuscan flavors with a tropical red pepper paste and a hint of tadka, perfect for a raw-friendly lunch.",
+  "cuisine": "Tuscan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sun‑dried tomatoes",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "10 leaves",
+      "notes": "torn"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh spinach",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Whisk the eggs in a bowl and season with salt and pepper.",
+    "Heat the olive oil in a 10-inch skillet over medium heat and add the garlic, letting it soften for 30 seconds.",
+    "Pour in the red pepper paste and stir for one minute to toast the flavors.",
+    "Add the sun‑dried tomatoes, oregano, and crushed pepper flakes, cooking for two minutes.",
+    "Stir in the spinach and basil until the spinach wilts.",
+    "Pour the egg mixture over the vegetables and spread it evenly.",
+    "Cook uncovered for 4 minutes until the edges set, then sprinkle the crumbled feta on top.",
+    "Cover the skillet with a lid and bake in a preheated 180°C oven for 8 minutes until the frittata is fully set.",
+    "Remove, let rest a minute, slice, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "monsoon",
+    "one-pan",
+    "quick",
+    "springy",
+    "tadka",
+    "tropical",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "tropical-tuscan-egg-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-tuscan-egg-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:53:35Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "tadka",
+    "primaryIngredient": "red pepper paste",
+    "diet": "raw",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "egg",
+    "descriptor": "Tropical",
+    "dishForm": "Frittata"
+  }
+}
