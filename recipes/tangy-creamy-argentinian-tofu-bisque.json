@@ -1,0 +1,132 @@
+{
+  "title": "Tangy Creamy Argentinian Tofu Bisque",
+  "description": "A velvety, tangy bisque that blends Argentine flavor with a plant-based twist, perfect for midnight cravings.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra‑firm tofu",
+      "amount": "400 g",
+      "notes": "pressed and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "medium onion",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion, carrot, and celery; sauté until softened, about 5 minutes.",
+    "Stir in minced garlic and cook for 30 seconds until fragrant.",
+    "Add tofu cubes, breaking them gently, and toast until golden on all sides, about 4 minutes.",
+    "Whisk in tomato paste, smoked paprika, cumin, and chili powder; cook for 1 minute to bloom the spices.",
+    "Pour in vegetable broth, bring to a gentle simmer, and let it reduce slightly for 8 minutes.",
+    "Stir in coconut milk and lemon juice; continue simmering for 10 minutes until the bisque thickens and flavors meld.",
+    "Use an immersion blender to purée the mixture until silky smooth, or transfer in batches to a stand blender; if desired, strain for extra creaminess.",
+    "Season with salt and pepper to taste; gently reheat if necessary.",
+    "Serve hot, garnished with chopped cilantro.",
+    ""
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "plant-based",
+    "bisque",
+    "creamy",
+    "argentinian",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tangy-creamy-argentinian-tofu-bisque",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-argentinian-tofu-bisque",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:14:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "poach",
+    "primaryIngredient": "heavy cream",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Tofu",
+    "descriptor": "Tangy Creamy",
+    "dishForm": "Bisque"
+  }
+}

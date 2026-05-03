@@ -276,6 +276,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-argentinian-tofu-bisque",
+    "title": "Tangy Creamy Argentinian Tofu Bisque",
+    "tags": [
+      "plant-based",
+      "bisque",
+      "creamy",
+      "argentinian",
+      "tofu"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-british-potato-gratin",
     "title": "Tangy Creamy British Potato Gratin",
     "tags": [
