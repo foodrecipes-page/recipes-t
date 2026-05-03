@@ -131,6 +131,17 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-australian-kale-salad",
+    "title": "Tangy Australian Kale Salad",
+    "tags": [
+      "australian",
+      "lunch"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-cheesy-kenyan-eggs-frittata",
     "title": "Tangy Cheesy Kenyan Eggs Frittata",
     "tags": [

@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Australian Kale Salad",
+  "description": "A vibrant, grassy kale salad with creamy dressing, crunchy walnuts, feta, fresh mint, and fluffy meringue nests for a post-workout boost.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Raw kale",
+      "amount": "200g",
+      "notes": "washed and chopped"
+    },
+    {
+      "name": "Fresh lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "5ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Walnuts",
+      "amount": "10g"
+    },
+    {
+      "name": "Feta cheese crumbled",
+      "amount": "50g"
+    },
+    {
+      "name": "Fresh mint chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Creamy dressing",
+      "amount": "Greek yogurt 40g, Dijon mustard 1 tsp, Milk 30ml, Lemon juice 10ml, Olive oil 5ml, Salt and pepper",
+      "notes": "whisk until smooth"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Wash and chop kale into bite-size pieces.",
+    "Whisk together lemon juice, vinegar, honey, salt, pepper, and olive oil to create a vinaigrette.",
+    "Toss kale with vinaigrette until evenly coated and let rest for 5 minutes.",
+    "Beat egg whites to soft peaks, then gradually add sugar and continue beating until stiff, glossy peaks form.",
+    "Spoon meringue into small nests on parchment paper and bake at 200°C for 12 minutes until golden.",
+    "Combine Greek yogurt, mustard, milk, lemon juice, olive oil, salt, and pepper in a bowl, whisking until emulsified.",
+    "Stir walnuts and mint into the dressing to coat.",
+    "Fold the dressing over the rested kale, then top with crumbled feta and meringue nests.",
+    "Serve immediately as a fresh, post-workout salad."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "australian",
+    "lunch"
+  ],
+  "slug": "tangy-australian-kale-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-australian-kale-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:24:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "meringue nests",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "kale",
+    "descriptor": "Tangy",
+    "dishForm": "Salad"
+  }
+}
