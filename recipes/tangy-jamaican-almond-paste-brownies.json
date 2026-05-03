@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Jamaican Almond Paste Brownies",
+  "description": "Sour, chewy brownies featuring almond paste and a hint of Jamaican jerk spice, pressure‑cooked for a decadent keto-friendly treat.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond paste",
+      "amount": "1 cup (240 g)"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup (120 g)"
+    },
+    {
+      "name": "Erythritol",
+      "amount": "1/2 cup (100 g)"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Unsweetened cocoa powder",
+      "amount": "1/4 cup (30 g)"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup (30 g)"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Jamaican jerk spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker and line an 8x8-inch baking pan with parchment paper.",
+    "Melt the coconut oil over low heat and stir in the almond paste until fully blended.",
+    "Add the erythritol, vanilla extract, sea salt, jerk spice mix, lemon zest, and lime juice; whisk until smooth.",
+    "Beat in the eggs one at a time, then fold in the cocoa powder and almond flour until a uniform batter forms.",
+    "Pour the batter into the prepared pan, smoothing the top with a spatula.",
+    "Place the pan in the pressure cooker, seal the lid, and set to high pressure for 15 minutes.",
+    "When the timer ends, perform a quick release of pressure and carefully remove the pan from the cooker.",
+    "Let the brownies rest in the pan for about 10 minutes to set and cool slightly.",
+    "Cut the brownies into 12 square pieces and serve warm or store in an airtight container.",
+    "Optional: dust with a little powdered erythritol or a splash of lime zest for extra zing before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "jamaican",
+    "almond-paste",
+    "pressure-cook",
+    "chewy",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 13
+  },
+  "slug": "tangy-jamaican-almond-paste-brownies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-jamaican-almond-paste-brownies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:47:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "almond paste",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "almond paste",
+    "descriptor": "Tangy",
+    "dishForm": "Brownies"
+  }
+}
