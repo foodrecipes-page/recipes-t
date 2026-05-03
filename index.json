@@ -1264,6 +1264,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-fluffy-british-rice-noodles-bowl",
+    "title": "Tangy Fluffy British Rice Noodles Bowl",
+    "tags": [
+      "vegetarian",
+      "diabetic-friendly",
+      "quick",
+      "british",
+      "rice-noodles",
+      "tangy"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-fluffy-cod-stir-fry",
     "title": "Tangy Fluffy Cod Stir-fry",
     "tags": [

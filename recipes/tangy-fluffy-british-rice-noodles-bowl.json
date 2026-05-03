@@ -1,0 +1,128 @@
+{
+  "title": "Tangy Fluffy British Rice Noodles Bowl",
+  "description": "A quick, festive British bowl that blends tangy citrus flavors with fluffy rice stick noodles and protein-packed tofu, all in a diabetic-friendly, low‑sugar package.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "200g",
+      "notes": "pre‑cooked or fresh"
+    },
+    {
+      "name": "extra‑firm tofu",
+      "amount": "100g",
+      "notes": "cubed"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "English mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a pot of salted water to a boil. Add rice stick noodles and cook for 3‑4 minutes until tender but firm. Drain and rinse under cold water; set aside.",
+    "While noodles cook, heat 1 tsp of olive oil in a skillet over medium heat. Add cubed tofu and stir‑fry until golden on all sides, about 5 minutes. Remove tofu and set aside.",
+    "In the same skillet, add the remaining 1 tsp oil. Sauté minced garlic and diced red onion for 2 minutes until fragrant.",
+    "Stir in sliced cucumber, tomato, and cook for another 2 minutes, just until warmed.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, lemon juice, mustard, and chili flakes to make the tangy dressing.",
+    "Pour the dressing over the vegetables and toss to coat evenly.",
+    "Divide the cooked noodles between 2 bowls.",
+    "Top each bowl with the sautéed vegetables, tofu, chopped chives, and a sprinkle of salt and pepper.",
+    "Drizzle a teaspoon of olive oil over each bowl for richness and serve immediately with a wedge of lemon on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "diabetic-friendly",
+    "quick",
+    "british",
+    "rice-noodles",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "tangy-fluffy-british-rice-noodles-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-british-rice-noodles-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:08:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "rice noodles",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Bowl"
+  }
+}
