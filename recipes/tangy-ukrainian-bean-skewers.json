@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Ukrainian Bean Skewers",
+  "description": "A romantic, chewy bean skewer with a tangy balsamic glaze, broiled to caramelized perfection. Dairy‑free and perfect for a quick dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned cannellini beans",
+      "amount": "500 g",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "8",
+      "notes": "soaked in water for 30 min"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high and line a baking sheet with foil.",
+    "In a large bowl, combine the drained beans, olive oil, balsamic vinegar, oregano, garlic powder, paprika, salt, and pepper. Toss until beans are evenly coated.",
+    "Thread 50‑60 g of the seasoned beans onto each soaked skewer.",
+    "Place the skewers on the prepared baking sheet and broil for 4–6 minutes, turning halfway, until the beans are caramelized and slightly charred.",
+    "Remove from the broiler and let them rest for 2 minutes.",
+    "Serve hot, garnished with lemon wedges for an extra burst of freshness.",
+    "Optional: drizzle a little more balsamic glaze over the skewers before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eu",
+    "vegetarian",
+    "dairy-free",
+    "quick-and-easy",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 171,
+    "protein": 4.4,
+    "carbs": 15,
+    "fat": 10.4
+  },
+  "slug": "tangy-ukrainian-bean-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-ukrainian-bean-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:15:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "balsamic vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beans",
+    "descriptor": "Tangy",
+    "dishForm": "Skewers"
+  }
+}
