@@ -1,0 +1,126 @@
+{
+  "title": "Tangy Velvety Portuguese Spaghetti Toast",
+  "description": "A quick, adventurous breakfast that pairs toasted sourdough with al dente spaghetti tossed in a citrusy piri‑piri tomato sauce, finished with smoked cheese and fresh herbs.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sourdough bread",
+      "amount": "4 slices (≈8×8 cm each)",
+      "notes": ""
+    },
+    {
+      "name": "dried spaghetti",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "30 ml",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "piri‑piri powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed tomatoes (canned)",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "15 ml",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "zest of 1 medium lemon",
+      "notes": ""
+    },
+    {
+      "name": "shredded smoked cheese (e.g., queijo da Serra)",
+      "amount": "30 g",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven or toaster to medium‑high heat and toast the sourdough slices until golden on both sides; set aside.",
+    "Bring a pot of salted water to a boil and cook the spaghetti until al dente (about 8‑9 minutes); drain and reserve 30 ml of pasta water.",
+    "In a small saucepan, heat 15 ml olive oil over medium heat and sauté the minced garlic until fragrant (≈30 s).",
+    "Add the smoked paprika and piri‑piri powder, cooking for another 30 s to bloom the spices.",
+    "Stir in the crushed tomatoes, lemon juice, and lemon zest; let the mixture simmer for 5 minutes, stirring occasionally.",
+    "Return the cooked spaghetti to the pan, adding a splash of reserved pasta water to loosen the sauce. Season with salt and pepper to taste.",
+    "Transfer the spaghetti mixture to a bowl, top with shredded smoked cheese and chopped parsley.",
+    "Arrange the toasted bread slices on a plate, spoon the warm spaghetti mixture onto each slice, drizzle the remaining olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "quick",
+    "portuguese",
+    "spaghetti",
+    "toast",
+    "raw-friendly",
+    "tangy",
+    "velvety",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 25
+  },
+  "slug": "tangy-velvety-portuguese-spaghetti-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-portuguese-spaghetti-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:19:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "spaghetti",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Toast"
+  }
+}
