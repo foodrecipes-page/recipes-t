@@ -1,6 +1,6 @@
 {
   "title": "Tangy Flaky Saudi Brisket Stew",
-  "description": "A slow‑braised brisket simmered in a tangy tamarind‑lemon sauce, soft and flaky with a burst of Middle Eastern spices.",
+  "description": "A slowbraised brisket simmered in a tangy tamarindlemon sauce, soft and flaky with a burst of Middle Eastern spices.",
   "cuisine": "Saudi Arabian",
   "diet": null,
   "meal": "dinner",
@@ -63,11 +63,11 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 160°C (320°F).",
+    "Preheat oven to 160\u00b0C (320\u00b0F).",
     "Pat brisket dry and season with salt, pepper, cumin, and coriander.",
-    "Heat olive oil in a Dutch oven over medium‑high heat; brown brisket on all sides, 3‑4 minutes per side.",
+    "Heat olive oil in a Dutch oven over medium\u2011high heat; brown brisket on all sides, 3\u20114 minutes per side.",
     "Remove brisket and set aside.",
-    "Add onion to the same pot and sauté until translucent, about 5 minutes. Add garlic and cook for 1 minute.",
+    "Add onion to the same pot and saut\u00e9 until translucent, about 5 minutes. Add garlic and cook for 1 minute.",
     "Stir in tomato puree, tamarind paste, and lemon juice; cook 2 minutes to meld flavors.",
     "Deglaze with beef broth, scraping up browned bits; bring to a gentle simmer.",
     "Return brisket to the pot, cover, and transfer to the preheated oven.",
@@ -92,5 +92,20 @@
     "mainIngredient": "brisket",
     "descriptor": "Tangy Flaky",
     "dishForm": "Stew"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "saudi-arabian",
+    "dinner"
+  ]
 }

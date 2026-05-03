@@ -1,6 +1,6 @@
 {
   "title": "Tangy Flaky French Cheese Omelette",
-  "description": "A quick, paleo‑friendly French omelette with tangy lemon‑infused eggs, generous cheese slices, and a delicate flaky texture achieved by gentle steam folding.",
+  "description": "A quick, paleofriendly French omelette with tangy lemoninfused eggs, generous cheese slices, and a delicate flaky texture achieved by gentle steam folding.",
   "cuisine": "French",
   "diet": [
     "paleo",
@@ -25,7 +25,7 @@
     },
     {
       "name": "black pepper",
-      "amount": "½ teaspoon",
+      "amount": "\u00bd teaspoon",
       "notes": "freshly ground"
     },
     {
@@ -35,8 +35,8 @@
     },
     {
       "name": "sharp cheddar cheese slices",
-      "amount": "50 g",
-      "notes": "about 3–4 slices, cut thinly"
+      "amount": "50\u202fg",
+      "notes": "about 3\u20134 slices, cut thinly"
     },
     {
       "name": "water",
@@ -51,11 +51,11 @@
   ],
   "instructions": [
     "In a medium bowl, whisk the eggs with salt, pepper, lemon juice, and water until the mixture is smooth and slightly frothy.",
-    "Heat a non‑stick skillet over medium‑low heat and add the tablespoon of olive oil, swirling to coat.",
-    "Pour the whisked eggs into the skillet, tilting the pan to spread them evenly. Let the eggs sit undisturbed for 30–45 seconds until the edges begin to set.",
-    "Place the cheddar cheese slices on the surface of the still‑liquid eggs, allowing the cheese to melt slightly.",
+    "Heat a non\u2011stick skillet over medium\u2011low heat and add the tablespoon of olive oil, swirling to coat.",
+    "Pour the whisked eggs into the skillet, tilting the pan to spread them evenly. Let the eggs sit undisturbed for 30\u201345 seconds until the edges begin to set.",
+    "Place the cheddar cheese slices on the surface of the still\u2011liquid eggs, allowing the cheese to melt slightly.",
     "Gently slide a spatula around the edges to lift the cooked portions and let raw egg flow underneath.",
-    "Cover the skillet with a lid and let the omelette steam for 2–3 minutes, which creates a flaky, airy interior.",
+    "Cover the skillet with a lid and let the omelette steam for 2\u20133 minutes, which creates a flaky, airy interior.",
     "Once the top is set but still slightly translucent, fold the omelette in half or roll it, then slide it onto a plate.",
     "Sprinkle chopped parsley over the top for a fresh finish and serve immediately."
   ],
