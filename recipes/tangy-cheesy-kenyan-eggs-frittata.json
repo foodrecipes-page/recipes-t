@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Cheesy Kenyan Eggs Frittata",
+  "description": "A quick, tangy and gooey Kenyan-style frittata that blends eggs, sharp cheddar, sautéed onions, tomatoes, and green chili for a low-carb breakfast fix.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "8 large",
+      "notes": "approximately 400g"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g",
+      "notes": "grated, sharp cheddar"
+    },
+    {
+      "name": "shortening",
+      "amount": "30g",
+      "notes": "neutral shortening for sauté"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced, about 100g"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced, about 150g"
+    },
+    {
+      "name": "green chili",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "spinach",
+      "amount": "50g",
+      "notes": "chopped, optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet over medium heat and add the shortening until melted.",
+    "Add the diced onion and sauté for 2-3 minutes until translucent.",
+    "Stir in the chopped green chili and diced tomato, cooking for another 2 minutes until the tomato softens.",
+    "Whisk the eggs in a bowl and pour them over the sautéed mixture, tilting the pan to spread the eggs evenly.",
+    "Cook the eggs for 1-2 minutes until the edges start to set, then sprinkle the grated cheddar cheese evenly on top.",
+    "Reduce the heat to low, cover the skillet, and let the frittata steam for 3-4 minutes until the cheese is melted and the eggs are fully set.",
+    "Season the frittata with salt and black pepper, then fold in the chopped spinach if using.",
+    "Remove the skillet from heat, garnish with fresh cilantro, and let it rest for 1 minute.",
+    "Slice the frittata into 8 wedges and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "low-carb",
+    "quick",
+    "breakfast",
+    "kenyan",
+    "frittata",
+    "cheesy",
+    "tangy",
+    "shortening",
+    "saute"
+  ],
+  "nutrition": {
+    "calories": 188,
+    "protein": 11,
+    "carbs": 2,
+    "fat": 13
+  },
+  "slug": "tangy-cheesy-kenyan-eggs-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-cheesy-kenyan-eggs-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:00:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "saute",
+    "primaryIngredient": "shortening",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "eggs",
+    "descriptor": "Tangy Cheesy",
+    "dishForm": "Frittata"
+  }
+}

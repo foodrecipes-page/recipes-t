@@ -115,6 +115,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-cheesy-kenyan-eggs-frittata",
+    "title": "Tangy Cheesy Kenyan Eggs Frittata",
+    "tags": [
+      "low-carb",
+      "quick",
+      "breakfast",
+      "kenyan",
+      "frittata",
+      "cheesy",
+      "tangy",
+      "shortening",
+      "saute"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-argentinian-haricot-beans-stir-fry",
     "title": "Tangy Chewy Argentinian Haricot Beans Stir-fry",
     "tags": [
