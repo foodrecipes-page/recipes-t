@@ -1,0 +1,82 @@
+{
+  "title": "Tangy Japanese Canola Oil Bake",
+  "description": "A dense, tangy Japanese dish featuring canola oil that's perfect for hangover relief and raw-friendly. This bake is quick to prepare and packed with flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 tbsp",
+      "notes": "use cold-pressed for maximum tangy flavor"
+    },
+    {
+      "name": "kombu",
+      "amount": "1/2 inch",
+      "notes": "dried kelp, soaked for 5 minutes"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "10 leaves",
+      "notes": "fresh, not dried"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp",
+      ": ": "",
+      "notes": "white miso for mild tang"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": "raw, unfiltered"
+    }
+  ],
+  "instructions": [
+    "Soak kombu in cold water for 5 minutes to release natural umami.",
+    "Heat 2 tbsp canola oil in a small pan over medium heat until shimmering.",
+    "Add 1 tsp white miso paste and 1 tsp rice vinegar, whisking until smooth.",
+    "Add 10 fresh shiso leaves, cook for 1 minute until slightly wilted.",
+    "Remove from heat and drizzle with 1/2 inch soaked kombu.",
+    "Let sit for 1 minute to infuse flavors."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "tangy",
+    "canola-oil",
+    "hangover-cure",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 1,
+    "carbs": 2,
+    "fat": 4
+  },
+  "slug": "tangy-japanese-canola-oil-bake",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-japanese-canola-oil-bake",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T08:03:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "canola oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "canola oil",
+    "descriptor": "Tangy",
+    "dishForm": "Bake"
+  }
+}
