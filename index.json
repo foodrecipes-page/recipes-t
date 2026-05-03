@@ -847,6 +847,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-irish-pork-roast",
+    "title": "Tangy Irish Pork Roast",
+    "tags": [
+      "irish",
+      "pork",
+      "roast",
+      "tangy",
+      "energizing",
+      "nut-free",
+      "tadka"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-bhuna-beetroot-stir-fry",
     "title": "Tangy Juicy Bhuna Beetroot Stir-fry",
     "tags": [

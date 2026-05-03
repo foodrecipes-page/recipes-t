@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Irish Pork Roast",
+  "description": "A juicy, tangy pork back ribs roast with a flavorful tadka (tempering) for a energizing Irish-inspired dish. Perfectly balanced with tangy spices and aromatic herbs.",
+  "cuisine": "irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "1.5 lbs (680g)",
+      "notes": "fresh or smoked"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp (10g)",
+      "notes": "fresh, minced"
+    },
+    {
+      "name": "ginger root",
+      "amount": "1 tbsp (10g)",
+      ": ": "notes"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tbsp (28g)",
+      "notes": "neutral oil for tempering"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp (25ml)",
+      "notes": "for tangy depth"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "fresh, dried optional"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "5",
+      "notes": "freshly cracked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat. Add pork back ribs, ginger, garlic, black pepper, cumin, and salt. Cook for 10 minutes until pork is slightly tender.",
+    "In a small bowl, mix tadka oil, red wine vinegar, and fresh thyme. Heat the mixture until the oil is shimmering (tempering).",
+    "Remove pork from the pot and add the tadka mixture to the pot. Return pork to the pot and cook for 5 minutes until the pork is tender and the sauce has thickened.",
+    "Let rest for 10 minutes before serving with a side of mashed potatoes or green beans."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "pork",
+    "roast",
+    "tangy",
+    "energizing",
+    "nut-free",
+    "tadka"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "tangy-irish-pork-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-irish-pork-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T03:47:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "pork back ribs",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "pork",
+    "descriptor": "Tangy",
+    "dishForm": "Roast"
+  }
+}
