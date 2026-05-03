@@ -1,0 +1,72 @@
+{
+  "title": "Tangy Norwegian Tangy Potatoes Roast",
+  "description": "A chewy, tangy Norwegian potato roast cooked in one pot with Italian seasoning for a vegetarian-friendly meal.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "ruffled or waxy varieties"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1/2 cup",
+      "notes": "juice only"
+    },
+    {
+      ": ": ", "
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C)",
+    "Toss potatoes with olive oil and 1/4 cup dill pickle juice",
+    "Roast in oven for 30 minutes until tender and slightly crispy",
+    "Add remaining 1/4 cup pickle juice and stir gently",
+    "Roast for another 10 minutes until potatoes are golden and tangy"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "vegetarian",
+    "potato",
+    "roast",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "tangy-norwegian-tangy-potatoes-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-norwegian-tangy-potatoes-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T00:35:29Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "italian seasoning",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "tangy",
+    "dishForm": "Roast"
+  }
+}

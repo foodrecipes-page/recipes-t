@@ -1090,6 +1090,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-norwegian-tangy-potatoes-roast",
+    "title": "Tangy Norwegian Tangy Potatoes Roast",
+    "tags": [
+      "norwegian",
+      "vegetarian",
+      "potato",
+      "roast",
+      "tangy"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-adventurous-algerian-bean-stir-fry",
     "title": "Tangy Silky Adventurous Algerian Bean Stir-fry",
     "tags": [
