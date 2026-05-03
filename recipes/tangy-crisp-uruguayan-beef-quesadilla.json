@@ -1,0 +1,111 @@
+{
+  "title": "Uruguayan Beef Quesadilla con Ensalada de Milenrama",
+  "description": "A tangy and crispy Uruguayan-inspired quesadilla filled with fajita-seasoned beef and topped with a refreshing milenrama salad.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tender steak (Uruguayan ribeye or flank steak)",
+      "amount": "200g",
+      "notes": "Cut into thin strips."
+    },
+    {
+      "name": "Milenrama (a type of Argentinean watercress)",
+      "amount": "100g",
+      "notes": "Chopped and washed."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "2 tsp",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "For brushing the tortilla."
+    },
+    {
+      "name": "Tortilla",
+      "amount": "4-6",
+      "notes": "Large flour tortillas."
+    },
+    {
+      "name": "Cheddar cheese, low-fat",
+      "amount": "50g",
+      "notes": "Shredded."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "a few sprigs",
+      "notes": "Chopped, for garnish."
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Begin by marinating the beef strips in a mixture of lime juice, garlic, and fajita seasoning for at least 30 minutes.",
+    "Heat a large skillet over medium-high heat. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Add the beef to the skillet and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "Transfer the beef to a plate and cover with foil to keep warm.",
+    "In the same skillet, brush the tortilla with olive oil and place it in the skillet for 30 seconds to 1 minute, until slightly crispy and pliable.",
+    "Sprinkle shredded cheese on half of the tortilla, followed by a few strips of the cooked beef.",
+    "Fold the tortilla in half to enclose the filling.",
+    "Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2-3 minutes, until the other side is also crispy.",
+    "Transfer the quesadilla to a plate and top with a spoonful of the milenrama salad.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "For the milenrama salad, combine chopped milenrama, a squeeze of lime juice, and a sprinkle of cilantro in a bowl. Toss to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "quesadilla",
+    "milenrama",
+    "lunch",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "tangy-crisp-uruguayan-beef-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crisp-uruguayan-beef-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:48:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "tangy crisp",
+    "dishForm": "Quesadilla"
+  }
+}

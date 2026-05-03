@@ -242,6 +242,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crisp-uruguayan-beef-quesadilla",
+    "title": "Uruguayan Beef Quesadilla con Ensalada de Milenrama",
+    "tags": [
+      "uruguayan",
+      "beef",
+      "quesadilla",
+      "milenrama",
+      "lunch",
+      "low-calorie"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crispy-british-kale-crumble",
     "title": "Tangy Crispy British Kale Crumble",
     "tags": [
