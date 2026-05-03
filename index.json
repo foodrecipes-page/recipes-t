@@ -1436,6 +1436,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-irish-lamb-stew",
+    "title": "Tangy Irish Lamb Stew",
+    "tags": [
+      "irish",
+      "lamb",
+      "stew",
+      "low-sodium",
+      "sous-vide",
+      "one-pot",
+      "tangy"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-irish-pork-roast",
     "title": "Tangy Irish Pork Roast",
     "tags": [
