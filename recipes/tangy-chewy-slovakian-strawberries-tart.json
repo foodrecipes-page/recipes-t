@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Chewy Slovakian Strawberries Tart",
+  "description": "A plant-based friendly, date-night dessert featuring tangy strawberries, a crumbly Slovakian-inspired crust, and a chewy filling.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "3 cups, hulled and sliced"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Slushed raspberries",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together almond flour, coconut sugar, and cornstarch.",
+    "Add the coconut oil and maple syrup to the bowl. Mix until crumbly.",
+    "Press the mixture into the bottom and up the sides of a 9-inch tart pan.",
+    "Bake for 18-20 minutes or until lightly golden.",
+    "In a blender or food processor, puree the strawberries, lemon juice, and vanilla extract until smooth.",
+    "In a small bowl, mix together the cornstarch and water until smooth.",
+    "Add the slushed raspberries to the bowl and puree again.",
+    "Pour the strawberry mixture over the baked tart crust.",
+    "Top with the confectioners' sugar and slushed raspberries.",
+    "Garnish with fresh mint leaves.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "strawberries",
+    "slavic-cuisine",
+    "vegan",
+    "plant-based",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "tangy-chewy-slovakian-strawberries-tart",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-slovakian-strawberries-tart",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:17:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "strawberries",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "strawberries",
+    "descriptor": "tangy chewy",
+    "dishForm": "Tart"
+  }
+}
