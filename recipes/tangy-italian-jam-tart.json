@@ -1,0 +1,83 @@
+{
+  "title": "Tangy Italian Jam Tart",
+  "description": "A tangy and light flaky dessert featuring a homemade jam with ricotta cheese, eggs are optional due to the tart's egg-free-friendly nature.",
+  "cuisine": "Italian (Ligurian)",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cold Butter Cubes",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Eggs (Optional)",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 Lime",
+      "amount": ""
+    },
+    {
+      "name": "Lemon Zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "4-6 leaves, chopped"
+    },
+    {
+      "name": "Half-and-Half or Cream Cheese (Optional)",
+      "amount": "8 ounces, softened"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Blend flour and butter until crumbly; add sugar and mix with fingertips to form dough. Chill for at least an hour.",
+    "On a lightly floured surface, roll out dough into a circle about 1/8-inch thick. Place in a 9-inch tart pan, trim edges, blind bake according to crust recipe (e.g., preheat oven, arrange parchment paper and beans on bottom, brush with egg wash).",
+    "In a mixing bowl, combine lime juice, lemon zest, chopped basil, and optional cream cheese. Mix until smooth.",
+    "Allow the crust to cool slightly before filling with the jam mixture. Bake at 375°F for about 20 minutes or until golden brown. Serve warm.",
+    "For an egg-free version, reduce the ricotta to half of its original quantity."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 40,
+  "totalTimeMin": 100,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "tangy-italian-jam-tart",
+    "egg-free-friendly",
+    "flaky-dessert"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 7,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "tangy-italian-jam-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-italian-jam-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:02:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "egg-free",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "jam",
+    "descriptor": "Tangy",
+    "dishForm": "Tart"
+  }
+}

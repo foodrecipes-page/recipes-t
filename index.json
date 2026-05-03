@@ -1077,6 +1077,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-italian-jam-tart",
+    "title": "Tangy Italian Jam Tart",
+    "tags": [
+      "tangy-italian-jam-tart",
+      "egg-free-friendly",
+      "flaky-dessert"
+    ],
+    "cuisine": "Italian (Ligurian)",
+    "totalTimeMin": 100,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-japanese-canola-oil-bake",
     "title": "Tangy Japanese Canola Oil Bake",
     "tags": [
