@@ -1,0 +1,117 @@
+{
+  "title": "Tangy Light Filipino Butternut Squash Soup",
+  "description": "A creamy, fermented coconut milk-based soup with a bright tang, light yet satisfying with butternut squash and classic Filipino aromatics.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "fermented coconut milk",
+      "amount": "1 cup",
+      "notes": "Use coconut yogurt or fermented coconut milk for tanginess"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch, minced",
+      "notes": ""
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "1 cup",
+      "notes": "Homemade low-sodium, paleo-friendly"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tamari or coconut aminos",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat.",
+    "Add diced onion, minced garlic, and minced ginger; sauté until onion is translucent, about 3-4 minutes.",
+    "Stir in ground turmeric and ground coriander, cooking for 30 seconds until fragrant.",
+    "Add diced butternut squash and vegetable stock; bring to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, or until squash is tender.",
+    "Stir in fermented coconut milk and tamari; simmer for an additional 5 minutes to meld flavors.",
+    "Taste and season with salt and pepper as needed.",
+    "For a smoother texture, use an immersion blender to puree the soup until creamy.",
+    "Serve hot, optionally garnished with a swirl of coconut milk or fresh herbs.",
+    ""
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "paleo-friendly",
+    "fermented",
+    "soup",
+    "butternut-squash",
+    "light",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 9,
+    "carbs": 42,
+    "fat": 44
+  },
+  "slug": "tangy-light-filipino-butternut-squash-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-filipino-butternut-squash-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:09:19Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "butternut squash",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "butternut squash",
+    "descriptor": "Tangy Light",
+    "dishForm": "Soup"
+  }
+}
