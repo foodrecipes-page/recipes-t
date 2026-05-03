@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Tender French Chicken Casserole",
+  "description": "A delicious and healthy French-inspired casserole featuring tender chicken, tangy flavors, and fresh cilantro, perfect for a weeknight dinner. This low-calorie-friendly dish is easy to make and packed with flavor.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "low-fat cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat pasta",
+      "amount": "8 ounces",
+      "notes": "cooked al dente"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together cream cheese, Greek yogurt, Dijon mustard, lemon juice, garlic powder, salt, and black pepper until smooth.",
+    "Add the chopped cilantro leaves to the bowl and stir to combine.",
+    "In a separate bowl, toss the chicken breast pieces with a pinch of salt and pepper until coated.",
+    "Add the cooked whole wheat pasta to the bowl with the chicken and toss to combine.",
+    "Pour the cream cheese mixture over the chicken and pasta, and stir until everything is well coated.",
+    "Transfer the mixture to a 9x13-inch baking dish and smooth the top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the chicken is cooked through and the top is lightly browned.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "chicken",
+    "casserole",
+    "low-calorie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "tangy-tender-french-chicken-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-french-chicken-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T17:00:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy tender",
+    "dishForm": "Casserole"
+  }
+}
