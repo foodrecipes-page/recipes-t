@@ -1,0 +1,73 @@
+{
+  "title": "Tender Irish Sugar Dish",
+  "description": "A light, fermented Irish dessert with dark brown sugar that's tender and cured without nuts.",
+  "cuisine": "irish",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark brown sugar",
+      "amount": "1/2 cup",
+      "notes": "unrefined, molasses-based"
+    },
+    {
+      "name": "cured sugar",
+      "amount": "1/4 cup",
+      "notes": "pre-cured, low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": "filtered"
+    },
+    {
+      "name": "fermented sugar",
+      "amount": "1 tablespoon",
+      "notes": "fermented from cane sugar"
+    }
+  ],
+  "instructions": [
+    "Combine dark brown sugar and water in a small saucepan.",
+    "Add cured sugar and fermented sugar; stir gently.",
+    "Bring to a gentle boil over medium heat, then reduce heat to low.",
+    "Simmer for 10 minutes, stirring occasionally to prevent sticking.",
+    "Remove from heat and let cool completely before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  ": 15, ": "servings",
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "sugar-dish",
+    "fermented",
+    "dessert",
+    "nut-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 0,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "tender-irish-sugar-dish",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-irish-sugar-dish",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:23:34Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "sugar",
+    "descriptor": "tender",
+    "dishForm": "Dish"
+  }
+}

@@ -1665,6 +1665,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-irish-sugar-dish",
+    "title": "Tender Irish Sugar Dish",
+    "tags": [
+      "irish",
+      "sugar-dish",
+      "fermented",
+      "dessert",
+      "nut-free"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": null,
+    "shard": "t"
+  },
+  {
     "slug": "tender-kenyan-butter-stir-fry",
     "title": "Tender Kenyan Butter Stir-fry",
     "tags": [
