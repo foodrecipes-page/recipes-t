@@ -1,0 +1,102 @@
+{
+  "title": "Tangy Light Turkish Chicken Pilaf",
+  "description": "A flavorful and healthy Turkish dish featuring chicken, currants, and a hint of lemon, perfect for those looking for a diabetic-friendly meal option.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the currants, rice, chicken broth, lemon juice, salt, and pepper. Stir well.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and serve hot.",
+    "Garnish with fresh parsley or lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish-cuisine",
+    "diabetic-friendly",
+    "gluten-free",
+    "chicken-recipes",
+    "pilaf-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tangy-light-turkish-chicken-pilaf",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-turkish-chicken-pilaf",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:27Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "rest",
+    "primaryIngredient": "currants",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy light",
+    "dishForm": "Pilaf"
+  }
+}

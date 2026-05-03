@@ -1119,6 +1119,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-light-turkish-chicken-pilaf",
+    "title": "Tangy Light Turkish Chicken Pilaf",
+    "tags": [
+      "turkish-cuisine",
+      "diabetic-friendly",
+      "gluten-free",
+      "chicken-recipes",
+      "pilaf-recipes"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-vegan-avocado-wraps",
     "title": "Tangy Light Vegan Avocado Wraps",
     "tags": [
@@ -1962,6 +1976,19 @@
       "garlic-stir-fry",
       "vegetarian-friendly",
       "turmeric"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-spanish-sea-bass-skillet",
+    "title": "Tender Spanish Sea Bass Skillet",
+    "tags": [
+      "sea-food",
+      "spanish-cuisine",
+      "citrus-recipes",
+      "thyme-recipes"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,

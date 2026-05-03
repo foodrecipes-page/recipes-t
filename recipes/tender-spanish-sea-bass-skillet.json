@@ -1,0 +1,106 @@
+{
+  "title": "Tender Spanish Sea Bass Skillet",
+  "description": "A light and citrusy Spanish dish featuring tender sea bass, thyme, and a blend of Mediterranean flavors. Perfect for a quick and delicious pescatarian dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the thyme and cook for another minute, until slightly wilted.",
+    "Place the sea bass fillets in the skillet, skin side up (if they have skin).",
+    "Season with salt, black pepper, and smoked paprika.",
+    "Squeeze the lemon and orange juice over the fish.",
+    "Add the cherry tomatoes to the skillet and toss to combine.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until the fish is cooked through and flakes easily with a fork.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sea-food",
+    "spanish-cuisine",
+    "citrus-recipes",
+    "thyme-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tender-spanish-sea-bass-skillet",
+  "source": "groq-llama-3.3-70b-versatile",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spanish-sea-bass-skillet",
+  "providerUsed": "groq-llama-3.3-70b-versatile",
+  "createdAt": "2026-05-03T16:23:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "thyme",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "sea bass",
+    "descriptor": "tender citrusy",
+    "dishForm": "Skillet"
+  }
+}
