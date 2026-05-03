@@ -1701,6 +1701,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-silky-ethiopian-pork-curry",
+    "title": "Tangy Silky Ethiopian Pork Curry",
+    "tags": [
+      "ethiopian-cuisine",
+      "low-carb",
+      "pork-curry",
+      "tangy",
+      "silky",
+      "special-occasion"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-silky-festive-french-egg-stir-fry",
     "title": "Tangy Silky Festive French Egg Stir-fry",
     "tags": [
