@@ -1,0 +1,96 @@
+{
+  "title": "Tender Polish Potato Toast",
+  "description": "A fresh and tender Polish dish featuring new potatoes, perfect for the monsoon season, and diabetic-friendly. This recipe is a delicious and healthy twist on traditional Polish cuisine.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "new potatoes",
+      "amount": "4-6 medium-sized",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sliced potatoes with melted butter, salt, and pepper until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "While the potatoes are roasting, toast the bread until it is lightly browned.",
+    "Once the potatoes are done, let them cool for a few minutes before topping each slice of toast with a few slices of potato, a sprinkle of chopped fresh dill, and a dollop of low-fat sour cream.",
+    "Top each slice of toast with a sprinkle of grated low-fat cheddar cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional chopped fresh dill if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-cuisine",
+    "monsoon-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "healthy-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tender-polish-potato-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-polish-potato-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:52:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "new potatoes",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "tender",
+    "dishForm": "Toast"
+  }
+}

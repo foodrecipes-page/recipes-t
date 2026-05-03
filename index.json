@@ -195,6 +195,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-peruvian-shrimp-noodles",
+    "title": "Tangy Chewy Peruvian Shrimp Noodles",
+    "tags": [
+      "peruvian-cuisine",
+      "shrimp-recipes",
+      "noodle-dishes",
+      "lazy-sunday-meals"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-portuguese-vegetable-stew",
     "title": "Tangy Chewy Portuguese Vegetable Stew",
     "tags": [
@@ -2601,6 +2614,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-polish-potato-toast",
+    "title": "Tender Polish Potato Toast",
+    "tags": [
+      "polish-cuisine",
+      "monsoon-recipes",
+      "diabetic-friendly",
+      "gluten-free",
+      "healthy-snacks"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {

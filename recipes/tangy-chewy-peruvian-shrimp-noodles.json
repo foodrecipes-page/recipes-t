@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Chewy Peruvian Shrimp Noodles",
+  "description": "A lazy Sunday Peruvian dish featuring rice vermicelli, succulent shrimp, and a tangy sauce, perfect for a relaxing meal. This pescatarian-friendly recipe combines the flavors of Peru with the comfort of chewy noodles.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice vermicelli",
+      "amount": "8 oz",
+      "notes": "also known as rice noodles"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the rice vermicelli according to package instructions and set aside.",
+    "In a blender or food processor, combine aji amarillo peppers, lime juice, garlic, and soy sauce. Blend until smooth.",
+    "Heat the olive oil in a large skillet over medium-high heat. Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Add the blended sauce to the skillet and stir to combine. Bring the sauce to a simmer and cook for 2 minutes.",
+    "Add the cooked noodles to the skillet and toss to combine with the sauce and shrimp.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Serve with additional lime wedges on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian-cuisine",
+    "shrimp-recipes",
+    "noodle-dishes",
+    "lazy-sunday-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tangy-chewy-peruvian-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-peruvian-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:52:09Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "tangy chewy",
+    "dishForm": "Noodles"
+  }
+}
