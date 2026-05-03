@@ -1,0 +1,112 @@
+{
+  "title": "Tangy Crispy Indian Soybean Croquettes",
+  "description": "A midnight‑craving French‑style croquette infused with zesty Indian tadka, packed with protein‑rich soybeans and dairy‑free, crispy coating.",
+  "cuisine": "Indian-French fusion",
+  "diet": [
+    "vegan",
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked soybeans",
+      "amount": "1 cup",
+      "notes": "drained and cooled"
+    },
+    {
+      "name": "red onion, finely chopped",
+      "amount": "½ cup"
+    },
+    {
+      "name": "garlic & ginger paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "green chili, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "spice blend (cumin, coriander, red chili)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "pinch each"
+    },
+    {
+      "name": "chickpea flour batter",
+      "amount": "2 tbsp chickpea flour + 2 tbsp water"
+    },
+    {
+      "name": "breadcrumb‑cornflour coating",
+      "amount": "½ cup breadcrumbs + 1 tbsp cornflour"
+    },
+    {
+      "name": "oil for deep frying",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the cooked soybeans, chopped onion, green chili, cilantro, tamarind paste, lemon juice, spice blend, and salt & pepper.",
+    "Add garlic & ginger paste and mix thoroughly.",
+    "Fold the chickpea flour batter into the mixture until it holds together.",
+    "Shape the mixture into small oval patties, about 3 inches long.",
+    "Roll each patty in the breadcrumb‑cornflour coating until fully covered.",
+    "Heat oil in a deep pan to 180°C (356°F). Fry the croquettes in batches, turning once, until golden and crisp, about 3–4 minutes.",
+    "Transfer fried croquettes to paper towels to drain excess oil.",
+    "Serve hot with a chilled vegan coriander‑lime chutney or your favorite dairy‑free dip."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "crisp",
+    "tangy",
+    "midnight-craving",
+    "french",
+    "fusion",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 23,
+    "fat": 16
+  },
+  "slug": "tangy-crispy-indian-soybean-croquettes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-indian-soybean-croquettes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:31:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "tadka",
+    "primaryIngredient": "soya bean",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Soybean",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Croquettes"
+  }
+}
