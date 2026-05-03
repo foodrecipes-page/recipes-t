@@ -1,0 +1,89 @@
+{
+  "title": "Tangy Light Festive Norwegian Goose Fat Pancakes",
+  "description": "These tangy and light goose fat pancakes are perfect for a festive breakfast or snack, featuring savory flavors that won't overshadow the goose fat's distinct taste.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 packet (about 3 grams)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Goose Fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and salt.",
+    "Add the vegetable oil to the dry ingredients and mix well until no lumps remain.",
+    "Pour in the goose fat and soy sauce. Mix gently to avoid breaking down the batter too much.",
+    "Add turmeric powder and apple cider vinegar. Stir quickly but thoroughly.",
+    "Divide the mixture into smaller portions and shape them into flat pancakes using your hands or a ladle.",
+    "Heat a non-stick skillet over medium heat. Add a few drops of oil to prevent sticking.",
+    "Place each pancake on the skillet and cook for about 2-3 minutes until golden brown on both sides. Cook in batches if necessary.",
+    "Serve hot with a side of fresh fruit or a dollop of yogurt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "goose fat",
+    "vegetarian-friendly",
+    "tangy",
+    "light",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "tangy-light-festive-norwegian-goose-fat-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-festive-norwegian-goose-fat-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:22:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "sous-vide",
+    "primaryIngredient": "goose fat",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "goose fat",
+    "descriptor": "Tangy Light Festive",
+    "dishForm": "Pancakes"
+  }
+}
