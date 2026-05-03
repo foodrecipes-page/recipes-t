@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Velvety Irish Lettuce Soup",
+  "description": "A light, tangy, and velvety soup that showcases baby lettuce leaves in a bright lemon‑herb broth, perfect for a quick Paleo‑friendly lunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo-friendly",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "200 g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups (960 ml)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 Tbsp",
+      "notes": "for browning aromatics"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "coconut milk, full‑fat",
+      "amount": "½ cup (120 ml)"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic and cook 30 seconds until fragrant.",
+    "Pour in the vegetable broth, bring to a gentle simmer, then add the lemon juice and fresh dill.",
+    "Add the baby lettuce leaves, cover, and let the soup simmer for 8–10 minutes until the lettuce is tender.",
+    "Remove from heat and blend the soup until completely smooth using an immersion blender or a countertop blender in batches.",
+    "Return the soup to the pot, stir in the coconut milk, and reheat just until warmed through (do not boil).",
+    "Season with salt and pepper to taste, then serve hot, garnished with extra dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "paleo-friendly",
+    "soups",
+    "irish",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 4,
+    "carbs": 15,
+    "fat": 32
+  },
+  "slug": "tangy-velvety-irish-lettuce-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-irish-lettuce-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:14:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "simmer",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Lettuce",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Soup"
+  }
+}
