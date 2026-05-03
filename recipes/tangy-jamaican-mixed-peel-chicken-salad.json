@@ -1,0 +1,107 @@
+{
+  "title": "Tangy Jamaican Mixed Peel Chicken Salad",
+  "description": "A light, flavorful salad featuring sautéed chicken tossed with mixed greens, citrus segments, and a zesty Jamaican-inspired vinaigrette.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Skinless boneless chicken breast",
+      "amount": "1 lb (450 g)",
+      "notes": "cubed"
+    },
+    {
+      "name": "Mixed salad greens",
+      "amount": "4 cups",
+      "notes": "arugula, spinach, romaine"
+    },
+    {
+      "name": "Orange",
+      "amount": "1 medium",
+      "notes": "segmented, pith removed"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "1/4 cup (60 ml)",
+      "notes": "about 2 limes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "1 tbsp for sauté, 1 tbsp for dressing"
+    },
+    {
+      "name": "Jamaican jerk seasoning blend",
+      "amount": "1 tbsp",
+      "notes": "salted"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Season the cubed chicken with sea salt, black pepper, and Jamaican jerk seasoning.",
+    "Heat 1 tbsp olive oil in a skillet over medium‑high heat until shimmering.",
+    "Add the seasoned chicken and sauté for 7–8 minutes or until the internal temperature reaches 165°F (74°C).",
+    "Remove the chicken and set aside to rest.",
+    "While the chicken cooks, wash and dry the mixed greens, segment the orange, and chop the cilantro.",
+    "In a small bowl, whisk together the lime juice, remaining 1 tbsp olive oil, sea salt, and black pepper to make the vinaigrette.",
+    "Toss the greens with the vinaigrette until evenly coated.",
+    "Add the cooked chicken, orange segments, and chopped cilantro to the salad.",
+    "Gently toss all ingredients together and serve immediately.",
+    "Optional: chill the salad for 10 minutes to let the flavors meld before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "whole30-friendly",
+    "jamaican-flavor",
+    "salad",
+    "tangy",
+    "light-dish",
+    "sauteed-chicken",
+    "citrus",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 11
+  },
+  "slug": "tangy-jamaican-mixed-peel-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-jamaican-mixed-peel-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:37:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "saute",
+    "primaryIngredient": "mixed peel",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tangy",
+    "dishForm": "Salad"
+  }
+}
