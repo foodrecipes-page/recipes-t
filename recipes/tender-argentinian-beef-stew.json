@@ -1,0 +1,108 @@
+{
+  "title": "Tender Argentinian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with tender beef, herbal notes, and a kid-friendly twist, featuring flax eggs and gluten-free friendly ingredients. This dish is perfect for a comforting dinner",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "flax eggs",
+      "amount": "2",
+      "notes": "mixed with 4 tbsp water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large bowl, whisk together flax eggs and water. Let it sit for 5 minutes to thicken.",
+    "Season the beef cubes with salt, black pepper, dried oregano, and dried thyme.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the beef cubes until browned on all sides, about 5 minutes. Remove the beef from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's translucent, about 5 minutes. Add the minced garlic and cook for an additional minute.",
+    "Add the beef broth to the pot, scraping the bottom to release the browned bits. Bring the broth to a boil, then return the beef to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven. Braise the stew for 2.5 hours, or until the beef is tender.",
+    "Add the cubed potatoes to the pot and continue to braise for an additional 30 minutes, or until the potatoes are cooked through.",
+    "Remove the pot from the oven and let it cool slightly. Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-stew",
+    "gluten-free",
+    "kid-friendly",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "tender-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T21:27:42Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "flax eggs",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "tender herbal",
+    "dishForm": "Stew"
+  }
+}

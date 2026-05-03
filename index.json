@@ -2391,6 +2391,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-argentinian-beef-stew",
+    "title": "Tender Argentinian Beef Stew",
+    "tags": [
+      "argentinian",
+      "beef-stew",
+      "gluten-free",
+      "kid-friendly",
+      "comfort-food"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 210,
+    "shard": "t"
+  },
+  {
     "slug": "tender-bitter-greek-lamb-stew",
     "title": "Tender Bitter Greek Lamb Stew",
     "tags": [
