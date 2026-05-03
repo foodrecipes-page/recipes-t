@@ -234,6 +234,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-vietnamese-cheese-pho",
+    "title": "Tangy Chewy Vietnamese Cheese Pho",
+    "tags": [
+      "vegan",
+      "pho",
+      "cheese",
+      "tangy",
+      "quick"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-salmon-stir-fry",
     "title": "Tangy Creamy Salmon Stir-fry",
     "tags": [
