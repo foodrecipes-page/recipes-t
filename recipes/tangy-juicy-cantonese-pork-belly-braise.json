@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Juicy Cantonese Pork Belly Braise",
+  "description": "A classic Cantonese dish featuring slow-cooked pork belly in a sweet and tangy sauce, perfect for a comforting dinner.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly, skin removed",
+      "amount": "1.4 kg",
+      "notes": "Ask your butcher to remove the skin"
+    },
+    {
+      "name": "Clove",
+      "amount": "3",
+      "notes": "You can adjust the number of cloves based on your personal preference"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "60 ml",
+      "notes": "You can substitute with regular soy sauce if light soy sauce is not available"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "30 ml",
+      "notes": "Optional, but adds a rich flavor"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "60 ml",
+      "notes": "You can use white vinegar as a substitute"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "20 g",
+      "notes": "Optional, but adds a touch of sweetness"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Adjust the number of garlic cloves based on your personal preference"
+    },
+    {
+      "name": "Ginger, sliced",
+      "amount": "2 cm",
+      "notes": "Adjust the size of the ginger slice based on your personal preference"
+    },
+    {
+      "name": "Scallions, chopped",
+      "amount": "20 g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven or heavy pot, combine the pork belly, soy sauce, oyster sauce (if using), rice vinegar, sugar, garlic, and ginger.",
+    "Braise the pork belly over low heat for 2 hours, or until it's tender and slightly caramelized.",
+    "After 2 hours, remove the pork belly from the pot and let it rest for 10 minutes.",
+    "Using two forks, shred the pork belly into bite-sized pieces.",
+    "Strain the braising liquid and discard the solids.",
+    "Return the pork belly to the pot and add the strained braising liquid.",
+    "Simmer the pork belly over low heat for another 10-15 minutes, or until the sauce has thickened and the pork is nicely coated.",
+    "Taste and adjust the seasoning with salt and sugar as needed.",
+    "Garnish with chopped scallions and serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": "6-8",
+  "difficulty": "hard",
+  "tags": [
+    "cantonese",
+    "braise",
+    "slow-cook",
+    "pork-belly",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": "54g",
+    "carbs": "44g",
+    "fat": "54g"
+  },
+  "slug": "tangy-juicy-cantonese-pork-belly-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-cantonese-pork-belly-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:58:17Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "cloves",
+    "diet": "dairy-free",
+    "region": "cantonese",
+    "cuisineAdjective": "Cantonese",
+    "mainIngredient": "Pork Belly",
+    "descriptor": "Tangy Juicy",
+    "dishForm": "Braise"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "title": "Tangy Crisp Italian Chicken Salad",
+  "description": "A quick, high-protein weeknight dish featuring grilled chicken, fresh romaine, saskatoon berries, and tangy vinaigrette for a flavorful crunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "500g",
+      "notes": "about 4 breasts"
+    },
+    {
+      "name": "romaine lettuce",
+      "amount": "200g",
+      "notes": "chopped"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "150g",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "150g",
+      "notes": "diced"
+    },
+    {
+      "name": "pickles",
+      "amount": "100g",
+      "notes": "diced"
+    },
+    {
+      "name": "saskatoon berries",
+      "amount": "120g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "30g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 tbsp",
+      "notes": "chopped (optional)"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt and pepper to taste"
+    },
+    {
+      "name": "salt",
+      "amount": null
+    },
+    {
+      "name": "pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat (about 180°C).",
+    "Season chicken breasts with salt and pepper and grill for 6-7 minutes per side until internal temperature reaches 75°C (165°F). Remove, let rest 5 minutes, then slice into strips.",
+    "While chicken cooks, wash and chop romaine lettuce, halve cherry tomatoes, dice cucumber and pickles, and rinse saskatoon berries.",
+    "In a large bowl, combine lettuce, tomatoes, cucumber, pickles, berries, and crumbled feta.",
+    "Add sliced chicken to the bowl.",
+    "Whisk together olive oil, red wine vinegar, lemon juice, and oregano until emulsified. Season with salt and pepper.",
+    "Drizzle dressing over salad and toss gently to coat all ingredients.",
+    "Taste and adjust seasoning if needed.",
+    "Serve immediately or chill in the fridge for up to 1 hour to keep crisp.",
+    "Garnish with extra oregano leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "salad",
+    "weeknight",
+    "high-protein",
+    "low-carb",
+    "saskatoon-berry",
+    "pickles",
+    "tangy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 311,
+    "protein": 34,
+    "carbs": 9,
+    "fat": 13
+  },
+  "slug": "tangy-crisp-italian-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crisp-italian-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:58:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "saskatoon berries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tangy Crisp",
+    "dishForm": "Salad"
+  }
+}

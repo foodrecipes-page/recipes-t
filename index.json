@@ -242,6 +242,25 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crisp-italian-chicken-salad",
+    "title": "Tangy Crisp Italian Chicken Salad",
+    "tags": [
+      "italian",
+      "chicken",
+      "salad",
+      "weeknight",
+      "high-protein",
+      "low-carb",
+      "saskatoon-berry",
+      "pickles",
+      "tangy",
+      "gluten-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crisp-uruguayan-beef-quesadilla",
     "title": "Uruguayan Beef Quesadilla con Ensalada de Milenrama",
     "tags": [
@@ -1076,6 +1095,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 5,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-juicy-cantonese-pork-belly-braise",
+    "title": "Tangy Juicy Cantonese Pork Belly Braise",
+    "tags": [
+      "cantonese",
+      "braise",
+      "slow-cook",
+      "pork-belly",
+      "chinese"
+    ],
+    "cuisine": "Cantonese",
+    "totalTimeMin": 230,
     "shard": "t"
   },
   {
