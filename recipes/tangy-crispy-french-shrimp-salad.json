@@ -1,0 +1,84 @@
+{
+  "title": "Tangy Crispy French Shrimp Salad",
+  "description": "A midnight-craving French salad featuring sous‑vide shrimp tossed in a dark‑soy vinaigrette, then crisped in a hot pan for a satisfyingly crunchy finish.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "500 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "plus extra for pan"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "radish, sliced",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chives, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Season the shrimp lightly with salt and pepper and vacuum‑seal them for sous‑vide.",
+    "Sous‑vide the shrimp at 55 °C (131 °F) for 15 minutes, then chill in an ice bath until cold.",
+    "Heat a non‑stick skillet over high heat and add 1 tbsp of olive oil. Add the chilled shrimp in a single layer and sear for 30–45 seconds per side until golden and crispy, shaking the pan to avoid sticking.",
+    "Whisk together dark soy sauce, Dijon mustard, lemon juice, rice vinegar, honey, 1 tbsp olive oil, salt, and pepper to make the vinaigrette.",
+    "Toss the mixed greens, cucumber, radish, and chives in a large bowl, then add the crispy shrimp and drizzle with the vinaigrette.",
+    "Serve immediately, optionally garnished with extra chives or a lemon wedge."
+  ],
+  "slug": "tangy-crispy-french-shrimp-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-french-shrimp-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:53:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Salad"
+  }
+}
