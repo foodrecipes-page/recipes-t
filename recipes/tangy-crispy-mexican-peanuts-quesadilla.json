@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Crispy Mexican Peanuts Quesadilla",
+  "description": "A vibrant, vegetarian Mexican quesadilla bursting with tangy lime, crunchy peanuts, and a buttery, crispy finish. Perfect for a show‑off snack or light lunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "4",
+      "notes": "medium, 50mm diameter"
+    },
+    {
+      "name": "creamy peanut butter",
+      "amount": "1 cup",
+      "notes": "smooth or crunchy; thin with 1 tsp water if too thick"
+    },
+    {
+      "name": "agave nectar or honey",
+      "amount": "1/4 cup",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "ground for depth"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "adjust to heat preference"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "shredded cheddar or pepper jack cheese",
+      "amount": "1/2 cup",
+      "notes": "choice of cheese"
+    },
+    {
+      "name": "melted butter or oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "roasted peanuts, chopped",
+      "amount": "1 cup",
+      "notes": "optional, for extra crunch"
+    }
+  ],
+  "instructions": [
+    "In a small bowl whisk together peanut butter, agave, lime juice, cumin, smoked paprika, and cayenne until smooth. Add 1 tsp water if mixture is too thick.",
+    "Spread 2 tbsp of the peanut mixture on one side of each tortilla, leaving a 1‑inch border.",
+    "Sprinkle chopped cilantro, shredded cheese, and chopped peanuts over the spread. Top with another tortilla, peanut side down.",
+    "Heat a non‑stick skillet over medium heat and add 1 tbsp melted butter. Place the quesadilla in the skillet.",
+    "Cook 3‑4 minutes until the bottom is golden and the tortilla is crisp. Flip carefully with a spatula.",
+    "Cook another 3‑4 minutes, pressing gently until the cheese melts and the tortilla is evenly crisp.",
+    "Remove from skillet, let rest 1 minute, then cut into wedges.",
+    "Serve with lime wedges and a drizzle of extra peanut sauce if desired."
+  ],
+  "slug": "tangy-crispy-mexican-peanuts-quesadilla",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-mexican-peanuts-quesadilla",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:46:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "peanut butter",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Peanuts",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Quesadilla"
+  }
+}
