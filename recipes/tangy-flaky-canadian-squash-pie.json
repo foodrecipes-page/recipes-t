@@ -1,0 +1,111 @@
+{
+  "title": "Tangy Flaky Canadian Squash Pie",
+  "description": "A quick, Mediterranean‑friendly pie with slow‑cooked butternut squash, tangy lemon‑vinegar sauce, and buttery flaky pastry.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Store‑bought puff pastry sheet",
+      "amount": "1 sheet (250 g)"
+    },
+    {
+      "name": "Butternut squash",
+      "amount": "1 medium (400 g)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced (100 g)"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 Tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 Tbsp"
+    },
+    {
+      "name": "Parmesan cheese, grated",
+      "amount": "2 Tbsp",
+      "notes": "optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200 °C (400 °F) and lightly oil a 9‑inch pie dish.",
+    "In a large skillet, heat olive oil over medium heat. Add onion and garlic, sauté until translucent, about 3–4 minutes.",
+    "Add cubed butternut squash, thyme, salt, and pepper; cook for 5 minutes until slightly softened.",
+    "Stir in lemon juice, maple syrup, and apple cider vinegar; cook for another 2 minutes letting flavors meld. Remove from heat and let sit 2 minutes.",
+    "Roll out puff pastry to fit the dish. Press into the dish, trimming any excess edges.",
+    "Evenly spoon the squash filling into the crust, smoothing the top.",
+    "Sprinkle grated parmesan over the filling if desired.",
+    "Bake for 25–30 minutes until pastry is golden brown and the squash is fully tender.",
+    "Let the pie cool for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "flaky",
+    "canadian",
+    "squash",
+    "pie",
+    "mediterranean-friendly",
+    "quick-fix",
+    "slow-cook",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 38,
+    "fat": 15
+  },
+  "slug": "tangy-flaky-canadian-squash-pie",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-canadian-squash-pie",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:03:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "slow-cook",
+    "primaryIngredient": "squash",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "squash",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Pie"
+  }
+}
