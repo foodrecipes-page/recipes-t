@@ -1,0 +1,105 @@
+{
+  "title": "Tender Herbal Norwegian Tomato Stew",
+  "description": "A hearty, vegan-friendly stew featuring tender tomatoes and herbal notes, perfect for a weeknight dinner. This Norwegian-inspired dish incorporates fermented ingredients for added depth of flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 (28 oz) can",
+      "notes": "preferably San Marzano"
+    },
+    {
+      "name": "aquafaba",
+      "amount": "1/2 cup",
+      "notes": "liquid from canned chickpeas"
+    },
+    {
+      "name": "Norwegian thyme",
+      "amount": "2 sprigs",
+      "notes": "or substitute with regular thyme"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh, chopped"
+    },
+    {
+      "name": "fermented sauerkraut",
+      "amount": "1/4 cup",
+      "notes": "drained, chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute, until fragrant.",
+    "Add Norwegian thyme, dill, salt, and pepper. Stir to combine.",
+    "Add canned crushed tomatoes, aquafaba, and fermented sauerkraut. Stir to combine.",
+    "Bring the stew to a simmer and let cook for 20-25 minutes, or until the flavors have melded together and the stew has thickened slightly.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian-cuisine",
+    "vegan-stew",
+    "tomato-based",
+    "herbal-notes",
+    "fermented-ingredients"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-herbal-norwegian-tomato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-herbal-norwegian-tomato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T16:36:31Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "tomato",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "tomato",
+    "descriptor": "tender herbal",
+    "dishForm": "Stew"
+  }
+}
