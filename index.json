@@ -1868,6 +1868,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-bitter-greek-lamb-stew",
+    "title": "Tender Bitter Greek Lamb Stew",
+    "tags": [
+      "greek-cuisine",
+      "lamb-stew",
+      "fodmap-friendly",
+      "brunch-recipe",
+      "slow-cooked"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 210,
+    "shard": "t"
+  },
+  {
     "slug": "tender-buttery-rhubarb-crumble",
     "title": "Tender Buttery Rhubarb Crumble",
     "tags": [
