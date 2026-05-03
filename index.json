@@ -2191,6 +2191,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-french-lemon-crepe",
+    "title": "Tender French Lemon Crepe",
+    "tags": [
+      "french",
+      "crepe",
+      "lemon",
+      "plant-based",
+      "date-night"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-fried-american-zucchini-fry",
     "title": "Earthy Zucchini Fry",
     "tags": [
