@@ -1,0 +1,120 @@
+{
+  "title": "Tender Romantic Indian Chicken Curry",
+  "description": "A fragrant, tender chicken curry with hazelnuts and a smoky tadka, perfect for a romantic dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 kg",
+      "notes": "cut into bite‑size pieces"
+    },
+    {
+      "name": "hazelnuts, toasted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion, finely sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "plain yogurt, whisked",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a heavy‑bottom pan over medium heat and add cumin seeds, letting them sizzle for 10‑15 seconds.",
+    "Add sliced onions and sauté until golden brown, about 8 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Pour in tomato puree and cook, stirring constantly, until the mixture thickens and oil begins to separate, about 5 minutes.",
+    "Add the chicken pieces, salt, turmeric, coriander powder, and garam masala; cook, stirring, until the chicken is sealed on all sides, about 7 minutes.",
+    "Reduce heat to low, pour in whisked yogurt, and simmer gently, covering, for 15 minutes, until the chicken is tender and fully cooked.",
+    "Meanwhile, toast hazelnuts in a dry skillet until golden and fragrant; chop roughly and set aside.",
+    "Prepare a tadka: Heat remaining oil in a small pan, add a pinch of salt, then pour the hot oil over the cooked curry to release the spices. Stir in toasted hazelnuts and chopped cilantro.",
+    "Garnish the curry with extra cilantro leaves and serve immediately with steamed basmati rice or naan.",
+    "Optionally, garnish with a drizzle of cream or a dash of chili flakes for an extra romantic touch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "romantic",
+    "halal-friendly",
+    "tadka",
+    "hazelnut",
+    "chicken-curry"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 42,
+    "carbs": 32,
+    "fat": 36
+  },
+  "slug": "tender-romantic-indian-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-romantic-indian-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:46:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "hazlenuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tender Romantic",
+    "dishForm": "Curry"
+  }
+}
