@@ -859,6 +859,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-algerian-lamb-tagine",
+    "title": "Algerian Lamb Tagine",
+    "tags": [
+      "algerian",
+      "lamb",
+      "stew",
+      "jerk-seasoning",
+      "tadka-spice-blend",
+      "midnight-craving"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-croatian-tomato-stir-fry",
     "title": "Tangy Gooey Croatian Tomato Stir-fry",
     "tags": [
