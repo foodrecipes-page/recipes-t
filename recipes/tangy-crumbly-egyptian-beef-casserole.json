@@ -1,0 +1,106 @@
+{
+  "title": "Tangy Crumbly Egyptian Beef Casserole",
+  "description": "A bright, tangy casserole featuring lean minced beef, aromatic spices, and a crumbly low‑fat topping—perfect for a comforting sick‑day meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat",
+    "lean-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lean ground beef (90% lean)",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium (≈150g)"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3 cloves (≈10g)"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200g"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Low‑fat feta cheese, crumbled",
+      "amount": "50g"
+    },
+    {
+      "name": "Low‑fat breadcrumbs",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Heat a large skillet over medium heat and add the diced onion; sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Increase heat to medium‑high, add the lean ground beef, breaking it up with a spoon, and cook until browned, about 8 minutes.",
+    "Stir in the tomato puree, cumin, coriander, smoked paprika, lemon juice, and apple cider vinegar; reduce heat to low and simmer for 10 minutes to meld flavors.",
+    "Transfer the beef mixture to a greased 20cm (8inch) baking dish, spreading it evenly.",
+    "In a small bowl, combine the crumbled low‑fat feta and low‑fat breadcrumbs; sprinkle evenly over the beef.",
+    "Bake in the preheated oven for 25 minutes, or until the topping is lightly golden and the casserole is heated through.",
+    "Remove from oven, let rest 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "tangy",
+    "crumbly",
+    "low-fat",
+    "lean-beef",
+    "casserole",
+    "sick-day",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 1060,
+    "protein": 110,
+    "carbs": 40,
+    "fat": 50
+  },
+  "slug": "tangy-crumbly-egyptian-beef-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-egyptian-beef-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:55:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "fold",
+    "primaryIngredient": "lean minced beef",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Beef",
+    "descriptor": "Tangy Crumbly",
+    "dishForm": "Casserole"
+  }
+}
