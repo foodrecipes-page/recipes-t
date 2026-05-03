@@ -1,0 +1,132 @@
+{
+  "title": "Tender, Gooey Turkish Lamb Tagine",
+  "description": "A rich, comforting Turkish dish featuring tender lamb, turmeric, and a gooey, flavorful sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "For thickening the sauce"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "For braising the lamb"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a traditional Turkish clay pot or a heavy Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes, then remove them from the pot and set them aside.",
+    "Add the onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the garlic, ginger, turmeric, cumin, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute, stirring constantly.",
+    "Add the flour to the pot and cook for 1 minute, stirring constantly.",
+    "Add the browned lamb back to the pot, along with the chicken broth and dried apricots.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until it's tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Stir in the Greek yogurt and season the sauce with salt and black pepper to taste.",
+    "Serve the lamb and sauce over rice or with some crusty bread, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "comfort-food",
+    "lamb",
+    "middle-eastern",
+    "rich",
+    "slow-cooker",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tender-gooey-turkish-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-gooey-turkish-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:17:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "tagine-cook",
+    "primaryIngredient": "turmeric",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Tender, Gooey",
+    "dishForm": "Tagine"
+  }
+}

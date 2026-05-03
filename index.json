@@ -3081,6 +3081,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-gooey-turkish-lamb-tagine",
+    "title": "Tender, Gooey Turkish Lamb Tagine",
+    "tags": [
+      "braised",
+      "comfort-food",
+      "lamb",
+      "middle-eastern",
+      "rich",
+      "slow-cooker",
+      "tagine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
     "slug": "tender-greek-butter-beans-stew",
     "title": "Tender Greek Butter Beans Stew",
     "tags": [
@@ -3582,6 +3598,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "thick-tender-japanese-beef-sandwich",
+    "title": "Japanese Beef Sandwich",
+    "tags": [
+      "beef",
+      "easy-to-make",
+      "japanese",
+      "lunch",
+      "sandwich",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {

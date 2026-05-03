@@ -1,0 +1,109 @@
+{
+  "title": "Japanese Beef Sandwich",
+  "description": "A rich, savory sandwich filled with tender beef, juicy tomatoes, and fresh herbs, served on a soft double-rise bread.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Brioche double-rise bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Melted mozzarella cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties, about 3/4-inch thick.",
+    "Season the patties with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the brioche bread slices.",
+    "Spread a layer of mayonnaise on each toasted bread slice.",
+    "Add a cooked beef patty to each bread slice.",
+    "Top each patty with a slice of melted mozzarella cheese.",
+    "Add sliced tomatoes and a sprinkle of fresh basil and cilantro on top of the cheese.",
+    "Drizzle the sandwiches with sesame oil and soy sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "easy-to-make",
+    "japanese",
+    "lunch",
+    "sandwich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "thick-tender-japanese-beef-sandwich",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-tender-japanese-beef-sandwich",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:17:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "beef",
+    "descriptor": "thick tender",
+    "dishForm": "Sandwich"
+  }
+}
