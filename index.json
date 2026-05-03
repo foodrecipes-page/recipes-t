@@ -816,6 +816,18 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-nut-flatbread",
+    "title": "Tangy Gooey Nut Flatbread",
+    "tags": [
+      "tangy",
+      "goosey",
+      "nut-free-friendly"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-quick-fix-croatian-puff-pastry-stir-fry",
     "title": "Tangy Gooey Quick-Fix Croatian Puff Pastry Stir-fry",
     "tags": [

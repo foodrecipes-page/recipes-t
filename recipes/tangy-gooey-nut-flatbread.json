@@ -1,0 +1,72 @@
+{
+  "title": "Tangy Gooey Nut Flatbread",
+  "description": "A tangy and gooey show-off Slovakian dish featuring a baguette base with pickles and an optional vegan cheese for a nut-free-friendly option.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Baguette bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Pickled vegetables",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegan cheese spread",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Spread a thin layer of vegan cheese spread on one slice of baguette bread.",
+    "Add pickled vegetables evenly over the cheese.",
+    "Drizzle lemon juice over the top and sprinkle with salt.",
+    "Place the other slice of baguette on top to create an open sandwich. Press lightly to adhere.",
+    "Bake for 10-12 minutes or until golden brown and crispy around the edges.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "goosey",
+    "nut-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 9
+  },
+  "slug": "tangy-gooey-nut-flatbread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-nut-flatbread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:03:44Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "baguette",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Nut",
+    "descriptor": "Tangy Gooey",
+    "dishForm": "Wrap"
+  }
+}
