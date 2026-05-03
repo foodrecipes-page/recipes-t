@@ -292,6 +292,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-italian-chili-pasta",
+    "title": "Tangy Creamy Italian Chili Pasta",
+    "tags": [
+      "vegetarian",
+      "creamy",
+      "italian",
+      "pasta",
+      "chili",
+      "monsoon",
+      "quick"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 28,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-salmon-stir-fry",
     "title": "Tangy Creamy Salmon Stir-fry",
     "tags": [

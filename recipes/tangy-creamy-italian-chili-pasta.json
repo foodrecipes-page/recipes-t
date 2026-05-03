@@ -1,0 +1,125 @@
+{
+  "title": "Tangy Creamy Italian Chili Pasta",
+  "description": "A savory, creamy pasta with a zesty kick of chili and lemon, perfect for a monsoon mood.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "400g (1 can)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and red chili flakes, cooking for 30 seconds until fragrant.",
+    "Add tomato paste and cook, stirring, for 1 minute.",
+    "Pour in crushed tomatoes and vegetable broth, bring to a simmer.",
+    "Add the penne pasta, stir gently, cover, and cook for 11-12 minutes until al dente.",
+    "Reduce heat to low, then stir in ricotta and grated parmesan until melted and creamy.",
+    "Fold in lemon zest and lemon juice, adjusting seasoning with salt and pepper.",
+    "Top with chopped basil and serve hot.",
+    "Enjoy the tangy, creamy goodness!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "creamy",
+    "italian",
+    "pasta",
+    "chili",
+    "monsoon",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "tangy-creamy-italian-chili-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-italian-chili-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:08:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "monsoon",
+    "technique": "boil",
+    "primaryIngredient": "chilli",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Chili",
+    "descriptor": "Tangy Creamy",
+    "dishForm": "Pasta"
+  }
+}
