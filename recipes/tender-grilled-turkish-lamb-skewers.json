@@ -1,0 +1,105 @@
+{
+  "title": "Tender Grilled Turkish Lamb Skewers",
+  "description": "Fresh, juicy lamb skewers marinated with lemon, oregano, and capers, then grilled to perfection – a light, egg‑free Turkish favorite.",
+  "cuisine": "Turkish",
+  "diet": [
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, trimmed",
+      "amount": "680 g (1.5 lb)",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "lemon juice, fresh",
+      "amount": "45 ml (3 tbsp)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30 ml (2 tbsp)"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "capers, drained",
+      "amount": "60 g (1/4 cup)"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "6",
+      "notes": "soaked 30 min"
+    }
+  ],
+  "instructions": [
+    "Whisk together lemon juice, olive oil, oregano, cumin, paprika, salt, and pepper in a bowl until well combined.",
+    "Add lamb cubes to the bowl, tossing to coat each piece. Stir in capers and chopped mint, then cover and refrigerate for at least 1 hour (or overnight for deeper flavor).",
+    "Preheat a gas or charcoal grill to medium‑high heat. Thread the marinated lamb onto the soaked skewers, packing them tightly.",
+    "Grill the skewers about 3–4 minutes per side until the lamb reaches your preferred doneness (internal temperature 145 °F for medium‑rare).",
+    "While grilling, baste the skewers occasionally with the remaining marinade to keep them moist and flavorful.",
+    "Remove the skewers from the grill and allow them to rest for 5 minutes before serving. Plate with optional lemon wedges or a cucumber‑yogurt dip and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "grilled",
+    "lamb",
+    "egg-free",
+    "capers",
+    "gluten-free",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 1,
+    "fat": 22
+  },
+  "slug": "tender-grilled-turkish-lamb-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-grilled-turkish-lamb-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:12:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "capers",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Lamb",
+    "descriptor": "Tender Grilled",
+    "dishForm": "Skewers"
+  }
+}

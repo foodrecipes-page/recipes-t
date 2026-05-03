@@ -195,6 +195,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-portuguese-vegetable-stew",
+    "title": "Tangy Chewy Portuguese Vegetable Stew",
+    "tags": [
+      "portuguese",
+      "cajun",
+      "vegetarian",
+      "fermented",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-slovakian-strawberries-tart",
     "title": "Tangy Chewy Slovakian Strawberries Tart",
     "tags": [
@@ -2241,6 +2256,22 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-grilled-turkish-lamb-skewers",
+    "title": "Tender Grilled Turkish Lamb Skewers",
+    "tags": [
+      "turkish",
+      "grilled",
+      "lamb",
+      "egg-free",
+      "capers",
+      "gluten-free",
+      "quick-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
