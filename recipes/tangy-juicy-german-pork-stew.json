@@ -1,0 +1,105 @@
+{
+  "title": "Tangy Juicy German Pork Stew",
+  "description": "A hearty, diabetic-friendly German stew featuring tender pork, tangy flavors, and a hint of sesame seed oil, perfect for a lazy Sunday. This dish is carefully crafted to be low in carbs and rich in protein and healthy fats.",
+  "cuisine": "German",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1.5-inch cubes"
+    },
+    {
+      "name": "Sesame seed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame seed oil in a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes. Remove the pork from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the apple cider vinegar, chicken broth, caraway seeds, salt, and black pepper to the pot. Stir to combine.",
+    "Return the pork to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "pork-stew",
+    "diabetic-friendly",
+    "low-carb",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "tangy-juicy-german-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-german-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:59:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "tangy juicy",
+    "dishForm": "Stew"
+  }
+}

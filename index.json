@@ -1361,6 +1361,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-german-pork-stew",
+    "title": "Tangy Juicy German Pork Stew",
+    "tags": [
+      "german-cuisine",
+      "pork-stew",
+      "diabetic-friendly",
+      "low-carb",
+      "gluten-free"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 140,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-indulgent-walnut-stir-fry",
     "title": "Tangy Juicy Indulgent Walnut Stir-fry",
     "tags": [
@@ -1924,6 +1938,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-french-celeriac-soup",
+    "title": "Tangy Tender French Celeriac Soup",
+    "tags": [
+      "tangy",
+      "vegan",
+      "vegetarian",
+      "nut-free",
+      "gluten-free",
+      "french",
+      "soup",
+      "celeriac",
+      "midnight-craving"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-tender-french-chicken-casserole",
     "title": "Tangy Tender French Chicken Casserole",
     "tags": [
@@ -2074,6 +2106,20 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-velvety-saudi-arabian-tripe-stew",
+    "title": "Tangy Velvety Saudi Arabian Tripe Stew",
+    "tags": [
+      "stew",
+      "tripe",
+      "saudi-arabian",
+      "middle-eastern",
+      "comfort-food"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {

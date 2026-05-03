@@ -1,0 +1,119 @@
+{
+  "title": "Tangy Tender French Celeriac Soup",
+  "description": "A velvety, tangy soup with tender celeriac cubes, bright apple cider vinegar, and a splash of white wine, perfect for midnight cravings.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1.5 kg (peeled and diced)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large (diced)"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium (diced)"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 (optional, diced)"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups (low-sodium)"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup",
+      "notes": "nut‑free alternative for creaminess; omit for strict vegan"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in diced carrots and celery, cooking another 2 minutes.",
+    "Add the celeriac cubes and bay leaves; cook for 5 minutes, letting the vegetables soften slightly.",
+    "Deglaze with white wine, scraping up any browned bits, and let the wine reduce by half, about 3 minutes.",
+    "Pour in vegetable stock, add apple cider vinegar, lemon juice, thyme, salt, and pepper. Bring to a boil, then reduce to a gentle simmer.",
+    "Cover and simmer until the celeriac is tender, about 30 minutes.",
+    "Remove the bay leaves and blend the soup until smooth using an immersion blender or regular blender in batches.",
+    "Return to the pot, stir in coconut milk, and warm through. Adjust seasoning if needed.",
+    "Serve hot, garnished with a swirl of coconut milk and a sprinkle of fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "vegan",
+    "vegetarian",
+    "nut-free",
+    "gluten-free",
+    "french",
+    "soup",
+    "celeriac",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 6
+  },
+  "slug": "tangy-tender-french-celeriac-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-french-celeriac-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T19:58:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "celeriac",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "celeriac",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Soup"
+  }
+}
