@@ -1,0 +1,124 @@
+{
+  "title": "Tangy Croatian Cheese Flatbread",
+  "description": "A cozy, tangy flatbread packed with mozzarella, feta, dark brown sugar, dill pickles, and Mediterranean herbs, baked to gooey perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all‑purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120ml"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "100g"
+    },
+    {
+      "name": "crumbled feta",
+      "amount": "30g"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "diced dill pickles",
+      "amount": "50g"
+    },
+    {
+      "name": "diced sun‑dried tomatoes",
+      "amount": "30g"
+    },
+    {
+      "name": "sliced black olives",
+      "amount": "30g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "10g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together flour, yeast, and salt.",
+    "Add warm water and olive oil, then stir until a shaggy dough forms.",
+    "Knead on a floured surface for 5‑7 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise for 20 minutes or until doubled in size.",
+    "Meanwhile, combine shredded mozzarella, crumbled feta, dark brown sugar, oregano, red pepper flakes, and lemon zest in a mixing bowl.",
+    "After the dough has risen, divide it into two equal portions and roll each into a 30 cm circle on a parchment‑lined baking sheet.",
+    "Preheat the oven to 220 °C (425 °F). Spread the cheese‑sugar mixture evenly over each dough circle.",
+    "Top with diced pickles, sun‑dried tomatoes, and sliced olives.",
+    "Bake for 12‑15 minutes until the edges are golden and the cheese is bubbly.",
+    "Remove from the oven and let cool for 3 minutes before slicing.",
+    "Garnish with fresh basil leaves, drizzle a little extra‑virgin olive oil, and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "cheese",
+    "flatbread",
+    "croatian",
+    "pickle",
+    "dark-sugar",
+    "mediterranean-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 753,
+    "protein": 35,
+    "carbs": 164,
+    "fat": 48
+  },
+  "slug": "tangy-croatian-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-croatian-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T18:38:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "cheese",
+    "descriptor": "Tangy",
+    "dishForm": "Flatbread"
+  }
+}

@@ -410,6 +410,23 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-croatian-cheese-flatbread",
+    "title": "Tangy Croatian Cheese Flatbread",
+    "tags": [
+      "tangy",
+      "cheese",
+      "flatbread",
+      "croatian",
+      "pickle",
+      "dark-sugar",
+      "mediterranean-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crumbly-algerian-lettuce-crumble",
     "title": "Tangy Crumbly Algerian Lettuce Cumber",
     "tags": [
