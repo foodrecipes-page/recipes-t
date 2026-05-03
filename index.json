@@ -2625,6 +2625,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-korean-fish-soup",
+    "title": "Tender Korean Fish Soup",
+    "tags": [
+      "korean",
+      "fish-soup",
+      "pescatarian",
+      "comfort-food",
+      "simmered",
+      "indulgent"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-light-tunisian-duck-stir-fry",
     "title": "Tender Light Tunisian Duck Stir-fry",
     "tags": [

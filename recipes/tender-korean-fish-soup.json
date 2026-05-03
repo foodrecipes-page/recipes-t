@@ -1,0 +1,113 @@
+{
+  "title": "Tender Korean Fish Soup",
+  "description": "A savory, tender fish stew brimming with aromatic herbs and a silky broth that brings comfort to every spoonful.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white fish fillets (cod or halibut)",
+      "amount": "1.5 lb",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "wakame seaweed",
+      "amount": "1 tbsp dried (reconstituted in 1/2 cup water for 5 min)",
+      "notes": "adds umami and texture"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "4 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": "chopped, separate white and green"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "finely minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "gochujang (Korean red pepper paste)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice wine (mirin)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "parsley or cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, combine water, gochujang, soy sauce, mirin, minced ginger, minced garlic, and a pinch of salt; bring to a gentle simmer for 5 minutes to infuse flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "fish-soup",
+    "pescatarian",
+    "comfort-food",
+    "simmered",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "tender-korean-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-korean-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:02:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "mixed peel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Fish",
+    "descriptor": "Tender",
+    "dishForm": "Soup"
+  }
+}
