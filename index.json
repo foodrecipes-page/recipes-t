@@ -3482,6 +3482,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-steamed-norwegian-fish-stew",
+    "title": "Tender Steamed Norwegian Fish Stew",
+    "tags": [
+      "fish",
+      "gluten-free",
+      "high-protein",
+      "norwegian",
+      "one-pan",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tender-ukrainian-oyster-mushroom-toast",
     "title": "Tender Ukrainian Oyster Mushroom Toast",
     "tags": [

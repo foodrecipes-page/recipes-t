@@ -1,0 +1,102 @@
+{
+  "title": "Tender Steamed Norwegian Fish Stew",
+  "description": "A light and fluffy Norwegian dish made with a mixture of fish, steam, and aromatic spices.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod Fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mixture Powder",
+      "amount": "2 tsp",
+      "notes": "Norwegian seasoning blend"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Freshly boiled"
+    }
+  ],
+  "instructions": [
+    "Combine fish, garlic, mixture powder, lemon juice, butter, onion, carrots, and potatoes in a large steamer basket.",
+    "Place the steamer basket over boiling water, making sure the fish is not touching the water.",
+    "Cover the pot with a lid and steam for 10 minutes.",
+    "Remove the fish and vegetables from the steamer and divide them among four plates.",
+    "Serve immediately, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "norwegian",
+    "one-pan",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "tender-steamed-norwegian-fish-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-steamed-norwegian-fish-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T22:54:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "steam",
+    "primaryIngredient": "mixture powder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "fish",
+    "descriptor": "Tender Steamed",
+    "dishForm": "Stew"
+  }
+}
