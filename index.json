@@ -1134,6 +1134,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-flaky-french-cheese-omelette",
+    "title": "Tangy Flaky French Cheese Omelette",
+    "tags": [
+      "breakfast",
+      "paleo-friendly",
+      "cheese",
+      "flaky",
+      "monsoon-inspired",
+      "quick"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-french-sichuan-pepper-crumble",
     "title": "Tangy Flaky French Sichuan Pepper Crumble",
     "tags": [

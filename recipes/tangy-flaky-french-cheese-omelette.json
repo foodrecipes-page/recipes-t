@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Flaky French Cheese Omelette",
+  "description": "A quick, paleo‑friendly French omelette with tangy lemon‑infused eggs, generous cheese slices, and a delicate flaky texture achieved by gentle steam folding.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for the pan"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "fine or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 teaspoon",
+      "notes": "freshly squeezed for tang"
+    },
+    {
+      "name": "sharp cheddar cheese slices",
+      "amount": "50 g",
+      "notes": "about 3–4 slices, cut thinly"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon",
+      "notes": "helps keep the omelette moist"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon, chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk the eggs with salt, pepper, lemon juice, and water until the mixture is smooth and slightly frothy.",
+    "Heat a non‑stick skillet over medium‑low heat and add the tablespoon of olive oil, swirling to coat.",
+    "Pour the whisked eggs into the skillet, tilting the pan to spread them evenly. Let the eggs sit undisturbed for 30–45 seconds until the edges begin to set.",
+    "Place the cheddar cheese slices on the surface of the still‑liquid eggs, allowing the cheese to melt slightly.",
+    "Gently slide a spatula around the edges to lift the cooked portions and let raw egg flow underneath.",
+    "Cover the skillet with a lid and let the omelette steam for 2–3 minutes, which creates a flaky, airy interior.",
+    "Once the top is set but still slightly translucent, fold the omelette in half or roll it, then slide it onto a plate.",
+    "Sprinkle chopped parsley over the top for a fresh finish and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "paleo-friendly",
+    "cheese",
+    "flaky",
+    "monsoon-inspired",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 34,
+    "carbs": 2,
+    "fat": 48
+  },
+  "slug": "tangy-flaky-french-cheese-omelette",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-french-cheese-omelette",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:22:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "cheese slices",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Cheese",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Omelette"
+  }
+}
