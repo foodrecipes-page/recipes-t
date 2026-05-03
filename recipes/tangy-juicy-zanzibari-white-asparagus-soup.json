@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Juicy Zanzibari White Asparagus Soup",
+  "description": "A bright, citrusy soup that showcases the delicate flavor of white asparagus with a splash of lemon and aromatic herbs, perfect for a relaxed Kenyan brunch.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "500g",
+      "notes": "trimmed and cut into 1‑inch pieces"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "4 cups (1 liter)",
+      "notes": "warm before adding"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "extra‑virgin olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and grated ginger, sauté for 1 minute until fragrant.",
+    "Pour in the vegetable broth and bring to a gentle boil.",
+    "Add the diced carrot and cook for 2 minutes.",
+    "Stir in the chopped asparagus pieces and simmer for 8‑10 minutes until tender.",
+    "Add the lemon juice, salt, and pepper, and adjust seasoning as needed.",
+    "Remove from heat, then stir in the chopped parsley.",
+    "Serve hot, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "arabian",
+    "zanzibari",
+    "brunch",
+    "soup",
+    "asparagus",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 7,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "tangy-juicy-zanzibari-white-asparagus-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-zanzibari-white-asparagus-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T17:38:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "white asparagus",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "white asparagus",
+    "descriptor": "Tangy Juicy",
+    "dishForm": "Soup"
+  }
+}
