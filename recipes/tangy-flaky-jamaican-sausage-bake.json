@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Flaky Jamaican Sausage Bake",
+  "description": "A midnight craving Jamaican-inspired dish featuring spicy sausage and tangy sauce, baked to a flaky, golden crust and perfect for a Whole30-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked pork sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Jamaican seasoning blend (curry powder, allspice, thyme)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tomato sauce (no added sugar)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Slice sausage into ½-inch thick rounds and arrange in a 9x13-inch baking dish.",
+    "In a skillet over medium heat, melt coconut oil. Add onion and bell pepper; sauté until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute until fragrant.",
+    "Stir in Jamaican seasoning blend; cook 1 minute to toast spices.",
+    "Pour in tomato sauce, apple cider vinegar, and lime juice; stir to combine. Season with salt and pepper. Simmer 5 minutes.",
+    "Remove sauce from heat. Pour sauce evenly over sausage in baking dish.",
+    "Bake uncovered for 25–30 minutes, until sausage is cooked through and sauce is bubbly and golden.",
+    "Let the bake rest 5 minutes before serving. Garnish with chopped cilantro if desired (optional) and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "sausage",
+    "flaky",
+    "whole30",
+    "tangy",
+    "bake",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 66,
+    "carbs": 43,
+    "fat": 104
+  },
+  "slug": "tangy-flaky-jamaican-sausage-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-jamaican-sausage-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T16:53:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "reduce",
+    "primaryIngredient": "sausage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sausage",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Bake"
+  }
+}
