@@ -1,0 +1,102 @@
+{
+  "title": "Tangy Fluffy American Broccoli Casserole",
+  "description": "A one-pot, paleo-friendly casserole featuring Chinese broccoli, coconut milk, and a tangy tamari-lemon glaze, finished with a fluffy, airy layer of almond flour and eggs.",
+  "cuisine": "American",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli (gai lan)",
+      "amount": "400 g",
+      "notes": "washed and cut into bite‑size pieces"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400 ml",
+      "notes": "full‑fat"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "60 g",
+      "notes": "for binding and fluffiness"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tamari (gluten‑free soy sauce)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C (375°F).",
+    "In a large skillet, heat olive oil over medium heat and sauté the Chinese broccoli for 4‑5 minutes until it wilts.",
+    "Stir in tamari, apple cider vinegar, Dijon mustard, lemon zest, salt, and pepper; cook for another 2 minutes to coat the greens.",
+    "Whisk the eggs, coconut milk, and almond flour together in a bowl until smooth. Pour the mixture over the broccoli in the skillet, stirring gently to combine.",
+    "Transfer the skillet to the oven and bake for 18‑20 minutes until the top is golden and the mixture sets. Remove, let rest 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "paleo",
+    "one-pot",
+    "fluffy",
+    "tangy",
+    "broccoli",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 31
+  },
+  "slug": "tangy-fluffy-american-broccoli-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-american-broccoli-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:19:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "roast",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "broccoli",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Casserole"
+  }
+}
