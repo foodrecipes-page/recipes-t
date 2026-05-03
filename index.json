@@ -944,6 +944,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-juicy-energizing-almond-pilaf",
+    "title": "Tangy Juicy Energizing Almond Pilaf",
+    "tags": [
+      "tangy",
+      "juicy",
+      "energizing",
+      "portuguese",
+      "almond",
+      "halal-friendly"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-juicy-indulgent-walnut-stir-fry",
     "title": "Tangy Juicy Indulgent Walnut Stir-fry",
     "tags": [

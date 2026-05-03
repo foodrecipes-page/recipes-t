@@ -1,0 +1,74 @@
+{
+  "title": "Tangy Juicy Energizing Almond Pilaf",
+  "description": "This tangy and juicy almond pilaf is a refreshing energizing dish that combines the benefits of poaching with halal-friendly almonds for a delightful Portuguese-inspired meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cups"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh parsley, chopped (optional)",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine almond flour and water. Stir until smooth.",
+    "Bring to a boil over high heat, then reduce heat to low.",
+    "Stir in lemon juice and salt. Cook for an additional 5 minutes or until mixture thickens slightly.",
+    "Garnish with fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "juicy",
+    "energizing",
+    "portuguese",
+    "almond",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 4
+  },
+  "slug": "tangy-juicy-energizing-almond-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-energizing-almond-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T11:35:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "almond flour",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "almonds",
+    "descriptor": "Tangy Juicy Energizing",
+    "dishForm": "Pilaf"
+  }
+}
