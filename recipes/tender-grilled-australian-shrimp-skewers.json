@@ -1,0 +1,101 @@
+{
+  "title": "Tender Grilled Australian Shrimp Skewers",
+  "description": "A fresh and tender monsoon Australian dish featuring dark rum, perfect for a sugar-free friendly meal. This recipe combines the sweetness of pineapple with the richness of dark rum.",
+  "cuisine": "Australian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "dark rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together dark rum, coconut milk, lime juice, garlic, and ginger.",
+    "Add the shrimp to the bowl and marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated shrimp, pineapple chunks, and a sprinkle of salt and pepper onto the bamboo skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the shrimp are pink and cooked through.",
+    "Blanch the skewers in an ice bath to stop the cooking process.",
+    "Serve immediately, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "shrimp",
+    "australian",
+    "monsoon",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "tender-grilled-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-grilled-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T18:37:27Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "blanch",
+    "primaryIngredient": "dark rum",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "tender grilled",
+    "dishForm": "Skewers"
+  }
+}
