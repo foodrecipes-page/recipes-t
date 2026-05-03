@@ -2377,6 +2377,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-greek-butter-beans-stew",
+    "title": "Tender Greek Butter Beans Stew",
+    "tags": [
+      "greek-cuisine",
+      "vegetarian",
+      "stew",
+      "comfort-food",
+      "pressure-cooker"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-grilled-australian-shrimp-skewers",
     "title": "Tender Grilled Australian Shrimp Skewers",
     "tags": [
