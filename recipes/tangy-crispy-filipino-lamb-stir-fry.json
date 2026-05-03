@@ -1,0 +1,114 @@
+{
+  "title": "Tangy Crispy Filipino Lamb Stir-fry",
+  "description": "A zesty, crispy lamb leg stir-fry packed with tangy flavors, perfect for a hangover cure and halal-friendly dining.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "400 g",
+      "notes": "lean cut into 2–3 mm strips"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30 ml"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "30 ml"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "15 ml"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "5 g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "optional",
+      "notes": "for heat"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat and add sesame oil until shimmering."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "crispy",
+    "halal",
+    "Filipino",
+    "lamb",
+    "stir-fry",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 950,
+    "protein": 82,
+    "carbs": 10,
+    "fat": 63
+  },
+  "slug": "tangy-crispy-filipino-lamb-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-filipino-lamb-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:12:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "lamb leg",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Lamb",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Stir-fry"
+  }
+}

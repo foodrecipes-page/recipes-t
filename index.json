@@ -488,6 +488,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crispy-filipino-lamb-stir-fry",
+    "title": "Tangy Crispy Filipino Lamb Stir-fry",
+    "tags": [
+      "tangy",
+      "crispy",
+      "halal",
+      "Filipino",
+      "lamb",
+      "stir-fry",
+      "hangover-cure"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crispy-french-shrimp-salad",
     "title": "Tangy Crispy French Shrimp Salad",
     "tags": [],
