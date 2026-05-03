@@ -1,0 +1,113 @@
+{
+  "title": "Tangy Fluffy Turkish Shrimp Pasta",
+  "description": "A bright, saffron‑hued tagliatelle tossed with succulent shrimp, tangy yogurt, and aromatic Turkish spices for a crowd‑pleasing, fluffy pasta.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "400 g"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "250 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "small onion, finely chopped",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full‑fat for creaminess"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring salted water to a boil and cook tagliatelle until al dente, 8‑10 minutes; drain and set aside.",
+    "Meanwhile, heat olive oil in a skillet over medium heat. Add minced garlic and chopped onion, sauté until softened, about 3 minutes.",
+    "Pour in tomato paste, stirring to coat the aromatics; cook for 1 minute until fragrant.",
+    "Add the shrimp to the skillet, seasoning with salt, pepper, paprika, and sumac. Cook, turning occasionally, until the shrimp turn pink, about 4 minutes.",
+    "Reduce heat to low, stir in yogurt and lemon juice, tossing to create a silky sauce that coats the shrimp. Let the sauce simmer for 2 minutes, allowing flavors to meld.",
+    "Gently fold the cooked tagliatelle into the skillet, ensuring each strand is coated with the creamy, tangy sauce.",
+    "Sprinkle freshly chopped dill over the pasta, stirring to distribute the herb aroma. Taste and adjust seasoning if needed.",
+    "Serve immediately, optionally garnishing with additional dill or a drizzle of olive oil.",
+    "Enjoy a fluffy, tangy Turkish shrimp pasta that pairs perfectly with a crisp side salad or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "shrimp",
+    "pasta",
+    "fluffy",
+    "tangy",
+    "pescatarian",
+    "tagliatelle"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 55,
+    "fat": 14
+  },
+  "slug": "tangy-fluffy-turkish-shrimp-pasta",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-turkish-shrimp-pasta",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:05:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "tagliatelle",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Tangy Fluffy",
+    "dishForm": "Pasta"
+  }
+}
