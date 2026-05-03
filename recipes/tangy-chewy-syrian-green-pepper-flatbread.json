@@ -1,0 +1,112 @@
+{
+  "title": "Tangy Chewy Syrian Green Pepper Flatbread",
+  "description": "A hearty, chewy flatbread infused with fresh green pepper, sumac, and a zesty lemon-cumin blend, perfect for late‑night cravings.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "400g"
+    },
+    {
+      "name": "warm water",
+      "amount": "240ml",
+      "notes": "110°F (43°C)"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tbsp (10g)",
+      "notes": "optional 1 tsp sugar for activation"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh green bell pepper",
+      "amount": "200g (finely chopped)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped, optional garnish"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, dissolve yeast (and optional sugar) in warm water; let sit 5 minutes until foamy.",
+    "In a large mixing bowl, whisk together whole wheat flour and salt.",
+    "Add the yeast mixture, olive oil, lemon zest, lemon juice, sumac, cumin, and paprika to the dry ingredients.",
+    "Stir until a shaggy dough forms, then knead on a floured surface for about 8 minutes until smooth and elastic.",
+    "Place the dough in a lightly oiled bowl, cover, and let rise in a warm spot for 30 minutes, until doubled in size.",
+    "Turn the dough onto a lightly floured surface and divide into 8 equal portions.",
+    "Roll each portion into a disc about 8 inches in diameter; place on a parchment‑lined baking sheet.",
+    "Top each flatbread with an even layer of finely chopped green pepper, pressing lightly to settle.",
+    "Bake at 425°F (220°C) for 12–15 minutes, or until the edges are golden and the center is lightly set.",
+    "Remove from oven, allow to cool 5 minutes, then sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "flatbread",
+    "whole30-friendly",
+    "tangy",
+    "green-pepper",
+    "chewy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 5,
+    "carbs": 45,
+    "fat": 5
+  },
+  "slug": "tangy-chewy-syrian-green-pepper-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-syrian-green-pepper-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:04:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "knead",
+    "primaryIngredient": "green pepper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "green pepper",
+    "descriptor": "Tangy Chewy",
+    "dishForm": "Flatbread"
+  }
+}
