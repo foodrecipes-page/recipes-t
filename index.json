@@ -2915,6 +2915,23 @@
     "shard": "t"
   },
   {
+    "slug": "tender-german-lentils-stew",
+    "title": "Tender German Lentils Stew",
+    "tags": [
+      "lentils",
+      "stew",
+      "vegetarian",
+      "low-sodium",
+      "german",
+      "sage",
+      "saute",
+      "monsoon"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-greek-butter-beans-stew",
     "title": "Tender Greek Butter Beans Stew",
     "tags": [
