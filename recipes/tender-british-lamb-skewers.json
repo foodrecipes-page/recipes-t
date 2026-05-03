@@ -1,0 +1,92 @@
+{
+  "title": "Tender British Lamb Skewers",
+  "description": "A delicious and tender British dish featuring lamb skewers, perfect for a date night, with a sour twist from the lemon and a crunchy texture from the Napa cabbage. This halal-friendly recipe is sure to impress.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400°F (200°C).",
+    "In a large bowl, whisk together lemon juice, olive oil, garlic, salt, black pepper, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a broiler pan lined with aluminum foil and broil for 10-12 minutes, turning occasionally.",
+    "While the lamb is cooking, prepare the Napa cabbage by cutting it into 1-inch pieces and rinsing with cold water.",
+    "After the lamb has cooked for 8 minutes, add the Napa cabbage to the broiler pan and cook for an additional 2-4 minutes, or until the cabbage is slightly charred.",
+    "Remove the skewers from the oven and let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "british",
+    "date-night",
+    "halal-friendly",
+    "napa-cabbage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-british-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T19:09:27Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "broil",
+    "primaryIngredient": "napa cabbage",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "lamb",
+    "descriptor": "tender sour",
+    "dishForm": "Skewers"
+  }
+}

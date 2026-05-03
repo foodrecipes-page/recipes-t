@@ -1998,6 +1998,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-british-lamb-skewers",
+    "title": "Tender British Lamb Skewers",
+    "tags": [
+      "lamb",
+      "british",
+      "date-night",
+      "halal-friendly",
+      "napa-cabbage"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tender-buttery-rhubarb-crumble",
     "title": "Tender Buttery Rhubarb Crumble",
     "tags": [
