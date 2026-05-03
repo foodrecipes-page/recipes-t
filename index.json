@@ -1444,6 +1444,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-canadian-roast-roast",
+    "title": "Tender Canadian Roast",
+    "tags": [
+      "canadian",
+      "roast",
+      "whole30",
+      "sweet",
+      "tender"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
     "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
     "tags": [

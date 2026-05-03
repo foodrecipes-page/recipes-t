@@ -1,0 +1,91 @@
+{
+  "title": "Tender Canadian Roast",
+  "description": "A sweet, tender roast with a hint of ras el hanout for a uniquely Canadian flavor profile, perfect for whole30-friendly meals.",
+  "cuisine": "canadian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole30 beef roast",
+      "amount": "2 lbs",
+      "notes": "bone-in, beef chuck"
+    },
+    {
+      "name": "ras el hanout",
+      "amount": "1 tsp",
+      "notes": "for aromatic depth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "whole30 apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": "for tenderizing"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "for herbal notes"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Pat the beef roast dry with paper towels.",
+    "Heat 2 tbsp olive oil in a large skillet over medium-high heat.",
+    "Add 1 tsp ras el hanout, 1 tbsp brown sugar, and 1 tbsp apple cider vinegar to the skillet.",
+    "Sear the beef roast for 3-4 minutes per side until browned.",
+    "Add 2 sprigs thyme and 1/2 tsp sea salt to the skillet with the roast.",
+    "Reduce heat to medium, cover, and cook for 25-30 minutes for tenderness.",
+    "Rest the roast for 5 minutes before slicing."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 30,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "roast",
+    "whole30",
+    "sweet",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 15,
+    "fat": 28
+  },
+  "slug": "tender-canadian-roast-roast",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-canadian-roast-roast",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T04:49:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "ras el hanout",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "roast",
+    "descriptor": "Tender",
+    "dishForm": "Roast"
+  }
+}
