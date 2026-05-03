@@ -1,0 +1,135 @@
+{
+  "title": "Tangy Gooey Filipino Pork Sinigang",
+  "description": "A classic Filipino dish featuring tender pork, tangy broth, and a hint of gooey richness. This recipe is perfect for a solo dinner and is dairy-free friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder (about 1.5 kg)",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (patis)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Long green chili peppers (siling haba)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Finger chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind leaves (optional)",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onions and garlic and sauté until the onions are translucent.",
+    "Add the pork and cook until browned on all sides.",
+    "Add the water, tamarind paste, fish sauce, soy sauce, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1.5 hours, or until the pork is tender.",
+    "Add the long green chili peppers and finger chilies to the pot and simmer for another 30 minutes.",
+    "Add the tomatoes and bok choy to the pot and simmer for another 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the sinigang hot, garnished with tamarind leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "sinigang",
+    "pork",
+    "tangy",
+    "gooey",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tangy-gooey-filipino-pork-sinigang",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-filipino-pork-sinigang",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:15:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "shredded meat",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Pork",
+    "descriptor": "Tangy Gooey",
+    "dishForm": "Sinigang"
+  }
+}

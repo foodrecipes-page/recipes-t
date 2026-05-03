@@ -871,6 +871,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-filipino-pork-sinigang",
+    "title": "Tangy Gooey Filipino Pork Sinigang",
+    "tags": [
+      "filipino",
+      "sinigang",
+      "pork",
+      "tangy",
+      "gooey",
+      "dairy-free"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-indulgent-korean-sultana-crumble",
     "title": "Tangy Gooey Indulgent Korean Sultana Crumble",
     "tags": [
