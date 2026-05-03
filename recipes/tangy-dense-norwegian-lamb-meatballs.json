@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Dense Norwegian Lamb Meatballs",
+  "description": "A traditional Norwegian dish featuring lamb mince, these meatballs are dense, tangy, and perfect for a light meal. Made with sugar-free friendly ingredients, they are a great option for those with dietary restrictions.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/2 cup, gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "kefir or buttermilk",
+      "amount": "1/4 cup",
+      "notes": "for tanginess"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "In a large mixing bowl, combine lamb mince, chopped onion, egg, breadcrumbs, salt, black pepper, nutmeg, and allspice. Mix well with your hands or a wooden spoon until just combined.",
+    "Add kefir or buttermilk and mix until the mixture is dense and sticky.",
+    "Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter. You should end up with around 20-25 meatballs.",
+    "Place the meatballs on a baking sheet lined with parchment paper, leaving some space between each meatball to allow for even cooking.",
+    "Bake the meatballs in the preheated oven for 18-20 minutes, or until cooked through and lightly browned on the outside.",
+    "While the meatballs are baking, prepare a tangy sauce by mixing 1/4 cup of kefir or buttermilk with 1 tablespoon of lemon juice.",
+    "Once the meatballs are done, remove them from the oven and let them cool for a few minutes on the baking sheet.",
+    "Serve the meatballs with the tangy sauce spooned over the top.",
+    "Garnish with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian-cuisine",
+    "lamb-meatballs",
+    "tangy-sauce",
+    "sugar-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tangy-dense-norwegian-lamb-meatballs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-norwegian-lamb-meatballs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T20:57:58Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "lamb mince",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "tangy dense",
+    "dishForm": "Meatballs"
+  }
+}
