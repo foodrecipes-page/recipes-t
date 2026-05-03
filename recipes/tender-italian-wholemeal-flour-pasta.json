@@ -1,0 +1,76 @@
+{
+  "title": "Tender Italian Wholemeal Flour Pasta",
+  "description": "A delicate wholemeal flour pasta cooked in a tandoor for a tender texture, perfect for Jain-friendly meal prep.",
+  "cuisine": "italian",
+  "diet": [
+    "jain",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "wholemeal flour",
+      "amount": "200g",
+      "notes": "strong, high-protein wholemeal flour"
+    },
+    {
+      "name": "water",
+      "amount": "150ml",
+      "notes": "room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10ml",
+      ": ": "",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "2g",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Combine wholemeal flour, water, olive oil, and salt in a tandoor-safe bowl.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Divide into 100g portions, roll each into a thin sheet.",
+    "Cook in a tandoor at 200°C for 3 minutes until tender."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "wholemeal",
+    "tandoor",
+    "jain",
+    "vegan",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "tender-italian-wholemeal-flour-pasta",
+  "source": "ollama-qwen3:4b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-italian-wholemeal-flour-pasta",
+  "providerUsed": "ollama-qwen3:4b",
+  "createdAt": "2026-05-03T05:20:54Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "tandoor",
+    "primaryIngredient": "strong wholemeal flour",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "wholemeal_flour",
+    "descriptor": "Tender",
+    "dishForm": "Pasta"
+  }
+}

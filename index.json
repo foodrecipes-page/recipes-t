@@ -1693,6 +1693,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-italian-wholemeal-flour-pasta",
+    "title": "Tender Italian Wholemeal Flour Pasta",
+    "tags": [
+      "italian",
+      "wholemeal",
+      "tandoor",
+      "jain",
+      "vegan",
+      "tender"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 8,
+    "shard": "t"
+  },
+  {
     "slug": "tender-kenyan-butter-stir-fry",
     "title": "Tender Kenyan Butter Stir-fry",
     "tags": [
