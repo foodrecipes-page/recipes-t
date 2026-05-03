@@ -1,0 +1,125 @@
+{
+  "title": "Tender Italian Oregano Chicken Lasagna",
+  "description": "A classic Italian dish with a tender twist, featuring dried oregano and egg-free ingredients. Perfect for a cozy dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles (8-10 sheets)",
+      "amount": "12 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": "italian seasoning"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "lactose-free"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "lactose-free, grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the garlic and cook for 1-2 minutes.",
+    "Add the chicken breast to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the tomato sauce, dried oregano, salt, and black pepper. Stir to combine.",
+    "Bring the sauce to a simmer and let cook for 2-3 minutes.",
+    "In a large bowl, combine the cooked lasagna noodles, tomato sauce, and ricotta cheese (if using).",
+    "In a 9x13-inch baking dish, create a thin layer of tomato sauce.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Top with half of the shredded mozzarella cheese and half of the grated Parmesan cheese.",
+    "Repeat the layers, starting with the noodles, sauce, ricotta cheese mixture, mozzarella cheese, and Parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the lasagna from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "chicken",
+    "egg-free",
+    "gluten-free",
+    "lactose-free",
+    "comfort food",
+    "cozy dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tender-italian-egg-free-oregano-chicken-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-italian-egg-free-oregano-chicken-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T17:49:24Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "dried oregano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender umami",
+    "dishForm": "Lasagna"
+  }
+}
