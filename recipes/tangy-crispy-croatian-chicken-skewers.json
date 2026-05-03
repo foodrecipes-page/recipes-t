@@ -1,0 +1,107 @@
+{
+  "title": "Tangy Crispy Croatian Chicken Skewers",
+  "description": "A crowd-pleasing, keto-friendly Croatian dish featuring juicy, tangy chicken marinated in lemon, garlic, and herbs, then grilled to crispy perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "juice of 2 lemons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "zest of 1 lemon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 220°C (428°F) or prepare a grill for medium-high heat.",
+    "Whisk together the olive oil, lemon juice, lemon zest, minced garlic, smoked paprika, oregano, sea salt, black pepper, red pepper flakes, and melted butter in a bowl.",
+    "Cut the chicken breast into 1.5‑inch cubes and place them in the bowl, tossing to coat evenly. Let the chicken marinate for 30 minutes (you can prep ahead and refrigerate).",
+    "If using wooden skewers, soak them in water for 30 minutes to prevent burning.",
+    "Thread the marinated chicken cubes onto the skewers in an alternating pattern.",
+    "Arrange the skewers on a baking sheet or directly on the grill and roast for 15–18 minutes, turning once, until the chicken is cooked through and the edges are crisp (internal temperature should reach 74°C / 165°F).",
+    "Remove from heat and let the skewers rest for 5 minutes.",
+    "Sprinkle with chopped parsley before serving and enjoy hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "grilled",
+    "chicken",
+    "skewers",
+    "lemon",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 3,
+    "fat": 38
+  },
+  "slug": "tangy-crispy-croatian-chicken-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-croatian-chicken-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T21:59:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "lemons",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tangy Crispy",
+    "dishForm": "Skewers"
+  }
+}
