@@ -1,0 +1,121 @@
+{
+  "title": "Tangy Flaky Uruguayan Tuna Tartare",
+  "description": "A vibrant, protein-packed tartare featuring fresh tuna, tangy lime, raspberry vinaigrette, and crisp cucumber, finished with a subtle white wine deglaze.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "high-protein",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh tuna steak",
+      "amount": "200 g",
+      "notes": "fresh, sushi grade, cut into 1 cm cubes"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "2 tbsp",
+      "notes": "finely diced"
+    },
+    {
+      "name": "capers",
+      "amount": "1 tsp",
+      "notes": "drained"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 tbsp",
+      "notes": "diced"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 tbsp",
+      "notes": "diced"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "raspberry vinaigrette",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Place the diced tuna in a shallow bowl and drizzle with lime juice, white wine vinegar, smoked paprika, salt, and pepper; gently toss to coat and let it marinate for 10 minutes.",
+    "In a separate bowl, combine the diced red onion, cucumber, avocado, capers, and chopped cilantro.",
+    "Add the marinated tuna to the veggie mixture and fold gently to combine.",
+    "Drizzle the olive oil and raspberry vinaigrette over the mixture; adjust seasoning with additional salt or pepper if needed.",
+    "Cover the bowl and chill in the refrigerator for at least 5 minutes to meld flavors.",
+    "Serve the tartare in chilled glasses or on a bed of crisp greens, garnishing with a few fresh cilantro leaves or a drizzle of raspberry vinaigrette.",
+    "Offer toasted rye crackers or a small side of grilled bread if desired for added texture.",
+    "Enjoy the vibrant, flaky bite of this Uruguayan-inspired tartare!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "tangy",
+    "flaky",
+    "uruguayan",
+    "tuna",
+    "tartare",
+    "high-protein",
+    "low-carb",
+    "gluten-free",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 385,
+    "protein": 42,
+    "carbs": 7,
+    "fat": 21
+  },
+  "slug": "tangy-flaky-uruguayan-tuna-tartare",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-uruguayan-tuna-tartare",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:48:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "raspberries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tuna",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Tartare"
+  }
+}

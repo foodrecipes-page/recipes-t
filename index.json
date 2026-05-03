@@ -1050,6 +1050,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-flaky-uruguayan-tuna-tartare",
+    "title": "Tangy Flaky Uruguayan Tuna Tartare",
+    "tags": [
+      "tangy",
+      "flaky",
+      "uruguayan",
+      "tuna",
+      "tartare",
+      "high-protein",
+      "low-carb",
+      "gluten-free",
+      "lunch"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-fluffy-cod-stir-fry",
     "title": "Tangy Fluffy Cod Stir-fry",
     "tags": [
@@ -1171,6 +1189,14 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-gooey-chinese-pork-bao",
+    "title": "Tangy Gooey Chinese Pork Bao",
+    "tags": [],
+    "cuisine": "Chinese",
+    "totalTimeMin": null,
     "shard": "t"
   },
   {

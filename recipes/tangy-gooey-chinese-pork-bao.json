@@ -1,0 +1,81 @@
+{
+  "title": "Tangy Gooey Chinese Pork Bao",
+  "description": "Sour, savory pork filling wrapped in warm potato buns, finished with a glossy tangy glaze—perfect for a comforting date‑night dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500 g",
+      "notes": "cut into 2‑cm cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "dry rice wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "potato buns",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine soy sauce, dry rice wine, brown sugar, rice vinegar, sesame oil, garlic, ginger, and half the scallions; whisk until sugar dissolves. Add pork cubes, toss to coat, and marinate for 15 min.",
+    "Heat a large skillet or grill pan over medium‑high heat. Add pork with its liquid, cooking 5–6 min until browned and caramelized, stirring frequently.",
+    "Stir in cornstarch mixed with 1 tbsp water to create a glossy sauce; simmer until thickened, about 2 min. Remove from heat and stir in remaining scallions.",
+    "Warm the potato buns on the grill or in a toaster oven for 1–2 min until lightly toasted.",
+    "Divide the pork filling among the buns, smother with extra sauce, and serve hot."
+  ],
+  "slug": "tangy-gooey-chinese-pork-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-chinese-pork-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T20:49:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "grill",
+    "primaryIngredient": "potatoe buns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Tangy Gooey",
+    "dishForm": "Bao"
+  }
+}
