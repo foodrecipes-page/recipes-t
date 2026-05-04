@@ -1,0 +1,103 @@
+{
+  "title": "Tasting Smoky Irish Salmon Broth",
+  "description": "A silky smoky broth infused with Irish sea salt and shio-koji, topped with tender salmon and peppered dill.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2 (200g each)",
+      "notes": "skin-on, about 200g each"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for creaminess"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tbsp",
+      "notes": "Japanese fermented soy salt"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp cracked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, diced"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in smoked paprika and cracked black pepper, cook for 1 minute.",
+    "Pour in vegetable stock, bring to a gentle simmer.",
+    "Add shio-koji, sea salt, and heavy cream, stir until combined.",
+    "Slide salmon fillets into the pot, cover, and simmer for 8 minutes until cooked through.",
+    "Remove fillets, flake them into the broth, and stir gently.",
+    "Garnish with fresh dill before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "creamy",
+    "high-protein",
+    "irish",
+    "quick-dinner",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 8,
+    "fat": 20
+  },
+  "slug": "tasting-smoky-irish-salmon-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasting-smoky-irish-salmon-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:39:56Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "pepper",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "salmon",
+    "descriptor": "Tasting Smoky",
+    "dishForm": "Broth"
+  }
+}

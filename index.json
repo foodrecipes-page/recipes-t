@@ -3135,6 +3135,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasting-smoky-irish-salmon-broth",
+    "title": "Tasting Smoky Irish Salmon Broth",
+    "tags": [
+      "comfort-food",
+      "creamy",
+      "high-protein",
+      "irish",
+      "quick-dinner",
+      "smoky"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-american-ground-pork-toast",
     "title": "Tasty American Ground Pork Toast",
     "tags": [
