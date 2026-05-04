@@ -1,0 +1,97 @@
+{
+  "title": "Toasty Spanish Malai Croquetas",
+  "description": "A malty, cheese-pull Spanish dish featuring malai, perfect for a brunch mood, made into crispy croquetas, halal-friendly and delicious.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "dehydrated and powdered"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "2 cups",
+      "notes": "mix of cheddar and mozzarella"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the powdered malai, grated cheese, and flour.",
+    "Add the melted butter, egg, salt, and black pepper to the bowl and mix until a dough forms.",
+    "Divide the dough into small balls and then flatten each ball slightly into a disk shape.",
+    "Coat each disk in the panko breadcrumbs, pressing the crumbs onto the cheese mixture to help them stick.",
+    "Heat the olive oil in a large skillet over medium heat and fry the croquetas until they are golden brown on both sides.",
+    "Transfer the fried croquetas to a baking sheet and bake in the oven for 10 minutes.",
+    "Remove the croquetas from the oven and let them cool on a paper towel-lined plate for a few minutes.",
+    "Serve the croquetas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "cheese-lovers",
+    "croquetas-recipe",
+    "halal-recipes",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "tempting-toasty-spanish-malai-croquetas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasty-spanish-malai-croquetas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:02:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "malai",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "malai",
+    "descriptor": "Tempting Toasty",
+    "dishForm": "Croquetas"
+  }
+}
