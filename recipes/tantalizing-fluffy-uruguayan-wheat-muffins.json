@@ -1,0 +1,101 @@
+{
+  "title": "Tantalizing Fluffy Uruguayan Wheat Muffins",
+  "description": "Savory and indulgent muffins infused with sweet smoked paprika, perfect for a sugar‑free breakfast or snack that showcases the rich flavors of Uruguay.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "oat milk, unsweetened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut oil, melted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sweet smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "walnuts, chopped",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "unsweetened dried cranberries",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F and line a lacquerware bowl with parchment paper.",
+    "Whisk together whole wheat flour, baking powder, salt, and sweet smoked paprika in a large bowl.",
+    "In a separate bowl whisk oat milk, unsweetened almond milk, melted coconut oil, and egg until smooth.",
+    "Pour the wet mixture into the dry ingredients and stir until just combined; do not overmix.",
+    "Gently fold in chopped walnuts and unsweetened dried cranberries if using.",
+    "Spoon the batter into the lacquerware bowl, filling each cavity about two‑thirds full.",
+    "Bake for 18 minutes until edges are golden and a toothpick comes out clean.",
+    "Let the muffins cool in the bowl for five minutes before transferring to a wire rack to finish cooling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fluffy",
+    "snack",
+    "sugar-free-friendly",
+    "sweet-smoked-paprika",
+    "uruguayan",
+    "whole-wheat"
+  ],
+  "nutrition": {
+    "calories": 184,
+    "protein": 6,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "tantalizing-fluffy-uruguayan-wheat-muffins",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-fluffy-uruguayan-wheat-muffins",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:52:26Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "wheat",
+    "descriptor": "Tantalizing Fluffy",
+    "dishForm": "Muffins"
+  }
+}
