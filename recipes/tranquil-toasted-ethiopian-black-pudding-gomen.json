@@ -1,0 +1,105 @@
+{
+  "title": "Tranquil Toasted Ethiopian Black Pudding Gomen",
+  "description": "A buttery and aerated Ethiopian dish featuring black pudding, perfect for a lazy Sunday morning, with a flambe twist and ayurvedic-rajasic-friendly ingredients, served in a tagine pot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "collard greens",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of unsalted butter in the tagine pot over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Add the chopped collard greens and cook until wilted, about 3 minutes.",
+    "Add the sliced black pudding and cook for 2 minutes on each side, until browned.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Pour in the red wine and flambe the mixture, until the wine is almost completely reduced.",
+    "Stir in the remaining 2 tablespoons of unsalted butter until melted and well combined.",
+    "Serve the gomen hot, straight from the tagine pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "one-pot",
+    "vegetarian",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "tranquil-toasted-ethiopian-black-pudding-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tranquil-toasted-ethiopian-black-pudding-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:27:11Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "flambe",
+    "primaryIngredient": "black pudding",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "black pudding",
+    "descriptor": "Tranquil Toasted",
+    "dishForm": "Gomen"
+  }
+}
