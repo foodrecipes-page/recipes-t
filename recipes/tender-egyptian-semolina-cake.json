@@ -1,0 +1,104 @@
+{
+  "title": "Tender Egyptian Semolina Cake",
+  "description": "This cake is a light and chewy Egyptian dessert featuring semolina flour and a touch of pink food coloring, topped with a sweet glaze.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 1/2 cups",
+      "notes": "fine grind"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together semolina flour, granulated sugar, and baking powder.",
+    "In a separate bowl, whisk together melted butter, eggs, pink food coloring, and salt.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gradually add the whole milk, stirring until the batter is smooth.",
+    "Pour the batter into a greased 8-inch round cake pan.",
+    "Bake for 30 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Allow the cake to cool completely in the pan.",
+    "To make the glaze, whisk together confectioners sugar and water until smooth.",
+    "Drizzle the glaze over the cooled cake."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cake",
+    "dessert",
+    "easy-to-make",
+    "low-fat",
+    "middle-eastern",
+    "semolina"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "tender-egyptian-semolina-cake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-egyptian-semolina-cake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:49:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "pink food colouring",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "semolina",
+    "descriptor": "tender chewy",
+    "dishForm": "Bake"
+  }
+}
