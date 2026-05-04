@@ -1665,6 +1665,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-indian-lentil-sambhar",
+    "title": "Tangy Indian Lentil Sambhar",
+    "tags": [
+      "comfort-food",
+      "halal",
+      "one-pot",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-irish-lamb-stew",
     "title": "Tangy Irish Lamb Stew",
     "tags": [
