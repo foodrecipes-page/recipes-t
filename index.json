@@ -5308,6 +5308,20 @@
     "shard": "t"
   },
   {
+    "slug": "trim-polish-kombu-broth",
+    "title": "Trim Polish Kombu Broth",
+    "tags": [
+      "briny",
+      "kombu",
+      "light",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tropical-algerian-cacao-tagine",
     "title": "Tropical Algerian Cacao Tagine",
     "tags": [

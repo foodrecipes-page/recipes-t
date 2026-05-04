@@ -1,0 +1,108 @@
+{
+  "title": "Trim Polish Kombu Broth",
+  "description": "A briny, light kombu broth with subtle umami for a quick weeknight Polish meal. Shojin-friendly and perfect for a calm dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kombu (Nori seaweed)",
+      "amount": "10 cm strip",
+      "notes": "fresh, soak for 30 min"
+    },
+    {
+      "name": "dried shiitake mushrooms",
+      "amount": "20 g",
+      "notes": "dry, soak"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "20 g",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "10 g",
+      "notes": "white miso"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "5 g",
+      "notes": "tiny amount"
+    },
+    {
+      "name": "water",
+      "amount": "1200 ml",
+      "notes": "clean"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 g",
+      "notes": "use sparingly, optional"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 tsp",
+      "notes": "just a pinch"
+    },
+    {
+      "name": "sliced green onion",
+      "amount": "1 tbsp",
+      "notes": "thinly sliced, garnish"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted, garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse the kombu and shiitake mushrooms under cold water.",
+    "Place kombu, shiitake, and water in a pot and let soak for 30 minutes.",
+    "Bring the mixture to a gentle simmer over medium heat, then reduce to low.",
+    "Skim off any foam that rises to the surface.",
+    "Add soy sauce, miso paste, sesame oil, sea salt, and pepper, stirring until miso dissolves.",
+    "Continue simmering for 10-12 minutes, allowing flavors to meld.",
+    "Remove from heat and strain the broth, reserving the solids for another use.",
+    "Ladle the broth into bowls, garnish with sliced green onions and toasted sesame seeds, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "kombu",
+    "light",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 20,
+    "protein": 1,
+    "carbs": 1,
+    "fat": 11
+  },
+  "slug": "trim-polish-kombu-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/trim-polish-kombu-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:34:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "boil",
+    "primaryIngredient": "kombu",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "kombu",
+    "descriptor": "Trim",
+    "dishForm": "Broth"
+  }
+}
