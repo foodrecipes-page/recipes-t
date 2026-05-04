@@ -455,6 +455,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-vietnamese-seafood-pho",
+    "title": "Tangy Creamy Vietnamese Seafood Pho",
+    "tags": [
+      "creamy",
+      "high-protein",
+      "one-pan",
+      "pho",
+      "seafood",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crisp-italian-chicken-salad",
     "title": "Tangy Crisp Italian Chicken Salad",
     "tags": [
@@ -1158,6 +1174,20 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-fermented-american-corn-tacos",
+    "title": "Tangy Fermented American Corn Tacos",
+    "tags": [
+      "american",
+      "corn",
+      "dairy-free",
+      "fermented",
+      "tacos"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {

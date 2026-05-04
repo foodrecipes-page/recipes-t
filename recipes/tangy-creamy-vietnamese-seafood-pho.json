@@ -1,0 +1,56 @@
+{
+  "title": "Tangy Creamy Vietnamese Seafood Pho",
+  "description": "A pescatarian-friendly take on the classic Vietnamese noodle soup featuring a frozen seafood mix and creamy sauce. This show-off dish is perfect for a special occasion or dinner party.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen seafood mix",
+      "amount": "1 package (16 oz)"
+    }
+  ],
+  "instructions": [
+    "Cook frozen seafood mix according to package instructions and set aside."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "creamy",
+    "high-protein",
+    "one-pan",
+    "pho",
+    "seafood",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "tangy-creamy-vietnamese-seafood-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-vietnamese-seafood-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "frozen seafood mix",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "seafood",
+    "descriptor": "tangy creamy",
+    "dishForm": "Pho"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Tangy Fermented American Corn Tacos",
+  "description": "A unique fusion of American and Mexican cuisine, featuring a tangy fermented slaw, crispy corn tortillas, and a hint of blue food colouring to add a pop of colour.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Corn Tortillas",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Soffritto Base (onion, carrot, celery)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Blue Food Colouring",
+      "amount": "10 drops",
+      "notes": ""
+    },
+    {
+      "name": "Dairy-Free Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fermented Corn Slaw (see notes)",
+      "amount": "1 cup",
+      "notes": "Use store-bought or make your own by fermenting corn, onion, and carrot in a brine solution for 24 hours."
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the soffritto base and cook until softened, about 5 minutes.",
+    "Add the cumin, chili powder, and salt, and cook for an additional minute.",
+    "Add the dairy-free yogurt and stir to combine.",
+    "Add the fermented corn slaw and stir to combine.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the slaw mixture onto a warmed tortilla and garnishing with fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Note: If using store-bought fermented corn slaw, follow the package instructions for reheating."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "corn",
+    "dairy-free",
+    "fermented",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tangy-fermented-american-corn-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fermented-american-corn-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:14:58Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "soffritto-base",
+    "primaryIngredient": "blue food colouring",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "corn",
+    "descriptor": "tangy fermented",
+    "dishForm": "Tacos"
+  }
+}
