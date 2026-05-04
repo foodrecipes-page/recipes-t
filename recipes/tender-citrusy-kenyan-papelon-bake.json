@@ -1,0 +1,85 @@
+{
+  "title": "Tender Citrusy Kenyan Papelon Bake",
+  "description": "A warm, comforting Kenyan dessert featuring tender papelon and zesty citrus flavors.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Limes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Orange Marmalade",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, sugar, and a pinch of salt.",
+    "In a separate bowl, whisk together melted butter, lime juice, and orange marmalade.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the papelon and mix until coated evenly.",
+    "Pour the mixture into a greased 9-inch round cake pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "kenyan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 6,
+    "carbs": 80,
+    "fat": 22
+  },
+  "slug": "tender-citrusy-kenyan-papelon-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-citrusy-kenyan-papelon-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:38Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "papelon",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "papelon",
+    "descriptor": "tender citrusy",
+    "dishForm": "Bake"
+  }
+}
