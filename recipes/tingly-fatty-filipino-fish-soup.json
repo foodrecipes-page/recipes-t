@@ -1,0 +1,108 @@
+{
+  "title": "Tingly Fatty Filipino Fish Soup",
+  "description": "A fluffy, energizing fish soup that blends the savory depth of red curry paste with a tangy tamarind base, reminiscent of sinigang.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "1 lb"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell pepper, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and sauté the onion, carrot and bell pepper until softened, about 4 minutes.",
+    "Stir in the red curry paste and cook for 1 minute until fragrant.",
+    "Add the fish stock, coconut milk and tamarind paste, bring to a gentle simmer.",
+    "Add the diced tomato and let the broth simmer for 5 minutes to meld flavors.",
+    "Stir in the fish sauce, sugar and a pinch of salt, adjusting seasoning as desired.",
+    "Gently fold in the tilapia pieces, ensuring they are not broken, and cook until opaque, about 6 minutes.",
+    "Add the fresh cilantro and simmer for an additional minute to warm the herbs.",
+    "Taste the soup; if more acidity is desired, squeeze in a teaspoon of fresh lime juice.",
+    "Remove from heat and let the soup rest for 2 minutes before serving.",
+    "Ladle into bowls, garnish with extra cilantro if desired, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "fluffy",
+    "mirepoix",
+    "pescatarian",
+    "red-curry",
+    "sinigang"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 32,
+    "carbs": 16,
+    "fat": 20
+  },
+  "slug": "tingly-fatty-filipino-fish-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tingly-fatty-filipino-fish-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:11:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "red-curry-paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Fish",
+    "descriptor": "Tingly Fatty",
+    "dishForm": "Soup"
+  }
+}

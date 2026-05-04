@@ -1,0 +1,91 @@
+{
+  "title": "Tender Smoky British Cod Fish And Chips",
+  "description": "A smoky and adventurous British dish featuring cod fish, bay leaves, and a side of crispy chips, perfect for a dinner meal. This halal-friendly recipe is sure to satisfy your cravings.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fish fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into chips"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the flour, smoked paprika, salt, and black pepper.",
+    "Dip each cod fish fillet into the flour mixture, coating evenly.",
+    "Heat the vegetable oil in a large skillet over medium heat and fry the coated cod fish fillets until golden brown.",
+    "Transfer the fried cod fish fillets to a baking sheet lined with parchment paper and bake in the oven for 10 minutes.",
+    "Meanwhile, fry the potato chips in hot oil until crispy and golden brown.",
+    "Drain the potato chips on paper towels and sprinkle with salt.",
+    "Serve the smoky cod fish with the crispy potato chips and a side of bay leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "fish-and-chips",
+    "halal-friendly",
+    "seafood-lovers",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tender-smoky-british-cod-fish-and-chips",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-british-cod-fish-and-chips",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:11:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "bay leaves",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cod",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Fish And Chips"
+  }
+}

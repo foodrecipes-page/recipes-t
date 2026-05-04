@@ -4337,6 +4337,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-british-cod-fish-and-chips",
+    "title": "Tender Smoky British Cod Fish And Chips",
+    "tags": [
+      "british-cuisine",
+      "fish-and-chips",
+      "halal-friendly",
+      "seafood-lovers",
+      "smoky-flavor"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-chinese-penne-rigate-dim-sum",
     "title": "Tender Smoky Chinese Penne Rigate Dim Sum",
     "tags": [
@@ -4782,6 +4796,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tingly-fatty-filipino-fish-soup",
+    "title": "Tingly Fatty Filipino Fish Soup",
+    "tags": [
+      "energizing",
+      "fluffy",
+      "mirepoix",
+      "pescatarian",
+      "red-curry",
+      "sinigang"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
