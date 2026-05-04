@@ -3014,6 +3014,20 @@
     "shard": "t"
   },
   {
+    "slug": "tantalizing-indian-cheese-kachori",
+    "title": "Tantalizing Indian Cheese Kachori",
+    "tags": [
+      "cheese",
+      "flaky",
+      "jain-friendly",
+      "snack",
+      "spicy"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tantalizing-normandy-runner-beans-tarte-tatin",
     "title": "Tantalizing Normandy Runner Beans Tarte Tatin",
     "tags": [
@@ -4722,6 +4736,22 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tingling-silky-australian-fish-fritters",
+    "title": "Tingling Silky Australian Fish Fritters",
+    "tags": [
+      "deep-fry",
+      "fish",
+      "monsoon",
+      "no-garlic",
+      "no-onion",
+      "silky",
+      "smoky"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

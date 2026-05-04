@@ -1,0 +1,97 @@
+{
+  "title": "Tantalizing Indian Cheese Kachori",
+  "description": "A flaky, flavorful kachori filled with melted cheese, perfect for a light snack or appetizer.",
+  "cuisine": "Indian",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": "for dough"
+    },
+    {
+      "name": "oil",
+      "amount": "60ml",
+      "notes": "for pastry"
+    },
+    {
+      "name": "salt",
+      "amount": "1tsp",
+      "notes": "to dough"
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp",
+      "notes": "for slight sweetness"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1tsp",
+      "notes": "flavor"
+    },
+    {
+      "name": "ground chili powder",
+      "amount": "1tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cheese slices",
+      "amount": "200g",
+      "notes": "pre-cut, meltable"
+    },
+    {
+      "name": "water",
+      "amount": "120ml",
+      "notes": "to bind dough"
+    }
+  ],
+  "instructions": [
+    "Mix flour, salt, and sugar in a bowl until combined.",
+    "Whisk oil and water together and pour into the dry mixture.",
+    "Knead the dough until smooth and let it rest for 20 minutes.",
+    "Roll the dough into a circle and cut into equal wedges.",
+    "Place a cheese slice on each wedge and fold into a half-moon shape.",
+    "Seal the edges by pressing with a fork or finger.",
+    "Heat a nonstick skillet over medium heat and lightly brush with oil.",
+    "Cook each kachori on both sides until golden and flaky, about 3 minutes per side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "flaky",
+    "jain-friendly",
+    "snack",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 48,
+    "carbs": 120,
+    "fat": 40
+  },
+  "slug": "tantalizing-indian-cheese-kachori",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-indian-cheese-kachori",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:18:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cheese slices",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Tantalizing",
+    "dishForm": "Kachori"
+  }
+}

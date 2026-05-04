@@ -1,0 +1,103 @@
+{
+  "title": "Tingling Silky Australian Fish Fritters",
+  "description": "Smoky, silky fritters made from diced barramundi, a touch of granulated sugar, and a crisp batter, served with a fresh coriander garnish.",
+  "cuisine": "Australian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "500g"
+    },
+    {
+      "name": "All‑purpose flour",
+      "amount": "60g"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "30g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "10g"
+    },
+    {
+      "name": "Water",
+      "amount": "120ml"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "200ml"
+    },
+    {
+      "name": "Fresh coriander, chopped",
+      "amount": "5g",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Dice the barramundi into bite‑size pieces.",
+    "Whisk together flour, cornstarch, granulated sugar, smoked paprika, salt, and pepper.",
+    "Add the water and egg to the dry mix and stir until smooth.",
+    "Add the diced fish to the batter, mixing gently to coat.",
+    "Heat the vegetable oil in a deep‑fry pan to 170°C.",
+    "Drop spoonfuls of the batter into the hot oil, frying until golden and crisp.",
+    "Remove fritters with a slotted spoon and drain on paper towels.",
+    "Sprinkle with fresh coriander before serving.",
+    "Serve hot with a splash of lime juice if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "fish",
+    "monsoon",
+    "no-garlic",
+    "no-onion",
+    "silky",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 455,
+    "protein": 32,
+    "carbs": 21,
+    "fat": 34
+  },
+  "slug": "tingling-silky-australian-fish-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tingling-silky-australian-fish-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:18:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "granulated sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Fish",
+    "descriptor": "Tingling Silky",
+    "dishForm": "Fritters"
+  }
+}
