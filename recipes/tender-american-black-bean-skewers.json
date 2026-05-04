@@ -1,0 +1,97 @@
+{
+  "title": "Tender American Black Bean Skewers",
+  "description": "Salty and comforting American dish featuring fermented black beans, perfect for a cozy dinner, made kosher-friendly and cooked to perfection on a robata-grill.",
+  "cuisine": "American",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented black beans",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, kosher salt, brown sugar, smoked paprika, garlic powder, and onion powder.",
+    "Add the fermented black beans to the bowl and toss to coat evenly with the marinade.",
+    "Thread 2-3 black beans onto each wooden skewer, leaving a small space between each bean.",
+    "Place the skewers on the robata-grill and cook for 10-12 minutes, or until the beans are tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with chopped fresh parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "black-beans",
+    "comfort-food",
+    "kosher-friendly",
+    "robata-grill",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-american-black-bean-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-american-black-bean-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:11:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "fermented black beans",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "black beans",
+    "descriptor": "tender salty",
+    "dishForm": "Skewers"
+  }
+}

@@ -2914,6 +2914,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-american-black-bean-skewers",
+    "title": "Tender American Black Bean Skewers",
+    "tags": [
+      "american-cuisine",
+      "black-beans",
+      "comfort-food",
+      "kosher-friendly",
+      "robata-grill",
+      "skewers"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tender-argentinian-beef-stew",
     "title": "Tender Argentinian Beef Stew",
     "tags": [
