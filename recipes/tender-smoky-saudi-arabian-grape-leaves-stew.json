@@ -1,0 +1,104 @@
+{
+  "title": "Tender Smoky Saudi Arabian Grape Leaves Stew",
+  "description": "A savory and velvety Saudi Arabian dish featuring grape leaves, perfect for a lazy Sunday, this stew is a satvik-friendly delight with a smoky twist.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grape leaves",
+      "amount": "20 large leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove the stems, then set them aside.",
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the vegetable broth, lemon juice, and chopped parsley, and stir to combine.",
+    "Add the grape leaves to the pot, folding them in half to fit if necessary.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "satvik",
+    "saudi-arabian",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-smoky-saudi-arabian-grape-leaves-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-saudi-arabian-grape-leaves-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:27:25Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "smoke",
+    "primaryIngredient": "grape leaves",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "tender smoky",
+    "dishForm": "Stew"
+  }
+}
