@@ -1,0 +1,101 @@
+{
+  "title": "Tantalizing Charred Japanese Cucumber Shoyu Ramen",
+  "description": "A crisp, smoky ramen featuring charred Persian cucumber and zesty shoyu, served in lacquerware bowls for a Zen-inspired experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "1 medium",
+      "notes": "sliced into half-moons and charred"
+    },
+    {
+      "name": "Pickled cucumber",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Kombu stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallion",
+      "amount": "2 stalks",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Nori sheet",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium-high heat and char cucumber slices until lightly blackened, about 2 minutes per side.",
+    "Transfer charred cucumber to a bowl and set aside.",
+    "In a saucepan, bring kombu stock to a gentle simmer, whisk in soy sauce, mirin, and sesame oil, and let it thicken slightly for 5 minutes.",
+    "Add ramen noodles to the broth and cook until al dente, about 3 minutes.",
+    "Stir in the charred cucumber slices and let the flavors meld for 1 minute.",
+    "Ladle the ramen into lacquerware bowls, ensuring noodles and broth are evenly distributed.",
+    "Garnish each bowl with pickled cucumber, scallion slivers, toasted sesame seeds, and a thin sheet of nori.",
+    "Serve hot and enjoy the crisp, smoky bite of the cucumber with savory shoyu ramen."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "jain-friendly",
+    "noon-rapids",
+    "quick",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 6
+  },
+  "slug": "tantalizing-charred-japanese-cucumber-shoyu-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-charred-japanese-cucumber-shoyu-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:35:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "persian cucumber",
+    "diet": "jain",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "cucumber",
+    "descriptor": "Tantalizing Charred",
+    "dishForm": "Shoyu Ramen"
+  }
+}
