@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Indian Kidney Beans Rajma",
+  "description": "A flavorful and nostalgic Andhra dish featuring kidney beans in a tangy cider vinegar sauce, air-fried to perfection and served in a copper mug, this recipe is a delicious blend of umami and crunchy textures, with an ayurvedic-rajasic-friendly twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat peanut oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion, ginger, and garlic, and saute until the onion is translucent.",
+    "Add coriander powder, turmeric powder, and salt, and stir well.",
+    "Add cooked kidney beans, cider vinegar, and 1/4 cup of water, and stir well.",
+    "Bring the mixture to a simmer and let it cook for 10 minutes.",
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Transfer the kidney bean mixture to a copper mug and air-fry for 5 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "indian-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tangy-indian-kidney-beans-rajma",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-indian-kidney-beans-rajma",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:47:21Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "air-fry",
+    "primaryIngredient": "cider vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": "andhra",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Tangy Crunchy",
+    "dishForm": "Rajma"
+  }
+}

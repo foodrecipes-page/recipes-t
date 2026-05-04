@@ -1681,6 +1681,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-indian-kidney-beans-rajma",
+    "title": "Tangy Indian Kidney Beans Rajma",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "indian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-indian-lentil-sambhar",
     "title": "Tangy Indian Lentil Sambhar",
     "tags": [
