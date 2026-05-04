@@ -3726,6 +3726,21 @@
     "shard": "t"
   },
   {
+    "slug": "toasty-german-avocado-flatbread",
+    "title": "Toasty German Avocado Flatbread",
+    "tags": [
+      "avocado-recipes",
+      "flatbread-recipes",
+      "german-cuisine",
+      "gluten-free-snacks",
+      "vegetarian-snacks",
+      "wood-fired-recipes"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
     "slug": "toasty-toasted-chicken",
     "title": "Toasty Toasted Chicken",
     "tags": [

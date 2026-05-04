@@ -1,0 +1,96 @@
+{
+  "title": "Toasty German Avocado Flatbread",
+  "description": "A salty, light, and festive German dish featuring avocado, perfect for a snack or light meal, with anti-inflammatory friendly ingredients",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 large",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": "mashed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 425 degrees Fahrenheit",
+    "Roll out the flatbread to a thickness of about 1/4 inch",
+    "Spread the mashed avocado over the flatbread, leaving a 1/2 inch border around the edges",
+    "Top the avocado with crumbly feta cheese, thinly sliced red onion, and chopped fresh parsley",
+    "Drizzle the olive oil over the top of the flatbread",
+    "Season with salt and black pepper to taste",
+    "Place the flatbread in the wood-fired oven and bake for 12-15 minutes, or until the crust is golden brown",
+    "Remove the flatbread from the oven and let it cool for a few minutes before slicing and serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado-recipes",
+    "flatbread-recipes",
+    "german-cuisine",
+    "gluten-free-snacks",
+    "vegetarian-snacks",
+    "wood-fired-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "toasty-german-avocado-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-german-avocado-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:07:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "avocado",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "avocado",
+    "descriptor": "Tempting Toasty",
+    "dishForm": "Flatbread"
+  }
+}
