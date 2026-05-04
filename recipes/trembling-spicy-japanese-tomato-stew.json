@@ -1,0 +1,132 @@
+{
+  "title": "Trembling Spicy Japanese Tomato Stew",
+  "description": "A vibrant, aerated nabemono featuring beef tomatoes, miso, and plant-based proteins simmered to perfection in a Korean brass bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tomatoes",
+      "amount": "6 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "100g",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "800ml",
+      "notes": ""
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "seaweed flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wash and cut the beef tomatoes into bite-size chunks and set aside.",
+    "In a Korean brass bowl, heat sesame oil over medium heat and sauté garlic, ginger, and sliced shiitake mushrooms until fragrant.",
+    "Add the diced tofu, julienned carrot, and green onion to the bowl, stirring for 2 minutes.",
+    "Pour in 800ml of water, bring to a gentle boil, then reduce to a simmer.",
+    "Stir in miso paste, soy sauce, rice vinegar, and sriracha; let the mixture simmer for 10 minutes to meld flavors.",
+    "Add the chopped tomatoes, letting them cook until soft and the broth thickens slightly, about 8 minutes.",
+    "Taste and adjust seasoning; if needed, add more sriracha for heat or soy sauce for depth.",
+    "Transfer the stew to individual bowls, garnish with chopped cilantro and seaweed flakes, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-spice",
+    "nabemono",
+    "one-pot",
+    "plant-based",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "trembling-spicy-japanese-tomato-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/trembling-spicy-japanese-tomato-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:07:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tomato",
+    "descriptor": "Trembling Spicy",
+    "dishForm": "Stew"
+  }
+}
