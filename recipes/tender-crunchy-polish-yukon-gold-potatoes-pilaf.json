@@ -1,0 +1,94 @@
+{
+  "title": "Tender Crunchy Polish Yukon Gold Potatoes Pilaf",
+  "description": "A fresh and crunchy Polish dish featuring Yukon gold potatoes, perfect for a nostalgic meal. This ovo-vegetarian friendly pilaf is a great side dish or light lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "such as M&M's or chopped peanut butter cups"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated carrots and cook for an additional 2 minutes.",
+    "Add the diced potatoes, salt, and pepper, and cook for 10 minutes, stirring occasionally.",
+    "Add the sugar and candy pieces, and stir to combine.",
+    "Continue cooking for an additional 5 minutes, or until the potatoes are tender and lightly browned.",
+    "Serve hot, garnished with chopped fresh parsley if desired.",
+    "Let cool completely before refrigerating or freezing.",
+    "Reheat as needed, adding a little water if the pilaf seems dry."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-side-dish",
+    "ovo-vegetarian",
+    "polish-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tender-crunchy-polish-yukon-gold-potatoes-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crunchy-polish-yukon-gold-potatoes-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:01:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Tender crunchy",
+    "dishForm": "Pilaf"
+  }
+}
