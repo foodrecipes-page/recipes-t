@@ -1,0 +1,108 @@
+{
+  "title": "Tantalizing Crisp Algerian Beef Broth",
+  "description": "A midnight crave low-carb beef broth featuring a cultured stock concentrate, a deglaze-fond and crisp zucchini garnish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "1 lb"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "beef stock concentrate",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "parsley",
+      "amount": "2 tbsp, chopped"
+    }
+  ],
+  "instructions": [
+    "Place beef bones in a large pot and cover with 4 cups water; bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 45 minutes, skimming off foam.",
+    "Stir in 1 tbsp beef stock concentrate until dissolved; remove pot from heat.",
+    "In a separate skillet, heat 1 tbsp olive oil over medium-high and sauté diced onion for 3 minutes until translucent.",
+    "Add minced garlic, ground cumin, ground coriander, and smoked paprika; cook for 1 minute until fragrant.",
+    "Stir in 2 tbsp tomato paste, coating the spices; cook for 2 minutes to deepen flavor.",
+    "Deglaze the skillet with a splash of water, scraping up browned bits, then pour the mixture into the simmering broth.",
+    "Return the pot to the stove, bring to a gentle simmer, and add sliced zucchini; cook for 4 minutes until tender yet crisp.",
+    "Stir in lemon juice, season with salt and pepper to taste, then remove from heat.",
+    "Ladle broth into bowls, garnish with chopped parsley, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "broth",
+    "crisp-garnish",
+    "low-carb",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 10
+  },
+  "slug": "tantalizing-crisp-algerian-beef-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-crisp-algerian-beef-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:00:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "beef stock concentrate",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "beef",
+    "descriptor": "Tantalizing Crisp",
+    "dishForm": "Broth"
+  }
+}
