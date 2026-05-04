@@ -1,0 +1,107 @@
+{
+  "title": "Tender Glazed Norwegian Rice Risotto",
+  "description": "A creamy, date-night favorite that marries Norwegian flavors with comfort-food texture, all in a single pot.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "2 cups",
+      "notes": "fodmap-friendly"
+    },
+    {
+      "name": "lactose-free cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Norwegian brown cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a kazan cauldron over medium heat and melt butter with olive oil.",
+    "Add diced fennel and sauté until translucent, about 3 minutes.",
+    "Stir in rice, ensuring each grain coats with oil and toast for 2 minutes.",
+    "Pour in one cup of broth, bring to a gentle simmer, and cook until liquid is absorbed.",
+    "Continue adding remaining broth in 1/2 cup portions, stirring frequently, until rice is al dente and creamy, about 18 minutes total.",
+    "Remove from heat and stir in lactose-free cream, cheese, and lemon juice until fully incorporated.",
+    "Season with salt and pepper to taste, and let the risotto rest for 2 minutes to thicken.",
+    "Serve hot, optionally garnished with chopped fresh dill."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "fodmap-friendly",
+    "norwegian",
+    "one-pot",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "tender-glazed-norwegian-rice-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-glazed-norwegian-rice-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:11:42Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Rice",
+    "descriptor": "Tender Glazed",
+    "dishForm": "Risotto"
+  }
+}
