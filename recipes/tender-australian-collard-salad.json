@@ -1,0 +1,104 @@
+{
+  "title": "Tender Australian Collard Salad",
+  "description": "A winey, silky salad featuring collard greens, roasted beet, avocado and a buttery beurre-monte sauce that showcases adventurous Australian flavours.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "400g"
+    },
+    {
+      "name": "beets, peeled and cubed",
+      "amount": "200g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "50g"
+    },
+    {
+      "name": "avocado, diced",
+      "amount": "1"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "50ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "almonds, toasted",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium heat and add 1 tbsp of olive oil; sauté the beet cubes until just tender, about 5 minutes, then set aside.",
+    "Blanch the collard greens in a pot of boiling salted water for 1 minute, shock in ice water, and drain thoroughly.",
+    "In the same skillet, add the remaining 1 tbsp of olive oil, minced garlic, and dried oregano; cook until fragrant, about 30 seconds, then pour in the white wine, reduce by half, and stir in the lemon juice, salt, and pepper to create a beurre-monte sauce.",
+    "Toss the blanched collard greens, sautéed beet, sliced onion, diced avocado, and toasted almonds in a large bowl.",
+    "Pour the beurre-monte sauce over the salad and toss gently to coat all ingredients evenly.",
+    "Garnish with chopped parsley and serve immediately, pairing with a chilled glass of dry white wine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "beurre-monte",
+    "quick",
+    "salad",
+    "vegetarian-friendly",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 22
+  },
+  "slug": "tender-australian-collard-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-australian-collard-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:39:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "collards",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Collard",
+    "descriptor": "Tender",
+    "dishForm": "Salad"
+  }
+}

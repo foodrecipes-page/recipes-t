@@ -3349,6 +3349,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-australian-collard-salad",
+    "title": "Tender Australian Collard Salad",
+    "tags": [
+      "adventurous",
+      "beurre-monte",
+      "quick",
+      "salad",
+      "vegetarian-friendly",
+      "winey"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-bitter-greek-lamb-stew",
     "title": "Tender Bitter Greek Lamb Stew",
     "tags": [
