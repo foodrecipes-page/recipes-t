@@ -3444,6 +3444,19 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-char-grilled-yang-bean-banh-xeo",
+    "title": "Tasty Char-Grilled-Yang Bean Banh-Xeo",
+    "tags": [
+      "char-grilled-yang",
+      "high-protein-friendly",
+      "jammy-springy-bean-banh-xeo",
+      "lazy-sunday-dish"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-crispy-syrian-coconut-salad",
     "title": "Tasty Crispy Syrian Coconut Salad",
     "tags": [

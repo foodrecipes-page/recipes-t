@@ -1,0 +1,86 @@
+{
+  "title": "Tasty Char-Grilled-Yang Bean Banh-Xeo",
+  "description": "A lazy-sunday Vietnamese dish featuring jammy, springy haricot beans and char-grilled-yang for a high-protein-friendly meal.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yang",
+      "amount": 200
+    },
+    {
+      "name": "Ham",
+      "amount": 150
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": 200
+    },
+    {
+      "name": "Spring Onion",
+      "amount": 30
+    },
+    {
+      "name": "Banh Xeo Batter",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": 15
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": 5
+    },
+    {
+      "name": "Lime Juice",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Heat a charcoal grill or pan to high heat.",
+    "Slice the Yang into thin strips and brush with Sesame Oil.",
+    "Season with Tamarind Paste and stir-fry until charred, about 2 minutes per side.",
+    "In a separate skillet, cook Bean Sprouts and Spring Onion in Sesame Oil for 2-3 minutes or until golden brown.",
+    "Prepare Banh Xeo batter according to package instructions.",
+    "Heat up the griddle or pan with a thin layer of water, add a spoonful of batter and swirl gently.",
+    "Cook each side until golden, about 1 minute per side.",
+    "Plate your Banh Xeo and garnish with Char-Grilled-Yang and Stir-Fried Bean Sprouts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "char-grilled-yang",
+    "high-protein-friendly",
+    "jammy-springy-bean-banh-xeo",
+    "lazy-sunday-dish"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 52,
+    "carbs": 64,
+    "fat": 16
+  },
+  "slug": "tasty-char-grilled-yang-bean-banh-xeo",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-char-grilled-yang-bean-banh-xeo",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-04T23:17:33Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "haricot beans",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Haricot Beans",
+    "descriptor": "Char-Grill-Yang",
+    "dishForm": "Banh-Xeo"
+  }
+}
