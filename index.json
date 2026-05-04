@@ -3074,6 +3074,22 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-canadian-barley-stew",
+    "title": "Tasty Canadian Barley Stew",
+    "tags": [
+      "barley",
+      "comfort",
+      "halal",
+      "hearty",
+      "maple",
+      "one-pot",
+      "winter"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-dutch-barley-wrap",
     "title": "Tasty Dutch Barley Wrap",
     "tags": [
@@ -3174,6 +3190,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-velvety-greek-prawns-tzatziki",
+    "title": "Tasty Velvety Greek Prawns Tzatziki",
+    "tags": [
+      "easy-to-make",
+      "greek-food",
+      "low-cook",
+      "refreshing",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {

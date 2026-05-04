@@ -1,0 +1,98 @@
+{
+  "title": "Tasty Velvety Greek Prawns Tzatziki",
+  "description": "A winey and velvety Greek dish featuring raw frozen prawns in a tzatziki sauce, perfect for a weeknight dinner. This kosher-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the yogurt, garlic, vinegar, salt, and pepper until smooth.",
+    "Add the grated cucumber to the bowl and stir until well combined.",
+    "Fold in the thawed prawns and chopped fresh dill until the prawns are fully coated with the tzatziki sauce.",
+    "Drizzle the olive oil over the top of the prawns and sauce, and stir gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the prawns chilled, garnished with additional chopped fresh dill if desired.",
+    "This dish can be made ahead of time and stored in the refrigerator for up to 24 hours.",
+    "Before serving, give the prawns a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "greek-food",
+    "low-cook",
+    "refreshing",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tasty-velvety-greek-prawns-tzatziki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-velvety-greek-prawns-tzatziki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:12:55Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "prawns",
+    "descriptor": "tasty velvety",
+    "dishForm": "Tzatziki"
+  }
+}

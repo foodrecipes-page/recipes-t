@@ -1,0 +1,107 @@
+{
+  "title": "Tasty Canadian Barley Stew",
+  "description": "A fragrant, chewy barley stew with honey and maple flavor, perfect for a festive Canadian meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "finely ground for extra chew"
+    },
+    {
+      "name": "medium barley",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "6 cups"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large, cubed"
+    },
+    {
+      "name": "kale",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add the diced onion, carrot, and celery, cooking until softened.",
+    "Stir in the chopped potato and cook for an additional 3 minutes.",
+    "Add the barley and oats, stirring to coat the grains with the vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barley",
+    "comfort",
+    "halal",
+    "hearty",
+    "maple",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "tasty-canadian-barley-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-canadian-barley-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:13:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "boil",
+    "primaryIngredient": "honey",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Barley",
+    "descriptor": "Tasty",
+    "dishForm": "Stew"
+  }
+}
