@@ -2907,6 +2907,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-toasted-moroccan-bread-tagine",
+    "title": "Tasty Toasted Moroccan Bread Tagine",
+    "tags": [
+      "bread-based",
+      "moroccan",
+      "one-pan",
+      "satvik",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-ukrainian-prawns-stew",
     "title": "Tasty Ukrainian Prawns Stew",
     "tags": [

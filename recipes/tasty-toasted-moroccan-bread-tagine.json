@@ -1,0 +1,108 @@
+{
+  "title": "Tasty Toasted Moroccan Bread Tagine",
+  "description": "A funky and crumbly weeknight Moroccan dish featuring bread and lardons, rendered in a satvik-friendly way, this recipe is perfect for a quick dinner",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Moroccan bread",
+      "amount": "1 loaf",
+      "notes": "day old bread"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "vegetarian alternative to bacon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the Moroccan bread into 1 inch cubes and toast until lightly browned.",
+    "In a large skillet, heat the olive oil over medium heat and render the lardons until crispy.",
+    "Add the chopped onion to the skillet and cook until translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the toasted bread cubes to the skillet and stir to combine with the lardon mixture.",
+    "Transfer the mixture to a baking dish and bake for 20 minutes, or until the bread is crispy and golden brown.",
+    "Remove from the oven and sprinkle with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread-based",
+    "moroccan",
+    "one-pan",
+    "satvik",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tasty-toasted-moroccan-bread-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-toasted-moroccan-bread-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:56:59Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "lardons-render",
+    "primaryIngredient": "bread",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "bread",
+    "descriptor": "Tasty Toasted",
+    "dishForm": "Tagine"
+  }
+}
