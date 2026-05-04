@@ -2868,6 +2868,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-tender-irish-semolina-rimacinata-hash",
+    "title": "Tangy tender Irish Semolina-rimacinata Hash",
+    "tags": [
+      "hash",
+      "irish",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
     "title": "Tangy Tender Light Slovakian Dried Shrimp Stir-fry",
     "tags": [
@@ -4744,6 +4758,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-rich-thai-fish-paong",
+    "title": "Thai Fish Paong",
+    "tags": [
+      "fish",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-romantic-garlic-oyster-mushrooms-stir-fry",
     "title": "Tender Romantic Garlic Oyster Mushrooms Stir-fry",
     "tags": [
@@ -5765,6 +5793,19 @@
     "tags": [],
     "cuisine": "Malaysian",
     "totalTimeMin": null,
+    "shard": "t"
+  },
+  {
+    "slug": "truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
+    "title": "Truffle Fragrant Fermented Saudi-Arabian Celeriac Stew",
+    "tags": [
+      "fermented",
+      "one-pot",
+      "pescatarian",
+      "saudi-arabian"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

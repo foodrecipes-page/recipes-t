@@ -1,0 +1,63 @@
+{
+  "title": "Truffle Fragrant Fermented Saudi-Arabian Celeriac Stew",
+  "description": "A pungent, flaky, one-pot stew from Saudi-Arabia featuring celeriac, ferment, and pescatarian-friendly ingredients, served in individual mini-cocottes.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "unit": "tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a mini-cocotte over medium heat.",
+    "Add the celeriac and cook until slightly tender, about 5 minutes.",
+    "Add the truffle paste and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the fermented fish sauce and mix well to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "one-pot",
+    "pescatarian",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "celeriac",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Celeriac",
+    "descriptor": "Truffle Fragrant Fermented",
+    "dishForm": "Stew"
+  }
+}

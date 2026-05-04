@@ -1,0 +1,119 @@
+{
+  "title": "Tangy tender Irish Semolina-rimacinata Hash",
+  "description": "A tangy and tender dish featuring semolina-rimacinata, shio-cure, and lacto-vegetarian-friendly ingredients. Perfect for a midnight craving.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semolina-rimacinata",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cure potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cure cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the shio-cure potatoes and cook for 5 minutes, breaking them up with a spoon as needed.",
+    "Add the semolina-rimacinata and cook for 2 minutes, stirring constantly.",
+    "Add the shio-cure cabbage and cook until wilted, about 3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Serve hot, garnished with fresh parsley and a dollop of Greek yogurt if desired.",
+    "Garnish with chives if available."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash",
+    "irish",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "tangy-tender-irish-semolina-rimacinata-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-irish-semolina-rimacinata-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "shio-cure",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Semolina-rimacinata",
+    "descriptor": "Tangy tender",
+    "dishForm": "Hash"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Thai Fish Paong",
+  "description": "A rich, tender Thai dish perfect for post-workout meals featuring mirin and a crispy double-fry inspired crust. This pescatarian-friendly recipe serves 4.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whiting fish fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, skin removed."
+    },
+    {
+      "name": "Mirin",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten."
+    },
+    {
+      "name": "Double-fry inspired seasoning blend",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": " Optional",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare a breading station with panko breadcrumbs, egg, and double-fry inspired seasoning blend.",
+    "Season the fish fillets with coriander seeds, sugar, and salt.",
+    "Dredge the fish fillets in the breading station, pressing the crumbs onto the fish to adhere.",
+    "Heat coconut oil in a large non-stick skillet over medium-high heat.",
+    "Cook the breaded fish fillets for 3-4 minutes per side, until golden brown and crispy.",
+    "Transfer the fish to a baking sheet and drizzle with mirin and fish sauce.",
+    "Bake in the preheated oven for 8-10 minutes, until cooked through.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "tender-rich-thai-fish-paong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-rich-thai-fish-paong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:27:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mirin",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish",
+    "descriptor": "tender rich",
+    "dishForm": "Paong"
+  }
+}
