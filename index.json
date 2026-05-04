@@ -4104,6 +4104,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-turkish-potato-stew",
+    "title": "Tender Turkish Potato Stew",
+    "tags": [
+      "comfort-food",
+      "herbal",
+      "macrobiotic",
+      "one-pot",
+      "vegetarian",
+      "velvety"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tender-ukrainian-oyster-mushroom-toast",
     "title": "Tender Ukrainian Oyster Mushroom Toast",
     "tags": [
