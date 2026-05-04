@@ -1,0 +1,104 @@
+{
+  "title": "Tender Middle Eastern Chicken Pilaf",
+  "description": "A sour and tender kid-friendly Middle Eastern dish featuring lemons and fried rice, perfect for a weeknight dinner. This egg-free friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "lemons",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onions to the skillet and cook until they are translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the uncooked rice to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, salt, black pepper, and paprika to the skillet and bring to a boil.",
+    "Reduce the heat to low, cover the skillet, and simmer for 20 minutes.",
+    "Fluff the rice mixture with a fork and stir in the lemon juice and cooked chicken.",
+    "Serve the pilaf hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "kid-friendly",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-middle-eastern-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-middle-eastern-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:01:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "lemons",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "tender",
+    "dishForm": "Pilaf"
+  }
+}
