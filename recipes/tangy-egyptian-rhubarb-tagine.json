@@ -1,0 +1,119 @@
+{
+  "title": "Tangy Egyptian Rhubarb Tagine",
+  "description": "A tangy and flavorful Egyptian-inspired dish featuring fresh rhubarb in a unique blend of spices and nuts, all slow-cooked in a ttukbaegi earthenware pot. This recipe is free from animal products, making it satvik-friendly. ",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ttukbaegi earthenware pot over low heat on your stovetop or in a conventional oven at 300°F (150°C).",
+    "In a blender or food processor, puree the dates, ginger, cinnamon, cardamom, nutmeg, and salt until you get a smooth paste.",
+    "Add the tahini and lemon juice to the blender and blend until well combined.",
+    "Add the water to the blender and blend until you get a smooth, creamy sauce.",
+    "Add the sauce to the heated ttukbaegi pot and stir to combine.",
+    "Add the sliced rhubarb to the pot and stir to coat with the sauce.",
+    "Cover the pot and simmer over low heat for 20 minutes or until the rhubarb is tender.",
+    "While the rhubarb is cooking, toast the almonds in a small skillet over medium heat until fragrant and lightly browned.",
+    "Sprinkle the toasted almonds and sesame seeds over the rhubarb and sauce.",
+    "Serve warm or at room temperature, garnished with additional almonds and sesame seeds if desired.",
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "healthy",
+    "morning",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tangy-egyptian-rhubarb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-egyptian-rhubarb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:23:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "show-off",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "rhubarb",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "rhubarb",
+    "descriptor": "tangy",
+    "dishForm": "Tagine"
+  }
+}
