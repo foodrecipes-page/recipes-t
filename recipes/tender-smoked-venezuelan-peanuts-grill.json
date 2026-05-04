@@ -1,0 +1,120 @@
+{
+  "title": "Tender Smoked Venezuelan Peanuts Grill",
+  "description": "A winey, comforting Venezuelan dish featuring peanuts, with a nice cheese pull, perfect for a macrobiotic-friendly meal on a robata grill.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together coconut milk, apple cider vinegar, honey, cayenne pepper, garlic powder, smoked paprika, black pepper, and salt.",
+    "Add the peanuts to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated peanuts onto skewers, leaving a small space between each peanut.",
+    "Melt 1 tablespoon of butter on a piece of aluminum foil and place it on the grill.",
+    "Place a few skewers of peanuts onto the foiled butter and cook for 2-3 minutes on each side, or until slightly charred.",
+    "Repeat with the remaining skewers.",
+    "Meanwhile, melt the remaining 1 tablespoon of butter in a small saucepan over low heat.",
+    "Add the gruyere cheese and stir until melted and smooth.",
+    "Remove the peanuts from the grill and brush with the melted cheese mixture.",
+    "Garnish with fresh cilantro and serve immediately.",
+    "Serve hot with additional cheese sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "tender-smoked-venezuelan-peanuts-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoked-venezuelan-peanuts-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:44:26Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "peanuts",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "peanuts",
+    "descriptor": "Tender Smoked",
+    "dishForm": "Grill"
+  }
+}
