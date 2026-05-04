@@ -1,0 +1,120 @@
+{
+  "title": "Tender Russian Rice Pilaf",
+  "description": "A soothing, sweet, and fluffy rice dish perfect for a sick day, infused with the flavors of seasoned rice vinegar and a dash of comfort.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "uncooked white jasmine rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice is best for this dish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "use a neutral oil for best flavor"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "about 2 cups chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "seasoned with sugar and salt"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the grated carrot and sliced green beans, and cook for 2-3 minutes, until the vegetables are slightly tender.",
+    "Add the uncooked rice and stir to combine with the vegetables.",
+    "Add the seasoned rice vinegar, chicken broth, water, salt, black pepper, and dried parsley.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 18-20 minutes.",
+    "Remove the saucepan from the heat and let it sit, covered, for 5 minutes.",
+    "Fluff the rice pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-leftovers",
+    "fluffy-rice",
+    "homestyle",
+    "one-dish-meal",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "tender-russian-rice-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-russian-rice-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:28:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Rice",
+    "descriptor": "Tender",
+    "dishForm": "Pilaf"
+  }
+}
