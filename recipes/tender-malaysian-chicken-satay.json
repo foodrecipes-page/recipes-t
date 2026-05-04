@@ -1,0 +1,98 @@
+{
+  "title": "Tender Malaysian Chicken Satay",
+  "description": "A classic Malaysian dish featuring chicken skewers marinated in a mixture of coconut milk and spices, served with a side of nuka-pickle and coco sugar sauce. This recipe is onion and garlic free, making it suitable for those with dietary restrictions.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coco sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, coco sugar, coriander powder, cumin powder, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking.",
+    "Grill the chicken skewers for 5-7 minutes per side, or until cooked through.",
+    "Serve the chicken satay hot with a side of nuka-pickle and coco sugar sauce.",
+    "To make the coco sugar sauce, mix 1 tablespoon of coco sugar with 2 tablespoons of water in a small bowl.",
+    "Drizzle the coco sugar sauce over the chicken satay and nuka-pickle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coco-sugar",
+    "coconut-milk",
+    "gluten-free",
+    "grilled-chicken",
+    "malaysian-food",
+    "nuka-pickle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:52:37Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "coco sugar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender crunchy",
+    "dishForm": "Satay"
+  }
+}
