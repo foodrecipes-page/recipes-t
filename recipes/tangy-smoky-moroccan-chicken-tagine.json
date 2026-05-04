@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Smoky Moroccan Chicken Tagine",
+  "description": "A smoky and tangy Moroccan dish featuring chicken cooked in a flavorful tagine with black cardamom pods, served with fry grind rice and wrapped in a ti leaf.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the chicken to the skillet and cook until it is browned on all sides and cooked through.",
+    "Add the black cardamom pods, ground cumin, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to low and simmer the tagine for 10 minutes, stirring occasionally.",
+    "While the tagine is simmering, prepare the ti leaf wraps by cutting the leaves into large squares.",
+    "To assemble the dish, place a portion of the cooked fry grind rice onto a ti leaf square, followed by a portion of the chicken tagine.",
+    "Fold the ti leaf over the filling to form a packet and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "moroccan",
+    "nut-free",
+    "one-pan",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tangy-smoky-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-smoky-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:28:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Tangy Smoky",
+    "dishForm": "Tagine"
+  }
+}
