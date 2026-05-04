@@ -1,0 +1,104 @@
+{
+  "title": "Tender Boiled Thai Plum Tomatoes Curry",
+  "description": "A soothing and flavorful vegan curry made with boiled plum tomatoes and aromatic spices, perfect for a sick day. This resinous and aerated Thai dish is sure to comfort and nourish.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and gently add the plum tomatoes.",
+    "Boil the tomatoes for 10-12 minutes, or until the skin starts to peel off.",
+    "Remove the tomatoes from the water with a slotted spoon and let them cool.",
+    "Peel the cooled tomatoes and chop them into large chunks.",
+    "In a large pan, heat the coconut oil over medium heat and add the chopped onion.",
+    "Cook the onion for 5 minutes, or until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger to the pan and cook for 1 minute.",
+    "Stir in the Thai red curry paste and cook for 1 minute, until fragrant.",
+    "Add the chopped tomatoes, coconut milk, vegetable broth, salt, and brown sugar to the pan.",
+    "Bring the mixture to a simmer and cook for 15-20 minutes, or until the flavors have melded together and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "thai-curry",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-boiled-thai-plum-tomatoes-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-boiled-thai-plum-tomatoes-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:45:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "boil",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "tender boiled",
+    "dishForm": "Curry"
+  }
+}

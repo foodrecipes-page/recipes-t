@@ -1742,6 +1742,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-italian-beans-ribollita",
+    "title": "Tangy Italian Beans Ribollita",
+    "tags": [
+      "clay-pot",
+      "italian",
+      "romantic",
+      "slow-cook",
+      "summer",
+      "tuscan",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-italian-jam-tart",
     "title": "Tangy Italian Jam Tart",
     "tags": [
@@ -3062,6 +3078,20 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 210,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-boiled-thai-plum-tomatoes-curry",
+    "title": "Tender Boiled Thai Plum Tomatoes Curry",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "thai-curry",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {

@@ -1,0 +1,121 @@
+{
+  "title": "Tangy Italian Beans Ribollita",
+  "description": "A hearty Tuscan soup with a citrus twist, served from a tajine clay pot for a rustic romantic touch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cannellini beans",
+      "amount": "400 g",
+      "notes": "cooked"
+    },
+    {
+      "name": "Kale",
+      "amount": "100 g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Canned whole tomatoes",
+      "amount": "400 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "600 ml",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "30 ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of extra virgin olive oil in a tajine clay pot over medium heat.",
+    "Add 2 minced garlic cloves and sauté until golden and fragrant.",
+    "Stir in 1 diced medium onion and cook until translucent.",
+    "Add 2 sliced carrots and 2 chopped celery stalks, cooking for 5 minutes.",
+    "Pour in 400 grams of diced canned whole tomatoes and stir to combine.",
+    "Add 400 grams cooked cannellini beans, 100 grams chopped kale, 600 milliliters vegetable broth, 1 teaspoon dried rosemary, 1 teaspoon dried thyme, salt, and pepper to taste, and bring to a simmer.",
+    "Reduce heat to low and let the ribollita cook uncovered for 45 minutes, stirring occasionally.",
+    "Before serving, stir in 30 milliliters orange blossom water and 30 grams sliced katsuramuki peel for a citrusy brightness.",
+    "Sprinkle 2 tablespoons of toasted breadcrumbs for a crunchy finish.",
+    "Ladle the warm dish into bowls and garnish with a drizzle of olive oil and a twist of citrus zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "italian",
+    "romantic",
+    "slow-cook",
+    "summer",
+    "tuscan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 20,
+    "carbs": 100,
+    "fat": 32
+  },
+  "slug": "tangy-italian-beans-ribollita",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-italian-beans-ribollita",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:46:04Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "orange blossom water",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beans",
+    "descriptor": "Tangy",
+    "dishForm": "Ribollita"
+  }
+}
