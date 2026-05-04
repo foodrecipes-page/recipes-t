@@ -1087,6 +1087,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-dense-croatian-bread-fritters",
+    "title": "tangy dense croatian bread fritters",
+    "tags": [
+      "air-fry",
+      "croatian",
+      "easy-to-make",
+      "snack",
+      "veggie-friendly"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-dense-indulgent-thai-pistachio-stir-fry",
     "title": "Tangy Dense Indulgent Thai Pistachio Stir-fry",
     "tags": [
@@ -3873,6 +3887,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-chocolate-mexican-chocolate-tostada",
+    "title": "Tender Chocolate Mexican Chocolate Tostada",
+    "tags": [
+      "high-protein",
+      "lacto-vegetarian",
+      "mexican",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-citrusy-kenyan-papelon-bake",
     "title": "Tender Citrusy Kenyan Papelon Bake",
     "tags": [
@@ -4365,6 +4393,19 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-indulgent-irish-lamb-stew",
+    "title": "Tender Indulgent Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-dish",
+      "lamb-stew",
+      "one-pot"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 180,
     "shard": "t"
   },
   {

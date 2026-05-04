@@ -1,0 +1,102 @@
+{
+  "title": "tangy dense croatian bread fritters",
+  "description": "quick-fix croatian dish featuring white bread mix, air-fried for a crispy exterior and soft interior. a tangy and satisfying snack or light meal.",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "ayurvedic-rajasic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": "helps with aeration and crispiness"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine white bread mix, water, eggs, onion, garlic, dill, salt, black pepper, and baking powder. Mix everything together until a thick batter forms.",
+    "Cover the bowl with plastic wrap and let it rest for 10 minutes to allow the bread mix to absorb the liquid.",
+    "Heat the air fryer to 375°F (190°C).",
+    "Using a spoon or small ice cream scoop, drop small balls of the batter into the air fryer basket, leaving about 1 inch of space between each fritter.",
+    "Cook the fritters for 5-7 minutes, shaking the basket halfway through, until they are golden brown and crispy on the outside and soft on the inside.",
+    "Repeat with the remaining batter, cooking in batches if necessary.",
+    "Serve the fritters hot, sprinkled with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "croatian",
+    "easy-to-make",
+    "snack",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "tangy-dense-croatian-bread-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-croatian-bread-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "white bread mix",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "bread",
+    "descriptor": "tangy dense",
+    "dishForm": "fritters"
+  }
+}
