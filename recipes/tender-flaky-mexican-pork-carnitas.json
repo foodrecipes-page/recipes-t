@@ -1,0 +1,107 @@
+{
+  "title": "Tender Flaky Mexican Pork Carnitas",
+  "description": "Savory and flaky Mexican dish featuring pork carnitas with a hint of poblano flavor, perfect for a brunch mood. This ayurvedic-rajasic-friendly recipe uses a bouquet garni and reduction for added depth.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bouquet garni",
+      "amount": "1",
+      "notes": "containing thyme, rosemary, and bay leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pork chunks and cook until browned on all sides, about 5 minutes.",
+    "Add the roasted poblano peppers, orange juice, lime juice, bouquet garni, salt, and black pepper to the pot.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and easily shredded.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and strain the cooking liquid through a fine-mesh sieve into a clean saucepan.",
+    "Bring the cooking liquid to a boil and reduce it by half, stirring occasionally."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "mexican-food",
+    "pork-recipes",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "tender-flaky-mexican-pork-carnitas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-flaky-mexican-pork-carnitas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:47:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "reduce",
+    "primaryIngredient": "bouquet garni",
+    "diet": "ayurvedic-rajasic",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Flaky",
+    "dishForm": "Carnitas"
+  }
+}
