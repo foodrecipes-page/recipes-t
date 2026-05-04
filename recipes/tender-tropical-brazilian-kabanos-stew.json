@@ -1,0 +1,103 @@
+{
+  "title": "Tender Tropical Brazilian Kabanos Stew",
+  "description": "A light and floral Brazilian dish featuring Polish kabanos, perfect for a sick day, made with coconut cream and cooked in a cataplana vessel, this kosher friendly stew is a unique fusion of flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "12 oz",
+      "notes": "Polish sausage"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the cataplana vessel over medium heat and add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the kabanos and cook until browned on all sides.",
+    "Add the chicken broth, diced tomatoes, coconut cream, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes or until the kabanos are tender.",
+    "Stir in the chopped cilantro and lime juice.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "kosher",
+    "one-pot",
+    "polish",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-tropical-brazilian-kabanos-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tropical-brazilian-kabanos-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:31:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "polish kabanos",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "kabanos",
+    "descriptor": "tender tropical",
+    "dishForm": "Stew"
+  }
+}
