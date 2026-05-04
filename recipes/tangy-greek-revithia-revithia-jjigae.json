@@ -1,0 +1,140 @@
+{
+  "title": "Tangy Greek Revithia Jjigae",
+  "description": "A Korean twist on traditional Greek revithia, with a tangy and spicy kick. This dish is served in a molten, one-pot wonder that's perfect for a weeknight dinner.",
+  "cuisine": "Greek-Korean fusion",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "revithia (chickpeas)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grand marnier",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "crumbly feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Korean brass bowl over medium heat.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the cumin and dried oregano and cook for 1 minute, stirring constantly.",
+    "Add the grand marnier and cook until the liquid is almost completely evaporated.",
+    "Add the gochujang and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Stir in the revithia, black pepper, and salt, and cook until the liquid has thickened and the revithia are coated.",
+    "Transfer the contents of the bowl to a serving platter or individual plates.",
+    "Top with crumbly feta cheese, fresh parsley, and a drizzle of sesame oil.",
+    "Serve immediately, garnished with ssam wrap.",
+    "Garnish with additional red pepper flakes if desired.",
+    "Serve with a side of kimchi or other spicy condiment, if desired.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "greek-korean-fusion",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 22,
+    "carbs": 80,
+    "fat": 19
+  },
+  "slug": "tangy-greek-revithia-revithia-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-greek-revithia-revithia-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "grand marnier",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "revithia",
+    "descriptor": "Tangy",
+    "dishForm": "Revithia Jjigae"
+  }
+}
