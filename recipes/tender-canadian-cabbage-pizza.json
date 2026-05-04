@@ -1,0 +1,112 @@
+{
+  "title": "Tender Canadian Cabbage Pizza",
+  "description": "A light, plant‑based pizza with sweet cabbage and lamination‑puff pastry, finished on a robata grill for a smoky, molten finish.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamination-puff pastry sheet",
+      "amount": "1",
+      "notes": "20cm square"
+    },
+    {
+      "name": "sweet cabbage",
+      "amount": "200g",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "50g",
+      "notes": "spread thin"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "60g",
+      "notes": "shredded"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "drizzled"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "Roll out the lamination-puff pastry sheet to a 30x30cm square and place on parchment.",
+    "Spread a thin layer of tomato sauce over the pastry, leaving a small border.",
+    "Sprinkle the shredded sweet cabbage evenly over the sauce.",
+    "Drizzle with olive oil and sprinkle minced garlic, salt, pepper, and smoked paprika.",
+    "Add dollops of vegan mozzarella and a handful of fresh dill.",
+    "Cook the pizza on the robata grill for 10 to 12 minutes, until the pastry is golden and the cheese is melted.",
+    "Remove, let rest for 2 minutes, then slice and serve hot with a squeeze of lemon zest."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "puff-pastry",
+    "quick",
+    "robata",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tender-canadian-cabbage-pizza",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-canadian-cabbage-pizza",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:56:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Tender",
+    "dishForm": "Pizza"
+  }
+}

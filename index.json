@@ -3550,6 +3550,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-canadian-cabbage-pizza",
+    "title": "Tender Canadian Cabbage Pizza",
+    "tags": [
+      "cabbage",
+      "puff-pastry",
+      "quick",
+      "robata",
+      "vegan"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-canadian-roast-roast",
     "title": "Tender Canadian Roast",
     "tags": [
