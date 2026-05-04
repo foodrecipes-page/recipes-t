@@ -1695,6 +1695,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-indian-tomatoes-fritters",
+    "title": "Tangy Indian Tomatoes Fritters",
+    "tags": [
+      "brunch",
+      "crispy",
+      "gluten-free",
+      "papillote",
+      "quick",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-irish-lamb-stew",
     "title": "Tangy Irish Lamb Stew",
     "tags": [

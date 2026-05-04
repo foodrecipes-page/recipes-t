@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Indian Tomatoes Fritters",
+  "description": "Crispy, garlicky tomato fritters with a tangy twist, perfect for a brunch‑style snack.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "diced tomatoes (canned)",
+      "amount": "400g",
+      "notes": "drained"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh herbs (cilantro & mint), chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt & pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Drain the canned tomatoes and set aside.",
+    "In a bowl whisk together chickpea flour, all-purpose flour, rice flour, cumin, coriander, salt and pepper until well mixed.",
+    "Add minced garlic, grated ginger, chopped herbs, lemon juice and the drained tomatoes; stir until a thick batter forms.",
+    "Heat oil in a non-stick skillet over medium heat until shimmering.",
+    "Drop spoonfuls of batter into the hot oil, flattening slightly to form fritters about 2 inches across.",
+    "Fry each side for 2 to 3 minutes until golden brown and crispy.",
+    "Remove fritters onto paper towels to drain excess oil.",
+    "Arrange fritters in a single layer on parchment paper for a papillote effect, if desired.",
+    "Serve hot with a squeeze of lime or a dollop of yogurt-based chutney.",
+    "Garnish with extra herbs and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "crispy",
+    "gluten-free",
+    "papillote",
+    "quick",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tangy-indian-tomatoes-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-indian-tomatoes-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:27:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "papillote",
+    "primaryIngredient": "tinned tomatos",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Tangy",
+    "dishForm": "Fritters"
+  }
+}
