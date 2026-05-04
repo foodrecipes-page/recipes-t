@@ -5246,6 +5246,21 @@
     "shard": "t"
   },
   {
+    "slug": "tropical-crispy-jamaican-chicken-sandwich",
+    "title": "Tropical Crispy Jamaican Chicken Sandwich",
+    "tags": [
+      "crispy",
+      "jerk",
+      "quick",
+      "sandwich",
+      "tropical",
+      "whole30-friendly"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 44,
+    "shard": "t"
+  },
+  {
     "slug": "tropical-filipino-cereal-bowl",
     "title": "Tropical Filipino Cereal Bowl",
     "tags": [

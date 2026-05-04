@@ -1,0 +1,116 @@
+{
+  "title": "Tropical Crispy Jamaican Chicken Sandwich",
+  "description": "A juicy jerk‑marinated chicken breast nestled between sesame seed buns, topped with avocado, cucumber, and mango salsa for a resinous, crisp dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "whole30‑friendly, toasted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "sprinkled on buns"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 (sliced)",
+      "notes": "used as spread"
+    },
+    {
+      "name": "lettuce leaf",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "4",
+      "notes": "thin slices"
+    },
+    {
+      "name": "mango salsa",
+      "amount": "8 tbsp",
+      "notes": "prepared with diced mango, red onion, cilantro, lime juice"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine jerk seasoning, lime juice, minced garlic, grated ginger, and coconut oil to make a paste.",
+    "Coat each chicken breast with the paste and refrigerate for 20 minutes to absorb flavors.",
+    "Heat a grill pan over medium‑high heat and cook chicken for 5–6 minutes per side until internal temperature reaches 165°F.",
+    "While chicken cooks, sprinkle 1 tsp sesame seeds on each side of the buns and toast them in a dry skillet for 1–2 minutes.",
+    "Spread mashed avocado on the bottom bun, add a lettuce leaf, a cucumber slice, and 2 tbsp mango salsa.",
+    "Place the hot chicken on the toppings, cover with the top bun, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 14,
+  "totalTimeMin": 44,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "jerk",
+    "quick",
+    "sandwich",
+    "tropical",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 28,
+    "carbs": 25,
+    "fat": 17
+  },
+  "slug": "tropical-crispy-jamaican-chicken-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-crispy-jamaican-chicken-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:54:39Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "toast",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tropical Crispy",
+    "dishForm": "Sandwich"
+  }
+}
