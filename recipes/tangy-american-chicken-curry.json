@@ -1,0 +1,110 @@
+{
+  "title": "Tangy American Chicken Curry",
+  "description": "A buttery, bouncy-qq chicken curry with a tangy red pepper paste, inspired by American flavors.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken breasts",
+      "amount": "800g",
+      "notes": "cut into bite-size cubes"
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "200ml"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk together yogurt, red pepper paste, cumin, paprika, salt, and pepper until smooth.",
+    "Toss the chicken cubes in the yogurt mixture and let marinate for 15 minutes.",
+    "Heat butter in a large skillet over medium heat until melted and foamy.",
+    "Add diced onion to the skillet and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for another minute until fragrant.",
+    "Pour in the marinated chicken and stir to coat with the onion mixture, cooking until the chicken is lightly browned, about 5 minutes.",
+    "Reduce heat to low, cover the skillet, and simmer gently for 10 minutes to finish cooking the chicken and infuse flavors.",
+    "After simmering, sprinkle chopped cilantro and squeeze lime juice over the curry, giving it a bright finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery",
+    "halal-friendly",
+    "one-pot",
+    "quick",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "tangy-american-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-american-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:12:30Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "poach",
+    "primaryIngredient": "red pepper paste",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tangy",
+    "dishForm": "Curry"
+  }
+}

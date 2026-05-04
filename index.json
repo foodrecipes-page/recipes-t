@@ -121,6 +121,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-american-chicken-curry",
+    "title": "Tangy American Chicken Curry",
+    "tags": [
+      "buttery",
+      "halal-friendly",
+      "one-pot",
+      "quick",
+      "tangy"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-american-flour-crumble",
     "title": "Tangy American Flour Crumble",
     "tags": [
