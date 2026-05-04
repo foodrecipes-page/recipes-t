@@ -2600,6 +2600,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-toasted-mexican-casabe-tacos",
+    "title": "Tangy Toasted Mexican Casabe Tacos",
+    "tags": [
+      "gluten-free",
+      "low-carb",
+      "mexican-inspired",
+      "spherified",
+      "toasted",
+      "traditional"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-ukrainian-bean-skewers",
     "title": "Tangy Ukrainian Bean Skewers",
     "tags": [
