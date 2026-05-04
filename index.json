@@ -3762,6 +3762,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-brazilian-dried-cod-nigiri",
+    "title": "Tender Brazilian Dried Cod Nigiri",
+    "tags": [
+      "appetizer",
+      "brazilian",
+      "dried-cod",
+      "nigiri",
+      "ovo-vegetarian",
+      "seafood",
+      "snack"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-british-cassaba-gratin",
     "title": "Tender British Cassaba Gratin",
     "tags": [
@@ -4618,6 +4634,22 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-light-ethiopian-pistachio-wrap",
+    "title": "Tender Light Ethiopian Pistachio Wrap",
+    "tags": [
+      "breakfast",
+      "easy-to-make",
+      "ethiopian",
+      "healthy",
+      "lunch",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

@@ -1,0 +1,124 @@
+{
+  "title": "Tender Brazilian Dried Cod Nigiri",
+  "description": "Malty, snappy, crowd-pleaser Brazilian dish featuring dry white wine and nigiri-shaping, ovo-vegetarian-friendly. Serve as a unique appetizer or snack.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cod (dried and soaked)",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "White wine (dry)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sake (optional)",
+      "amount": "2 tablespoons",
+      "notes": "For added umami flavor."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "To balance acidity."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "For flavor and garnish."
+    },
+    {
+      "name": "Sushi rice",
+      "amount": "250g",
+      "notes": "Japanese short-grain rice."
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "For sushi rice seasoning."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "pinch",
+      "notes": "To taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": "To taste."
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "For soaking dried cod."
+    }
+  ],
+  "instructions": [
+    "Combine white wine, sake (if using), brown sugar, and water in a saucepan and bring to a simmer over medium heat.",
+    "Reduce the mixture to about 1 cup, stirring occasionally, about 10 minutes.",
+    "Soak the dried cod in cold water for at least 4 hours or overnight. Drain and cut into small pieces.",
+    "Heat the sesame oil in a pan over medium heat and add the cod pieces. Cook until browned and crispy, about 3-4 minutes per side.",
+    "Prepare sushi rice according to package instructions. Season with rice vinegar and let cool to room temperature.",
+    "Shape sushi rice into small balls and flatten slightly into nigiri shapes.",
+    "Place a small piece of cod on top of each rice ball.",
+    "Garnish with sesame seeds, pickled ginger, and green onions.,"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "appetizer",
+    "brazilian",
+    "dried-cod",
+    "nigiri",
+    "ovo-vegetarian",
+    "seafood",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "tender-brazilian-dried-cod-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-brazilian-dried-cod-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:35Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "dry white wine",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "dried cod",
+    "descriptor": "tender",
+    "dishForm": "Nigiri"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Tender Light Ethiopian Pistachio Wrap",
+  "description": "A mustardy, crumbly, light Ethiopian dish featuring unsalted pistachio and ayurvedic-sattvic-friendly ingredients wrapped in ti-leaf wraps. Perfect for a quick and healthy breakfast or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsalted pistachio",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "mustard oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pasta water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Mix together mustard oil, ginger, garlic, and green chilies in a small bowl.",
+    "Heat the mixture in a pan over medium heat for 2 minutes.",
+    "Add curry powder and salt-free seasoning and stir for 1 minute.",
+    "In a separate pan, heat the pasta water over low heat for 5 minutes.",
+    "Add lemon juice and chopped cilantro to the pasta water and stir.",
+    "Warm the ti-leaf wraps in the pan with the pasta water mixture for 1 minute.",
+    "Assemble the wraps by spreading a small amount of the mustardy mixture on each wrap, followed by a sprinkle of unsalted pistachio and a drizzle of the pasta water mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "ethiopian",
+    "healthy",
+    "lunch",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "tender-light-ethiopian-pistachio-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-light-ethiopian-pistachio-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "pistachio",
+    "descriptor": "tender light",
+    "dishForm": "Wrap"
+  }
+}
