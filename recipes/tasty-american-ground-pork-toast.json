@@ -1,0 +1,98 @@
+{
+  "title": "Tasty American Ground Pork Toast",
+  "description": "A peppery and chewy American dish featuring ground pork, perfect for a brunch mood, served on top of toasted bread with a dash of friendly spices.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the ground pork to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the pork is browned, add the chopped onion, black pepper, salt, and garlic powder to the skillet.",
+    "Continue cooking until the onion is translucent.",
+    "Meanwhile, toast the bread slices until they are lightly browned.",
+    "Butter each toasted bread slice.",
+    "Add a spoonful of the pork mixture on top of each bread slice.",
+    "Drizzle the beaten egg over the pork mixture.",
+    "Sprinkle shredded cheddar cheese over the top.",
+    "Place the skillet under the broiler for a few minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "brunch",
+    "ground-pork",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tasty-american-ground-pork-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-american-ground-pork-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:44:24Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "ground pork",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "ground pork",
+    "descriptor": "tasty peppery",
+    "dishForm": "Toast"
+  }
+}

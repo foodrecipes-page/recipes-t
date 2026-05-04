@@ -2955,6 +2955,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-american-ground-pork-toast",
+    "title": "Tasty American Ground Pork Toast",
+    "tags": [
+      "american-classic",
+      "brunch",
+      "ground-pork",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-australian-narutomaki-bowl",
     "title": "Tasty Australian Narutomaki Bowl",
     "tags": [
