@@ -162,6 +162,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-american-strawberries-cereal",
+    "title": "Tangy American Strawberries Cereal",
+    "tags": [
+      "breakfast-cereal",
+      "granola",
+      "high-protein",
+      "quick-fix",
+      "strawberries",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 5,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-argentinian-rice-soup",
     "title": "Tangy Argentinian Rice Soup",
     "tags": [
@@ -837,6 +852,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
+    "title": "Peruvian Cannellini Bean Empanadas",
+    "tags": [
+      "beans",
+      "empanada",
+      "macrobiotic",
+      "peruvian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {

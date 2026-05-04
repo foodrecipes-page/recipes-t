@@ -1,0 +1,89 @@
+{
+  "title": "Tangy American Strawberries Cereal",
+  "description": "Quick-fix tangy cereal featuring fresh strawberries, whipped cream, and crunchy granola. Perfect for a high-protein breakfast.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Strawberries",
+      "amount": "2 cups, sliced"
+    },
+    {
+      "name": "Granola",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beurre Monté",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine sliced strawberries and granola in a bowl.",
+    "In a separate bowl, whisk together milk and beurre monté until frothy.",
+    "Pour milk mixture over strawberry mixture and toss to coat.",
+    "Top with whipped cream and drizzle with honey.",
+    "Sprinkle with vanilla extract and a pinch of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-cereal",
+    "granola",
+    "high-protein",
+    "quick-fix",
+    "strawberries",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tangy-american-strawberries-cereal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-american-strawberries-cereal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:52:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "quick-fix",
+    "technique": "beurre-monte",
+    "primaryIngredient": "strawberries",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Strawberries",
+    "descriptor": "Tangy",
+    "dishForm": "Cereal"
+  }
+}

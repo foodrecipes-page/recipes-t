@@ -1,0 +1,110 @@
+{
+  "title": "Peruvian Cannellini Bean Empanadas",
+  "description": "Tangy, crumbly, indulgent empanadas filled with cannellini beans, inspired by Peruvian cuisine, suitable for a macrobiotic-friendly diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "macrobiotic-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cannellini beans, drained and rinsed",
+      "amount": "1 1/2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": " masa harina",
+      "amount": "2 1/4 cups",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanada dough"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "cooking time reduced to prevent burning"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": "freshly minced for optimal flavor"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 medium",
+      "notes": "fresh or canned, whichever is readily available"
+    },
+    {
+      "name": "cumin, ground",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste for optimal flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "reduce or omit if desired"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a large skillet over medium heat.",
+    "In a separate bowl, mash the cooked cannellini beans using a fork or a potato masher until mostly smooth.",
+    "Assemble the dough according to package instructions and roll it out to about 1/8 inch thickness.",
+    "Transfer the dough to a lightly floured surface and begin rolling out small portions of dough to form circles, roughly 3-4 inches in diameter.",
+    "Heat a few inches of oil in a deep frying pan to 350°F (175°C).",
+    "Fry the empanada dough circles, 2-3 at a time, for 2-3 minutes on each side or until golden brown.",
+    "Drain the fried empanada on paper towels and repeat with the remaining dough.",
+    "Meanwhile, prepare the filling by sautéing the onion, garlic, and tomato in the same skillet until soft.",
+    "Stir the cooked filling mixture into the mashed cannellini beans. Add cumin and paprika and season with salt to taste.",
+    "To assemble the empanadas, place a few spoonfuls of the bean filling onto one half of a fried empanada circle.",
+    "Brush the edges with a little water and fold the other half of the empanada in half.",
+    "Press the edges gently to seal and brush the top with a little more oil to give it a golden glaze.",
+    "Repeat with the remaining dough and filling.",
+    "Serve the empanadas warm, garnished with a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "beans",
+    "empanada",
+    "macrobiotic",
+    "peruvian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "glaze",
+    "primaryIngredient": "cannellini beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "tangy, crumbly, indulgent",
+    "dishForm": "Empanada"
+  }
+}
