@@ -2387,6 +2387,23 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-moroccan-sellou-sellou",
+    "title": "Tangy Moroccan Sellou Sellou",
+    "tags": [
+      "breakfast",
+      "lazy-sunday",
+      "low-fat",
+      "moroccan",
+      "sellou",
+      "tangy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "moroccan",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-norwegian-almond-broil",
     "title": "Tangy Norwegian Almond Broil",
     "tags": [

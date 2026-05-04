@@ -1,0 +1,221 @@
+{
+  "title": "Tangy Moroccan Sellou Sellou",
+  "description": "A tangy, bouncy, lazy-sunday moroccan dish that's low-fat-friendly and perfect for sellou form.",
+  "cuisine": "moroccan",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chopped parsley",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil for frying",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "crushed fennel seeds",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "crushed anise seeds",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh tarragon",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh oregano",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh chervil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley (for garnish)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh mint (for garnish)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the cumin and smoked paprika and cook for 1 minute.",
+    "Add the chickpeas and cook until heated through, about 2 minutes.",
+    "Stir in the lemon juice, water, and pomegranate molasses.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "In a small bowl, mix together the semolina flour and a pinch of salt.",
+    "Gradually add the flour mixture to the chickpea mixture and stir until smooth.",
+    "Add the chopped parsley, cilantro, and dill and stir to combine.",
+    "Transfer the mixture to a serving dish and flatten the top slightly.",
+    "Drizzle with olive oil and sprinkle with sesame seeds and chopped fresh herbs.",
+    "Serve warm or at room temperature, garnished with additional chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lazy-sunday",
+    "low-fat",
+    "moroccan",
+    "sellou",
+    "tangy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tangy-moroccan-sellou-sellou",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-moroccan-sellou-sellou",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "chopped parsley",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Sellou",
+    "descriptor": "Tangy",
+    "dishForm": "Sellou"
+  }
+}
