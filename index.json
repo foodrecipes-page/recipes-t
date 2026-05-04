@@ -3832,6 +3832,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-korean-cabbage-naengmyeon",
+    "title": "Tender Korean Cabbage Naengmyeon",
+    "tags": [
+      "cold-noodles",
+      "kosher-friendly",
+      "low-carb",
+      "no-pork",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-korean-fish-soup",
     "title": "Tender Korean Fish Soup",
     "tags": [

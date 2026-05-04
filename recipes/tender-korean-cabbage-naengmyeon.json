@@ -1,0 +1,103 @@
+{
+  "title": "Tender Korean Cabbage Naengmyeon",
+  "description": "A floral, silky cold noodle dish featuring tender cabbage and a savory gochujang dressing, perfect for a weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "Water",
+      "amount": "2000 ml"
+    },
+    {
+      "name": "Kosher soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Place chicken breast in a pot with 2000 ml of water and bring to a boil over medium-high heat.",
+    "Reduce heat to low, simmer uncovered for 15 minutes until chicken is fully cooked, then remove and shred.",
+    "Wash and thinly slice the napa cabbage into 1/4 inch strips while chicken cooks.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, sesame oil, gochujang, honey, garlic, ginger, salt, and pepper until smooth.",
+    "Once chicken is shredded, add the sliced cabbage and the dressing to the pot, stir gently, and simmer for 5 minutes to allow flavors to meld.",
+    "Remove the pot from heat, let the mixture cool in the refrigerator for 30 minutes, then serve over chilled wheat or buckwheat noodles, optionally topping with sliced Korean pear and toasted sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cold-noodles",
+    "kosher-friendly",
+    "low-carb",
+    "no-pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "tender-korean-cabbage-naengmyeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-korean-cabbage-naengmyeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:20:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "cabbage",
+    "diet": "kosher",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Tender",
+    "dishForm": "Naengmyeon"
+  }
+}
