@@ -2998,6 +2998,22 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-toasted-canadian-shrimp-skewers",
+    "title": "Tasty Toasted Canadian Shrimp Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "crunchy",
+      "gluten-free",
+      "low-glycemic",
+      "nutty",
+      "seafood",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-moroccan-bread-tagine",
     "title": "Tasty Toasted Moroccan Bread Tagine",
     "tags": [
