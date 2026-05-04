@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Ethiopian Grape Nut Kik Alicha",
+  "description": "Fresh, flaky hangover‑cure Ethiopian dish featuring grape nut cereal and char‑grilled vegetables, jain‑friendly and packed with tang.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "grape nuts cereal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "organic thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "char‑grilled diced bell peppers",
+      "amount": "1 cup",
+      "notes": "use char‑grill‑yang technique"
+    },
+    {
+      "name": "char‑grilled sliced red onions",
+      "amount": "1/2 cup",
+      "notes": "use char‑grill‑yang technique"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine grape nuts and 2 cups of water and bring to a boil over medium heat.",
+    "Reduce heat to low, cover, and simmer for 10 minutes until the mixture thickens.",
+    "While the mixture cooks, heat a grill pan and char the bell peppers and onions until slightly blackened.",
+    "Transfer the charred vegetables to a bowl, let them cool, then roughly chop them.",
+    "Stir the lemon juice, salt, thyme, cumin, and coconut oil into the simmering grape nut mixture.",
+    "Fold in the charred vegetables, chopped cilantro, and a pinch of black pepper, cooking for an additional 3 minutes until warmed through.",
+    "Serve the tangy kik alicha hot in bowls, garnished with extra cilantro if desired.",
+    "Enjoy as a revitalizing, hangover‑cure lunch that delivers fresh flavor and flaky texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-lunch",
+    "char-grilled",
+    "fresh-flaky",
+    "hangover-cure",
+    "high-protein",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 15
+  },
+  "slug": "tangy-ethiopian-grape-nut-kik-alicha",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-ethiopian-grape-nut-kik-alicha",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:30:04Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Grape Nut",
+    "descriptor": "Tangy",
+    "dishForm": "Kik Alicha"
+  }
+}
