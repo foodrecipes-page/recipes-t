@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Gooey Spanish Grana Padano Pisto Manchego",
+  "description": "A fermented and gooey solo dinner dish from the Basque region of Spain, featuring Grana Padano cheese and a mortar pestle pounded sauce, onion and garlic free, in the style of Pisto Manchego.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "crumbly, aged"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a mortar, pound the smoked paprika, salt, and black pepper into a fine powder.",
+    "Add the diced red bell pepper, zucchini, and tomato to the mortar and pound until coarsely chopped.",
+    "In a large bowl, combine the pounded vegetable mixture, crumbled Grana Padano cheese, and extra virgin olive oil, mixing until well combined.",
+    "Transfer the mixture to a small baking dish and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving.",
+    "Serve the Pisto Manchego hot, garnished with additional smoked paprika if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "mediterranean",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tangy-gooey-spanish-grana-padano-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-spanish-grana-padano-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:42:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "grana-padano",
+    "diet": "no-onion-no-garlic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "grana padano",
+    "descriptor": "tangy gooey",
+    "dishForm": "Pisto Manchego"
+  }
+}

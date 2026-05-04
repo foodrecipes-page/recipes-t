@@ -1618,6 +1618,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-spanish-grana-padano-pisto-manchego",
+    "title": "Tangy Gooey Spanish Grana Padano Pisto Manchego",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "mediterranean",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-vietnamese-crust",
     "title": "Tangy Gooey Vietnamese Crust",
     "tags": [
