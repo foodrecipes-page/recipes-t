@@ -5203,6 +5203,23 @@
     "shard": "t"
   },
   {
+    "slug": "tough-uruguayan-bread-sandwich",
+    "title": "Tough Uruguayan Bread Sandwich",
+    "tags": [
+      "charred",
+      "easy",
+      "lunch",
+      "quick-fix",
+      "raw-friendly",
+      "sandwich",
+      "tough-bread",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
     "slug": "tranquil-smoky-french-chicken-blanquette",
     "title": "Tranquil Smoky French Chicken Blanquette",
     "tags": [

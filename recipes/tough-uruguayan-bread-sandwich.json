@@ -1,0 +1,91 @@
+{
+  "title": "Tough Uruguayan Bread Sandwich",
+  "description": "A charred, chewy quick-fix sandwich featuring sun-dried tomatoes, wok-hee sauce, and raw greens, inspired by Uruguayan street food.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan rustic bread",
+      "amount": "2 thick slices",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "4 sliced"
+    },
+    {
+      "name": "Wok-hee sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mixed raw greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 small, sliced"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1/4 cup, crumbled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a cast-iron skillet over medium heat.",
+    "Brush both sides of the bread slices with olive oil.",
+    "Place the bread in the skillet and sear until charred spots appear, about 2 minutes per side.",
+    "Spread wok-hee sauce on the inside of each toasted bread slice.",
+    "Layer sun-dried tomato slices, raw greens, cucumber strips, and mozzarella on one slice.",
+    "Top with the second slice of bread, pressed lightly.",
+    "Continue cooking for 1 minute to warm the fillings and melt the cheese.",
+    "Remove from heat, slice in half, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "easy",
+    "lunch",
+    "quick-fix",
+    "raw-friendly",
+    "sandwich",
+    "tough-bread",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 31,
+    "carbs": 114,
+    "fat": 27
+  },
+  "slug": "tough-uruguayan-bread-sandwich",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tough-uruguayan-bread-sandwich",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:07:07Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "wok-hei",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "Tough",
+    "dishForm": "Sandwich"
+  }
+}
