@@ -1,0 +1,97 @@
+{
+  "title": "Tender Slovakian Brown Rice Noodle Noodles",
+  "description": "A velvety herb-infused brown rice noodle dish cooked on a tava griddle, perfect for kids and satvik-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown rice noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Water",
+      "amount": "500ml"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "½ teaspoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the tava griddle over medium heat and lightly oil the surface.",
+    "Rinse the brown rice noodles under cold water until no dust remains.",
+    "In a medium pot, bring 500ml water to a boil, add the noodles, and simmer for 8 minutes until al dente.",
+    "Drain the noodles and set aside.",
+    "In the same pot, pour 200ml vegetable broth, bring to a gentle simmer, and scrape the bottom to deglaze.",
+    "Stir in the olive oil, parsley, dill, thyme, lemon zest, and salt until fragrant.",
+    "Transfer the broth mixture to the heated tava griddle, pouring evenly across the surface.",
+    "Add the drained noodles to the griddle, tossing gently to coat them in the herb sauce.",
+    "Cook for 4 to 5 minutes, stirring occasionally, until the noodles are tender and the sauce thickens, then serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brown-rice-noodles",
+    "deglaze",
+    "herb-infused",
+    "kid-friendly",
+    "one-pan",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 12,
+    "carbs": 140,
+    "fat": 14
+  },
+  "slug": "tender-slovakian-brown-rice-noodle-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-slovakian-brown-rice-noodle-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:22:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "brown rice noodle",
+    "descriptor": "Tender",
+    "dishForm": "Noodles"
+  }
+}
