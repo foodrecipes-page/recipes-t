@@ -1,0 +1,120 @@
+{
+  "title": "Tangy Crunchy Polish Garlic Gyoza",
+  "description": "Romantic Polish dish featuring garlic, crunchy texture and tangy flavors. Perfect for a weeknight dinner.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wonton wrappers",
+      "amount": "12-16",
+      "notes": "available at most Asian markets or online"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat or nonfat yogurt recommended"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wrap wonton wrappers around a small amount of garlic and a sprinkle of sesame seeds.",
+    "Place a small amount of yogurt in the center of each wrapper and fold into a triangle.",
+    "Repeat the process with the remaining ingredients, making sure to space them evenly apart on a baking sheet.",
+    "Dip the baking sheet into a bowl of cold water and then place it in the refrigerator to chill for 30 minutes.",
+    "Preheat a large skillet over medium heat and add the olive oil.",
+    "When the oil is hot, add the gyoza and cook for 2-3 minutes on each side, or until crispy and golden brown.",
+    "Serve the gyoza hot with a dollop of sour cream and a sprinkle of chopped dill and scallions.",
+    "Garnish with lemon juice and a pinch of salt and black pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "easy",
+    "garlic",
+    "polish",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "tangy-crunchy-polish-garlic-gyoza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-polish-garlic-gyoza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "garlic clove",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "polish",
+    "mainIngredient": "garlic",
+    "descriptor": "tangy crunchy",
+    "dishForm": "gyoza"
+  }
+}

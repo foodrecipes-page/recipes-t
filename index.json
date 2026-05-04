@@ -974,6 +974,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crunchy-polish-garlic-gyoza",
+    "title": "Tangy Crunchy Polish Garlic Gyoza",
+    "tags": [
+      "crunchy",
+      "easy",
+      "garlic",
+      "polish",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "polish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crunchy-quick-fix-sweet-potato-stir-fry",
     "title": "Tangy Crunchy Quick-Fix Sweet Potato Stir-fry",
     "tags": [
@@ -3179,6 +3194,30 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
+    "slug": "tart-cherried-venezuelan-cherries-tagine",
+    "title": "Tart Cherried Venezuelan Cherries Tagine",
+    "tags": [
+      "comfort-food",
+      "fusion",
+      "gluten-free",
+      "high-protein",
+      "nut-free",
+      "one-pan",
+      "soy-free",
+      "spicy",
+      "sweet-and-savory",
+      "tame-your-curry",
+      "tart-and-tangy",
+      "vegan",
+      "veggie-friendly",
+      "warm-and-cozy",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
