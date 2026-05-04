@@ -1,0 +1,114 @@
+{
+  "title": "Tangy Silky Filipino Jackfruit Wrap",
+  "description": "A plant‑based wrap featuring caramelized jackfruit, tangy sauce, and crispy hard taco shells wrapped in ti leaf.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "young green jackfruit (canned, drained)",
+      "amount": "300g"
+    },
+    {
+      "name": "lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "15ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "10ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "5g"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "15g"
+    },
+    {
+      "name": "vegan shredded cheese",
+      "amount": "50g"
+    },
+    {
+      "name": "hard taco shells",
+      "amount": "8"
+    },
+    {
+      "name": "ti leaf wraps",
+      "amount": "8"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "15ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 200°C.",
+    "Toss the jackfruit with lime juice, soy sauce, maple syrup, rice vinegar, minced garlic, grated ginger, chili flakes, and black pepper.",
+    "Spread the seasoned jackfruit on the grill and sear for 5 to 7 minutes until caramelized.",
+    "Warm the hard taco shells in the oven for 5 minutes.",
+    "Place a ti leaf wrap over each warmed shell.",
+    "Layer the seared jackfruit onto the wrap.",
+    "Sprinkle shredded vegan cheese and chopped cilantro on top.",
+    "Roll the ti leaf wrap tightly around the shell and serve with lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "low-fat",
+    "plant-based",
+    "quick",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 9,
+    "carbs": 130,
+    "fat": 12
+  },
+  "slug": "tangy-silky-filipino-jackfruit-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-filipino-jackfruit-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:24:33Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "hard taco shells",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Jackfruit",
+    "descriptor": "Tangy Silky",
+    "dishForm": "Wrap"
+  }
+}
