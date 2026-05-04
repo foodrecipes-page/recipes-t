@@ -1,0 +1,111 @@
+{
+  "title": "Tingling Korean Chicken Tagine",
+  "description": "Mustardy, shattering Korean chicken tagine served in a tagine pot with crisp plum sauce and en‑croute coating, finished like a patbingsu dessert for meal prep.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "1.5 lb",
+      "notes": "cut into bite-size pieces"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp",
+      "notes": "mixed with gochujang if desired"
+    },
+    {
+      "name": "plum sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gluten‑free flour",
+      "amount": "1 tbsp",
+      "notes": "for en‑croute coating"
+    },
+    {
+      "name": "crushed pistachios",
+      "amount": "2 tbsp",
+      "notes": "for en‑croute crust"
+    },
+    {
+      "name": "shredded sweet potato",
+      "amount": "1 cup",
+      "notes": "used for crisp topping"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a tagine pot over medium heat until shimmering.",
+    "Toss the chicken pieces in a bowl and season with salt, pepper, and whole grain mustard until coated.",
+    "In a separate bowl, mix plum sauce, apple cider vinegar, and gluten‑free flour until smooth.",
+    "Dip each chicken piece in the sauce mixture, then roll in crushed pistachios to create an en‑croute crust.",
+    "Add the coated chicken to the tagine pot and sprinkle with shredded sweet potato, ensuring a layer of the potato on top.",
+    "Cover the pot with its lid and reduce heat to low, allowing the sauce to thicken and the flavors to meld for 25 minutes.",
+    "During the last 5 minutes, stir in chopped cilantro and toast sesame seeds over the heated mixture.",
+    "Remove the pot from heat and let it rest for 5 minutes so the crust remains crisp.",
+    "Shave a generous amount of ice into a bowl and spoon the chilled chicken and sauce over the ice.",
+    "Garnish with additional pistachios and a drizzle of plum sauce before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "kosher-friendly",
+    "meal-prep",
+    "shaved-ice",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1460,
+    "protein": 125,
+    "carbs": 74,
+    "fat": 92
+  },
+  "slug": "tingling-korean-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tingling-korean-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:50:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "en-croute",
+    "primaryIngredient": "plum sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tingling",
+    "dishForm": "Tagine"
+  }
+}
