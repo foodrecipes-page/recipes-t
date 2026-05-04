@@ -1,0 +1,94 @@
+{
+  "title": "Tender Ukrainian Pork Stew",
+  "description": "A hearty and flavorful one-pot dish featuring tender pork, jammy white chocolate chips, and crusty double-rise bread, perfect for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat and brown the pork cubes in batches until browned on all sides.",
+    "Remove the browned pork from the pot and set aside, then add the chopped onion and cook until softened.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes, stirring occasionally.",
+    "Add the chicken broth, browned pork, and dried thyme to the pot, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Stir in the white chocolate chips until melted and smooth.",
+    "Add the cubed double-rise bread to the pot and simmer for an additional 10 minutes, or until the bread is heated through.",
+    "Season the stew with salt and pepper to taste, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 140,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "pork-recipe",
+    "winter-dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tender-ukrainian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ukrainian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:05:36Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "tender juicy",
+    "dishForm": "Stew"
+  }
+}
