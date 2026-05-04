@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Uruguayan Fish Terrine",
+  "description": "A light, tangy fish terrine perfect for weeknight dinners, seasoned with fajita spices and set in a bain‑maríe to keep it silky and low‑calorie.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "450 g"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low‑fat Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low‑fat milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine the cod fillets, fajita seasoning, low‑fat Greek yogurt, lime juice, chopped cilantro, sliced onion, dried oregano, salt, and pepper until well coated.",
+    "Whisk in the low‑fat milk until the mixture is smooth and the fish is evenly distributed.",
+    "Spoon the fish custard into individual mini cocottes, filling each about two‑thirds full.",
+    "Arrange the mini cocottes in a shallow baking dish and pour hot water into the dish until it reaches halfway up the sides of the cocottes.",
+    "Cover the baking dish with foil and bake in a preheated oven at 350°F until the fish terrine reaches 145°F, about 25 minutes.",
+    "Remove the dish from the oven, let the terrines cool for 5 minutes, then serve straight from the cocottes with a sprinkle of fresh parsley and a wedge of lime."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bain-marie",
+    "fish",
+    "low-calorie",
+    "one-pan",
+    "tangy",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 101,
+    "protein": 26,
+    "carbs": 4,
+    "fat": 3
+  },
+  "slug": "tangy-uruguayan-fish-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-uruguayan-fish-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:55:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "bain-marie",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Fish",
+    "descriptor": "Tangy",
+    "dishForm": "Terrine"
+  }
+}
