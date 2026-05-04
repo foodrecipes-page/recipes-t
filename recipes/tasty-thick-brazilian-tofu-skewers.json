@@ -1,0 +1,97 @@
+{
+  "title": "Tasty Thick Brazilian Tofu Skewers",
+  "description": "A quick and easy Brazilian dish featuring marinated tofu skewers in a rich and savory sauce, perfect for a weeknight dinner. This ovo-vegetarian friendly recipe is made with miso marinate and has a fatty and glassy-jelly texture.",
+  "cuisine": "brazilian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together miso paste, soy sauce, olive oil, garlic, and ginger to make the marinade.",
+    "Add the tofu cubes to the marinade and toss to coat.",
+    "Thread the marinated tofu cubes onto skewers.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "In a small saucepan, combine coconut milk, salt, and black pepper.",
+    "Bring the sauce to a simmer over medium heat and cook for 5 minutes.",
+    "Serve the grilled tofu skewers with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "grilled-skewers",
+    "ovo-vegetarian",
+    "quick-fix",
+    "savory-sauce",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tasty-thick-brazilian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thick-brazilian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:53:30Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "tofu",
+    "descriptor": "tasty thick",
+    "dishForm": "Skewers"
+  }
+}
