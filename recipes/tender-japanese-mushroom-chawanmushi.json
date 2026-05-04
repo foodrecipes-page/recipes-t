@@ -1,0 +1,105 @@
+{
+  "title": "Tender Japanese Mushroom Chawanmushi",
+  "description": "A silky steamed egg custard enriched with earthy mushrooms and a crumbly toasted topping, comforting and satvik-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dashi stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "250 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sake",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 small",
+      "notes": "julienned"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "30 g"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "2 slices",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Combine dashi stock, sliced mushrooms, soy sauce, mirin, and sake in a saucepan and bring to a gentle simmer.",
+    "Add the carrot julienne and simmer for 3 minutes until softened.",
+    "Remove the saucepan from heat and strain the liquid through a fine sieve into a heat‑proof bowl, discarding solids.",
+    "Whisk the eggs in a small bowl until smooth, then stir into the strained broth until fully incorporated.",
+    "Pour the custard mixture into a heat‑proof container, cover with foil, and steam over simmering water for 15 minutes.",
+    "While steaming, toast the bread slices until golden and crumble them into small pieces.",
+    "After steaming, remove the custard from the steamer and gently fold in the toasted bread crumbs and sesame seeds.",
+    "Serve the chawanmushi hot, garnishing with a few extra toasted crumbs if desired.",
+    "Store any leftovers in the refrigerator and reheat gently before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "japanese",
+    "mushroom",
+    "satvik",
+    "steamed",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 9
+  },
+  "slug": "tender-japanese-mushroom-chawanmushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-japanese-mushroom-chawanmushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:08:27Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "toast",
+    "primaryIngredient": "mushrooms",
+    "diet": "satvik",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Tender",
+    "dishForm": "Chawanmushi"
+  }
+}
