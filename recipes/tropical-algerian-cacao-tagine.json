@@ -1,0 +1,123 @@
+{
+  "title": "Tropical Algerian Cacao Tagine",
+  "description": "A creamy and kid-friendly Algerian tagine that blends coconut milk, cacao, and apricots into a sweet spicy dish, finished with a safe flambé flair.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "adds sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "fresh aroma"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, sliced",
+      "notes": "softens quickly"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup, sliced",
+      "notes": "red for color"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "protein base"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "creamy texture, season with 1/2 tsp salt, 1/2 tsp black pepper, and 1 tbsp lemon juice"
+    },
+    {
+      "name": "cacao powder",
+      "amount": "2 tablespoons",
+      "notes": "unsweetened for depth"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "natural sweetener"
+    },
+    {
+      "name": "apricots",
+      "amount": "1 cup, sliced",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "warm spice"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "earthy flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a tagine or deep saucepan over medium heat.",
+    "Add diced onion and minced garlic, sauté until translucent, about 3 minutes.",
+    "Stir in sliced zucchini and bell pepper, cook 4 minutes until slightly tender.",
+    "Add cooked chickpeas and pour in coconut milk, stir to combine.",
+    "Whisk in cacao powder and honey, then fold in sliced apricots.",
+    "Sprinkle ground cinnamon and cumin, stir well.",
+    "Reduce heat to low, cover, and simmer for 20 minutes, stirring occasionally.",
+    "Remove the lid, swirl the mixture, then lightly pour a splash of rum and ignite carefully to flambe.",
+    "Let the flames subside, then simmer uncovered for an additional 5 minutes to deepen flavors.",
+    "Stir in a splash of lemon juice just before serving for brightness.",
+    "Transfer to an agave leaf vessel to serve, garnish with fresh mint if desired.",
+    "Allow to sit for 2 minutes before scooping into bowls."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flambe",
+    "kid-friendly",
+    "quick",
+    "tagine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "tropical-algerian-cacao-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-algerian-cacao-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:24:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "flambe",
+    "primaryIngredient": "cacao",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "cacao",
+    "descriptor": "Tropical",
+    "dishForm": "Tagine"
+  }
+}

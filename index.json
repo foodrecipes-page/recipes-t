@@ -2742,6 +2742,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-australian-narutomaki-bowl",
+    "title": "Tasty Australian Narutomaki Bowl",
+    "tags": [
+      "buddhist-temple-friendly",
+      "gluten-free",
+      "high-protein",
+      "quick",
+      "rice-bowl"
+    ],
+    "cuisine": "Japanese-Australian Fusion",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tempered-canadian-stilton-cheese-salad",
     "title": "Tempered Canadian Stilton Cheese Salad",
     "tags": [
@@ -3887,6 +3901,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tropical-algerian-cacao-tagine",
+    "title": "Tropical Algerian Cacao Tagine",
+    "tags": [
+      "dessert",
+      "flambe",
+      "kid-friendly",
+      "quick",
+      "tagine",
+      "vegan"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {

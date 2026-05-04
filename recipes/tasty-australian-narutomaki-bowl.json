@@ -1,0 +1,98 @@
+{
+  "title": "Tasty Australian Narutomaki Bowl",
+  "description": "A vibrant, quick bowl that blends Japanese narutomaki with Australian-inspired pickles and fresh veggies for a comforting, temple-friendly meal.",
+  "cuisine": "Japanese-Australian Fusion",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "200g",
+      "notes": "cooked"
+    },
+    {
+      "name": "narutomaki",
+      "amount": "2 slices"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 diced"
+    },
+    {
+      "name": "nori seaweed",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice in a rice cooker until fluffy.",
+    "Slice the narutomaki into 1.5cm rounds and heat in a non-stick pan for 1 minute.",
+    "Scatter diced avocado, cucumber, and carrot over the rice.",
+    "Arrange the warm narutomaki slices on top of the vegetables.",
+    "Sprinkle nuka-pickle and shredded nori seaweed over the bowl.",
+    "Drizzle tamari sauce and sesame oil across the ingredients.",
+    "Add a final sprinkle of sesame seeds for crunch.",
+    "Serve immediately while the narutomaki is still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-temple-friendly",
+    "gluten-free",
+    "high-protein",
+    "quick",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 713,
+    "protein": 26,
+    "carbs": 78,
+    "fat": 26
+  },
+  "slug": "tasty-australian-narutomaki-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-australian-narutomaki-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:25:34Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "narutomaki",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "narutomaki",
+    "descriptor": "Tasty",
+    "dishForm": "Bowl"
+  }
+}
