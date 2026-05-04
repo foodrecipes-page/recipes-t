@@ -1,0 +1,102 @@
+{
+  "title": "Tender Italian Yukon Gold Potatoes Gratin",
+  "description": "A rich and satisfying Italian dish featuring Yukon gold potatoes in a gooey, resinous gratin, perfect for a festive meal. This satvik-friendly recipe is a braise of potatoes, herbs, and cheese.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the potatoes for 5 minutes, or until they are slightly tender.",
+    "Drain the potatoes and set them aside.",
+    "In a large skillet, heat the olive oil over medium heat, then add the chopped onion and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Stir in the chopped rosemary, salt, and black pepper.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then top with a layer of the onion mixture, and sprinkle with some of the shredded cheese.",
+    "Repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20 minutes, or until the top is golden brown and the potatoes are tender."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive-meals",
+    "gratin-recipes",
+    "italian-food",
+    "potato-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "tender-italian-yukon-gold-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-italian-yukon-gold-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:36:44Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Yukon gold potatoes",
+    "descriptor": "Tender braised",
+    "dishForm": "Gratin"
+  }
+}
