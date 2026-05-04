@@ -1,0 +1,103 @@
+{
+  "title": "Tender Peruvian Cheese Stew",
+  "description": "A sweet, chewy Peruvian stew that showcases Wensleydale cheese and bonito shavings in a rich achiote and tomato sauce.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "Bonito shavings",
+      "amount": "30g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "finely minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "200ml"
+    },
+    {
+      "name": "Chicken stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "Achiote paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat until shimmering.",
+    "Add diced onion and minced garlic, sauté until fragrant and translucent.",
+    "Stir in tomato puree and achiote paste, cooking for 2 minutes to blend flavors.",
+    "Pour in chicken stock and bring the mixture to a gentle boil.",
+    "Reduce heat to low, add diced Wensleydale cheese, stirring until the cheese melts into a smooth sauce.",
+    "Sprinkle the bonito shavings over the top, allowing them to warm through without cooking further.",
+    "Season the stew with salt to taste, then cover and let it simmer for 20 minutes to develop depth.",
+    "Remove the lid and stir in chopped cilantro just before serving.",
+    "Taste and adjust seasoning if necessary, adding more salt or achiote if desired.",
+    "Ladle the stew into bowls, garnish with a sprinkle of fresh cilantro, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-stew",
+    "nut-free-friendly",
+    "one-pot",
+    "peruvian",
+    "quick",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 1360,
+    "protein": 57,
+    "carbs": 100,
+    "fat": 46
+  },
+  "slug": "tender-peruvian-cheese-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-peruvian-cheese-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:10:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "bonito-shave",
+    "primaryIngredient": "wensleydale",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Tender",
+    "dishForm": "Stew"
+  }
+}
