@@ -1,0 +1,109 @@
+{
+  "title": "Tender Ethiopian Collard Greens Gomen",
+  "description": "A roasted, pillowy collard greens dish with cider and fry-grind-rice-khao-khua, perfect for midnight cravings.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "collard greens",
+      "amount": "4 cups chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent.",
+    "Stir in minced garlic, ground ginger, cumin, smoked paprika and berbere, cooking for 1 minute until fragrant.",
+    "Add chopped collard greens and cook, stirring, until they begin to wilt.",
+    "Pour in apple cider vinegar and dried apricots, cooking until the liquid evaporates.",
+    "Transfer the mixture to a baking dish and spread evenly.",
+    "Sprinkle the fry-grind-rice-khao-khua over the top.",
+    "Roast in the preheated oven for 20 minutes, or until the greens are tender and the rice crumble is golden.",
+    "Remove from oven, let rest 5 minutes.",
+    "Sprinkle with fine salt and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eternal",
+    "flexitarian",
+    "low-carb",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 780,
+    "protein": 12,
+    "carbs": 118,
+    "fat": 28
+  },
+  "slug": "tender-ethiopian-collard-greens-gomen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ethiopian-collard-greens-gomen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:41:02Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cider",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "collard greens",
+    "descriptor": "Tender",
+    "dishForm": "Gomen"
+  }
+}
