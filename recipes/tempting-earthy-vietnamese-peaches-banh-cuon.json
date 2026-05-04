@@ -1,0 +1,104 @@
+{
+  "title": "Tempting Earthy Vietnamese Peaches Banh Cuon",
+  "description": "A Whole30-friendly Vietnamese dish featuring peaches and a mother sauce base, served in a donabe vessel with a cheese-pull effect, providing an energizing and earthy flavor experience.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 sliced",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the donabe vessel by heating it over medium heat.",
+    "In a large bowl, whisk together rice flour and coconut milk to make the banh cuon batter.",
+    "Add sliced peaches to the batter and mix well.",
+    "Pour the batter into the donabe vessel and cook for 2-3 minutes or until the bottom is lightly browned.",
+    "Add grilled pork, mushrooms, and mother sauce on one half of the banh cuon.",
+    "Fold the other half of the banh cuon over the filling to create a half-moon shape.",
+    "Cook for an additional 2-3 minutes or until the other side is lightly browned.",
+    "Brush the banh cuon with sesame oil and season with salt and pepper.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-recipes",
+    "gluten-free",
+    "grilled-pork",
+    "peach-recipes",
+    "vietnamese-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "tempting-earthy-vietnamese-peaches-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-earthy-vietnamese-peaches-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:26:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "peaches",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "peaches",
+    "descriptor": "Tempting Earthy",
+    "dishForm": "Banh Cuon"
+  }
+}
