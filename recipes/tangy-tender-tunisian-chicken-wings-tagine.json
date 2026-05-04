@@ -1,0 +1,111 @@
+{
+  "title": "Tangy Tender Tunisian Chicken Wings Tagine",
+  "description": "A tangy and savory Tunisian dish featuring chicken wings in a rich and cheesy tagine sauce, perfect for a midnight craving. This macrobiotic-friendly recipe uses nimono-simmer method for tender and flavorful wings.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken wings",
+      "amount": "2 pounds",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the chicken wings to the bowl and toss to coat evenly with the marinade.",
+    "Line a baking sheet with aluminum foil and arrange the chicken wings in a single layer.",
+    "Bake the chicken wings in the preheated oven for 30 minutes.",
+    "While the chicken is baking, prepare the tagine sauce by mixing together the feta cheese and 1/4 cup of water in a blender or food processor.",
+    "After the chicken has baked for 30 minutes, brush the tagine sauce evenly over the chicken wings.",
+    "Return the chicken to the oven and bake for an additional 20 minutes, or until the sauce is caramelized and the chicken is cooked through.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving.",
+    "Serve the chicken wings hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "chicken-wings",
+    "macrobiotic-friendly",
+    "midnight-cravings",
+    "tagine-recipe",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tangy-tender-tunisian-chicken-wings-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-tender-tunisian-chicken-wings-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:14:13Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "chicken wings",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken wings",
+    "descriptor": "Tangy Tender",
+    "dishForm": "Tagine"
+  }
+}
