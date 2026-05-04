@@ -1,0 +1,89 @@
+{
+  "title": "Tender Chaozhou Tofu Bake",
+  "description": "A salty, light, romantic Chaozhou-inspired tofu bake that infuses biryani masala flavor with a simple oven bake, perfect for a vegetarian dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "biryani masala",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2, minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180 degrees celsius.",
+    "Press tofu to remove excess moisture and cut into cubes.",
+    "In a bowl mix tofu cubes with soy sauce, biryani masala, sesame oil, minced garlic, pepper.",
+    "Spread tofu evenly on a baking sheet lined with parchment.",
+    "Bake tofu for 20 minutes, turning halfway.",
+    "While tofu bakes, reheat cooked rice and stir in a pinch of biryani masala.",
+    "When tofu is golden, remove from oven and toss with cooked rice and green onions.",
+    "Serve hot, garnished with extra green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "baked",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 27,
+    "carbs": 99,
+    "fat": 24
+  },
+  "slug": "tender-chaozhou-tofu-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-chaozhou-tofu-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:31:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "biryani masala",
+    "diet": "vegetarian",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chaozhou",
+    "mainIngredient": "tofu",
+    "descriptor": "Tender",
+    "dishForm": "Bake"
+  }
+}
