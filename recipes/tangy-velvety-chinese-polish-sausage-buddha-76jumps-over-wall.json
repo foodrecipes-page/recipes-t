@@ -1,0 +1,78 @@
+{
+  "title": "Tangy Velvety Chinese Polish Sausage Buddha Jumps Over Wall",
+  "description": "Tangy, velvety, energizing Chinese dish featuring Polish sausage, shio-cure, flexitarian-friendly, inspired by the mythical martial art move and ancient Chinese legend of the Monkey King.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cured pork belly",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Buddha's hand citron",
+      "amount": "1",
+      "notes": "available at Asian markets or online"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add Polish sausage and cook, breaking up with a spoon, until browned, about 3 minutes.",
+    "Add shio-cured pork belly and cook, stirring occasionally, until crispy, about 5 minutes.",
+    "Add sliced mushrooms and stir-fry until they release their liquid and start to brown, about 3 minutes.",
+    "Add diced bamboo shoots and stir-fry for 1 minute.",
+    "Add chopped scallions and stir-fry for 1 minute.",
+    "Add sliced Buddha's hand citron and stir-fry for 1 minute.",
+    "Season with soy sauce and stir-fry for 1 minute.",
+    "Serve immediately, garnished with chopped scallions and sliced citron.",
+    "For a vegan version, replace Polish sausage with extra-firm tofu, drained and cut into small pieces, and omit the shio-cured pork belly and soy sauce.",
+    "For a gluten-free version, use gluten-free soy sauce and check the ingredients of the Buddha's hand citron for gluten content.",
+    "For a paleo version, replace Polish sausage with grass-fed beef, omit the shio-cured pork belly and soy sauce, and serve with cauliflower rice instead of steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "flexitarian",
+    "gluten-free-option",
+    "one-pan",
+    "paleo-option",
+    "polish-sausage",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 35
+  },
+  "slug": "tangy-velvety-chinese-polish-sausage-buddha-76jumps-over-wall",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-chinese-polish-sausage-buddha-76jumps-over-wall",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:13:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "shio-cure",
+    "primaryIngredient": "polish sausage",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Polish sausage",
+    "descriptor": "Tangy velvety",
+    "dishForm": "Buddha\u000676jumps\u0006Over\u0004Wall"
+  }
+}
