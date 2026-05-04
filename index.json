@@ -3181,6 +3181,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-hearty-american-quinoa-stew",
+    "title": "Tender American Quinoa Stew",
+    "tags": [
+      "comforting",
+      "easy-to-make",
+      "hearty",
+      "home-cooked",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-herbal-fenugreek-poaching",
     "title": "Tender Herbal Fenugreek Poaching",
     "tags": [

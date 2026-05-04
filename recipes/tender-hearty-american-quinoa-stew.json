@@ -1,0 +1,103 @@
+{
+  "title": "Tender American Quinoa Stew",
+  "description": "A hearty, comforting stew featuring quinoa, vegetables, and lean beef, perfect for a lazy Sunday.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lean beef",
+      "amount": "1 pound",
+      "notes": "sirloin or round"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 3 minutes.",
+    "Add the onion, carrots, celery, and garlic, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the quinoa, beef broth, tomato paste, and diced tomatoes, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Fluff the quinoa with a fork and season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy-to-make",
+    "hearty",
+    "home-cooked",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-hearty-american-quinoa-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-hearty-american-quinoa-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:26:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "boil",
+    "primaryIngredient": "quinoa",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "quinoa",
+    "descriptor": "Tender, Hearty",
+    "dishForm": "Stew"
+  }
+}
