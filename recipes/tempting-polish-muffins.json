@@ -1,0 +1,92 @@
+{
+  "title": "Tempting Polish Muffins",
+  "description": "A traditional Polish dish featuring muffins with a shio-koji cure and a sweet glassy jelly topping, perfect for adventurous eaters looking for a low-fat friendly treat.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "glassy jelly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and shio-koji.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the glassy jelly.",
+    "Divide the batter evenly among 12 muffin cups.",
+    "Bake for 20 minutes, or until the muffins are golden brown.",
+    "Allow the muffins to cool in the pan for 5 minutes before transferring to a wire rack.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "low-fat",
+    "muffin-recipe",
+    "polish-cuisine",
+    "shio-koji"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "tempting-polish-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-polish-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:04:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "muffins",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "muffins",
+    "descriptor": "Tempting",
+    "dishForm": "Muffins"
+  }
+}

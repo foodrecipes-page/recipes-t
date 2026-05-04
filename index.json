@@ -3054,6 +3054,20 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-polish-muffins",
+    "title": "Tempting Polish Muffins",
+    "tags": [
+      "glassy-jelly",
+      "low-fat",
+      "muffin-recipe",
+      "polish-cuisine",
+      "shio-koji"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-smoky-russian-mushroom-tagine",
     "title": "Tempting Smoky Russian Mushroom Tagine",
     "tags": [
