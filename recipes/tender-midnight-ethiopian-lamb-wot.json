@@ -1,0 +1,116 @@
+{
+  "title": "Tender Midnight Ethiopian Lamb Wot",
+  "description": "A flavorful and tender lamb stew originating from Ethiopian cuisine. Perfect for a cozy dinner, this dish requires patience but rewards with rich and complex flavors.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder, boneless and cut into 1-inch pieces",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "ginger, grated",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": " Ethiopian berbere spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lamb stock",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "niter kibbeh (Ethiopian clarified butter)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, heat the niter kibbeh over medium-high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Reduce the heat to medium and add the chopped onion to the pot. Cook until the onion is translucent, about 5 minutes.",
+    "Add the grated ginger and minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the berbere spice mix to the pot and cook for 1 minute, until fragrant.",
+    "Add the lamb stock, red wine, and water to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2-3 hours, or until the lamb is tender.",
+    "Stir in the chopped cilantro and season with salt to taste.",
+    "Serve the wot over injera or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "lamb",
+    "low-sodium",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-midnight-ethiopian-lamb-wot",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-midnight-ethiopian-lamb-wot",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:32:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "ferment",
+    "primaryIngredient": "lamb stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Midnight",
+    "dishForm": "Wot"
+  }
+}
