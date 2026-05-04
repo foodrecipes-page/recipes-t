@@ -1,0 +1,99 @@
+{
+  "title": "Tender Tantalizing Chiapan Chicken Stir-fry",
+  "description": "A rich, shaggy midnight-craving Mexican dish featuring cherries and yuzu-cure, served as fajitas in a copper mug.",
+  "cuisine": "mexican",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500 g"
+    },
+    {
+      "name": "fresh cherries",
+      "amount": "200 g"
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "150 g"
+    },
+    {
+      "name": "red onion",
+      "amount": "150 g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "cilantro",
+      "amount": "15 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken slices in yuzu zest, yuzu juice, salt, pepper, and minced garlic for 15 minutes.",
+    "Heat one tablespoon of oil in the copper mug over medium-high heat.",
+    "Add the marinated chicken to the mug and cook until browned and cooked through, about 5 minutes.",
+    "Remove the cooked chicken and set aside on a plate.",
+    "In the same mug, add sliced bell pepper and onion; stir-fry for 3 minutes until vegetables are slightly softened.",
+    "Add cherries and stir to combine; cook for 2 minutes to slightly soften them.",
+    "Return chicken to the mug, toss everything together, and simmer for 1 minute to meld flavors.",
+    "Garnish with chopped cilantro before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "fajitas",
+    "low-glycemic",
+    "mexican",
+    "midnight-craving",
+    "rich",
+    "shaggy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 36,
+    "fat": 4
+  },
+  "slug": "tender-tantalizing-chiapan-chicken-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tantalizing-chiapan-chicken-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:07:40Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "cherries",
+    "diet": "low-glycemic",
+    "region": "chiapan",
+    "cuisineAdjective": "Chiapan",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tender Tantalizing",
+    "dishForm": "Stir-fry"
+  }
+}
