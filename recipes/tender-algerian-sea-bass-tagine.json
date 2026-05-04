@@ -1,0 +1,111 @@
+{
+  "title": "Tender Algerian Sea Bass Tagine",
+  "description": "A cultured and romantic Algerian dish featuring sea bass fillets, this recipe is a plant-based friendly delight, served in individual mini cocottes. The combination of sauteed vegetables and spices creates a shattering flavor experience.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and grated ginger, cook for 1 minute.",
+    "Add the cumin and paprika, cook for 1 minute, stirring constantly.",
+    "Add the cherry tomatoes, cook for 2 minutes, stirring occasionally.",
+    "Season the sea bass fillets with salt and black pepper.",
+    "Add the sea bass fillets to the skillet, spoon some of the vegetable mixture over each fillet.",
+    "Transfer the skillet to the preheated oven and bake for 12 minutes.",
+    "Remove the skillet from the oven, squeeze the lemon juice over the sea bass fillets.",
+    "Serve the sea bass fillets in individual mini cocottes, spooning some of the vegetable mixture over each fillet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "north-african",
+    "one-pan",
+    "romantic",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tender-algerian-sea-bass-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-algerian-sea-bass-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:42:51Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "saute",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "sea bass",
+    "descriptor": "tender saute",
+    "dishForm": "Tagine"
+  }
+}
