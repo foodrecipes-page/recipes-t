@@ -1,0 +1,109 @@
+{
+  "title": "Tender Yeasty Indian Chickpeas Chana Masala",
+  "description": "A light and flavorful Indian dish featuring yeasty chickpeas in a rich and spicy tomato sauce, served with a side of gherkin relish and render fat, perfect for a solo dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "2 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "render fat",
+      "amount": "2 tablespoons",
+      "notes": "from beef or mutton"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the render fat in a large pan over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to brown.",
+    "Add the yeast and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, tomato puree, garam masala, cumin, coriander, and salt, and stir well to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, stirring occasionally.",
+    "Stir in the gherkin relish and cook for an additional 5 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the chana masala hot, garnished with additional gherkin relish if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indian-cuisine",
+    "one-pan",
+    "shojin-friendly",
+    "vegetarian",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-yeasty-indian-chickpeas-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-yeasty-indian-chickpeas-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:52:16Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "render-fat",
+    "primaryIngredient": "gherkin relish",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Tender Yeasty",
+    "dishForm": "Chana Masala"
+  }
+}
