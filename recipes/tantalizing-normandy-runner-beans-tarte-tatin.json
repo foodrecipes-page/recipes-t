@@ -1,0 +1,114 @@
+{
+  "title": "Tantalizing Normandy Runner Beans Tarte Tatin",
+  "description": "A savory, plant‑based tarte tatin featuring tender runner beans, caramelized apples, and delicate bean spheres, perfect for midnight cravings.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Runner beans",
+      "amount": "350g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Apple (Granny Smith)",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegan puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Sodium alginate solution",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Calcium lactate solution",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Trim the ends of the runner beans and blanch them in salted boiling water for 2 minutes, then shock in ice water.",
+    "In a skillet, melt vegan butter with olive oil, then sauté the sliced onion and minced garlic until translucent.",
+    "Add the blanched beans, maple syrup, sea salt, and thyme leaves to the skillet, cooking for 5 minutes until the mixture caramelizes slightly.",
+    "Meanwhile, preheat the oven to 200°C and lightly grease a 20cm cast‑iron skillet.",
+    "Arrange the thin apple slices over the bean mixture in a single layer, then spoon the caramelized bean mixture over the apples.",
+    "Place the thawed puff pastry sheet over the apples, tucking the edges around the filling inside the skillet.",
+    "Bake for 25 minutes until the pastry is golden brown and the apples are soft.",
+    "While the tarte tatin bakes, prepare the spherification by stirring 2 Tbsp sodium alginate into 1 L of cold water, then allowing it to sit for 10 minutes.",
+    "Strain the alginate solution and carefully drop the mixture into a 1 L calcium lactate bath to form orange‑colored bean spheres, letting them set for 3 minutes before removing and rinsing.",
+    "Once the tarte tatin is finished, let it cool for 5 minutes, then invert onto a serving plate and garnish with the bean spheres."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "light-dish",
+    "midnight-craving",
+    "normandy",
+    "plant-based",
+    "spherification",
+    "tar-tatin",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1030,
+    "protein": 28,
+    "carbs": 137,
+    "fat": 54
+  },
+  "slug": "tantalizing-normandy-runner-beans-tarte-tatin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-normandy-runner-beans-tarte-tatin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:54:46Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "runner beans",
+    "diet": "plant-based",
+    "region": "normandy",
+    "cuisineAdjective": "Normandy",
+    "mainIngredient": "Runner Beans",
+    "descriptor": "Tantalizing",
+    "dishForm": "Tarte Tatin"
+  }
+}
