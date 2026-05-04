@@ -3254,6 +3254,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-jamaican-chicken-curry",
+    "title": "Tasty Jamaican Chicken Curry",
+    "tags": [
+      "chicken-dishes",
+      "comfort-food",
+      "curry",
+      "fodmap-friendly",
+      "gluten-free",
+      "jamaican-cuisine"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thick-brazilian-tofu-skewers",
     "title": "Tasty Thick Brazilian Tofu Skewers",
     "tags": [

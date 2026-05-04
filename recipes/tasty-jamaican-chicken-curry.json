@@ -1,0 +1,97 @@
+{
+  "title": "Tasty Jamaican Chicken Curry",
+  "description": "A mustardy and creamy Jamaican dish featuring rice-syrup-jocheong, perfect for a sick day, and a fodmap-friendly option for those with dietary restrictions.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jocheong",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium heat.",
+    "Add the chicken breast and cook until browned on all sides and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the pan.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the rice syrup, jocheong, coconut milk, mustard, salt, and black pepper to the pan.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the chicken to the pan and cook for an additional 5 minutes, stirring occasionally.",
+    "Serve the chicken and sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "comfort-food",
+    "curry",
+    "fodmap-friendly",
+    "gluten-free",
+    "jamaican-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tasty-jamaican-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-jamaican-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:50:11Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "wok-hei",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "tasty creamy",
+    "dishForm": "Curry"
+  }
+}
