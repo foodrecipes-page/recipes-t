@@ -1,0 +1,100 @@
+{
+  "title": "Tender Kadhai Greek Nectarine Ceviche",
+  "description": "A briny, glassy-jelly Greek-inspired ceviche featuring tender sous-vide nectarines, citrus, and herbs served in a kadhai.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan",
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "400g",
+      "notes": "medium, peeled and sliced thin"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "60ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "30ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "2g",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1g",
+      "notes": "pinch, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide water bath to 60C and place the sliced nectarines in a vacuum sealed bag.",
+    "Seal the bag and immerse it in the water bath, cooking for 45 minutes.",
+    "While the nectarines cook, whisk together lemon juice, lime juice, olive oil, dill, mint, salt, pepper, and cayenne pepper in a bowl.",
+    "Remove the bag from the water bath, carefully transfer the nectarines to a kadhai, and pour the citrus-herb mixture over them.",
+    "Gently stir to coat all slices and let the mixture chill in the refrigerator for 10 minutes.",
+    "Serve the ceviche on chilled porcelain bowls, garnishing with extra dill and mint sprigs.",
+    "Optionally drizzle a small amount of extra virgin olive oil just before serving for shine.",
+    "Enjoy the briny, glassy-jelly texture of this Greek nectarine ceviche as a refreshing snack."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "greek",
+    "snack"
+  ],
+  "slug": "tender-kadhai-greek-nectarine-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-kadhai-greek-nectarine-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:06:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "nectarines",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "nectarines",
+    "descriptor": "Tender Kadhai",
+    "dishForm": "Ceviche"
+  }
+}

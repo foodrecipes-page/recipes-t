@@ -1,0 +1,109 @@
+{
+  "title": "Tasty Vietnamese Cherry Terrine",
+  "description": "A funky, gooey, festive dessert that combines fresh cherries with a silky lacquer glaze, all served in individual mini cocottes.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted fresh cherries",
+      "amount": "250 g"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "erythritol",
+      "amount": "15 g"
+    },
+    {
+      "name": "stevia powder",
+      "amount": "1 g"
+    },
+    {
+      "name": "dark chocolate 80% cacao",
+      "amount": "50 g"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "In a saucepan, combine coconut milk, erythritol, stevia, soy sauce, sesame oil, rice vinegar, garlic powder, ginger powder, and salt; heat until the sweeteners dissolve.",
+    "Remove from heat and stir in melted dark chocolate and vanilla extract until the mixture is smooth.",
+    "Place pitted cherries into each mini cocotte, filling about one‑third full.",
+    "Pour the glaze mixture over the cherries, ensuring even coverage.",
+    "Tap each cocotte gently to release any trapped air bubbles.",
+    "Cover each cocotte with a lid or a small foil dome to retain moisture.",
+    "Bake in the preheated oven for 20 minutes, or until the glaze thickens and the cherries soften.",
+    "Remove from oven and let the terrines cool for 5 minutes before serving.",
+    "Serve warm or chilled, optionally dusted with a light sprinkle of cocoa powder."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cherry",
+    "dessert",
+    "gooey",
+    "lacquer-glaze",
+    "mini-cocotte",
+    "sugar-free-friendly",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "tasty-vietnamese-cherry-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-vietnamese-cherry-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:05:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "cherries",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Cherry",
+    "descriptor": "Tasty",
+    "dishForm": "Terrine"
+  }
+}

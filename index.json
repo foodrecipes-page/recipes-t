@@ -2936,6 +2936,22 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-vietnamese-cherry-terrine",
+    "title": "Tasty Vietnamese Cherry Terrine",
+    "tags": [
+      "cherry",
+      "dessert",
+      "gooey",
+      "lacquer-glaze",
+      "mini-cocotte",
+      "sugar-free-friendly",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tempered-canadian-stilton-cheese-salad",
     "title": "Tempered Canadian Stilton Cheese Salad",
     "tags": [
@@ -3534,6 +3550,17 @@
       "weeknight"
     ],
     "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-kadhai-greek-nectarine-ceviche",
+    "title": "Tender Kadhai Greek Nectarine Ceviche",
+    "tags": [
+      "greek",
+      "snack"
+    ],
+    "cuisine": "Greek",
     "totalTimeMin": 40,
     "shard": "t"
   },
