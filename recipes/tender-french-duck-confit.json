@@ -1,0 +1,104 @@
+{
+  "title": "Tender French Duck Confit",
+  "description": "Sun-dried French duck leg, rich with sunflower oil and caramel flavors, perfect for a lazy Sunday.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs, 4-6",
+      "amount": "2.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sunflower oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, 4 cloves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme, 1 bunch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Red wine, 1 cup",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, mix together salt, black pepper, and cinnamon.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Heat the sunflower oil in a large Dutch oven over medium-high heat.",
+    "Sear the duck legs until browned on all sides, about 5 minutes per side.",
+    "Remove the duck from the pot and add the garlic, cooking until fragrant, about 1 minute.",
+    "Add the red wine to the pot, scraping up any browned bits from the bottom.",
+    "Return the duck to the pot, cover, and transfer to the preheated oven.",
+    "Braise the duck for 2 hours, or until it's tender and the meat is falling off the bone.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the fat from the pot and discard the solids.",
+    "Serve the duck legs with the remaining fat spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "buddhist-temple-friendly",
+    "comfort-food",
+    "french-cuisine",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 8,
+    "fat": 44
+  },
+  "slug": "tender-french-duck-confit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-french-duck-confit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:47:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "sunflower oil",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "Tender",
+    "dishForm": "Confit"
+  }
+}
