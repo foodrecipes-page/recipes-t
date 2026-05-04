@@ -5256,6 +5256,20 @@
     "shard": "t"
   },
   {
+    "slug": "tropical-peruvian-pepper-rocoto-relleno",
+    "title": "Tropical Peruvian Pepper Rocoto Relleno",
+    "tags": [
+      "festive",
+      "grill",
+      "peruvian",
+      "tropical",
+      "vegetarian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tropical-tuscan-egg-frittata",
     "title": "Tropical Tuscan Egg Frittata",
     "tags": [

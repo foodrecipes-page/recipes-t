@@ -1,0 +1,104 @@
+{
+  "title": "Tropical Peruvian Pepper Rocoto Relleno",
+  "description": "A festive, fatty, gooey Peruvian dish where spicy rocoto peppers are stuffed with a sweet pineapple and cheese filling and grilled to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rocoto peppers",
+      "amount": "4 whole",
+      "notes": "stems trimmed"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Black beans, drained and rinsed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced fresh pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Wash the rocoto peppers and slice off the tops, removing seeds and membranes.",
+    "In a bowl, combine quinoa, black beans, pineapple, mozzarella, cumin, paprika, salt, and pepper until well mixed.",
+    "Spoon the mixture evenly into each pepper cavity, packing gently but firmly.",
+    "Brush the outside of each stuffed pepper with olive oil and drizzle pineapple juice over the tops.",
+    "Place the peppers on the grill, lid closed, and cook for 8 minutes, turning once, until the peppers soften and the cheese melts.",
+    "Remove the peppers from the grill and allow them to rest for 2 minutes so the filling stays intact.",
+    "Garnish with a splash of pineapple juice and a sprinkle of fresh chopped cilantro if desired.",
+    "Serve the rocoto relleno hot, paired with a side of rice or a simple green salad.",
+    "Enjoy the sweet, spicy, and tropical flavors of this festive Peruvian dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "festive",
+    "grill",
+    "peruvian",
+    "tropical",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "tropical-peruvian-pepper-rocoto-relleno",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-peruvian-pepper-rocoto-relleno",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:45:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "festive",
+    "technique": "grill",
+    "primaryIngredient": "pineapple juice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "pepper",
+    "descriptor": "Tropical",
+    "dishForm": "Rocoto Relleno"
+  }
+}
