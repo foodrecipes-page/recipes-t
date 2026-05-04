@@ -1,0 +1,119 @@
+{
+  "title": "thick fermented thai cola stew",
+  "description": "a dense, gluten-free-friendly thailand-inspired stew served in a stone bowl with fermented cola and colatura added for depth of flavor, served in a steamed agave leaf",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "cola",
+      "amount": "1 cup",
+      "notes": "use a fermented cola, like thai fermented cola"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "1 stalk",
+      "notes": ""
+    },
+    {
+      "name": "colatura",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish balls",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the rice flour and cook for 2 minutes, stirring constantly.",
+    "add the vegetable broth, coconut milk, fish sauce, sugar, garlic, ginger, bay leaves, and lemongrass.",
+    "bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "add the cola, fish balls, and colatura, stir well.",
+    "cook for an additional 5 minutes, or until the stew has thickened slightly.",
+    "remove from heat and serve immediately in a steamed agave leaf with a sprinkle of fish sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "one-pan",
+    "stew",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "thick-fermented-thai-cola-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-fermented-thai-cola-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:50:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "solo-dinner",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "colatura",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "",
+    "descriptor": "Thick Fermented",
+    "dishForm": "Stew"
+  }
+}
