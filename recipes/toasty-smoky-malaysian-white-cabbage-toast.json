@@ -1,0 +1,104 @@
+{
+  "title": "Toasty Smoky Malaysian White Cabbage Toast",
+  "description": "A smoky and glassy-jelly Malaysian dish featuring white cabbage and toast, perfect for a crowd, and keto-friendly. It is typically served on a lazy-susan-spinner vessel.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "2 heads",
+      "notes": "shredded"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "toasted bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together shredded white cabbage, smoked paprika, coconut oil, garlic, ginger, salt, pepper, and chili flakes.",
+    "Spread the cabbage mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the cabbage is roasting, toast the bread cubes until crispy and golden brown.",
+    "In a small bowl, whisk together fish sauce and 1 tablespoon of water.",
+    "Once the cabbage is done, remove it from the oven and brush the fish sauce mixture on top.",
+    "To assemble the dish, place the toasted bread cubes on a lazy-susan-spinner vessel and top with the roasted cabbage mixture.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional smoked paprika and chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "malaysian-cuisine",
+    "smoky-flavors",
+    "snack-ideas",
+    "toasty-goodness"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "toasty-smoky-malaysian-white-cabbage-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-smoky-malaysian-white-cabbage-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:46:30Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "toast",
+    "primaryIngredient": "white cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "white cabbage",
+    "descriptor": "toasty smoky",
+    "dishForm": "Toast"
+  }
+}
