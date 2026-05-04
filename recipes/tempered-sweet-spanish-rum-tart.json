@@ -1,0 +1,93 @@
+{
+  "title": "Tempered Sweet Spanish Rum Tart",
+  "description": "A buttery chocolate tart infused with light rum, tempered for a silky finish. Perfect for a cozy brunch or sweet snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "ayurvedic-tamasic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "softened"
+    },
+    {
+      "name": "large egg",
+      "amount": "1"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "150g",
+      "notes": "70% cacao"
+    },
+    {
+      "name": "light rum",
+      "amount": "50ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1tsp"
+    },
+    {
+      "name": "pinch of salt",
+      "amount": "1/4tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C and line a fondue pot with parchment paper.",
+    "Whisk the flour, sugar, and salt in a bowl and beat in the softened butter until the mixture resembles crumbs.",
+    "Add the egg and mix until a dough forms, then press it into the fondue pot and bake for 15 minutes until lightly golden.",
+    "Whisk the heavy cream and rum in a small saucepan until it simmers, then remove from heat and stir in the chopped chocolate until smooth.",
+    "Pour the tempered chocolate mixture over the baked crust, smoothing it with a spatula.",
+    "Return the pot to the oven and bake for an additional 10 minutes, then let the tart cool before slicing.",
+    "Serve slices warm with a dusting of powdered sugar or a scoop of vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-dessert",
+    "easy-bake",
+    "spicy-rum",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tempered-sweet-spanish-rum-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tempered-sweet-spanish-rum-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:43:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "light rum",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Rum",
+    "descriptor": "Tempered Sweet",
+    "dishForm": "Tart"
+  }
+}
