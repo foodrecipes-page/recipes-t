@@ -1,0 +1,106 @@
+{
+  "title": "Tangy Vietnamese Walnut Mi Quang",
+  "description": "A tangy and snappy Vietnamese dish featuring walnuts and tadka, perfect for a low-calorie friendly brunch",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tadka spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside",
+    "Heat the vegetable oil in a large skillet over medium heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the minced garlic and grated ginger and cook for 1 minute",
+    "Stir in the tadka spice blend and cook for 30 seconds",
+    "Add the chopped walnuts and cook until fragrant",
+    "Add the cooked noodles, fish sauce, and lime juice to the skillet and stir to combine",
+    "Season with salt to taste",
+    "Serve immediately and garnish with additional walnuts if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "gluten-free",
+    "low-calorie",
+    "noodle-dish",
+    "tadka",
+    "vietnamese",
+    "walnut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tangy-vietnamese-walnut-mi-quang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-vietnamese-walnut-mi-quang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:38:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "tadka",
+    "primaryIngredient": "walnuts",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "walnuts",
+    "descriptor": "tangy snappy",
+    "dishForm": "Mi Quang"
+  }
+}
