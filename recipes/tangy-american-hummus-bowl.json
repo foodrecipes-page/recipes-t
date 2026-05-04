@@ -1,0 +1,102 @@
+{
+  "title": "Tangy American Hummus Bowl",
+  "description": "A twist on traditional hummus, this tangy bowl combines classic flavors with a tangy kick. This recipe is perfect for meal prep and is dairy-free friendly.",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "15 ounces",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved",
+      "},{": "+ "
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the chickpeas, lemon juice, tahini, garlic, salt, and black pepper. Cook over medium heat, stirring constantly, for 5 minutes or until heated through.",
+    "Stir in the olive oil and cook for an additional 2 minutes.",
+    "Transfer the mixture to a blender or food processor and blend until smooth.",
+    "Add the kale and cherry tomatoes to the blender and blend until the desired consistency is reached.",
+    "Season with additional salt and pepper to taste.",
+    "Spoon the hummus into a bowl and serve immediately.",
+    "Cover and refrigerate for up to 3 days.",
+    "To serve, top the hummus with your favorite toppings such as sliced avocado, diced tomatoes, and chopped fresh herbs.",
+    "Garnish with additional lemon wedges if desired.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "hummus",
+    "meal-prep",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tangy-american-hummus-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-american-hummus-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:34:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "simmer",
+    "primaryIngredient": "hummus",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "hummus",
+    "descriptor": "tangy",
+    "dishForm": "Bowl"
+  }
+}

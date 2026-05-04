@@ -148,6 +148,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-american-hummus-bowl",
+    "title": "Tangy American Hummus Bowl",
+    "tags": [
+      "dairy-free",
+      "high-protein",
+      "hummus",
+      "meal-prep",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-argentinian-rice-soup",
     "title": "Tangy Argentinian Rice Soup",
     "tags": [
