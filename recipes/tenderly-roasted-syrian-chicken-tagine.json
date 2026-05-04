@@ -1,0 +1,105 @@
+{
+  "title": "Tenderly Roasted Syrian Chicken Tagine",
+  "description": "A traditional Syrian dish with a twist, this roasted chicken tagine features birds-eye chillies and a unique mushimono-steam cooking method, making it a low-glycemic-friendly option. The result is a tender and flavorful one-pot meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4 lbs",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "birds-eye chillies",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the diced birds-eye chillies and cook for 2 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the chicken thighs, skin side down, and cook for 5 minutes.",
+    "Flip the chicken thighs and add the cumin, coriander, salt, and black pepper.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Roast the chicken for 30 minutes, then reduce the heat to 375 degrees Fahrenheit and continue roasting for an additional 20 minutes.",
+    "Remove the Dutch oven from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "middle-eastern",
+    "one-pot",
+    "roasted-chicken",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "tenderly-roasted-syrian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-roasted-syrian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:58:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Tenderly Roasted",
+    "dishForm": "Tagine"
+  }
+}
