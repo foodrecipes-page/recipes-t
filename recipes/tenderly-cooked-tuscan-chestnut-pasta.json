@@ -1,0 +1,112 @@
+{
+  "title": "Tenderly Cooked Tuscan Chestnut Pasta",
+  "description": "A light and silky Italian dish featuring cooked chestnut, cooked to a perfect al-dente finish.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "6 oz (170g)",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 small",
+      "notes": "minced"
+    },
+    {
+      "name": "tuscan seasoning",
+      "amount": "1 tsp (5ml)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp (1.25g)"
+    },
+    {
+      "name": "pasta (tuscan-style)",
+      "amount": "8 oz (225g)",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup (30g)",
+      "notes": "grated"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup (60ml)",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the chopped shallots and cook for an additional 2-3 minutes until softened.",
+    "Add the tuscan seasoning and cook for 1 minute.",
+    "Add the cooked chestnuts to the skillet and toss to combine with the garlic and shallot mixture.",
+    "Add the chopped parsley to the skillet and toss to combine.",
+    "Add the cooked pasta to the skillet and toss to combine with the chestnut mixture.",
+    "Season with salt and black pepper to taste.",
+    "If using white wine, add it to the skillet and cook for an additional 1-2 minutes until the liquid has reduced.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chestnut",
+    "easy",
+    "family-friendly",
+    "italian",
+    "low-carb",
+    "pasta",
+    "tuscan"
+  ],
+  "nutrition": {
+    "calories": 430,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 18
+  },
+  "slug": "tenderly-cooked-tuscan-chestnut-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-cooked-tuscan-chestnut-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:28:07Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "low-carb",
+    "region": "tuscan",
+    "cuisineAdjective": "Tuscan",
+    "mainIngredient": "chestnut",
+    "descriptor": "Tenderly Cooked",
+    "dishForm": "Pasta"
+  }
+}

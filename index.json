@@ -5118,6 +5118,22 @@
     "shard": "t"
   },
   {
+    "slug": "tenderly-cooked-tuscan-chestnut-pasta",
+    "title": "Tenderly Cooked Tuscan Chestnut Pasta",
+    "tags": [
+      "chestnut",
+      "easy",
+      "family-friendly",
+      "italian",
+      "low-carb",
+      "pasta",
+      "tuscan"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tenderly-roasted-syrian-chicken-tagine",
     "title": "Tenderly Roasted Syrian Chicken Tagine",
     "tags": [
