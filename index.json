@@ -2533,6 +2533,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-springy-uruguayan-cheese-fried-rice",
+    "title": "Tangy Springy Uruguayan Cheese Fried Rice",
+    "tags": [
+      "cheesy",
+      "fried-rice",
+      "romantic",
+      "springy",
+      "tangy",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-sweet-algerian-knafeh-bowl",
     "title": "Tangy Sweet Algerian Knafeh Bowl",
     "tags": [],
@@ -4298,6 +4314,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-baked-french-pistachio-gratin",
+    "title": "Tenderly Baked French Pistachio Gratin",
+    "tags": [
+      "brunch-ideas",
+      "french-cuisine",
+      "gratin-recipes",
+      "lazy-sunday",
+      "paleo-diet"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {

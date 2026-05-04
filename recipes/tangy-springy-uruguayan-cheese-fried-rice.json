@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Springy Uruguayan Cheese Fried Rice",
+  "description": "A satvik friendly Uruguayan dish featuring liquid cheese and a blend of spices, this tangy springy cheese fried rice is perfect for a romantic dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "spring onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat",
+    "Add the chopped onion and cook until it is translucent",
+    "Add the minced garlic and cook for another minute",
+    "Add the cooked rice to the skillet and stir fry for 2 minutes",
+    "Add the grated uruguayan cheese to the skillet and stir until it is well combined with the rice",
+    "Add the soy sauce, salt, and black pepper to the skillet and stir fry for another minute",
+    "Add the chopped spring onion to the skillet and stir fry for 30 seconds",
+    "Remove the skillet from the heat and serve the tangy springy uruguayan cheese fried rice hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "fried-rice",
+    "romantic",
+    "springy",
+    "tangy",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tangy-springy-uruguayan-cheese-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-springy-uruguayan-cheese-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "liquid cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Tangy springy",
+    "dishForm": "Fried-Rice"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "title": "Tenderly Baked French Pistachio Gratin",
+  "description": "A rich and creamy paleo-friendly dish featuring pistachio paste, perfect for a lazy Sunday in Brittany. This floral and shattering gratin is sure to impress.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1/2 cup",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "duck fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "paleo-friendly flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the pistachio paste, coconut cream, salt, and duck fat until well combined.",
+    "Add the fresh thyme and garlic to the bowl and stir until the mixture is smooth.",
+    "In a separate bowl, whisk together the paleo-friendly flour and eggs.",
+    "Add the flour and egg mixture to the pistachio mixture and stir until a thick batter forms.",
+    "Pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "Bake the gratin in the preheated oven for 35 minutes, or until it is golden brown and set.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "french-cuisine",
+    "gratin-recipes",
+    "lazy-sunday",
+    "paleo-diet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "tenderly-baked-french-pistachio-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-baked-french-pistachio-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "salt-bake",
+    "primaryIngredient": "pistachio paste",
+    "diet": "paleo",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pistachio",
+    "descriptor": "tenderly baked",
+    "dishForm": "Gratin"
+  }
+}
