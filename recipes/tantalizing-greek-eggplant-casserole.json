@@ -1,0 +1,63 @@
+{
+  "title": "Tantalizing Greek Eggplant Casserole",
+  "description": "A funky, molten midnight craving Mediterranean dish that blends sweet chili and feta into a low‑sodium pressure‑cooked casserole.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium (600g)",
+      "notes": "sliced 1cm thick rounds"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a pressure cooker using sauté mode.",
+    "Add diced onion and cook until translucent.",
+    "Stir in minced garlic and cook for 30 seconds.",
+    "Pour in tomato sauce, sweet chili sauce, lemon juice, oregano, pepper, and 1/4 tsp salt; stir to combine.",
+    "Add sliced eggplant and crumbled feta into the cooker; give a quick stir.",
+    "Seal pressure cooker lid, set to high pressure for 5 minutes, then quick‑release.",
+    "Transfer the contents to an oven‑safe baking dish, spreading evenly.",
+    "Sprinkle remaining feta and Parmesan on top.",
+    "Cover with foil and bake at 375°F for 20 minutes.",
+    "Remove foil, bake 5 minutes more until golden; let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-sodium",
+    "mediterranean",
+    "pressure-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tantalizing-greek-eggplant-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-greek-eggplant-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:03:05Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Eggplant",
+    "descriptor": "Tantalizing",
+    "dishForm": "Casserole"
+  }
+}
