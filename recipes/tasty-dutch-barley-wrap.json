@@ -1,0 +1,101 @@
+{
+  "title": "Tasty Dutch Barley Wrap",
+  "description": "A malty, juicy wrap with tender barley, sweet vegetables, and mild turkey, perfect for kids and nut‑free families.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pearl barley, dry",
+      "amount": "200 g"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "100 g"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "50 g"
+    },
+    {
+      "name": "zucchini, diced",
+      "amount": "50 g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "200 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low‑sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "spinach tortillas",
+      "amount": "6 large"
+    }
+  ],
+  "instructions": [
+    "Rinse the pearl barley under cold water and drain.",
+    "In a medium pot, bring 500 ml of water to a boil, add the barley, reduce heat, cover, and simmer for 20 minutes until tender.",
+    "While the barley cooks, heat 1 tbsp olive oil in a large skillet over medium heat.",
+    "Add onion and garlic, sauté until fragrant, then add sweet potato, carrot, and zucchini; cook for 5 minutes.",
+    "Add the ground turkey to the skillet, cooking until browned and no longer pink, about 7 minutes.",
+    "Stir in cooked barley, soy sauce, and honey; season with salt, pepper, and smoked paprika, and cook for another 3 minutes.",
+    "Warm the spinach tortillas in a dry skillet or microwave for 10 seconds to make them pliable.",
+    "Spoon the barley mixture evenly onto each tortilla, leaving a small border.",
+    "Fold the sides inward and roll tightly, securing with a toothpick if desired.",
+    "Serve the wraps warm, optionally with a side of plain yogurt or a fresh salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "easy",
+    "kid-friendly",
+    "nut-free",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "tasty-dutch-barley-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-dutch-barley-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:07:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "hail",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "barley",
+    "descriptor": "Tasty",
+    "dishForm": "Wrap"
+  }
+}
