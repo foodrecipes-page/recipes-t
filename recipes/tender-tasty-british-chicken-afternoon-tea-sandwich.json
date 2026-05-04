@@ -1,0 +1,100 @@
+{
+  "title": "Tender Tasty British Chicken Afternoon Tea Sandwich",
+  "description": "A fermented and snappy British dish featuring Thai holy basil krapao, perfect for a sick day, with an ayurvedic tamasic friendly twist, served as an afternoon tea sandwich.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "soy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "krapao sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "fermented for 24 hours"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender, combine chicken breast, Thai holy basil, krapao sauce, plain yogurt, lemon juice, honey, salt, and black pepper, and blend until smooth.",
+    "Pour the mixture into a baking dish and bake for 20 minutes.",
+    "Remove the dish from the oven and let it rest for 10 minutes.",
+    "Slice the whole wheat bread into thin pieces and toast until crispy.",
+    "Spread a layer of the chicken mixture onto each bread slice.",
+    "Top with additional Thai holy basil leaves and serve.",
+    "Let the sandwiches rest for 5 minutes before serving to allow the flavors to meld.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british-cuisine",
+    "fermented-food",
+    "gluten-free",
+    "snappy-sandwich",
+    "soy-free",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "tender-tasty-british-chicken-afternoon-tea-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tasty-british-chicken-afternoon-tea-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:27:55Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "rest",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "tender tasty",
+    "dishForm": "Afternoon Tea Sandwich"
+  }
+}

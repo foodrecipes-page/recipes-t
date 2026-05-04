@@ -4446,6 +4446,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-tasty-british-chicken-afternoon-tea-sandwich",
+    "title": "Tender Tasty British Chicken Afternoon Tea Sandwich",
+    "tags": [
+      "afternoon-tea",
+      "british-cuisine",
+      "fermented-food",
+      "gluten-free",
+      "snappy-sandwich",
+      "soy-free",
+      "tamasic-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-toasted-kenyan-sweetcorn-bowl",
     "title": "Tender Toasted Kenyan Sweetcorn Bowl",
     "tags": [
