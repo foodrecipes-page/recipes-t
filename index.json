@@ -2148,6 +2148,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-mexican-fish-grill",
+    "title": "Tangy Mexican Fish Grill",
+    "tags": [
+      "agave-leaf",
+      "grilled",
+      "lazy-sunday",
+      "mexican",
+      "pescatarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-midnight-rice-krispie-crumble",
     "title": "Tangy Midnight Rice Krispie Crumble",
     "tags": [

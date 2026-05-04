@@ -1,0 +1,109 @@
+{
+  "title": "Tangy Mexican Fish Grill",
+  "description": "A peppery, glassy-jelly grilled fish dish served on an agave leaf, featuring fresh mozzarella balls and zesty lime sauce.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tilapia fillets",
+      "amount": "16 oz",
+      "notes": "skinless, 8 oz each"
+    },
+    {
+      "name": "mozzarella balls",
+      "amount": "1 cup",
+      "notes": "cut into halves"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tbsp",
+      "notes": "from 2 limes"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "minced jalapeño",
+      "amount": "1 small",
+      "notes": "seeded"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "cracked"
+    },
+    {
+      "name": "agave leaf",
+      "amount": "1 sheet",
+      "notes": "cleaned, size 6x6 inches"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat.",
+    "Season tilapia fillets with sea salt, black pepper, and a drizzle of olive oil.",
+    "Place the agave leaf on the grill to warm slightly, then lay the fish on top of the leaf.",
+    "Grill the fillets 4 minutes per side until the flesh is opaque and juices run clear.",
+    "While the fish is grilling, whisk lime juice, cilantro, minced jalapeño, garlic, and the remaining olive oil in a bowl.",
+    "Toss the mozzarella balls in the lime mixture until they are lightly coated.",
+    "Once the fish is done, remove it from the grill and let it rest for 2 minutes.",
+    "Serve the grilled fish on a plate and top it with the lime-coated mozzarella balls.",
+    "Drizzle any remaining lime sauce over the dish and garnish with extra cilantro.",
+    "Serve immediately while the fish is still warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "agave-leaf",
+    "grilled",
+    "lazy-sunday",
+    "mexican",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "tangy-mexican-fish-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-mexican-fish-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:32:05Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "grill",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Fish",
+    "descriptor": "Tangy",
+    "dishForm": "Grill"
+  }
+}
