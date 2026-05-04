@@ -3919,6 +3919,21 @@
     "shard": "t"
   },
   {
+    "slug": "toasty-australian-tofu-grill",
+    "title": "Toasty Australian Tofu Grill",
+    "tags": [
+      "australian-cuisine",
+      "brunch-ideas",
+      "dairy-free",
+      "grilled-tofu",
+      "tajine-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "toasty-german-avocado-flatbread",
     "title": "Toasty German Avocado Flatbread",
     "tags": [

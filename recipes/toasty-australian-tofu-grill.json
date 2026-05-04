@@ -1,0 +1,95 @@
+{
+  "title": "Toasty Australian Tofu Grill",
+  "description": "A malty, molten, brunch-mood Australian dish featuring genmaicha, grilled to perfection in a tajine clay vessel, perfect for a dairy-free friendly meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "genmaicha tea",
+      "amount": "2 tablespoons",
+      "notes": "brewed strong"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, approximately 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the brewed genmaicha tea, maple syrup, and malt extract to make the malty glaze.",
+    "Add the cubed tofu to the bowl and toss to coat with the malty glaze, making sure each piece is fully covered.",
+    "Brush the tajine clay vessel with olive oil to prevent sticking.",
+    "Place the tofu cubes in the prepared tajine clay vessel, leaving some space between each cube for even cooking.",
+    "Season with salt and black pepper to taste.",
+    "Grill the tofu for 10 minutes on each side, or until it is golden brown and crispy on the outside.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Let it rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "brunch-ideas",
+    "dairy-free",
+    "grilled-tofu",
+    "tajine-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "toasty-australian-tofu-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-australian-tofu-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:46:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "grill",
+    "primaryIngredient": "genmaicha",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Toasty",
+    "dishForm": "Grill"
+  }
+}
