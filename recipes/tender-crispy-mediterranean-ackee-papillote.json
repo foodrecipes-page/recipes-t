@@ -1,0 +1,104 @@
+{
+  "title": "Mediterranean Ackee Papillote",
+  "description": "Tender and crispy Mediterranean dish featuring ackee in a flavorful papillote",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup, pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup, canned"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "papillote parchment",
+      "amount": "2 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut two sheets of parchment paper into 12-inch squares.",
+    "Divide the ackee, red onion, and red bell pepper among the four squares, leaving a 1-inch border around each.",
+    "Sprinkle the olives, artichoke hearts, lemon juice, olive oil, garlic powder, salt, and black pepper over the vegetables.",
+    "Fold the parchment paper over the filling to create a packet, and seal the edges by twisting and pressing.",
+    "Place the packets on a baking sheet and bake for 20 minutes.",
+    "Remove the packets from the oven and let them rest for 5 minutes.",
+    "Serve the papillote hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jain-friendly",
+    "mediterranean",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tender-crispy-mediterranean-ackee-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crispy-mediterranean-ackee-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:07:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "ackee",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Ackee",
+    "descriptor": "Tender Crispy",
+    "dishForm": "Papillote"
+  }
+}
