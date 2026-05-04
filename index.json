@@ -5066,6 +5066,20 @@
     "shard": "t"
   },
   {
+    "slug": "tropical-filipino-cereal-bowl",
+    "title": "Tropical Filipino Cereal Bowl",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "mediterranean-friendly",
+      "post-workout",
+      "snack"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 5,
+    "shard": "t"
+  },
+  {
     "slug": "tropical-fresh-jamaican-pineapple-stir-fry",
     "title": "Tropical Fresh Jamaican Pineapple Stir-fry",
     "tags": [

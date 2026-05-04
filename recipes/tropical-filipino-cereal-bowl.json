@@ -1,0 +1,106 @@
+{
+  "title": "Tropical Filipino Cereal Bowl",
+  "description": "A floral bouncy-qq post-workout snack that blends Grape Nuts, Greek yogurt, coconut milk, and tropical fruits for a Mediterranean friendly boost.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts",
+      "amount": "1 1/2 cups",
+      "notes": "crunchy base"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "creamy protein"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup",
+      "notes": "adds creaminess"
+    },
+    {
+      "name": "Chia seeds",
+      "amount": "2 tbsp",
+      "notes": "boosts fiber"
+    },
+    {
+      "name": "Dried mango",
+      "amount": "1/4 cup",
+      "notes": "tropical sweetness"
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1/2 cup",
+      "notes": "fresh bite"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "2 tbsp",
+      "notes": "nutty crunch"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "natural sweetener"
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp",
+      "notes": "citrus aroma"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "4 leaves",
+      "notes": "herbal finish"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine the Grape Nuts and chia seeds for an even base.",
+    "Spoon the Greek yogurt over the cereal mix, spreading it evenly.",
+    "Drizzle the coconut milk across the yogurt, creating a silky layer.",
+    "Sprinkle the dried mango and fresh strawberries on top for burst of flavor.",
+    "Add the sliced almonds for added crunch and protein.",
+    "Drizzle honey over the fruit and seeds for natural sweetness.",
+    "Lightly sprinkle lime zest to brighten the mixture.",
+    "Garnish with fresh mint leaves for a fragrant finish.",
+    "Serve immediately and enjoy the floral, bouncy-qq texture."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "mediterranean-friendly",
+    "post-workout",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 18,
+    "carbs": 115,
+    "fat": 13
+  },
+  "slug": "tropical-filipino-cereal-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-filipino-cereal-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:14:43Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cereal",
+    "descriptor": "Tropical",
+    "dishForm": "Bowl"
+  }
+}
