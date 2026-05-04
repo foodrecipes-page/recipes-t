@@ -1,0 +1,98 @@
+{
+  "title": "Tangy American Avocado Tacos",
+  "description": "A salty and snappy weeknight American dish featuring avocado, this recipe is perfect for a quick dinner, and its ingredients are ayurvedic-rajasic-friendly, meaning they promote energy and vitality.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocados",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "corn"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the tortillas for 30 seconds to make them more pliable.",
+    "Cut the avocados in half and remove the pit, then slice them into thin pieces.",
+    "In a large bowl, whisk together the lime juice, salt, and pepper.",
+    "Add the sliced avocado to the bowl and toss to coat with the lime juice mixture.",
+    "Heat a large skillet over medium-high heat and warm the tortillas for 30 seconds on each side.",
+    "Assemble the tacos by spooning the avocado mixture onto a tortilla and topping with red onion, cilantro, and feta cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional cilantro and lime wedges if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "avocado",
+    "gluten-free",
+    "one-pan",
+    "tangy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "tangy-american-avocado-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-american-avocado-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:51:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "avocado",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "avocado",
+    "descriptor": "tangy snappy",
+    "dishForm": "Tacos"
+  }
+}
