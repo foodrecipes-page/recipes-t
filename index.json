@@ -4459,6 +4459,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-jamaican-pastry-galette",
+    "title": "Tender Jamaican Pastry Galette",
+    "tags": [
+      "date-night",
+      "dessert",
+      "gluten-free",
+      "paleo"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tender-japanese-mushroom-chawanmushi",
     "title": "Tender Japanese Mushroom Chawanmushi",
     "tags": [

@@ -1,0 +1,118 @@
+{
+  "title": "Tender Jamaican Pastry Galette",
+  "description": "A funky and tender Jamaican pastry galette, perfect for a date night. Featuring 00-flour and paleo-friendly ingredients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "00-flour",
+      "amount": "1 1/2 cups",
+      "notes": "Sifted before measuring."
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": "Sifted before measuring."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": "Melted."
+    },
+    {
+      "name": "Infuse-oil",
+      "amount": "2 tbsp",
+      "notes": "Jamaican spice infused."
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/4 cup",
+      "notes": "Chilled before use."
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tbsp",
+      "notes": "Grade A, pure."
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "Room temperature."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "Pure."
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "1 tsp",
+      "notes": "Store-bought or homemade."
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp",
+      "notes": "Ratted."
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/4 tsp",
+      "notes": "Unrefined."
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u000700F (190\u000700C) with a baking sheet inside.",
+    "Sift the 00-flour and almond flour into a large bowl.",
+    "In a separate bowl, whisk together the melted coconut oil and infuse-oil.",
+    "Add the coconut cream, maple syrup, eggs, vanilla extract, curry powder, coconut sugar, and sea salt to the wet ingredients and whisk until smooth.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined, being careful not to overmix.",
+    "Gently fold in the chopped pecans.",
+    "Using a 1/4 cup measuring cup, scoop the dough onto the preheated baking sheet, leaving about 2 inches of space between each galette.",
+    "Bake for 18-20 minutes or until the edges are golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "gluten-free",
+    "paleo"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "tender-jamaican-pastry-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-pastry-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "00-flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pastry",
+    "descriptor": "tender",
+    "dishForm": "Galette"
+  }
+}
