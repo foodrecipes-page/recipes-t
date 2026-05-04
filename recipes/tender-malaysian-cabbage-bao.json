@@ -1,0 +1,107 @@
+{
+  "title": "tender malaysian cabbage bao",
+  "description": "floral and tender malaysian dish featuring red cabbage, macrobiotic-friendly ingredients. perfect for a brunch setting.",
+  "cuisine": "malaysian",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 head, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "unbleached all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "pink salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, combine yeast and coconut sugar. let sit for 5 minutes until frothy.",
+    "in a large mixing bowl, combine flour and pink salt.",
+    "add yeast mixture, sesame oil, and water to the dry ingredients. mix until a dough forms.",
+    "knead the dough for 10 minutes until smooth.",
+    "place dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "preheat a steamer basket with boiling water.",
+    "roll out the dough to 1/4 inch thickness. use a round cookie cutter to cut out circles of dough.",
+    "place a tablespoon of red cabbage in the center of each dough circle. fold the dough over the cabbage to form a half-moon shape. press edges to seal.",
+    "place the buns in the steamer basket, seam-side down. steam for 10 minutes until cooked through.",
+    "brush the buns with apple cider vinegar and top with sesame seeds.",
+    "serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "gluten-free",
+    "macrobiotic",
+    "malaysian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "tender-malaysian-cabbage-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malaysian-cabbage-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "red cabbage",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cabbage",
+    "descriptor": "Tender",
+    "dishForm": "Bao"
+  }
+}

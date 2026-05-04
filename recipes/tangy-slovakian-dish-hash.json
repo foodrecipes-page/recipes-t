@@ -1,0 +1,107 @@
+{
+  "title": "tangy slovakian dish hash",
+  "description": "crumbly, comforting slovakian dish featuring green salsa, mirepoix-base, buddhist-temple-friendly, veggie-packed goodness",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hash browns",
+      "amount": "1 cup shredded russet potatoes",
+      "notes": ""
+    },
+    {
+      "name": "green salsa",
+      "amount": "1/2 cup",
+      "notes": "",
+      "unit": "cups"
+    },
+    {
+      "name": "mirepoix",
+      "amount": "1/2 cup chopped carrots, 1/2 cup chopped celery, 1/4 cup chopped onion",
+      "notes": "",
+      "unit": "cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "",
+      "unit": "teaspoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": "",
+      "unit": "teaspoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/8 tsp",
+      "notes": "",
+      "unit": "teaspoons"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1/8 tsp",
+      "notes": "",
+      "unit": "teaspoons"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup chopped fresh parsley",
+      "notes": "",
+      "unit": "cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "",
+      "unit": "tablespoons"
+    }
+  ],
+  "instructions": [
+    "peel and grate the potatoes, and squeeze out excess moisture"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "comfort-food",
+    "hash",
+    "one-pan",
+    "slovakian",
+    "vegan",
+    "veggie-pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 8
+  },
+  "slug": "tangy-slovakian-dish-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-slovakian-dish-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "green salsa",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "dish",
+    "descriptor": "tangy",
+    "dishForm": "hash"
+  }
+}

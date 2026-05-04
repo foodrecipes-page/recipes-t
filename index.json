@@ -2603,6 +2603,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-slovakian-dish-hash",
+    "title": "tangy slovakian dish hash",
+    "tags": [
+      "buddhist-temple-friendly",
+      "comfort-food",
+      "hash",
+      "one-pan",
+      "slovakian",
+      "vegan",
+      "veggie-pasta"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-smoked-beans-stir-fry",
     "title": "Tangy Smoked Beans Stir-fry",
     "tags": [
@@ -4492,6 +4508,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-malaysian-cabbage-bao",
+    "title": "tender malaysian cabbage bao",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "gluten-free",
+      "macrobiotic",
+      "malaysian",
+      "vegan"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
