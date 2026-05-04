@@ -1116,6 +1116,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-filipino-flour-bowl",
+    "title": "Tangy Filipino Flour Bowl",
+    "tags": [
+      "egg-free",
+      "flour-based",
+      "quick",
+      "stone-pot",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-canadian-squash-pie",
     "title": "Tangy Flaky Canadian Squash Pie",
     "tags": [

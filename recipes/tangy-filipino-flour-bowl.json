@@ -1,0 +1,145 @@
+{
+  "title": "Tangy Filipino Flour Bowl",
+  "description": "A bright, tangy Filipino stir-fry tossed in a thick sauce and served in a sizzling stone bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "3 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 tbsp",
+      "notes": "for extra thickness"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tbsp",
+      "notes": "for tangy brightness"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "balance the salt"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": "fresh flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, minced",
+      "notes": "fresh flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, sliced",
+      "notes": "caramelizing base"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, julienned",
+      "notes": "color and crunch"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small, sliced",
+      "notes": "color and crunch"
+    },
+    {
+      "name": "baby bok choy",
+      "amount": "100g, chopped",
+      "notes": "leafy green"
+    },
+    {
+      "name": "tofu",
+      "amount": "150g, cubed",
+      "notes": "protein source"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "2 tbsp, crushed",
+      "notes": "tuna"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "2 tbsp",
+      "notes": "finishing garnish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp oil in a stone bowl over medium heat until shimmering.",
+    "Add the minced garlic and ginger and sauté for 30 seconds until fragrant.",
+    "Add sliced onion, carrot, and bell pepper and stir-fry for 3 minutes until vegetables start to soften.",
+    "Add cubed tofu and baby bok choy, stir for another 2 minutes until bok choy is wilted.",
+    "Whisk together soy sauce, fish sauce, calamansi juice, vinegar, and brown sugar in a small bowl.",
+    "Pour the sauce over the stir-fry, stirring to coat all ingredients evenly.",
+    "In a separate small bowl, mix all-purpose flour and rice flour with 2 tbsp water to make a slurry.",
+    "Slowly whisk the slurry into the dish, cooking for 2 minutes until the sauce thickens to a glossy consistency.",
+    "Sprinkle crushed roasted peanuts and chopped scallions over the finished bowl, then serve immediately from the stone pot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "flour-based",
+    "quick",
+    "stone-pot",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "tangy-filipino-flour-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-filipino-flour-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:15:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "flour",
+    "descriptor": "Tangy",
+    "dishForm": "Bowl"
+  }
+}
