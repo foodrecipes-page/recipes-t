@@ -3581,6 +3581,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-buttery-uruguayan-lamb-papillote",
+    "title": "tender buttery uruguayan lamb papillote",
+    "tags": [
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-canadian-cabbage-pizza",
     "title": "Tender Canadian Cabbage Pizza",
     "tags": [

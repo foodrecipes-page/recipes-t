@@ -1,0 +1,99 @@
+{
+  "title": "tender buttery uruguayan lamb papillote",
+  "description": "a crowd-pleasing dish featuring tender lamb, wrapped in buttery papillote with crisp iceberg lettuce.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "season the lamb with salt and black pepper.",
+    "heat 1 tablespoon of butter in a large oven-safe skillet over medium-high heat.",
+    "add the lamb and sear until browned on all sides, about 2 minutes per side.",
+    "transfer the skillet to the preheated oven and cook for 20 minutes.",
+    "remove the skillet from the oven and top the lamb with the remaining 1 tablespoon of butter, garlic, and parsley.",
+    "fold the papillote paper over the lamb to create a packet, making sure to seal the edges.",
+    "return the skillet to the oven and cook for an additional 10-12 minutes, or until the lamb is tender and the papillote is crispy.",
+    "remove the papillote from the oven and carefully open it to reveal the tender lamb.",
+    "serve the lamb with the shredded iceberg lettuce and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 36
+  },
+  "slug": "tender-buttery-uruguayan-lamb-papillote",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-buttery-uruguayan-lamb-papillote",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T14:49:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Buttery",
+    "dishForm": "Papillote"
+  }
+}
