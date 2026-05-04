@@ -3950,6 +3950,22 @@
     "shard": "t"
   },
   {
+    "slug": "tranquil-smoky-french-chicken-blanquette",
+    "title": "Tranquil Smoky French Chicken Blanquette",
+    "tags": [
+      "blanquette",
+      "chicken",
+      "french",
+      "kosher",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "treacle-delight",
     "title": "Treacle Delight",
     "tags": [
