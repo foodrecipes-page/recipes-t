@@ -3029,6 +3029,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-greek-pepper-fritters",
+    "title": "Tasty Greek Pepper Fritters",
+    "tags": [
+      "crispy",
+      "one-pan",
+      "plant-based",
+      "quick",
+      "snack-style"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thick-brazilian-tofu-skewers",
     "title": "Tasty Thick Brazilian Tofu Skewers",
     "tags": [

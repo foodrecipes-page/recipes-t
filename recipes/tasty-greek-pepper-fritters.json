@@ -1,0 +1,99 @@
+{
+  "title": "Tasty Greek Pepper Fritters",
+  "description": "Crispy, plant-based fritters bursting with Greek herbs and sweet bell peppers, ideal for a quick solo dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell pepper",
+      "amount": "150 g",
+      "notes": "mixed colors, finely diced"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a bowl combine chickpea flour, oregano, cumin, paprika, sea salt, and black pepper.",
+    "Add diced peppers, chopped parsley, and water; mix until a thick batter forms.",
+    "Heat olive oil in a deep skillet over medium heat until shimmering.",
+    "Drop spoonfuls of batter into hot oil, frying each for 3-4 minutes per side.",
+    "Flip fritters with tongs, cooking until golden and crisp on both sides.",
+    "Remove fritters with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve hot, optionally drizzled with lemon yogurt dip or a squeeze of fresh lemon juice.",
+    "Enjoy as a lively solo dinner or share with friends."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "one-pan",
+    "plant-based",
+    "quick",
+    "snack-style"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 9
+  },
+  "slug": "tasty-greek-pepper-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-greek-pepper-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:05:54Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "dum",
+    "primaryIngredient": "pepper",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pepper",
+    "descriptor": "Tasty",
+    "dishForm": "Fritters"
+  }
+}
