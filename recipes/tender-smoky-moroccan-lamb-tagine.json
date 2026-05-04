@@ -1,0 +1,110 @@
+{
+  "title": "Tender Smoky Moroccan Lamb Tagine",
+  "description": "A hearty Moroccan dish featuring tender lamb in a smoky and spicy sauce, wrapped in pandan leaves for added aroma and flavor, perfect for a comforting meal on a sick day.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large leaves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, mix together the smoked paprika, ground cumin, ground coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat evenly with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Brown the lamb pieces in the Dutch oven, then remove and set aside.",
+    "Add the unsweetened coconut milk to the Dutch oven and stir to scrape up any browned bits from the bottom.",
+    "Return the lamb pieces to the Dutch oven and bring the mixture to a simmer.",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Wrap each serving of the lamb and sauce in a pandan leaf and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb",
+    "moroccan",
+    "one-pot",
+    "paleo",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "tender-smoky-moroccan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-moroccan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:37:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "tender smoky",
+    "dishForm": "Tagine"
+  }
+}
