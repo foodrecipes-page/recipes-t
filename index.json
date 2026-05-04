@@ -3133,6 +3133,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-crispy-syrian-coconut-salad",
+    "title": "Tasty Crispy Syrian Coconut Salad",
+    "tags": [
+      "crispy",
+      "healthy",
+      "paleo-friendly",
+      "quick",
+      "salad",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-dutch-barley-wrap",
     "title": "Tasty Dutch Barley Wrap",
     "tags": [
@@ -4323,6 +4338,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-polish-chickpeas-salad",
+    "title": "Tender Polish Chickpeas Salad",
+    "tags": [
+      "brine-wet",
+      "jain-friendly",
+      "light",
+      "polish",
+      "quick",
+      "salad",
+      "vegan"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {

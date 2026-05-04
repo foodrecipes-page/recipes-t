@@ -1,0 +1,127 @@
+{
+  "title": "Tender Polish Chickpeas Salad",
+  "description": "A light, floral Polish salad featuring brine-wet chickpeas and a bright vinaigrette, perfect for a quick lunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "400 g",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "edible nasturtium petals",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Drain the canned chickpeas and rinse them with cold water.",
+    "Place the chickpeas in a large bowl.",
+    "Add the chopped parsley, dill, mint, diced cucumber and nasturtium petals to the bowl.",
+    "Whisk the olive oil, apple cider vinegar, mustard, honey and lemon juice together in a small jar.",
+    "Season the vinaigrette with salt and pepper to taste.",
+    "Pour the dressing over the chickpeas and herbs.",
+    "Toss the mixture gently until all ingredients are evenly coated.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Serve the salad chilled or at room temperature.",
+    "Garnish with a few extra fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brine-wet",
+    "jain-friendly",
+    "light",
+    "polish",
+    "quick",
+    "salad",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 5,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "tender-polish-chickpeas-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-polish-chickpeas-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:27:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Tender",
+    "dishForm": "Salad"
+  }
+}

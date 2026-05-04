@@ -1,0 +1,107 @@
+{
+  "title": "Tasty Crispy Syrian Coconut Salad",
+  "description": "A fresh, crispy salad that blends Syrian herbs, coconut flakes, and a unique hojicha-infused dressing for a paleo-friendly lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "carrot, grated",
+      "amount": "1 cup"
+    },
+    {
+      "name": "raw almonds, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "hojicha powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl combine the mint, parsley, cucumber, tomato, carrot, almonds, and coconut flakes.",
+    "Whisk together the lemon juice, olive oil, hojicha powder, coconut cream, salt, and pepper until smooth.",
+    "Pour the dressing over the vegetables and toss until everything is evenly coated.",
+    "Let the salad rest for 10 minutes to allow the flavors to meld.",
+    "Serve chilled, garnishing with extra coconut flakes if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "healthy",
+    "paleo-friendly",
+    "quick",
+    "salad",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 1280,
+    "protein": 28,
+    "carbs": 140,
+    "fat": 72
+  },
+  "slug": "tasty-crispy-syrian-coconut-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-crispy-syrian-coconut-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:27:38Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "hojicha",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "coconut",
+    "descriptor": "Tasty Crispy",
+    "dishForm": "Salad"
+  }
+}
