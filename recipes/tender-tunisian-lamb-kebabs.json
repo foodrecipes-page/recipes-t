@@ -1,0 +1,101 @@
+{
+  "title": "Tender Tunisian Lamb Kebabs",
+  "description": "A traditional Tunisian dish featuring lamb kebabs marinated in a mixture of muscovado sugar and spices, then grilled to perfection on a binchotan grill. The result is a charred and bouncy texture with an energizing flavor.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "muscovado sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, coriander, salt, and black pepper to create a marinade.",
+    "Add the lamb cubes to the marinade and toss to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat the binchotan grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking, then grill the kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "While the kebabs are grilling, mix the muscovado sugar with 1 tablespoon of water to create a glaze.",
+    "Brush the glaze onto the kebabs during the last 2 minutes of grilling.",
+    "Once the kebabs are cooked, remove them from the grill and let them rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh herbs and a side of couscous or salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-grill",
+    "grilled-meat",
+    "lamb-recipes",
+    "macrobiotic-friendly",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-tunisian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tunisian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:16:31Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Tunisian",
+    "dishForm": "Kebabs"
+  }
+}
