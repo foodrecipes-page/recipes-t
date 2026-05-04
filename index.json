@@ -3030,6 +3030,21 @@
     "shard": "t"
   },
   {
+    "slug": "tart-portuguese-rice-risotto",
+    "title": "Tart Portuguese Rice Risotto",
+    "tags": [
+      "breakfast",
+      "egg-free",
+      "portuguese",
+      "rice",
+      "tart",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-american-ground-pork-toast",
     "title": "Tasty American Ground Pork Toast",
     "tags": [

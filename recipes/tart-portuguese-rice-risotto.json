@@ -1,0 +1,103 @@
+{
+  "title": "Tart Portuguese Rice Risotto",
+  "description": "A bright, tart and dense rice risotto with caramelized onions, lemon, and a hint of vinegar, perfect for a brunch mood.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion, thinly sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "Zest of 1 lemon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp olive oil in a large saucepan over medium heat until shimmering.",
+    "Add sliced onion and sauté until translucent and golden, about 5-7 minutes.",
+    "Stir in minced garlic and cook for 1 minute until fragrant.",
+    "Add the Carnaroli rice, stirring to coat the grains and lightly toast for 2 minutes.",
+    "Deglaze the pan with 1 cup dry white wine, stirring until the liquid has mostly evaporated.",
+    "Gradually add the hot vegetable broth, one ladle at a time, stirring frequently, letting each addition absorb before adding the next.",
+    "When the rice is al dente and the mixture is creamy, stir in the lemon zest, lemon juice, dried thyme, salt, and pepper.",
+    "Reduce heat to low, cover, and let the risotto rest for 3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg-free",
+    "portuguese",
+    "rice",
+    "tart",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "tart-portuguese-rice-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tart-portuguese-rice-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:54:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "rice",
+    "descriptor": "Tart",
+    "dishForm": "Risotto"
+  }
+}
