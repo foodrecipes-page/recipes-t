@@ -1,0 +1,108 @@
+{
+  "title": "Tasty Ukrainian Prawns Stew",
+  "description": "A winey, bouncy Ukrainian stew that brings prawns to life with fresh vegetables and aromatic dill, cooked in a traditional ttukbaegi earthenware pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sugar",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "no added sugar"
+    },
+    {
+      "name": "white wine",
+      "amount": "150 ml",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "300 ml"
+    },
+    {
+      "name": "fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ttukbaegi earthenware pot over medium heat until shimmering.",
+    "Add chopped onion and cook until translucent, about 3 minutes.",
+    "Stir in minced garlic, diced carrot, and bell pepper, cooking for another 3 minutes until vegetables soften.",
+    "Mix in tomato paste and cook for 1 minute to release flavor.",
+    "Pour in white wine, deglaze the pot, scraping up any browned bits, and let reduce for 2 minutes.",
+    "Add vegetable broth, bring to a simmer, and season with salt and pepper.",
+    "Gently fold in the prawns, cover, and simmer until prawns turn pink and opaque, about 4 minutes.",
+    "Finish with chopped dill just before serving and adjust seasoning if needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-sugar",
+    "one-pot",
+    "quick-dinner",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 29
+  },
+  "slug": "tasty-ukrainian-prawns-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-ukrainian-prawns-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:22:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "prawns",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "prawns",
+    "descriptor": "Tasty",
+    "dishForm": "Stew"
+  }
+}

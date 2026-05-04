@@ -2846,6 +2846,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-ukrainian-prawns-stew",
+    "title": "Tasty Ukrainian Prawns Stew",
+    "tags": [
+      "gluten-free",
+      "low-sugar",
+      "one-pot",
+      "quick-dinner",
+      "seafood"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tempered-canadian-stilton-cheese-salad",
     "title": "Tempered Canadian Stilton Cheese Salad",
     "tags": [
