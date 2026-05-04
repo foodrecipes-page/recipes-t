@@ -1554,6 +1554,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-fluffy-french-comte-bouillabaisse",
+    "title": "Tangy, Fluffy French Comte Bouillabaisse",
+    "tags": [
+      "beef",
+      "cheese",
+      "comfort-food",
+      "whole30",
+      "winter"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-fluffy-german-soy-milk-stir-fry",
     "title": "Tangy Fluffy German Soy Milk Stir-fry",
     "tags": [
@@ -3956,6 +3970,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-crunchy-kenyan-cabbage-salad",
+    "title": "Tender Crunchy Kenyan Cabbage Salad",
+    "tags": [
+      "gluten-free",
+      "kenyan",
+      "low-carb",
+      "salad",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

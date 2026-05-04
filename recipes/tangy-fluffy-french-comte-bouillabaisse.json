@@ -1,0 +1,131 @@
+{
+  "title": "Tangy, Fluffy French Comte Bouillabaisse",
+  "description": "A midnight-craving french dish featuring comte cheese, served in a stone bowl and is whole30-friendly, similar to boeuf bourguignon. Perfect for a cold winter night.",
+  "cuisine": "French",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "instructions": [
+    "Heat the stone bowl over medium heat for 5 minutes before adding the dish.",
+    "Add 2 tablespoons of olive oil to the bowl and sauté the diced onion and garlic until softened, about 3 minutes.",
+    "Add the sliced beef and cook until browned, about 5 minutes.",
+    "Add the diced tomatoes, beef broth, and herbs to the bowl and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Stir in the crumbled comte cheese until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve the bouillabaisse hot, garnished with chopped fresh herbs if desired.",
+    "Divide the bouillabaisse into 4 equal portions and serve immediately.",
+    "Garnish with a dollop of sour cream and a sprinkle of paprika, if desired.",
+    "Serve with a side of crusty bread or crackers for dipping in the broth.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "comte cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "herbs",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "crusty bread",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "crackers",
+      "amount": "optional",
+      "notes": ""
+    }
+  ],
+  "tags": [
+    "beef",
+    "cheese",
+    "comfort-food",
+    "whole30",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tangy-fluffy-french-comte-bouillabaisse",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-french-comte-bouillabaisse",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "comte",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Comte",
+    "descriptor": "Tangy, fluffy",
+    "dishForm": "Bouillabaisse"
+  }
+}
