@@ -4162,6 +4162,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-french-snapper-fish-stew",
+    "title": "Tender Smoky French Snapper Fish Stew",
+    "tags": [
+      "fish-stew",
+      "french-cuisine",
+      "gluten-free",
+      "low-fodmap",
+      "one-pot",
+      "smoky-flavor"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-serrano-ham-stir-fry",
     "title": "Tender Smoky Serrano Ham Stir-fry",
     "tags": [

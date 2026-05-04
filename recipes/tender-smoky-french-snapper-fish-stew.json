@@ -1,0 +1,99 @@
+{
+  "title": "Tender Smoky French Snapper Fish Stew",
+  "description": "A hearty one-pot French dish featuring tender snapper fish in a rich smoky stew, perfect for a cold winter evening, and is FODMAP friendly.",
+  "cuisine": "French",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "4 fillets",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "leek",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can, 14.5 oz"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped leek, carrot, and celery, and cook until the vegetables are tender, about 8 minutes.",
+    "Add the smoked paprika and garlic-free seasoning blend, and cook for 1 minute, stirring constantly.",
+    "Add the canned diced tomatoes, fish stock, and snapper fish fillets, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 10 minutes, or until the fish is cooked through.",
+    "Stir in the chopped parsley, and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-stew",
+    "french-cuisine",
+    "gluten-free",
+    "low-fodmap",
+    "one-pot",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tender-smoky-french-snapper-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-french-snapper-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:27:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "temper",
+    "primaryIngredient": "snapper fish",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "snapper fish",
+    "descriptor": "tender smoky",
+    "dishForm": "Stew"
+  }
+}
