@@ -1,0 +1,99 @@
+{
+  "title": "Tender Flaky Ukrainian Boudin Noir Pilaf",
+  "description": "A sweet and flaky Ukrainian dish featuring boudin noir, miso marinate, and low carb friendly ingredients, this pilaf is a nostalgic treat for the senses. It combines the richness of boudin noir with the savory flavor of miso and the comfort of a warm pilaf.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the miso paste and olive oil to create the marinate.",
+    "Add the sliced boudin noir to the marinate and toss to coat.",
+    "Let the boudin noir marinate for at least 30 minutes.",
+    "In a large skillet, saute the diced onion and minced garlic over medium heat until the onion is translucent.",
+    "Add the cauliflower rice to the skillet and cook until it is tender.",
+    "Add the marinated boudin noir, chicken broth, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the pilaf from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "tender-flaky-ukrainian-boudin-noir-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-flaky-ukrainian-boudin-noir-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:52:59Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "boudin-noir",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Tender flaky",
+    "dishForm": "Pilaf"
+  }
+}
