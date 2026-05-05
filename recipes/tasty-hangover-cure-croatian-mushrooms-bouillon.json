@@ -1,0 +1,111 @@
+{
+  "title": "Tasty Hangover Cure Croatian Mushrooms Bouillon",
+  "description": "A briny, snappy hangover cure featuring marjoram, dashi-extract, and ayurvedic rajasic-friendly Croatian mushrooms. This dish is a perfect way to revive after a night of imbibing.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Croatian wild mushrooms (such as chanterelle, oyster, and shiitake)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dashi stock concentrate",
+      "amount": "2 tablespoons",
+      "notes": "optional, but adds umami flavor"
+    },
+    {
+      "name": "Marjoram",
+      "amount": "1 sprig",
+      "notes": "a key herb in traditional Croatian medicine"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u00036;ing"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "balances flavors"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pot over medium heat.",
+    "Add the minced garlic and saut\u00036; until fragrant.",
+    "Add the Croatian wild mushrooms and saut\u00036; until they release their liquid and start to brown.",
+    "Add the dashi stock concentrate, marjoram, sea salt, and black pepper. Stir to combine.",
+    "Pour in the water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes, or until the flavors have melded together and the mushrooms are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Stir in the apple cider vinegar and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "easy-to-make",
+    "gluten-free",
+    "hangover-cure",
+    "marjoram",
+    "vegan",
+    "wild-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "tasty-hangover-cure-croatian-mushrooms-bouillon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-hangover-cure-croatian-mushrooms-bouillon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:50:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "dashi-extract",
+    "primaryIngredient": "marjoram",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Tasty Hangover Cure",
+    "dishForm": "Bouillon"
+  }
+}
