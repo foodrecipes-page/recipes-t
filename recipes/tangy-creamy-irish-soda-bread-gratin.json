@@ -1,0 +1,68 @@
+{
+  "title": "Tangy Creamy Irish Soda Bread Gratin",
+  "description": "A twist on traditional Irish soda bread, featuring a tangy BBQ sauce and caramelized top. Perfect for a weekend brunch.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "macrobiotic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached or whole wheat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, whisk together the flour, sugar, and coarse salt.",
+    "Add the cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Mix in the soda bread loaf, crumbled into 1-inch pieces.",
+    "In a separate bowl, whisk together the yogurt, egg, and a pinch of black pepper.",
+    "Pour the wet ingredients into the dry ingredients and mix until a sticky dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until the dough is smooth and elastic.",
+    "Form the dough into a round loaf and place it in a greased 9x5-inch loaf pan.",
+    "Bake the loaf for 35-40 minutes, or until it is golden brown and sounds hollow when tapped on the bottom.",
+    "While the bread is baking, mix the barbecue sauce and a pinch of black pepper in a small bowl.",
+    "Once the bread is done, let it cool for 10 minutes before transferring it to a serving dish.",
+    "Drizzle the BBQ sauce mixture over the top of the bread, then sprinkle with chopped fresh chives.",
+    "Place the bread under the broiler for 2-3 minutes, or until the top is caramelized and golden brown.",
+    "Remove the bread from the oven and let it cool for a few minutes before slicing and serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "macrobiotic-friendly",
+    "one-pan",
+    "vegetarian",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 2000,
+    "protein": 80,
+    "carbs": 320,
+    "fat": 80
+  },
+  "slug": "tangy-creamy-irish-soda-bread-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-irish-soda-bread-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "caramelize",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "soda bread",
+    "descriptor": "tangy creamy",
+    "dishForm": "Gratin"
+  }
+}

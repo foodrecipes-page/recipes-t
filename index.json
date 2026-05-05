@@ -439,6 +439,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-irish-soda-bread-gratin",
+    "title": "Tangy Creamy Irish Soda Bread Gratin",
+    "tags": [
+      "macrobiotic-friendly",
+      "one-pan",
+      "vegetarian",
+      "weekend-brunch"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-italian-chili-pasta",
     "title": "Tangy Creamy Italian Chili Pasta",
     "tags": [
@@ -4044,6 +4057,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-charred-french-duck-casserole",
+    "title": "Tender Charred French Duck Casserole",
+    "tags": [
+      "casserole",
+      "duck",
+      "french",
+      "low-carb",
+      "normandy",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 195,
+    "shard": "t"
+  },
+  {
     "slug": "tender-charred-korean-lamb-kebabs",
     "title": "Tender Charred Korean Lamb Kebabs",
     "tags": [
@@ -4345,6 +4374,21 @@
     "tags": [],
     "cuisine": "Mexican",
     "totalTimeMin": null,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-french-beef-bouillon",
+    "title": "Tender French Beef Bouillon",
+    "tags": [
+      "beef",
+      "boeuf-bourguignon",
+      "comfort-food",
+      "french",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 250,
     "shard": "t"
   },
   {
@@ -5722,6 +5766,20 @@
     ],
     "cuisine": "Filipino/Thai Fusion",
     "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
+    "slug": "thai-mustardy-quick-thai-curry-paella",
+    "title": "Thai Mustardy Quick Thai Curry Paella",
+    "tags": [
+      "curry",
+      "one-pan",
+      "thai",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {

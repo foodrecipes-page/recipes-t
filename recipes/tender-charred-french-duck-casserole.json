@@ -1,0 +1,125 @@
+{
+  "title": "Tender Charred French Duck Casserole",
+  "description": "A hearty, low-carb-friendly French casserole featuring the rich flavors of Normandy. Perfect for a solo dinner.",
+  "cuisine": "French",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1 tsp",
+      "notes": "fresh mint will work too, but dried is more traditional"
+    },
+    {
+      "name": "Pearl onions",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Cognac",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mustard seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the duck breast with salt, pepper, and thyme. ",
+    "Sear the duck breast in a hot skillet with butter until browned on both sides, then set aside.",
+    "Sauté the pearl onions in the same skillet until caramelized. ",
+    "Add the Cognac to the skillet and ignite, then add the chicken and beef broth, mustard seeds, and dried mint. ",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half, stirring occasionally. ",
+    "Place the duck breast in a 9x13 inch baking dish and pour the braising liquid over it. ",
+    "Cover the dish with foil and bake for 2 hours, or until the duck is tender and the meat is falling off the bone. ",
+    "Remove the foil and continue baking for an additional 15 minutes, or until the skin is browned and crispy. ",
+    "Let the casserole rest for 10 minutes before serving.",
+    "Carve the duck and serve with the braising liquid spooned over the top.",
+    "Garnish with fresh thyme, if desired.",
+    "Serve hot, garnished with thyme and onions. ",
+    "Adjust seasoning as needed.",
+    "Discard any excess fat from the dish, if desired.",
+    "Serve with a side of roasted vegetables or a green salad for a complete meal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "duck",
+    "french",
+    "low-carb",
+    "normandy",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 64,
+    "carbs": 12,
+    "fat": 54
+  },
+  "slug": "tender-charred-french-duck-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-charred-french-duck-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:50Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "simmer",
+    "primaryIngredient": "dried mint",
+    "diet": "low-carb",
+    "region": "normandy",
+    "cuisineAdjective": "french",
+    "mainIngredient": "duck",
+    "descriptor": "tender charred",
+    "dishForm": "casserole"
+  }
+}

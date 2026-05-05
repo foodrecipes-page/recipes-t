@@ -1,0 +1,110 @@
+{
+  "title": "Thai Mustardy Quick Thai Curry Paella",
+  "description": "A quick-fix, whole30-friendly Thai dish featuring a mustardy, gooey curry sauce served with a twist of traditional paella, perfect for a weeknight dinner.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown mustard",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish balls",
+      "amount": "1 package (12)",
+      "notes": ""
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of coconut oil in a large paella pan over medium heat.",
+    "Add 1 medium onion, diced, and cook until softened, 3 minutes.",
+    "Add 1 medium bell pepper, diced, and cook until tender, 5 minutes.",
+    "Add 2 tablespoons of Thai red curry paste and cook for 1 minute, until fragrant.",
+    "Add 2 tablespoons of fish sauce and 1 teaspoon of brown mustard and stir to combine.",
+    "Add 1 package of fish balls and cook until browned on all sides, 3-4 minutes.",
+    "Add 2 cups of chicken broth and bring to a simmer.",
+    "Reduce the heat to low and let simmer for 5 minutes, stirring occasionally.",
+    "Stir in 1/4 cup of fresh cilantro and cook for an additional minute.",
+    "To serve, place a scoop of the curry sauce on top of a bed of iceberg lettuce and garnish with additional cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "one-pan",
+    "thai",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "thai-mustardy-quick-thai-curry-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thai-mustardy-quick-thai-curry-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:09Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "curry",
+    "descriptor": "Thai Mustardy Quick",
+    "dishForm": "Paella"
+  }
+}
