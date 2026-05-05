@@ -1959,6 +1959,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-irish-chilli-wrap",
+    "title": "Tangy Irish Chilli Wrap",
+    "tags": [
+      "high-protein",
+      "irish",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-irish-lamb-stew",
     "title": "Tangy Irish Lamb Stew",
     "tags": [
@@ -5351,6 +5364,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-steamed-indian-mushrooms-bake",
+    "title": "Tender Steamed Indian Mushrooms Bake",
+    "tags": [
+      "easy-to-make",
+      "healthy",
+      "indian",
+      "mushroom",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-steamed-norwegian-fish-stew",
     "title": "Tender Steamed Norwegian Fish Stew",
     "tags": [
@@ -5776,6 +5803,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-tender-peruvian-boiled-rice-pilaf",
+    "title": "Toasted Tender Peruvian Boiled Rice Pilaf",
+    "tags": [
+      "low-carb",
+      "one-pan",
+      "peruvian",
+      "rice-pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

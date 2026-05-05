@@ -1,0 +1,116 @@
+{
+  "title": "Tangy Irish Chilli Wrap",
+  "description": "A spicy, comforting, and tender wrap inspired by Irish cuisine, featuring sweet chilli sauce and tender beef. Perfect for a quick weeknight dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    null,
+    "vegetarian",
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Chilli Sauce",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "Ssam-Style Pork Belly",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Irish Cheddar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Irish Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and bell pepper to the pan and cook until the vegetables are tender.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Stir in the sweet chilli sauce and cook for an additional 2 minutes.",
+    "Add the ssam-style pork belly to the pan and stir to combine.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Warm the ssam wraps according to package instructions.",
+    "Spoon the beef and pork mixture onto the centre of each wrap, followed by a sprinkle of Irish cheddar cheese.",
+    "Top each wrap with a dollop of Irish butter and a sprinkle of fresh cilantro.",
+    "Serve immediately and enjoy!",
+    "Garnish with additional fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 90,
+    "fat": 60
+  },
+  "slug": "tangy-irish-chilli-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-irish-chilli-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chilli",
+    "descriptor": "tangy",
+    "dishForm": "Wrap"
+  }
+}

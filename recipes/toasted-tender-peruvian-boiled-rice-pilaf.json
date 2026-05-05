@@ -1,0 +1,96 @@
+{
+  "title": "Toasted Tender Peruvian Boiled Rice Pilaf",
+  "description": "A buttery, crumbly Peruvian dish featuring basmati rice, a perfect fit for a Buddhist temple meal. Cooked in a traditional clay tajine vessel.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a traditional clay tajine vessel, heat 2 tablespoons of unsalted butter over medium heat.",
+    "Add cumin seeds and coriander seeds, and let them sizzle for 1 minute.",
+    "Add basmati rice and stir to coat with butter and spices.",
+    "Pour in chicken broth, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18 minutes, or until rice is tender and liquid is absorbed.",
+    "Stir in salt, black pepper, and chopped cilantro.",
+    "Increase heat to medium, and add remaining 2 tablespoons of unsalted butter.",
+    "Stir constantly until butter has melted and rice is toasted and crumbly.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "one-pan",
+    "peruvian",
+    "rice-pilaf",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "toasted-tender-peruvian-boiled-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-tender-peruvian-boiled-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "basmati rice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "boiled rice",
+    "descriptor": "toasted tender",
+    "dishForm": "Pilaf"
+  }
+}

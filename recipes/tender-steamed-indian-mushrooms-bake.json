@@ -1,0 +1,65 @@
+{
+  "title": "Tender Steamed Indian Mushrooms Bake",
+  "description": "A malty, bouncy-qq Indian dish featuring shiitake mushrooms, perfect for a sick day. This satvik-friendly recipe uses a bamboo steamer to retain the delicate flavor and aroma of the mushrooms.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 pound",
+      "notes": "cleaned and sliced"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, coconut oil, salt, and spices in a small bowl to create a marinade.",
+    "In a large bowl, toss the sliced mushrooms with the marinade until they are evenly coated.",
+    "Steam the mushrooms in a bamboo steamer over boiling water for 8 minutes.",
+    "In a separate pan, toast the cumin seeds over medium heat until fragrant.",
+    "Add the toasted cumin seeds to the steamed mushrooms and toss to combine.",
+    "Serve the mushrooms hot with some warm rice or naan bread.",
+    "Garnish with fresh cilantro leaves if desired.",
+    "Adjust the seasoning with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "indian",
+    "mushroom",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "tender-steamed-indian-mushrooms-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-steamed-indian-mushrooms-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:50Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "bake",
+    "primaryIngredient": "shiitake mushrooms",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Tender Steamed",
+    "dishForm": "Bake"
+  }
+}
