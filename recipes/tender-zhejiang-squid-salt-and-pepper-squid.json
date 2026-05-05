@@ -1,0 +1,100 @@
+{
+  "title": "Tender Zhejiang Squid Salt-and-Pepper-Squid",
+  "description": "A yeasty, shattering Zhejiang-style squid dish featuring beef stock and a double-fried twist.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "400g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50g"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "25g"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "5g"
+    },
+    {
+      "name": "Egg whites",
+      "amount": "4"
+    },
+    {
+      "name": "Beef stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "50ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "3g"
+    },
+    {
+      "name": "Scallions",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Dredge the squid pieces in a mixture of flour, cornstarch, and baking soda.",
+    "Dip the floured squid in the beaten egg whites, coating evenly.",
+    "Double-fry the squid in hot oil at 180°C for 2 minutes, then set aside.",
+    "Increase oil temperature to 220°C and re-fry the squid until puffed and golden.",
+    "Drain the squid on paper towels and sprinkle with salt and black pepper.",
+    "Return the squid to the hot oil and quickly toss to coat with a small amount of oil.",
+    "Transfer the squid to a serving platter and garnish with chopped scallions.",
+    "Serve immediately, accompanied by a side of steamed vegetables or rice.",
+    "For an added layer of flavor, drizzle with a small amount of beef stock and oil before serving.",
+    "Strain the oil from the fried squid and discard.",
+    "Season with additional salt and black pepper to taste, if needed."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "date-night",
+    "high-protein",
+    "low-carb",
+    "seafood",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 36
+  },
+  "slug": "tender-zhejiang-squid-salt-and-pepper-squid",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-zhejiang-squid-salt-and-pepper-squid",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:01Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "beef stock",
+    "diet": "shojin",
+    "region": "zhejiang",
+    "cuisineAdjective": "zhejiang",
+    "mainIngredient": "squid",
+    "descriptor": "tender",
+    "dishForm": "Salt-and-Pepper-Squid"
+  }
+}

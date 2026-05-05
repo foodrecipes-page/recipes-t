@@ -1,0 +1,114 @@
+{
+  "title": "Tasty Post-Workout French Nutella Gratin",
+  "description": "A sweet, shaggy French post-workout dish featuring Nutella and tandoor-cooked ingredients.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mug of Nutella",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "brioche",
+      "amount": "1/2 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tandoor-baked almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "tandoor powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cooking spray",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Spray a baking dish with cooking spray.",
+    "Tear the brioche into 1-inch pieces and scatter in the baking dish.",
+    "Drizzle Nutella over the brioche.",
+    "Bake in preheated oven for 10 minutes.",
+    "While the brioche mixture is baking, toast almonds in tandoor at 400°F (200°C) for 5 minutes.",
+    "Once the almonds are toasted, chop and stir into the Nutella mixture.",
+    "In a separate bowl, whisk together egg, almond milk, cheddar, a pinch of salt, and a pinch of tandoor powder.",
+    "Pour the egg mixture over the Nutella mixture in the baking dish.",
+    "Top with fresh berries and drizzle with brown sugar.",
+    "Bake for an additional 15 minutes, or until puffed and golden brown.",
+    "Remove from oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "hard",
+  "tags": [
+    "gratin",
+    "high-protein",
+    "nutella",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 30
+  },
+  "slug": "tasty-post-workout-french-nutella-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-post-workout-french-nutella-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "tandoor",
+    "primaryIngredient": "nutella",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Nutella",
+    "descriptor": "Tasty Post-Workout",
+    "dishForm": "Gratin"
+  }
+}

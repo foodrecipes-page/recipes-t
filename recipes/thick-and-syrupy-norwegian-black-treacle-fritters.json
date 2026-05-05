@@ -1,0 +1,94 @@
+{
+  "title": "Norwegian Black Treacle Fritters",
+  "description": "Sour and sweet, these traditional Norwegian fritters are a nostalgic treat made with black treacle and a hint of rice flour. Perfect for a snack or dessert.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black Treacle",
+      "amount": "250g",
+      "notes": "Norwegian black treacle, such as 'Norwegian Brown Sauce' or 'Elvis Sauce'"
+    },
+    {
+      "name": "Rice Flour",
+      "amount": "250g",
+      "notes": "Khao Khua or glutinous rice flour"
+    },
+    {
+      "name": "Buckwheat Flour",
+      "amount": "50g",
+      "notes": "Ayurvedic-friendly, rajasic-reducing ingredient"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Molasses",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "50g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the black treacle, rice flour, buckwheat flour, egg, molasses, baking soda, and salt. Mix until well combined.",
+    "Heat the coconut oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small balls of the batter into the hot oil and fry until golden brown.",
+    "Drain the fritters on paper towels and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "black-treacle",
+    "dessert",
+    "fritters",
+    "norwegian",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 6,
+    "carbs": 90,
+    "fat": 24
+  },
+  "slug": "thick-and-syrupy-norwegian-black-treacle-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-and-syrupy-norwegian-black-treacle-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:56Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "black treacle",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "black treacle",
+    "descriptor": "thick and syrupy",
+    "dishForm": "Fritters"
+  }
+}

@@ -1335,6 +1335,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-filipino-coconut-cream-crack-pancit-bihon",
+    "title": "Tangy Filipino Coconut-Cream-Crack Pancit-Bihon",
+    "tags": [
+      "filipino",
+      "high-carb",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-filipino-flour-bowl",
     "title": "Tangy Filipino Flour Bowl",
     "tags": [
@@ -3647,6 +3661,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-post-workout-french-nutella-gratin",
+    "title": "Tasty Post-Workout French Nutella Gratin",
+    "tags": [
+      "gratin",
+      "high-protein",
+      "nutella",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thick-brazilian-tofu-skewers",
     "title": "Tasty Thick Brazilian Tofu Skewers",
     "tags": [
@@ -5759,6 +5787,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-zhejiang-squid-salt-and-pepper-squid",
+    "title": "Tender Zhejiang Squid Salt-and-Pepper-Squid",
+    "tags": [
+      "chinese",
+      "date-night",
+      "high-protein",
+      "low-carb",
+      "seafood",
+      "shojin-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 42,
+    "shard": "t"
+  },
+  {
     "slug": "tenderly-baked-french-pistachio-gratin",
     "title": "Tenderly Baked French Pistachio Gratin",
     "tags": [
@@ -5855,6 +5899,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "thick-and-syrupy-norwegian-black-treacle-fritters",
+    "title": "Norwegian Black Treacle Fritters",
+    "tags": [
+      "black-treacle",
+      "dessert",
+      "fritters",
+      "norwegian",
+      "traditional"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
