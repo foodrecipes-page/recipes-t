@@ -1,0 +1,100 @@
+{
+  "title": "Toasted Light Venezuelan Peanut Pilaf",
+  "description": "A nutty and creamy light Venezuelan dish featuring roasted peanut, flambe, and halal-friendly ingredients served in an agave leaf.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Agave leaves",
+      "amount": "4",
+      "notes": "large, fresh leaves"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1 cup",
+      "notes": "roasted, unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon",
+      "notes": "ground, to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "vegan-option",
+    "venezuelan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "toasted-light-venezuelan-peanut-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-light-venezuelan-peanut-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "flambe",
+    "primaryIngredient": "roasted peanut",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "peanut",
+    "descriptor": "Toasted light",
+    "dishForm": "Pilaf"
+  }
+}

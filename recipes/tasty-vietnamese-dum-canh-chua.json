@@ -1,0 +1,68 @@
+{
+  "title": "Tasty Vietnamese Canh Chua",
+  "description": "A light and refreshing Vietnamese dish featuring herbal flavors and a creamy broth. Perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Asian-chive-buchu",
+      "amount": "1/4 cup",
+      "notes": "dried, crushed"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine ginger, onion, and garlic, and cook over medium heat until the onion is translucent."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "herbal",
+    "one-pan",
+    "sugar-free",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "tasty-vietnamese-dum-canh-chua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-vietnamese-dum-canh-chua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "dum",
+    "descriptor": "Tasty",
+    "dishForm": "Canh Chua"
+  }
+}

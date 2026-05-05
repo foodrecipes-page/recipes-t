@@ -1735,6 +1735,23 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-fluffy-venezuelan-fines-herbes-empanadas",
+    "title": "Tangy Fluffy Venezuelan Fines-Herbes Empanadas",
+    "tags": [
+      "easy-to-make",
+      "festival",
+      "flaky",
+      "high-protein",
+      "low-fat",
+      "one-pan",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-garlic-middle-eastern-cream-cheese-stir-fry",
     "title": "Tangy Garlic Middle Eastern Cream Cheese Stir-fry",
     "tags": [
@@ -3733,6 +3750,20 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-vietnamese-dum-canh-chua",
+    "title": "Tasty Vietnamese Canh Chua",
+    "tags": [
+      "herbal",
+      "one-pan",
+      "sugar-free",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -5925,6 +5956,19 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-light-venezuelan-peanut-pilaf",
+    "title": "Toasted Light Venezuelan Peanut Pilaf",
+    "tags": [
+      "snack",
+      "vegan-option",
+      "venezuelan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

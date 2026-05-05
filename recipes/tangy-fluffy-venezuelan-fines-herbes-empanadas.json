@@ -1,0 +1,122 @@
+{
+  "title": "Tangy Fluffy Venezuelan Fines-Herbes Empanadas",
+  "description": "Flaky pastry pockets filled with a tangy and fluffy fines-herbes filling, perfect for a festive Venezuelan dinner. This recipe is low-fat friendly and easy to make.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ice water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fines-herbes (parsley, chives, tarragon)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour and salt in a large bowl. ",
+    "Add cold butter and use a pastry blender to work it into the flour until the mixture resembles coarse crumbs. ",
+    "Gradually add ice water, stirring with a fork until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable. ",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes. ",
+    "Preheat the oven to 375°F (190°C). ",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch. ",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass. ",
+    "Place a spoonful of the fines-herbes filling in the center of each dough circle. ",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada. ",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Place the empanadas on a baking sheet lined with parchment paper. ",
+    "Brush the tops with egg yolks and bake for 20-25 minutes, or until golden brown.",
+    "Repeat with the remaining dough and filling. ",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "festival",
+    "flaky",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "tangy-fluffy-venezuelan-fines-herbes-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fluffy-venezuelan-fines-herbes-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "emulsify",
+    "primaryIngredient": "fines-herbes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "fines-herbes",
+    "descriptor": "tangy fluffy",
+    "dishForm": "empanadas"
+  }
+}
