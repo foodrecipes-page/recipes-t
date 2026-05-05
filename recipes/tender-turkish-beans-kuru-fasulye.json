@@ -1,0 +1,138 @@
+{
+  "title": "Tender Turkish Beans Kuru Fasulye",
+  "description": "Rich, juicy Turkish dish featuring tender beans and flavorful spices. Traditionally served with crusty bread or over rice.",
+  "cuisine": "Turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hard taco shells",
+      "amount": "4",
+      "notes": "crushed"
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "Canned kidney beans",
+      "amount": "1 (14.5 oz can)",
+      "notes": "drained, rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 (14.5 oz can)",
+      "notes": "crushed"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Ssam wrap",
+      "amount": "4",
+      "notes": "large, for serving"
+    },
+    {
+      "name": "Raclette grill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the raclette grill to medium-high heat.",
+    "Cook the ground beef in the raclette grill until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the raclette grill and cook until the onion is translucent.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the crushed tomatoes, beef broth, lemon juice, salt, and black pepper to the raclette grill. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 20 minutes, stirring occasionally.",
+    "Stir in the kidney beans and cook for an additional 5 minutes.",
+    "Season the bean mixture with salt and black pepper to taste.",
+    "Preheat the oven to 375°F (190°C).",
+    "Transfer the bean mixture to a baking dish and top with feta cheese.",
+    "Bake for 15 minutes, or until the cheese is melted and bubbly.",
+    "Serve the bean mixture in the ssam wraps with crushed taco shells on top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "easy-paleo",
+    "kidney-beans",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "tender-turkish-beans-kuru-fasulye",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-turkish-beans-kuru-fasulye",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "hard taco shells",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beans",
+    "descriptor": "Tender",
+    "dishForm": "Kuru Fasulye"
+  }
+}
