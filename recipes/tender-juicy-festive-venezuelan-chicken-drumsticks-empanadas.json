@@ -1,0 +1,117 @@
+{
+  "title": "Tender Juicy Festive Venezuelan Chicken Drumsticks Empanadas",
+  "description": "A flavorful and colorful dish for the holidays. These empanadas are filled with tender and juicy chicken drumsticks, perfect for a festive Venezuelan-inspired meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    null,
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken drumsticks",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "a pinch of salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "a pinch of black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tablespoon chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon chopped fresh scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 egg",
+      "amount": "",
+      "notes": "beaten"
+    },
+    {
+      "name": "2 cups empanada dough ",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup shredded coconut",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper and brush with coconut oil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-empanadas",
+    "christmas-dinner",
+    "festive",
+    "paleo-dinner",
+    "venezuelan-christmas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "tender-juicy-festive-venezuelan-chicken-drumsticks-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-juicy-festive-venezuelan-chicken-drumsticks-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:32:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "brine-dry",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Festive Venezuelan",
+    "mainIngredient": "Chicken drumsticks",
+    "descriptor": "Tender Juicy",
+    "dishForm": "Empanadas"
+  }
+}
