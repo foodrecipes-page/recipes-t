@@ -2502,6 +2502,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-moroccan-bananas-fritters",
+    "title": "Tangy Moroccan Bananas Fritters",
+    "tags": [
+      "deep-fried",
+      "dessert",
+      "fritters",
+      "moroccan",
+      "street-food"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-moroccan-sellou-sellou",
     "title": "Tangy Moroccan Sellou Sellou",
     "tags": [

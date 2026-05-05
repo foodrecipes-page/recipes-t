@@ -1,0 +1,70 @@
+{
+  "title": "Tangy Moroccan Bananas Fritters",
+  "description": "A sweet and tangy Moroccan-inspired dessert featuring fried ripe bananas, crunchy on the outside and tender on the inside.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "to coat bananas"
+    }
+  ],
+  "instructions": [
+    "Heat 2 inches of oil in a deep frying pan over medium-high heat until it reaches 350°F (180°C).",
+    "Slice the bananas into 1-inch thick rounds.",
+    "In a shallow dish, mix together the flour and cornstarch.",
+    "Dip each banana round into the flour mixture, coating both sides evenly.",
+    "Carefully place the coated banana rounds into the hot oil and fry for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove the fried bananas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the Tangy Moroccan Bananas Fritters warm, sprinkled with a pinch of sugar and a drizzle of honey if desired.",
+    "Store any leftover fritters in an airtight container in the refrigerator for up to 3 days, or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "deep-fried",
+    "dessert",
+    "fritters",
+    "moroccan",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tangy-moroccan-bananas-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-moroccan-bananas-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "bananas",
+    "descriptor": "tangy",
+    "dishForm": "Fritters"
+  }
+}
