@@ -1,0 +1,111 @@
+{
+  "title": "tangy dense romantic chinese spaghetti lo mein",
+  "description": "a low-calorie friendly, form-lo-mein romantic chinese dish featuring spaghetti and a tangy sauce.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "balance tanginess"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "low-calorie acidity"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "low-calorie cooking oil"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "low-calorie protein source"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "romantic garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "romantic garnish"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "flavor enhancer"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "flavor enhancer"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375\u0017\u001680",
+    "salt-bake chicken breast for 20 minutes",
+    "cook spaghetti until al dente",
+    "saute green onions and sesame seeds in olive oil until fragrant",
+    "whisk together soy sauce, rice vinegar, sugar, and ginger in a bowl",
+    "add cooked spaghetti to the bowl and toss with sauce",
+    "garnish with green onions and sesame seeds",
+    "serve hot",
+    "optional: add garlic to the sauce for extra flavor"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "low-calorie",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tangy-dense-romantic-chinese-spaghetti-lo-mein",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-romantic-chinese-spaghetti-lo-mein",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:55:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "spaghetti",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "romantic chinese",
+    "mainIngredient": "spaghetti",
+    "descriptor": "tangy dense",
+    "dishForm": "Lo Mein"
+  }
+}

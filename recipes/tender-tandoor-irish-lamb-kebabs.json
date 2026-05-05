@@ -1,0 +1,120 @@
+{
+  "title": "Tender Tandoor Irish Lamb Kebabs",
+  "description": "Spicy, cheese-pull Irish lamb kebabs featuring perilla-leaf kkaennip, finished in a tandoor. Perfect for a date-night dinner.",
+  "cuisine": "Irish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound Irish lamb shoulder, cut into 1-inch cubes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup plain Greek yogurt",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon freshly grated ginger",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "4-6 perilla leaves (also known as kkaennip)",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "1 cup crumbled Irish cheddar cheese",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 cup bamboo skewers, soaked in water for 30 minutes",
+      "amount": "",
+      "notes": "about 12-15 skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat a bamboo steamer to 400°F over boiling water.",
+    "In a large bowl, whisk together yogurt, garlic, ginger, cumin, smoked paprika, salt, and black pepper.",
+    "Add the lamb cubes to the marinade and mix until coated.",
+    "Thread 4-6 pieces of lamb, a perilla leaf, and a sprinkle of cheddar cheese onto each bamboo skewer.",
+    "Brush the skewers with olive oil and place them in the preheated bamboo steamer.",
+    "Close the steamer lid and cook for 12-15 minutes, or until the lamb is cooked to your desired level of doneness and the cheese is melted and golden brown.",
+    "Serve the kebabs hot, garnished with additional perilla leaves if desired.",
+    "Let the kebabs rest for 5 minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as roasted vegetables or a salad.",
+    "Enjoy!",
+    "Repeat with the remaining lamb and skewers.",
+    "Discard any leftover marinade and wash your hands thoroughly after handling raw meat, as a precaution against foodborne illness.",
+    "Cover the skewers with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "tender-tandoor-irish-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tandoor-irish-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Tandoor",
+    "dishForm": "Kebabs"
+  }
+}

@@ -1189,6 +1189,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-dense-romantic-chinese-spaghetti-lo-mein",
+    "title": "tangy dense romantic chinese spaghetti lo mein",
+    "tags": [
+      "chinese",
+      "low-calorie",
+      "one-pan",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-dense-slovakian-turkey-ham-dumplings",
     "title": "Tangy Dense Slovakian Turkey Ham Dumplings",
     "tags": [
@@ -5336,6 +5350,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 65,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-tandoor-irish-lamb-kebabs",
+    "title": "Tender Tandoor Irish Lamb Kebabs",
+    "tags": [
+      "date-night",
+      "high-protein",
+      "low-fat",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
