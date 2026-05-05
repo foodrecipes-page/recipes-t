@@ -1898,6 +1898,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-gooey-portuguese-egg-tart",
+    "title": "Tangy Gooey Portuguese Egg Tart",
+    "tags": [
+      "breakfast",
+      "dessert-adjacent",
+      "low-fat",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-gooey-quick-fix-croatian-puff-pastry-stir-fry",
     "title": "Tangy Gooey Quick-Fix Croatian Puff Pastry Stir-fry",
     "tags": [
@@ -2805,6 +2818,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-silky-light-argentinian-redcurrants-tart",
+    "title": "Tangy Silky Light Argentinian Redcurrants Tart",
+    "tags": [
+      "dessert",
+      "jain-friendly",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {

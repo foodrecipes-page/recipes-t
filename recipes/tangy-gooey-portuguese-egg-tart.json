@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Gooey Portuguese Egg Tart",
+  "description": "A delicious, cozy Portuguese egg tart with a tangy sauce and gooey egg filling, perfect for a low-fat breakfast option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-fat",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Quark cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, confectioners' sugar, and unsalted butter until the mixture resembles coarse crumbs.",
+    "Press the mixture into the bottom and up the sides of a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 15 minutes, or until lightly browned."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert-adjacent",
+    "low-fat",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tangy-gooey-portuguese-egg-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-portuguese-egg-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "sauce",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "egg",
+    "descriptor": "tangy gooey",
+    "dishForm": "tart"
+  }
+}
