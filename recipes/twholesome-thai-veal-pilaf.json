@@ -1,0 +1,87 @@
+{
+  "title": "TWholesome Thai Veal Pilaf",
+  "description": "A meal-prep-friendly dish featuring veal in a creamy, dairy-free sauce with aromatic spices and vegetables.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan cream cheese",
+      "amount": 100
+    },
+    {
+      "name": "veal mince",
+      "amount": 250
+    },
+    {
+      "name": "celery sticks",
+      "amount": "x4"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "60g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "tahini sauce",
+      "amount": 50
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": 10
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a pan.",
+    "Add onion and garlic, sauté until softened.",
+    "Add celery and minced veal, cook for about 5 minutes.",
+    "Stir in tahini sauce and soy sauce, let emulsify (thoroughly mix).",
+    "Reduce heat to low, cover and simmer for 30 minutes.",
+    "Serve hot as a side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-carb",
+    "meal-prep",
+    "quick-cook",
+    "vegan-friendly",
+    "vegan-vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 28,
+    "carbs": 16,
+    "fat": 30
+  },
+  "slug": "twholesome-thai-veal-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/twholesome-thai-veal-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T02:57:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "veal",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "veal",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}

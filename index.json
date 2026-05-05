@@ -6089,5 +6089,21 @@
     "cuisine": "Norwegian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "twholesome-thai-veal-pilaf",
+    "title": "TWholesome Thai Veal Pilaf",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "low-carb",
+      "meal-prep",
+      "quick-cook",
+      "vegan-friendly",
+      "vegan-vegan"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "t"
   }
 ]
