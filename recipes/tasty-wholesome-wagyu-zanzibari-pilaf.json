@@ -1,0 +1,94 @@
+{
+  "title": "Tasty Wholesome Wagyu Zanzibari Pilaf",
+  "description": "A sweet and dense kid-friendly Kenyan dish featuring wagyu beef, prepared with beurre-monte for a luxurious twist that is both satvik and light.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wagyu steak",
+      "amount": 200,
+      "notes": "should be at least 16% fat content"
+    },
+    {
+      "name": "basmati rice",
+      "amount": 400
+    },
+    {
+      "name": "ginger paste",
+      "amount": "half a teaspoon"
+    },
+    {
+      "name": "garlic paste",
+      "amount": "one-third of a teaspoon"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": 1,
+      "notes": "medium-sized"
+    },
+    {
+      "name": "bell peppers",
+      "amount": 2,
+      "notes": "small to medium size"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "one-fourth cup"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": 10,
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Chop sweet potatoes and bell peppers into small cubes.",
+    "In a skillet over medium heat, toast garlic paste and ginger paste until fragrant.",
+    "Add rice and stir for about 2 minutes or until it starts to turn golden brown.",
+    "Fold in tomato puree and let cook for an additional minute.",
+    "Mix wagyu steak with some of the beurre-monté mixture.",
+    "Transfer all ingredients to a baking dish, layering sweet potatoes, bell peppers, and the rice mix alternately.",
+    "Bake for 40 minutes at 180°C or until the rice is tender and golden brown.",
+    "Garnish with fresh coriander leaves before serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "luxurious",
+    "one-pan",
+    "satvik"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 38,
+    "carbs": 47,
+    "fat": 24
+  },
+  "slug": "tasty-wholesome-wagyu-zanzibari-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-wholesome-wagyu-zanzibari-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T18:54:46Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "beurre-monte",
+    "primaryIngredient": "wagyu",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "wagyu",
+    "descriptor": "Wholesome",
+    "dishForm": "Pilaf"
+  }
+}
