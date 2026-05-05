@@ -1,0 +1,104 @@
+{
+  "title": "Tender Winey Venezuelan Tagine",
+  "description": "A paleo-friendly, tender, and winey brunch dish featuring canola oil and a tagine-cook method.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tbsp",
+      "notes": "+ for serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "to taste",
+      "notes": "+ for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat canola oil in a tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the tomato paste and red wine, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh cilantro.",
+    "Serve hot, with additional canola oil on the side if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 27,
+    "fat": 32
+  },
+  "slug": "tender-winey-venezuelan-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-winey-venezuelan-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:48:01Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "canola oil",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "dish",
+    "descriptor": "tender winey",
+    "dishForm": "tagine"
+  }
+}
