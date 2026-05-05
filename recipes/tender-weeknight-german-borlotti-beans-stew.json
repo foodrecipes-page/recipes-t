@@ -1,0 +1,99 @@
+{
+  "title": "Tender Weeknight German Borlotti Beans Stew",
+  "description": "A hearty, comforting German-inspired stew featuring fresh borlotti beans and served in a papillote. Perfect for a weeknight dinner.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "450g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1L"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a hot pot vessel over medium heat. Add onion and garlic, cook until softened.",
+    "Add caraway seeds and bay leaves, cook for 1 minute.",
+    "Add tomato paste, cook for 1 minute, stirring constantly.",
+    "Add white wine and vegetable broth, bring to a simmer.",
+    "Add borlotti beans, salt, and black pepper, stir to combine.",
+    "Cover the pot with a papillote, transfer to a preheated oven at 180°C.",
+    "Bake for 25 minutes, or until the beans are tender.",
+    "Remove from oven, let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "german",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-weeknight-german-borlotti-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-weeknight-german-borlotti-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "papillote",
+    "primaryIngredient": "borlotti beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "tender weeknight",
+    "dishForm": "stew"
+  }
+}

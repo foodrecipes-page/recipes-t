@@ -201,6 +201,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-brine-wet-vietnamese-white-navy-beans-bowl",
+    "title": "Tangy Brine-Wet Vietnamese White Navy Beans Bowl",
+    "tags": [
+      "gluten-free",
+      "one-pan",
+      "refined-carb-free",
+      "summer",
+      "vegan"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 51,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-cheesy-kenyan-eggs-frittata",
     "title": "Tangy Cheesy Kenyan Eggs Frittata",
     "tags": [
@@ -5546,6 +5560,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-weeknight-german-borlotti-beans-stew",
+    "title": "Tender Weeknight German Borlotti Beans Stew",
+    "tags": [
+      "comforting",
+      "german",
+      "one-pan",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {

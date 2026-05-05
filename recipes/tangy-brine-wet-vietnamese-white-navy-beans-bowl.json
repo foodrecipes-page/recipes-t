@@ -1,0 +1,97 @@
+{
+  "title": "Tangy Brine-Wet Vietnamese White Navy Beans Bowl",
+  "description": "A tangy, velvety, and energizing Vietnamese-inspired dish featuring dried white navy beans, brine-wet, and gluten-free-friendly, served in a molcajete.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White Navy Beans",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ferric Chloride Brine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Habanero Pepper",
+      "amount": "1 minced"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried white navy beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked white navy beans, then add them to a large pot with the ferric chloride brine and 2 cups of water.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "In a separate pot, combine the coconut water, rice vinegar, sesame oil, chili flakes, salt, and habanero pepper.",
+    "Heat the coconut water mixture over medium heat until it starts to simmer.",
+    "Add the fresh cilantro and lime juice to the coconut water mixture and stir to combine.",
+    "To assemble the dish, place a portion of the cooked white navy beans in a molcajete, then spoon the coconut water mixture over the top.",
+    "Garnish with additional cilantro and serve immediately."
+  ],
+  "prepTimeMin": 11,
+  "cookTimeMin": 40,
+  "totalTimeMin": 51,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "refined-carb-free",
+    "summer",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tangy-brine-wet-vietnamese-white-navy-beans-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-brine-wet-vietnamese-white-navy-beans-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:11:36Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "energizing",
+    "technique": "brine-wet",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "white navy beans",
+    "descriptor": "Tangy Brine-Wet",
+    "dishForm": "Bowl"
+  }
+}
