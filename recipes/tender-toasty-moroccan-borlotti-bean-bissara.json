@@ -1,0 +1,126 @@
+{
+  "title": "Tender Toasty Moroccan Borlotti Bean Bissara",
+  "description": "A comforting Moroccan dip made with herbs, borlotti beans, and spices. Great as a snack or light meal for the whole family.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "macrobiotic-friendly",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Borlotti beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the borlotti beans and soak them in water for at least 8 hours.",
+    "Drain and rinse the soaked borlotti beans, then transfer them to a blender or food processor.",
+    "Add the onion, garlic, cumin, coriander, smoked paprika, salt, and black pepper to the blender and blend until well combined.",
+    "Heat the olive oil in a large saucepan over medium heat, then add the blended mixture and cook for 5 minutes, stirring occasionally.",
+    "Add the soaked borlotti beans, water, and parsley to the saucepan, then bring to a boil and simmer for 20-25 minutes, or until the beans are tender.",
+    "Stir in the lemon juice and cook for 1-2 minutes, then remove from heat.",
+    "Let cool slightly, then stir in the chopped fresh cilantro.",
+    "Serve warm or at room temperature.",
+    "Garnish with additional parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "kid-friendly",
+    "moroccan",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "slug": "tender-toasty-moroccan-borlotti-bean-bissara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasty-moroccan-borlotti-bean-bissara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:38Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "kid-friendly",
+    "technique": "tagine-cook",
+    "primaryIngredient": "borlotti beans",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "tender toasty",
+    "dishForm": null
+  }
+}
