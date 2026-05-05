@@ -2616,6 +2616,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-moroccan-millet-pilaf",
+    "title": "Tangy Moroccan Millet Pilaf",
+    "tags": [
+      "breakfast",
+      "grain-based",
+      "moroccan",
+      "moroccan-breakfast",
+      "moroccan-cuisine",
+      "moroccan-sides",
+      "sugar-free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-moroccan-sellou-sellou",
     "title": "Tangy Moroccan Sellou Sellou",
     "tags": [
@@ -4332,6 +4348,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-egyptian-beef-kebabs",
+    "title": "Tender Egyptian Beef Kebabs",
+    "tags": [
+      "egyptian",
+      "high-protein",
+      "kebabs",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 36,
+    "shard": "t"
+  },
+  {
     "slug": "tender-egyptian-semolina-cake",
     "title": "Tender Egyptian Semolina Cake",
     "tags": [
@@ -4372,6 +4402,20 @@
       "peppery"
     ],
     "cuisine": "ethiopian",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-ethiopian-peas-tibs",
+    "title": "Tender Ethiopian Peas Tibs",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "keto-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
     "totalTimeMin": 20,
     "shard": "t"
   },

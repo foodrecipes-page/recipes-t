@@ -1,0 +1,100 @@
+{
+  "title": "Tender Ethiopian Peas Tibs",
+  "description": "A flavorful and easy weeknight dish featuring roasted peas in a savory cheese-pull sauce, all in one pot.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded and melty"
+    },
+    {
+      "name": "Spices",
+      "amount": "",
+      "notes": "Berbere and salt"
+    },
+    {
+      "name": "Kik alicha",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "Ground"
+    }
+  ],
+  "instructions": [
+    "Heat a ttukbaegi earthenware pot over medium heat.",
+    "Add butter and let it melt.",
+    "Add chopped onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add frozen peas, ghee, cheese, berbere, salt and kik alicha. Stir to combine.",
+    "Cover the pot and cook for 10 minutes.",
+    "Stir well and adjust seasoning if needed.",
+    "Serve hot garnished with chopped fresh herbs.",
+    "Be careful while serving as the cheese will be molten and hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "keto-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "tender-ethiopian-peas-tibs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ethiopian-peas-tibs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "peas",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "peas",
+    "descriptor": "Tender",
+    "dishForm": "Tibs"
+  }
+}

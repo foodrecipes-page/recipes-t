@@ -1,0 +1,125 @@
+{
+  "title": "Tangy Moroccan Millet Pilaf",
+  "description": "A fluffy and indulgent Moroccan dish featuring millet, tempered with a blend of spices and sweetened with a hint of honey.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the onion and saut\u00152 until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for an additional 1-2 minutes.",
+    "Add the cumin, coriander, paprika, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "Add the millet and cook, stirring constantly, for 2-3 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the millet is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and stir in the honey and chopped parsley.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "grain-based",
+    "moroccan",
+    "moroccan-breakfast",
+    "moroccan-cuisine",
+    "moroccan-sides",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "tangy-moroccan-millet-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-moroccan-millet-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "temper",
+    "primaryIngredient": "millet",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "millet",
+    "descriptor": "tangy",
+    "dishForm": "Pilaf"
+  }
+}
