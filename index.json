@@ -378,6 +378,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-chewy-venezuelan-kiebasa-bowl",
+    "title": "tangy chewy venezuelan kiebasa bowl",
+    "tags": [
+      "breakfast-ideas",
+      "latin-american",
+      "one-pan",
+      "vegan-option",
+      "weeknight"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-chewy-vietnamese-cheese-pho",
     "title": "Tangy Chewy Vietnamese Cheese Pho",
     "tags": [
@@ -5945,6 +5959,20 @@
     "shard": "t"
   },
   {
+    "slug": "thick-hangover-cure-fried-portuguese-pork-shoulder-paella",
+    "title": "Thick Hangover-Cure Fried Portuguese Pork Shoulder Paella",
+    "tags": [
+      "hangover-cure",
+      "high-calorie",
+      "one-pan",
+      "portuguese",
+      "weeknight"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 65,
+    "shard": "t"
+  },
+  {
     "slug": "thick-tender-japanese-beef-sandwich",
     "title": "Japanese Beef Sandwich",
     "tags": [
@@ -6238,6 +6266,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
+    "title": "Traditional Tasting Chinese Ground Nut Oil Bao-Dim-Sum",
+    "tags": [
+      "chinese",
+      "comfort-food",
+      "dim-sum",
+      "lacto-vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

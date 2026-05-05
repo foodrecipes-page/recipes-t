@@ -1,0 +1,117 @@
+{
+  "title": "Traditional Tasting Chinese Ground Nut Oil Bao-Dim-Sum",
+  "description": "Winey, bouncy-qq, comforting Chinese (Chaozhou) dish featuring ground nut oil, render-fat, lacto-vegetarian-friendly, form=dim-sum, vessel=ceramic-tagine",
+  "cuisine": "chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground nut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Render-fat",
+      "amount": "2 tablespoons",
+      "notes": "crushed pork fat"
+    },
+    {
+      "name": "Bao mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Scallion oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine ground nut oil, render-fat, and sesame oil in a saucepan over low heat.",
+    "Add the bao mix and stir until combined.",
+    "Gradually add water while stirring to form a dough.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Let dough rest for 1 hour.",
+    "Roll out dough to 1/4 inch thickness.",
+    "Cut into small circles using a cookie cutter or the rim of a glass.",
+    "Brush edges with sesame oil.",
+    "Place a tablespoon of scallion oil and a pinch of sugar in the center of each circle.",
+    "Fold dough over to form a half-moon shape and press edges to seal.",
+    "Heat a non-stick pan over medium heat.",
+    "Cook bao for 2-3 minutes on each side until golden brown.",
+    "Serve warm with soy sauce and scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "dim-sum",
+    "lacto-vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:29Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "render-fat",
+    "primaryIngredient": "ground nut oil",
+    "diet": "lacto-vegetarian",
+    "region": "chaozhou",
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "ground nut oil",
+    "descriptor": "Traditional Tasting",
+    "dishForm": "Bao-Dim-Sum"
+  }
+}

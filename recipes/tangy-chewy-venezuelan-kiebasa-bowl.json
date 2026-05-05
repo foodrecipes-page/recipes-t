@@ -1,0 +1,120 @@
+{
+  "title": "tangy chewy venezuelan kiebasa bowl",
+  "description": "solo dinner featuring kielbasa, boiled potatoes, and a tangy sauce. great for a busy weeknight meal.",
+  "cuisine": "venezuelan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "crushed or diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded (optional)"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in a large pot of salted water until they are tender, about 10 minutes.",
+    "Meanwhile, slice the onion and mince the garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the kielbasa to the skillet and cook, browning on all sides, about 5 minutes.",
+    "Remove the kielbasa from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook, stirring occasionally, until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook, stirring constantly, for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the canned tomatoes, vinegar, salt, and pepper to the skillet and stir to combine.",
+    "Return the kielbasa to the skillet and stir to coat with the sauce.",
+    "To assemble the bowls, place a portion of the boiled potatoes in the bottom, then top with the kielbasa and sauce.",
+    "Garnish with chopped cilantro and shredded cheese, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "latin-american",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "tangy-chewy-venezuelan-kiebasa-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-chewy-venezuelan-kiebasa-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "kielbasa",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "kiebasa",
+    "descriptor": "tangy chewy",
+    "dishForm": "Bowl"
+  }
+}

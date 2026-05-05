@@ -1,0 +1,127 @@
+{
+  "title": "Thick Hangover-Cure Fried Portuguese Pork Shoulder Paella",
+  "description": "Fatty, shaggy, hangover-cure Portuguese dish featuring pork shoulder, air-fry, ovo-vegetarian-friendly, vessel=paella-pan.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "paella rice",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the paella pan over medium-high heat.",
+    "Add the garlic and saut\u00077e for 1 minute until fragrant.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, chili flakes, salt, and black pepper, and stir to combine.",
+    "Add the potatoes and stir to combine.",
+    "Add the paella rice and stir to combine, coating the rice with the oil and the spices.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "While the paella is cooking, heat the butter in a small pan over medium heat.",
+    "Add the green onions and saut\u00077e until softened, about 2 minutes.",
+    "Fluff the paella with a fork and serve with the green onions and lemon wedges on top.",
+    "Air-fry the paella in the hot air fryer at 400\u000176F for 10 minutes to crisp up the bottom.",
+    "Serve immediately and enjoy!",
+    "Let the paella rest for 5 minutes before serving to allow the flavors to meld.",
+    "If the paella is too liquid, cook it for a few more minutes to thicken it up.",
+    "Adjust the seasoning with salt and black pepper to taste.",
+    "Serve with additional lemon wedges on the side if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-calorie",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 120,
+    "fat": 60
+  },
+  "slug": "thick-hangover-cure-fried-portuguese-pork-shoulder-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-hangover-cure-fried-portuguese-pork-shoulder-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:50Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "pork shoulder",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "Thick hangover-cure fried",
+    "dishForm": "paella"
+  }
+}
