@@ -1,0 +1,102 @@
+{
+  "title": "Tropical Citrusy Panang-grilled Gluten-Free Syrian Dish",
+  "description": "This festive syrian dish features a citrusy, glassy-jelly texture made with panang-paste, seasoned with wok-hei, and perfectly grilled on a robata-wooden grill. It's gluten-free, ready in under an hour for a light meal.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "gluten-free noodles",
+      "amount": 200
+    },
+    {
+      "name": "soy sauce",
+      "amount": 100
+    },
+    {
+      "name": "orange juice",
+      "amount": 50
+    },
+    {
+      "name": "lemon juice",
+      "amount": 50
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 4
+    },
+    {
+      "name": "ginger paste",
+      "amount": 25
+    },
+    {
+      "name": "cumin seeds",
+      "amount": 10
+    },
+    {
+      "name": "red curry paste",
+      "amount": 50
+    },
+    {
+      "name": "tropical citrusy jelly powder",
+      "amount": 10
+    },
+    {
+      "name": "gluten-free tamari sauce",
+      "amount": 200
+    },
+    {
+      "name": "orange zest",
+      "amount": 4
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 25
+    }
+  ],
+  "instructions": [
+    "Heat grill to medium-high heat.",
+    "Prepare a marinade with soy sauce, orange juice, lemon juice, minced garlic, ginger paste, cumin seeds, red curry paste, tropical citrusy jelly powder, and gluten-free tamari sauce. Mix well.",
+    "Add sliced noodles to the marinade mixture for at least 20 minutes. Stir occasionally to ensure even flavor distribution.",
+    "Place grilled wok-hei seasoned glazed dishes on a plate, garnished with sesame seeds and orange zest.",
+    "Serve immediately as a lunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "festive",
+    "glassy-jelly",
+    "gluten-free",
+    "panang-grilled",
+    "robata-wooden-grill",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 20
+  },
+  "slug": "tropical-citrusy-panang-grilled-gluten-free-syrian-dish",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-citrusy-panang-grilled-gluten-free-syrian-dish",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:36:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "wok-hei",
+    "primaryIngredient": "panang-paste",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Citrus",
+    "descriptor": "Tropical",
+    "dishForm": "Grill-Savory Citrus Pilaf"
+  }
+}
