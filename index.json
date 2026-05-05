@@ -3339,6 +3339,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-yeast-kissed-middle-eastern-cheese-warak-enab",
+    "title": "Tangy Yeast-Kissed Middle Eastern Cheese Warak Enab",
+    "tags": [
+      "cheese",
+      "dinner",
+      "easy-to-make",
+      "keto-friendly",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tantalizing-charred-japanese-cucumber-shoyu-ramen",
     "title": "Tantalizing Charred Japanese Cucumber Shoyu Ramen",
     "tags": [
@@ -3856,6 +3872,21 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-and-grassy-croatian-suet-dumplings",
+    "title": "Tender and Grassy Croatian Suet Dumplings",
+    "tags": [
+      "croatian",
+      "dumplings",
+      "gluten-free",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -6091,6 +6122,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tranquil-korean-malai-jjigae",
+    "title": "Tranquil Korean Malai Jjigae",
+    "tags": [
+      "anju",
+      "comfort-food",
+      "easy-meal",
+      "jeju",
+      "korean",
+      "malai"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {

@@ -1,0 +1,124 @@
+{
+  "title": "Tangy Yeast-Kissed Middle Eastern Cheese Warak Enab",
+  "description": "A weeknight Middle Eastern dish featuring instant yeast, with a tangy flavor and perfect cheese pull. Made in a ceramic tagine, this keto-friendly recipe is perfect for a quick dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Kefir cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Instant yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Braising liquid",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine the yeast, 1 tablespoon of the butter, and 1 tablespoon of the chicken broth. Let it sit for 5-10 minutes, until it becomes frothy.",
+    "Add the yeast mixture, feta cheese, kefir cheese, oregano, thyme, garlic, salt, and pepper to the ceramic tagine.",
+    "Mix well to combine.",
+    "Add 1 cup of the braising liquid and put the lid on the tagine.",
+    "Cook over low heat for 20 minutes, then increase the heat to medium-low and cook for another 10 minutes.",
+    "After 30 minutes, remove the lid and let the cheese pull for 5 minutes.",
+    "Garnish with parsley and mint, and serve hot.",
+    "Let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "dinner",
+    "easy-to-make",
+    "keto-friendly",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "tangy-yeast-kissed-middle-eastern-cheese-warak-enab",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-yeast-kissed-middle-eastern-cheese-warak-enab",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:50Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "instant yeast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cheese",
+    "descriptor": "Tangy Yeast-Kissed",
+    "dishForm": "Warak Enab"
+  }
+}

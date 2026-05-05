@@ -1,0 +1,108 @@
+{
+  "title": "Tranquil Korean Malai Jjigae",
+  "description": "Rich, fluffy, one-pot Jeju dish featuring malai, suitable for anju. A blend of Korean and Ayurvedic flavors to reduce tamasic energy.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Malai",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tablespoons",
+      "notes": "+adjust to taste"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "+adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large, heavy-bottomed pot over medium heat.",
+    "Add minced garlic and sliced ginger and cook until fragrant, about 1 minute.",
+    "Add Korean chili flakes and cook for another minute, stirring constantly.",
+    "Add 2 cups of rice flour and cook for 2-3 minutes, stirring constantly, until lightly toasted.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 10-12 minutes, or until the mixture has thickened and the rice is cooked.",
+    "Stir in malai, soy sauce, Korean chili paste, and brown sugar. Cook for an additional 2-3 minutes, or until the sauce has thickened and the malai is heated through.",
+    "Season with salt and adjust the seasoning as needed.",
+    "Garnish with chopped green onions and serve hot.",
+    "Serve with additional toasted sesame oil for added flavor, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anju",
+    "comfort-food",
+    "easy-meal",
+    "jeju",
+    "korean",
+    "malai"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 40
+  },
+  "slug": "tranquil-korean-malai-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tranquil-korean-malai-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "reduce",
+    "primaryIngredient": "malai",
+    "diet": "ayurvedic-tamasic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "malai",
+    "descriptor": "Tranquil",
+    "dishForm": "Jjigae"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Tender and Grassy Croatian Suet Dumplings",
+  "description": "A traditional Croatian dish featuring suet and dumplings served as a kid-friendly dinner option.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Suet",
+      "amount": "1 pound",
+      "notes": "You can also use beef or mutton suet if you can't find lamb."
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Large eggs will work best."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Melted for the dough."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "Gives the dumplings a nice grassy flavor."
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "2 cups",
+      "notes": "For boiling the dumplings."
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Chopped Fresh Dill",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "notes2": "Optional, for garnish."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine suet, flour, eggs, melted butter, salt, and black pepper. Mix until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces.",
+    "Shape each piece into a ball and flatten slightly into a disk.",
+    "In a large pot, bring the beef stock to a boil.",
+    "Gently place the dumplings into the boiling stock and cook for 15-20 minutes, or until cooked through.",
+    "Remove the dumplings with a slotted spoon and serve hot with a dollop of sour cream and some chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "dumplings",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "tender-and-grassy-croatian-suet-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-and-grassy-croatian-suet-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:19:43Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "dum",
+    "primaryIngredient": "suet",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "suet",
+    "descriptor": "tender and grassy",
+    "dishForm": "dumplings"
+  }
+}
