@@ -1,0 +1,113 @@
+{
+  "title": "Turkish Charred Flaky Minced Steak Flatbread",
+  "description": "A date-night turkish dish featuring lean minced steak, topped with a whisk and served on a flaky flatbread. This recipe is anti-inflammatory-friendly and a great option for a healthy meal.",
+  "cuisine": "turkish",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced steak",
+      "amount": "450g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "whisk",
+      "amount": "1",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine the minced steak, all-purpose flour, water, olive oil, onion, garlic, lemon juice, salt, and black pepper in a bowl. Mix well until the ingredients are just combined.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 2 equal portions and shape each portion into a ball.",
+    "Roll out each ball of dough into a thin circle, about 10 inches in diameter.",
+    "Heat a non-stick skillet over medium-high heat and cook the flatbread for 1-2 minutes on each side, until it's charred and crispy.",
+    "Transfer the flatbread to a baking sheet and top it with the minced steak mixture, leaving a 1-inch border around the edges.",
+    "Bake the flatbread in a preheated oven at 425°F (220°C) for 10-12 minutes, until the steak is cooked through and the flatbread is golden brown.",
+    "Remove the flatbread from the oven and garnish it with a whisk.",
+    "Let the flatbread cool for a few minutes before slicing and serving.",
+    "Slice the flatbread into wedges and serve it hot, garnished with additional lemon wedges if desired.",
+    "Garnish with chopped fresh herbs like parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dinner",
+    "flatbread",
+    "healthy",
+    "meat",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "turkish-charred-flaky-minced-steak-flatbread",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/turkish-charred-flaky-minced-steak-flatbread",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "whisk",
+    "primaryIngredient": "lean minced steak",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "minced steak",
+    "descriptor": "charred flaky",
+    "dishForm": null
+  }
+}

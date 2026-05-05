@@ -1,0 +1,113 @@
+{
+  "title": "tender show-off dutch mozzarella fritters",
+  "description": "yeasty, silky, show-off dutch dish featuring mozzarella balls, robata-grill, nut-free-friendly",
+  "cuisine": "dutch",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and yeast in a bowl. ",
+    "Add warm milk and mix until a smooth batter forms. ",
+    "Beat in eggs and melted butter. ",
+    "Knead the dough for 5 minutes. ",
+    "Rest the dough for 1 hour. ",
+    "Divide the dough into 8 equal pieces. ",
+    "Roll each piece into a ball. ",
+    "Flatten a ball slightly and place a mozzarella ball in the center. ",
+    "Top with grated carrot and zucchini. ",
+    "Close the dough around the filling, pressing edges to seal. ",
+    "Heat a tava-griddle over medium-high heat. ",
+    "Cook fritters for 2-3 minutes on each side. ",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 10,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "dutch",
+    "easy-to-make",
+    "fritters",
+    "mozzarella",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-show-off-dutch-mozzarella-fritters",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-show-off-dutch-mozzarella-fritters",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "robata-grill",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "dutch",
+    "mainIngredient": "mozzarella",
+    "descriptor": "tender show-off",
+    "dishForm": "fritters"
+  }
+}
