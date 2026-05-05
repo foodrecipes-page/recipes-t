@@ -458,6 +458,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-russian-minced-steak-pierogi",
+    "title": "Tangy Creamy Russian Minced Steak Pierogi",
+    "tags": [
+      "high-protein",
+      "low-calorie",
+      "one-pan",
+      "russian-cuisine",
+      "show-off-dish",
+      "winter-special"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-salmon-stir-fry",
     "title": "Tangy Creamy Salmon Stir-fry",
     "tags": [

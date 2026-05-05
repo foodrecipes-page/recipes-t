@@ -1,0 +1,120 @@
+{
+  "title": "Tangy Creamy Russian Minced Steak Pierogi",
+  "description": "A show-off Russian dish featuring lean minced steak, wrapped in a delicate leaf and steamed to perfection. This recipe is low in calories and perfect for a special occasion.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g lean minced beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "250g saut\u00180ed onions",
+      "amount": "250g",
+      "notes": "cooled"
+    },
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sour cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 eggs",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pierogi dough wrapper leaves",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine minced beef, saut\u00180ed onions, flour, salt, black pepper, and sugar in a large bowl.",
+    "Mix in sour cream, chopped fresh dill, and eggs until just combined.",
+    "Knead the mixture for 5 minutes until smooth.",
+    "Divide the mixture into 12 equal pieces.",
+    "Roll out each piece into a ball and flatten slightly into a disk shape.",
+    "Place a disk of dough wrapper in the center of each ball of filling.",
+    "Fold the dough wrapper over the filling to form a half-moon shape and press edges to seal.",
+    "Repeat with remaining dough and filling.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes or until they float to the surface.",
+    "Serve with a dollop of sour cream and a sprinkle of chopped fresh dill.",
+    "Optional: pan-fry the pierogi in butter until golden brown on both sides.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "low-calorie",
+    "one-pan",
+    "russian-cuisine",
+    "show-off-dish",
+    "winter-special"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tangy-creamy-russian-minced-steak-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-russian-minced-steak-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lean minced steak",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "minced steak",
+    "descriptor": "tangy creamy",
+    "dishForm": "Pierogi"
+  }
+}
