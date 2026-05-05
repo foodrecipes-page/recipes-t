@@ -1,0 +1,90 @@
+{
+  "title": "Truffle Oil Comforting Brazilian Garlicky Fried Rice",
+  "description": "A comforting Brazilian dish featuring truffle oil, garlicky flavors, and a glassy-jelly texture, making it a great Jain-friendly option for a satisfying meal.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 teaspoons",
+      "notes": "can be adjusted to taste"
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "quarter cup ",
+      "notes": "",
+      "},{": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the diced onions and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Pour in the truffle oil and stir-fry for 2-3 minutes, until the rice is well coated.",
+    "Create four holes in the rice mixture, then crack an egg into each hole.",
+    "Use the spatula to scramble the eggs and mix them into the rice, then stir-fry for an additional 2 minutes.",
+    "Add the chopped cilantro and salt to the rice mixture, and stir-fry for 1 minute.",
+    "Serve the fried rice hot with additional truffle oil to taste, if desired.",
+    "Garnish with a sprinkle of cilantro and a drizzle of truffle oil, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "jain-friendly",
+    "one-pan",
+    "south-american",
+    "truffle-oil",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "truffle-oil-comforting-brazilian-garlicky-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/truffle-oil-comforting-brazilian-garlicky-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "truffle oil",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "garlicky",
+    "descriptor": "truffle oil comforting",
+    "dishForm": "Fried-Rice"
+  }
+}
