@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Canadian Applesauce Bake",
+  "description": "A tangy and fluffy Canadian-inspired dessert featuring applesauce and bhuna spices, perfect for a special treat. This recipe is Jain-friendly and can be easily customized to suit your taste preferences.",
+  "cuisine": "Canadian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Applesauce",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Bhuna spice blend",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Prepare a 9x9-inch baking dish by greasing it with butter or non-stick spray.",
+    "In a large mixing bowl, whisk together flour, sugar, and salt.",
+    "Add the melted butter, eggs, vanilla extract, and bhuna spice blend to the dry ingredients. Mix until just combined.",
+    "Stir in the applesauce until well combined.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 40-45 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before dusting with confectioners sugar.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "dessert",
+    "easy-to-make",
+    "sweet-tooth",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tangy-canadian-applesauce-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-canadian-applesauce-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:05:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "bhuna",
+    "primaryIngredient": "applesauce",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "applesauce",
+    "descriptor": "tangy",
+    "dishForm": "Bake"
+  }
+}

@@ -215,6 +215,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-canadian-applesauce-bake",
+    "title": "Tangy Canadian Applesauce Bake",
+    "tags": [
+      "canadian",
+      "dessert",
+      "easy-to-make",
+      "sweet-tooth",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-cheesy-kenyan-eggs-frittata",
     "title": "Tangy Cheesy Kenyan Eggs Frittata",
     "tags": [
