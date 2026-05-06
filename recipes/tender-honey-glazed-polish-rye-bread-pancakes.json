@@ -1,0 +1,90 @@
+{
+  "title": "Tender Honey-glazed Polish Rye bread Pancakes",
+  "description": "Buttery, creamy, kid-friendly Polish dish featuring honey, low-glycemic-friendly, and a unique vessel - the scallop shell.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rye bread, cubed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": "low-glycemic-friendly"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "dairy or non-dairy, depending on preference"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together eggs, milk, honey, and melted butter until well combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "low-glycemic",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tender-honey-glazed-polish-rye-bread-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-honey-glazed-polish-rye-bread-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:12:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "spherify",
+    "primaryIngredient": "honey",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Rye bread",
+    "descriptor": "Tender Honey-glazed",
+    "dishForm": "Pancakes"
+  }
+}
