@@ -1,0 +1,97 @@
+{
+  "title": "Tasty Charred Fluffy Wood Ear Mushroom Tagine",
+  "description": "An energizing Moroccan dish featuring wood ear mushrooms that are charred and infused with aromatic spices for a delightful gluten-free breakfast or snack.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups fresh wood ear mushrooms",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup unsalted butter",
+      "amount": ""
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon paprika",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large skillet over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Stir in tomato paste and spices. Cook for another minute.",
+    "Fold in mushrooms and water; cover tightly with a lid.",
+    "Cook for 10-12 minutes or until the mushrooms are charred on the outside and tender on the inside.",
+    "Remove from heat, let sit for 5 minutes, then fluff mushrooms using a mortar and pestle.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "fluffy",
+    "gluten-free",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 10,
+    "carbs": 39,
+    "fat": 9
+  },
+  "slug": "tasty-charred-fluffy-wood-ear-mushroom-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-charred-fluffy-wood-ear-mushroom-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T03:07:02Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "wood ear mushrooms",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Wood Ear Mushrooms",
+    "descriptor": "Charred Fluffy",
+    "dishForm": "Tagine"
+  }
+}
