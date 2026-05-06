@@ -1,0 +1,83 @@
+{
+  "title": "TSmoky Grilled Sumac Syrian Quesadilla",
+  "description": "A quick and savory weeknight dish featuring sumac-spiced grilled cheese filled with tangy yogurt sauce and summer savoury leaves.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese",
+      "amount": "100 grams"
+    },
+    {
+      "name": "Sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spring Savoury Leaves (Sumaurec)",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "Yogurt Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Mix cheese with sumac, spring savoury leaves, yogurt sauce, olive oil, garlic powder, salt, and pepper to form a filling.",
+    "Heat grill or pan on medium-high heat. Place the filled cheese in the hot grill until the cheese is melted and slightly crispy.",
+    "Once done, let it rest for 1 minute before slicing into wedges.",
+    "Serve with additional sumac and garlic powder as desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "quick-dinner",
+    "raw-friendly",
+    "sumac-spiced",
+    "yakimono-style"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 14,
+    "fat": 33
+  },
+  "slug": "tsmoky-grilled-sumac-syrian-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tsmoky-grilled-sumac-syrian-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:07:06Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Sumac",
+    "descriptor": "Smoky Grilled",
+    "dishForm": "Quesadilla"
+  }
+}

@@ -6618,6 +6618,20 @@
     "shard": "t"
   },
   {
+    "slug": "tsmoky-grilled-sumac-syrian-quesadilla",
+    "title": "TSmoky Grilled Sumac Syrian Quesadilla",
+    "tags": [
+      "grilled-cheese",
+      "quick-dinner",
+      "raw-friendly",
+      "sumac-spiced",
+      "yakimono-style"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "turkey-neck-fiesta",
     "title": "Turkey Neck Fiesta",
     "tags": [
