@@ -1,0 +1,128 @@
+{
+  "title": "Tangy Silky Canadian Lime Bisquettes",
+  "description": "A tangy, silky crowd-pleaser featuring lime and a hint of Canadian twist, perfect for broiling in the comfort of your own home.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower florets",
+      "amount": "12 oz",
+      "notes": "Medium-sized head of cauliflower, broken into florets."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed lime juice for optimal flavor."
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp",
+      "notes": "A hint of sweetness to balance the tanginess."
+    },
+    {
+      "name": "Ginger powder",
+      "amount": "1 tsp",
+      "notes": "Adds a warm, spicy depth to the dish."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Complementing the ginger with a mellow, savory flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "A pinch of salt to bring out the natural flavors."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": "A sprinkle of black pepper for added depth."
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tsp",
+      "notes": "Healthy oil for broiling and adding moisture."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "Garnish with chopped cilantro for a pop of color and freshness."
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tsp",
+      "notes": "Grated lime zest for added citrusy aroma."
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1 tsp",
+      "notes": "A drizzle of balsamic vinegar for a tangy, sweet contrast."
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "4",
+      "notes": "Sliced mushrooms for added texture and umami flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat your broiler to high heat. ",
+    "Line a baking sheet with parchment paper, leaving enough space for the bisquettes to spread out. ",
+    "Toss the cauliflower florets with avocado oil, salt, black pepper, and a pinch of garlic powder until they're evenly coated. ",
+    "Arrange the cauliflower mixture on the prepared baking sheet, leaving a little space between each floret. ",
+    "In a small bowl, whisk together lime juice, maple syrup, ginger powder, and a pinch of salt. ",
+    "Brush the mixture evenly over the cauliflower florets, making sure to get some lime juice on each piece. ",
+    "Sprinkle the chopped cilantro and grated lime zest over the cauliflower. ",
+    "Drizzle the balsamic vinegar over the cauliflower, but be careful not to make it too soggy. ",
+    "Broil the cauliflower for 5-7 minutes, or until it's tender and slightly caramelized. ",
+    "Meanwhile, toss the sliced shiitake mushrooms with a pinch of garlic powder and a sprinkle of salt. ",
+    "Add the mushrooms to the baking sheet with the cauliflower and broil for another 2-3 minutes, or until they're tender and fragrant. ",
+    "Remove the bisquettes from the oven and let them cool for a few minutes. ",
+    "Serve warm, garnished with additional cilantro if desired.",
+    "Repeat the process with the remaining ingredients, if needed.",
+    "Adjust seasoning and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiler",
+    "canadian",
+    "one-pan",
+    "shojin-friendly",
+    "vegan-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "tangy-silky-canadian-lime-bisquettes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-silky-canadian-lime-bisquettes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:56:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "broil",
+    "primaryIngredient": "lime",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lime",
+    "descriptor": "Tangy Silky",
+    "dishForm": "Bisquettes"
+  }
+}

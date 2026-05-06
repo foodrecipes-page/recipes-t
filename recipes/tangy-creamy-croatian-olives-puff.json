@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Creamy Croatian Olives Puff",
+  "description": "A quick and easy keto-friendly dish featuring green olives and flaky lamination puff, perfect for a weeknight dinner",
+  "cuisine": "croatian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\b8f (200\rc).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a medium bowl, mix together the cream cheese, garlic, parsley, feta cheese, lemon juice, salt, and black pepper.",
+    "Spread the cream cheese mixture evenly over the center of the puff pastry, leaving a 1-inch border around the edges.",
+    "Add the green olives on top of the cream cheese mixture, leaving some space between each olive.",
+    "Fold the edges of the puff pastry over the filling, pressing gently to seal.",
+    "Brush the top of the puff pastry with a little bit of water and use a knife to make a few slashes in the top to allow steam to escape.",
+    "Bake the puff in the preheated oven for 25-30 minutes, or until golden brown.",
+    " Remove the puff from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "keto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "tangy-creamy-croatian-olives-puff",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-croatian-olives-puff",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:55:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "green olives",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "olives",
+    "descriptor": "tangy creamy",
+    "dishForm": "Puff"
+  }
+}

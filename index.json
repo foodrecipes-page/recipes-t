@@ -453,6 +453,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-croatian-olives-puff",
+    "title": "Tangy Creamy Croatian Olives Puff",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "keto",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-irish-soda-bread-gratin",
     "title": "Tangy Creamy Irish Soda Bread Gratin",
     "tags": [
@@ -2750,6 +2764,22 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-silky-canadian-lime-bisquettes",
+    "title": "Tangy Silky Canadian Lime Bisquettes",
+    "tags": [
+      "broiler",
+      "canadian",
+      "one-pan",
+      "shojin-friendly",
+      "vegan-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
