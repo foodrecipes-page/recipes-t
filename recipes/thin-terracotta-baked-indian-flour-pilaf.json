@@ -1,0 +1,109 @@
+{
+  "title": "Thin Terracotta Baked Indian Flour Pilaf",
+  "description": "A light and fragrant Indian-inspired dish made with plain flour, perfect for a quick weeknight meal. This pilaf is free from common FODMAPs, making it a great option for those with digestive sensitivities.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plain Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee or Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mother Sauce Base (see Notes)",
+      "amount": "2 tablespoons",
+      "notes": "see notes section for mother sauce recipe"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee or oil in a terracotta dish over medium-high heat.",
+    "Add the cumin seeds and cook for 1-2 minutes until fragrant.",
+    "Add the chopped onion and cook until lightly browned, about 5-7 minutes.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the plain flour and cook for 1-2 minutes until lightly browned.",
+    "Add the turmeric and salt to taste, and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 10-15 minutes or until the pilaf is cooked through.",
+    "Stir in the mother sauce base, fresh cilantro, and lime juice.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "indian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "thin-terracotta-baked-indian-flour-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thin-terracotta-baked-indian-flour-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:03:09Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "plain flour",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "flour",
+    "descriptor": "Thin Terracotta Baked",
+    "dishForm": "Pilaf"
+  }
+}
