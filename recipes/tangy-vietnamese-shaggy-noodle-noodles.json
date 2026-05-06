@@ -1,0 +1,66 @@
+{
+  "title": "Tangy Vietnamese Shaggy Noodle Delight",
+  "description": "A unique and tangy dish that combines the flavors of plum jam, lacquer-glaze and paleo-friendly shaggy noodles. Perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shaggy Noodles",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Plum Jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lacquer-Glaze",
+      "amount": "1/4 cup",
+      "notes": "(homemade or store-bought)"
+    }
+  ],
+  "instructions": [
+    "Cook shaggy noodles according to package instructions. In a separate pan, heat the plum jam and lacquer-glaze over medium heat until warm and syrupy.",
+    "Add the plum jam and lacquer-glaze mixture to the cooked noodles and toss to combine.",
+    "Transfer the noodle mixture to a serving dish and garnish with sesame seeds and chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paleo-friendly",
+    "shaggy-noodles",
+    "tangy",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "slug": "tangy-vietnamese-shaggy-noodle-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-vietnamese-shaggy-noodle-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:53:15Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "plum jam",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "shaggy noodle",
+    "descriptor": "tangy",
+    "dishForm": "Noodles"
+  }
+}
