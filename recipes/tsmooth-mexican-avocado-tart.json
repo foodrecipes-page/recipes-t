@@ -1,0 +1,87 @@
+{
+  "title": "Tsmooth Mexican Avocado Tart",
+  "description": "A light and cultured Venezuelan dish with a midnight craving appeal featuring ginger garlic paste and spherified avocado.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe avocados",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup ginger garlic paste",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": ""
+    },
+    {
+      "name": "Pinch salt",
+      "amount": ""
+    },
+    {
+      "name": "3 tbsp arrowroot powder",
+      "amount": ""
+    },
+    {
+      "name": "60 ml water",
+      "amount": ""
+    },
+    {
+      "name": "5-7 cherry tomatoes, halved",
+      "amount": "each"
+    },
+    {
+      "name": "1/4 cup chopped cilantro",
+      "amount": "tbsp"
+    }
+  ],
+  "instructions": [
+    "Blend avocados until smooth.",
+    "Add ginger garlic paste and lime juice. Blend again.",
+    "In a separate bowl, mix arrowroot powder with water to form a slurry.",
+    "Slowly pour the slurry into the avocado mixture while blending.",
+    "Transfer the mixture into individual serving dishes or molds for spherification.",
+    "Spherify the avocado mixture using an ice cream maker or food processor.",
+    "Arrange cherry tomatoes on top of each spherified layer, then sprinkle with cilantro.",
+    "Chill in refrigerator until ready to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crab-night",
+    "dessert",
+    "minimal-waste",
+    "quick-cook",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "tsmooth-mexican-avocado-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tsmooth-mexican-avocado-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:53:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "spherify",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "avocado",
+    "descriptor": "Smooth",
+    "dishForm": "Tart"
+  }
+}
