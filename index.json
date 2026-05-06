@@ -6257,6 +6257,20 @@
     "shard": "t"
   },
   {
+    "slug": "toasty-wholesome-canadian-sauerkraut-pasta",
+    "title": "Toasty Wholesome Canadian Sauerkraut Pasta",
+    "tags": [
+      "canadian-dish",
+      "charred-molten",
+      "jain-friendly",
+      "toasty-wholesome",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "toffee-popcorn-braised-vegan-treat",
     "title": "Toffee Popcorn Braised Vegan Treat",
     "tags": [

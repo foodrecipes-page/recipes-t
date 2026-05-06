@@ -1,0 +1,84 @@
+{
+  "title": "Toasty Wholesome Canadian Sauerkraut Pasta",
+  "description": "A charred, molten crowd-pleaser featuring sauerkraut, tempering-chocolate and jain-friendly ingredients in a pasta dish.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "150g"
+    },
+    {
+      "name": "tempering-chocolate",
+      "amount": "30g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "pepper",
+      "amount": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add garlic cloves and sauté for about 1 minute until fragrant.",
+    "Stir in sauerkraut, salt, pepper, and tempering-chocolate. Cook for another 5 minutes.",
+    "Toss pasta with the sauerkraut mixture and sprinkle cheddar cheese on top.",
+    "Bake in a preheated oven at 180°C (350°F) for 20 minutes until cheese is melted and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dish",
+    "charred-molten",
+    "jain-friendly",
+    "toasty-wholesome",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "toasty-wholesome-canadian-sauerkraut-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-wholesome-canadian-sauerkraut-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T19:09:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sauerkraut",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Sauerkraut",
+    "descriptor": "Wholesome",
+    "dishForm": "Pasta"
+  }
+}
