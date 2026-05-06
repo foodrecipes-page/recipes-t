@@ -1,0 +1,122 @@
+{
+  "title": "Tangy Crisp Algerian Cranberries Tagine",
+  "description": "A flavorful and healthy Algerian-inspired dish featuring dried cranberries, perfect for a lazy Sunday meal. Wok-hei is achieved through the use of a bamboo steamer, resulting in a crisp texture.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dried Cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "can be substituted with a combination of cumin, coriander, and cinnamon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a wok or large skillet over medium-high heat.",
+    "Add the chopped red onion and cook for 3-4 minutes, or until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped cabbage and cook for 5 minutes, or until slightly wilted.",
+    "Add the sliced sweet potatoes, paprika, cumin, salt, and black pepper. Stir to combine.",
+    "Add the dried cranberries, lemon juice, and water. Stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to medium-low and cover with a bamboo steamer.",
+    "Cook for 20-25 minutes, or until the sweet potatoes are tender and the liquid has reduced slightly.",
+    "Fluff the tagine with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "cranberries",
+    "easy-dinner",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "slug": "tangy-crisp-algerian-cranberries-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crisp-algerian-cranberries-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:01:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "wok-hei",
+    "primaryIngredient": "dried cranberries",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Cranberries",
+    "descriptor": "Tangy Crisp",
+    "dishForm": "Tagine"
+  }
+}
