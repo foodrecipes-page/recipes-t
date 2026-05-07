@@ -1,0 +1,125 @@
+{
+  "title": "Tender Tangy Monsoon Venezuelan Fideo Pilaf",
+  "description": "A unique Venezuelan-inspired dish featuring tender fideo pasta, tangy flavors and wok-hei\u00175 charm, all in one pan and ready in under 30 minutes. Inspired by the monsoon flavors of Venezuela, this easy pescatarian-friendly recipe will transport you to the vibrant markets of Caracas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fideo pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fish broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Sear the diced onion until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly.",
+    "Add the diced red bell pepper and cook until tender, about 5 minutes.",
+    "Add the diced tomato, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Add the fideo pasta, fish broth, cumin, and saffron threads. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 8-10 minutes or until the fideo is tender.",
+    "Stir in the freshly squeezed lime juice.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fideo-pasta",
+    "high-protein",
+    "one-pan",
+    "pescatarian",
+    "vietnamese-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 80,
+    "fat": 14
+  },
+  "slug": "tender-tangy-monsoon-venezuelan-fideo-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tangy-monsoon-venezuelan-fideo-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:25:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "wok-hei",
+    "primaryIngredient": "fideo",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Monsoon Venezuelan",
+    "mainIngredient": "Fideo",
+    "descriptor": "Tender Tangy",
+    "dishForm": "Pilaf"
+  }
+}
