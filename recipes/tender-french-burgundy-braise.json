@@ -1,0 +1,101 @@
+{
+  "title": "Tender French Burgundy Braise",
+  "description": "A light and flavorful braised dish from the Burgundy region of France, featuring a rich broth and tender meat.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Chuck (2 lbs)",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion (1 large)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrot (2 medium)",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Celery (2 stalks)",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 300°F (150°C).",
+    "Season the beef chuck with all-purpose seasoning on both sides.",
+    "Heat a large Dutch oven over medium-high heat and brown the beef on all sides, about 5 minutes per side. Remove the browned beef from the pot and set it aside.",
+    "Add the sliced onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the sliced carrots and celery to the pot and cook for 2-3 minutes, until they start to soften.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Return the browned beef to the pot and add the red wine and beef broth.",
+    "Bring the liquid to a simmer, then cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the beef in the oven for 2 hours, or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the braised beef hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "braise",
+    "burgundy",
+    "french",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 52,
+    "carbs": 12,
+    "fat": 23
+  },
+  "slug": "tender-french-burgundy-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-french-burgundy-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:03Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "brine-dry",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "high-protein",
+    "region": "burgundy",
+    "cuisineAdjective": "french",
+    "mainIngredient": "burgundy",
+    "descriptor": "tender",
+    "dishForm": "braise"
+  }
+}

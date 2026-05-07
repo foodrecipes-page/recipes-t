@@ -1,0 +1,121 @@
+{
+  "title": "Tangy Molten American Peaches Pancake",
+  "description": "A date-night American dish featuring peaches, with a tangy and molten center. Can be adapted to be high-protein friendly by using protein-rich milk and eggs.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 1/2 cups all-purpose flour",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 1/2 teaspoons baking powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup granulated sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup protein-rich milk",
+      "amount": "",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "2 teaspoons vanilla extract",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 ripe peaches, diced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup heavy cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon active dry yeast",
+      "amount": "",
+      "notes": "fermented for 24 hours"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine yeast and 1 tablespoon of warm water for 2-3 minutes, or until it becomes frothy.",
+    "In a large bowl, whisk together flour, baking powder, and salt.",
+    "In a separate bowl, whisk together sugar, melted butter, eggs, milk, and vanilla extract.",
+    "Add dry ingredients to wet ingredients and mix until combined.",
+    "Heat a wok or large skillet over medium heat.",
+    "Add a small amount of oil to the wok and swirl it around.",
+    "Pour in the batter and smooth the top with a spatula.",
+    "Cook for 2-3 minutes, or until the edges start to set.",
+    "Transfer the wok to a preheated oven at 375°F (190°C) and bake for 15-20 minutes, or until the pancake is golden brown and cooked through.",
+    "While the pancake is baking, combine honey and heavy cream in a small saucepan and heat over low heat until warm and syrupy.",
+    "Once the pancake is done, remove it from the oven and let it cool for 2-3 minutes.",
+    "Drizzle the warm honey syrup over the pancake and top with diced peaches.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "american",
+    "date-night",
+    "fermented",
+    "high-protein",
+    "molten",
+    "peach"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 24,
+    "carbs": 80,
+    "fat": 30
+  },
+  "slug": "tangy-molten-american-peaches-pancake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-molten-american-peaches-pancake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:23:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "peaches",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "peaches",
+    "descriptor": "Tangy Molten",
+    "dishForm": "Pancake"
+  }
+}

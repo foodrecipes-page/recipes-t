@@ -2643,6 +2643,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-molten-american-peaches-pancake",
+    "title": "Tangy Molten American Peaches Pancake",
+    "tags": [
+      "american",
+      "date-night",
+      "fermented",
+      "high-protein",
+      "molten",
+      "peach"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-monsoon-vegetables-salad",
     "title": "Tangy Monsoon Vegetables Salad",
     "tags": [
@@ -4663,6 +4678,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 250,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-french-burgundy-braise",
+    "title": "Tender French Burgundy Braise",
+    "tags": [
+      "beef",
+      "braise",
+      "burgundy",
+      "french",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
     "shard": "t"
   },
   {
