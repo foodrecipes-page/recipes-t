@@ -1,0 +1,109 @@
+{
+  "title": "Tangy Crispy Peruvian Lamb Secco de Cordero",
+  "description": "A midnight-craving Peruvian dish featuring crispy lamb, spring onions, and a tangy marinade. Paleo-friendly and perfect for a weeknight dinner.",
+  "cuisine": "peruvian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Spring onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Aji amarillo pepper",
+      "amount": "2",
+      "notes": "use 1-2 teaspoons for less heat"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use paleo-friendly oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a blender or food processor, combine lime juice, garlic, aji amarillo peppers, olive oil, salt, and black pepper. Blend until smooth.",
+    "In a large bowl, whisk together the marinade and 2 tablespoons of water. Add the lamb shoulder and coat evenly.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight, flipping the lamb halfway through.",
+    "Remove the lamb from the marinade, letting any excess liquid drip off. ",
+    "Place the lamb on a wire rack set over a rimmed baking sheet or a broiler pan. ",
+    "Roast in the preheated oven for 20 minutes per pound, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "During the last 10 minutes of cooking, increase the oven temperature to broil (high).",
+    "While the lamb is cooking, thinly slice the spring onions and separate them into rings. ",
+    "After the lamb has finished cooking, remove it from the oven and let it rest for 5 minutes. ",
+    "Slice the lamb against the grain into thin strips. ",
+    "To serve, place a portion of the lamb on a plate and top with a spoonful of sliced spring onions and a sprinkle of chopped cilantro.",
+    "Garnish with additional spring onions and cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "paleo",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "tangy-crispy-peruvian-lamb-secco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crispy-peruvian-lamb-secco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "spring onions",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "tangy crispy",
+    "dishForm": "Secco de Cordero"
+  }
+}
