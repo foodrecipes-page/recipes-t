@@ -6115,6 +6115,22 @@
     "shard": "t"
   },
   {
+    "slug": "thai-style-spicy-brazilian-sushi-nigiri",
+    "title": "Thai-Style Spicy Brazilian Sushi Nigiri",
+    "tags": [
+      "brazilian",
+      "cereals",
+      "cuisine",
+      "dessert",
+      "fondue",
+      "sushi",
+      "thai"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "thailand-grill-curry-vegetarian",
     "title": "Thailand Grill Curry Vegetarian",
     "tags": [

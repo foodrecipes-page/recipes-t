@@ -1,0 +1,63 @@
+{
+  "title": "Thai-Style Spicy Brazilian Sushi Nigiri",
+  "description": "A fusion of spicy Thai flavors with the heartiness of traditional Brazilian cuisine, presented in nigiri form using a fondue pot for raw-friendly preparation.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sushi Rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": "Brazilian imported for authentic flavor"
+    }
+  ],
+  "instructions": [
+    "Prepare the fondue pot according to the manufacturer's instructions.",
+    "Heat the Sushi Rice to a safe internal temperature of 145°F (63°C) and set aside.",
+    "In a blender or food processor, puree together the diced Thai Chilies, chopped Cilantro, grated Ginger, and 1 tablespoon of Vegetable Oil until well combined.",
+    "Transfer the Sushi Rice to the fondue pot and mix in the pureed Chilies, Cilantro, and Ginger mixture until the rice is well coated."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "cereals",
+    "cuisine",
+    "dessert",
+    "fondue",
+    "sushi",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "thai-style-spicy-brazilian-sushi-nigiri",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thai-style-spicy-brazilian-sushi-nigiri",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:10:23Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ginger",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "Sushi",
+    "descriptor": "Thai-Style Spicy",
+    "dishForm": "Nigiri"
+  }
+}
