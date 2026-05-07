@@ -1,0 +1,114 @@
+{
+  "title": "Tender Egyptian Porcini Tagine",
+  "description": "Fresh, chewy, and cozy, this Egyptian dish features porcini mushrooms in a flavorful broth, high in protein and easy to make.",
+  "cuisine": "Egyptian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Porcini mushrooms",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tandoori spice mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large tandoor or clay pot over medium heat.",
+    "Add garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add porcini mushrooms and cook for 3-4 minutes, until tender.",
+    "Add chicken broth, tandoori spice mix, salt, and black pepper. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes.",
+    "Stir in parsley, cilantro, lemon juice, and Greek yogurt. Serve hot, garnished with additional parsley and cilantro if desired.",
+    "Serve with rice or naan bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mushroom",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-egyptian-porcini-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-egyptian-porcini-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "tandoor",
+    "primaryIngredient": "porcini",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "porcini",
+    "descriptor": "tender",
+    "dishForm": "Tagine"
+  }
+}

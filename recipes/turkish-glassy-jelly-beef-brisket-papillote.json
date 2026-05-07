@@ -1,0 +1,90 @@
+{
+  "title": "Turkish Glassy-Jelly Beef Brisket Papillote",
+  "description": "A flavorful, one-pan turkey-inspired dish featuring tender beef brisket and a sweet glassy-jelly glaze, served in a paper bag, perfect for a weeknight dinner.",
+  "cuisine": "turkish",
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1 pound"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef brisket with salt, black pepper, and thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 2,
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "turkish",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "turkish-glassy-jelly-beef-brisket-papillote",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/turkish-glassy-jelly-beef-brisket-papillote",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:13:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "papillote",
+    "primaryIngredient": "beef brisket",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "beef brisket",
+    "descriptor": "Glassy-Jelly",
+    "dishForm": null
+  }
+}

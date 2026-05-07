@@ -4475,6 +4475,19 @@
     "shard": "t"
   },
   {
+    "slug": "tender-egyptian-porcini-tagine",
+    "title": "Tender Egyptian Porcini Tagine",
+    "tags": [
+      "high-protein",
+      "mushroom",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-egyptian-semolina-cake",
     "title": "Tender Egyptian Semolina Cake",
     "tags": [
@@ -4840,6 +4853,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-herbal-croatian-cucumber-braise",
+    "title": "Tender Herbal Croatian Cucumber Braise",
+    "tags": [
+      "braised",
+      "croatian",
+      "easy-vegetarian",
+      "summer",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 65,
     "shard": "t"
   },
   {
@@ -6813,6 +6840,22 @@
     ],
     "cuisine": "turkish",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "turkish-glassy-jelly-beef-brisket-papillote",
+    "title": "Turkish Glassy-Jelly Beef Brisket Papillote",
+    "tags": [
+      "beef",
+      "high-protein",
+      "one-pan",
+      "paleo",
+      "turkish",
+      "weeknight",
+      "whole30"
+    ],
+    "cuisine": "turkish",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
