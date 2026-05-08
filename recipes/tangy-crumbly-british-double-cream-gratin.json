@@ -1,0 +1,96 @@
+{
+  "title": "Tangy Crumbly British Double Cream Gratin",
+  "description": "A hearty, comforting dish featuring a tangy and crumbly double cream topping, perfect for meal prep.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Double cream",
+      "amount": "500 ml",
+      "notes": ""
+    },
+    {
+      "name": "Gruy\u00120 cheese",
+      "amount": "200 g",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50 g",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "50 g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "150 g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180\u0013C (350\u001f F).",
+    "In a large mixing bowl, combine the double cream, Gruy\u00120 cheese, and salt. Mix until smooth and well combined.",
+    "In a separate bowl, mix the flour and unsalted butter to form a crumbly mixture.",
+    "Press the crumbly mixture into the bottom of a 20 cm (8 in) clay pot or Talavera-plate.",
+    "Pour the double cream mixture over the crumbly base.",
+    "Sprinkle the shredded mozzarella cheese on top of the double cream mixture.",
+    "Place the clay pot or Talavera-plate in a larger baking dish and add hot water to come halfway up the sides of the pot.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the centre is set.",
+    "Let the gratin cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "gratin",
+    "meal-prep",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "tangy-crumbly-british-double-cream-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crumbly-british-double-cream-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:11Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "double cream",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "double cream",
+    "descriptor": "tangy crumbly",
+    "dishForm": "gratin"
+  }
+}
