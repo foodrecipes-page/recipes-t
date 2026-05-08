@@ -4243,6 +4243,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-toasty-french-kanten-agar-tartiflette",
+    "title": "Toasty French Kanten Agar Tartiflette",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "one-pan",
+      "vegan-friendly",
+      "vegetarian-dish",
+      "weeknight-meal"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-toasty-spanish-malai-croquetas",
     "title": "Toasty Spanish Malai Croquetas",
     "tags": [

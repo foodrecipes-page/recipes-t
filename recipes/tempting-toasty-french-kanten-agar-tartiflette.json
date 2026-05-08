@@ -1,0 +1,108 @@
+{
+  "title": "Toasty French Kanten Agar Tartiflette",
+  "description": "A cozy French dish featuring kanten agar, soffritto base, and ayurvedic sattvic friendly ingredients, formed into a tartiflette.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kanten agar",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion, minced garlic, chopped carrots, and chopped celery, and cook until the vegetables are tender.",
+    "In a separate pot, boil the chopped potatoes until they are tender, then drain and set aside.",
+    "In a small bowl, mix together the kanten agar and 2 cups of water, and let it sit for 5 minutes to soften.",
+    "Add the softened kanten agar to the saucepan with the vegetables, and stir to combine.",
+    "Add the cooked potatoes, salt, and black pepper to the saucepan, and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish, and top with chopped fresh parsley.",
+    "Bake the tartiflette in the preheated oven for 25 minutes, or until it is lightly browned and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tempting-toasty-french-kanten-agar-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasty-french-kanten-agar-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:17:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "kanten-agar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "kanten agar",
+    "descriptor": "Tempting Toasty",
+    "dishForm": "Tartiflette"
+  }
+}
