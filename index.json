@@ -2521,6 +2521,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-kenyan-tofu-curry",
+    "title": "Tangy Kenyan Tofu Curry",
+    "tags": [
+      "cazuela-cooking",
+      "curry-dishes",
+      "kenyan-cuisine",
+      "tofu-recipes",
+      "vegetarian-meals"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-light-algerian-lentil-tagine",
     "title": "Tangy Light Algerian Lentil Tagine",
     "tags": [

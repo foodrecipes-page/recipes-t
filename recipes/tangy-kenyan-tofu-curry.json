@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Kenyan Tofu Curry",
+  "description": "A light and flavorful Kenyan dish featuring tofu in a tangy curry sauce, made with mustard and a blend of spices, served in a cazuela.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large cazuela over medium heat.",
+    "Add the onion and cook until it is translucent and starting to brown.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the curry powder and mustard seeds and cook for 1 minute, stirring constantly.",
+    "Add the tofu and cook until it is lightly browned on all sides.",
+    "Add the coconut milk, tomato paste, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the sauce has thickened and the flavors have melded together.",
+    "Reduce the heat to low and cook for an additional 10 minutes, stirring occasionally.",
+    "Serve the curry hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-cooking",
+    "curry-dishes",
+    "kenyan-cuisine",
+    "tofu-recipes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tangy-kenyan-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-kenyan-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:56:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "tofu",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "tofu",
+    "descriptor": "tangy mustardy",
+    "dishForm": "Curry"
+  }
+}
