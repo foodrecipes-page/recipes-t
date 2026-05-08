@@ -1,0 +1,103 @@
+{
+  "title": "Tender Croatian Pork Paella",
+  "description": "A garlicky and flavorful Croatian dish featuring pork, applesauce, and papillote, perfect for a crowd, this recipe is also diabetic friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "saffron",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat the olive oil in a large paella pan over medium high heat.",
+    "Add the pork to the paella pan and cook until browned on all sides.",
+    "Add the smoked sausage to the paella pan and cook for 2 minutes.",
+    "Add the garlic, paprika, salt, and black pepper to the paella pan and cook for 1 minute.",
+    "Add the chicken broth, saffron, and applesauce to the paella pan and stir to combine.",
+    "Cover the paella pan with foil and transfer to the preheated oven.",
+    "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove the paella pan from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "crowd-pleaser",
+    "diabetic-friendly",
+    "garlicky",
+    "one-pan",
+    "pork-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-croatian-pork-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-croatian-pork-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "papillote",
+    "primaryIngredient": "applesauce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "tender garlicky",
+    "dishForm": "Paella"
+  }
+}

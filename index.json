@@ -5449,6 +5449,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-croatian-pork-paella",
+    "title": "Tender Croatian Pork Paella",
+    "tags": [
+      "croatian-cuisine",
+      "crowd-pleaser",
+      "diabetic-friendly",
+      "garlicky",
+      "one-pan",
+      "pork-recipe"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-croatian-rigatoni-pasta",
     "title": "Tender Croatian Rigatoni Pasta",
     "tags": [
