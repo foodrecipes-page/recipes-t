@@ -1,0 +1,95 @@
+{
+  "title": "Tender Braised Chinese Napa Cabbage Bao",
+  "description": "A savory and light Chinese dish featuring braised napa cabbage in a sweet and sour brine, served in a fluffy bao bun, perfect for a weeknight dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "2 heads",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bao buns",
+      "amount": "8-10 buns"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the sesame oil over medium heat and add the sliced ginger and cook until fragrant",
+    "Add the pork belly and cook until browned on all sides",
+    "Add the napa cabbage, soy sauce, and rice vinegar to the pot and stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes",
+    "While the cabbage is cooking, steam the bao buns according to package instructions",
+    "To assemble the bao, slice the cooked pork belly into thin strips and add to the steamed buns",
+    "Add a spoonful of the braised napa cabbage to each bun",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "braised-dishes",
+    "chinese-food",
+    "low-carb",
+    "one-pot",
+    "sugar-free",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-braised-chinese-napa-cabbage-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-braised-chinese-napa-cabbage-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:13:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "napa cabbage",
+    "diet": "sugar-free",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "tender braised",
+    "dishForm": "Bao"
+  }
+}
