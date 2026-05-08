@@ -1,0 +1,103 @@
+{
+  "title": "Tempting Dense Slovakian Stracciatella Cheese Pasta",
+  "description": "A floral and dense Slovakian dish featuring stracciatella cheese, perfect for crowds, with a dairy-free friendly option. This dish is a crowd-pleaser and can be made with minimal adjustments for dairy-free diets.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stracciatella cheese",
+      "amount": "8 oz",
+      "notes": "or dairy-free alternative"
+    },
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "preferably Slovakian style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the stracciatella cheese to the skillet and stir until melted and smooth.",
+    "Add the cooked pasta to the skillet and toss with the cheese sauce.",
+    "Stir in the pasta water and lemon juice to create a creamy emulsion.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with fresh parsley and serve hot.",
+    "For a dairy-free option, substitute the stracciatella cheese with a dairy-free alternative.",
+    "Adjust the amount of pasta water to achieve the desired consistency.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dairy-free-friendly",
+    "one-pot",
+    "pasta-lover",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tempting-dense-slovakian-stracciatella-cheese-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-dense-slovakian-stracciatella-cheese-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:59:12Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "stracciatella cheese",
+    "descriptor": "Tempting Dense",
+    "dishForm": "Pasta"
+  }
+}
