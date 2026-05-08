@@ -4014,6 +4014,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-crumbly-jamaican-white-cabbage-hash",
+    "title": "Tasty Crumbly Jamaican White Cabbage Hash",
+    "tags": [
+      "broiled-dish",
+      "crunchy-texture",
+      "flexitarian-friendly",
+      "jamaican-cuisine",
+      "quick-fix",
+      "vegetarian-option"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-dutch-barley-wrap",
     "title": "Tasty Dutch Barley Wrap",
     "tags": [
