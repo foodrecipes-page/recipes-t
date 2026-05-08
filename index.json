@@ -3852,6 +3852,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-canadian-pak-choi-fried-rice",
+    "title": "Tasty Canadian Pak Choi Fried Rice",
+    "tags": [
+      "canadian-cuisine",
+      "easy-meal",
+      "fried-rice",
+      "ovo-vegetarian",
+      "quick-fix",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-char-grilled-yang-bean-banh-xeo",
     "title": "Tasty Char-Grilled-Yang Bean Banh-Xeo",
     "tags": [
