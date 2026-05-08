@@ -1,0 +1,96 @@
+{
+  "title": "Tender Fermented Norwegian Mung Bean Sprouts Wrap",
+  "description": "A chewy, fermented meal-prep dish featuring mung bean sprouts, steamed in a leaf wrap, inspired by traditional Norwegian cuisine. This recipe is satvik-friendly and packed with protein.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mung beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brown rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Leaf wraps",
+      "amount": "4"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the mung beans and soak them in water for at least 4 hours or overnight.",
+    "Drain and rinse the mung beans, then transfer them to a blender or food processor with 2 cups of water.",
+    "Blend the mung beans and water until they are fully broken down and the mixture is smooth.",
+    "Transfer the mixture to a large bowl and add the brown rice vinegar, coconut sugar, turmeric powder, and salt. Mix well.",
+    "Cover the bowl with a cloth and let it sit in a warm place for 24-48 hours to ferment.",
+    "After fermentation, strain the mixture through a cheesecloth or a fine-mesh sieve into a large bowl. Discard the solids.",
+    "Cut the leaf wraps into large squares and place a few tablespoons of the fermented mung bean mixture on each square.",
+    "Add a sprinkle of fresh cilantro and a drizzle of avocado oil on top of the filling.",
+    "Fold the leaf wraps over the filling to enclose and steam them for 5-7 minutes or until the leaves are tender.",
+    "Serve the fermented mung bean wraps warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 7,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "tender-fermented-norwegian-mung-bean-sprouts-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-fermented-norwegian-mung-bean-sprouts-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T19:50:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Mung bean sprouts",
+    "descriptor": "Tender Fermented",
+    "dishForm": "Wrap"
+  }
+}
