@@ -1,0 +1,102 @@
+{
+  "title": "Tangy Juicy Moroccan Fromage Blanc Bissara",
+  "description": "A traditional Moroccan dish featuring fromage blanc, reduced to perfection, with a grassy and juicy flavor profile, this bissara is a nostalgic treat, ayurvedic tamasic friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fromage blanc",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the fromage blanc, lemon juice, olive oil, paprika, salt, and black pepper until smooth.",
+    "Add the chopped parsley, cilantro, and green garlic to the bowl and mix until well combined.",
+    "Gradually add the water to the bowl, whisking continuously until the desired consistency is reached.",
+    "Reduce the mixture over low heat, stirring frequently, until it has thickened slightly and reduced by about half.",
+    "Remove the bissara from the heat and let it cool to room temperature.",
+    "Serve the bissara chilled, garnished with additional parsley and cilantro if desired.",
+    "Refrigerate any leftovers for up to 24 hours.",
+    "Before serving, give the bissara a good stir and adjust the seasoning if necessary."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy-snack",
+    "moroccan-cuisine",
+    "tangy-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "tangy-juicy-moroccan-fromage-blanc-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-moroccan-fromage-blanc-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "reduce",
+    "primaryIngredient": "fromage-blanc",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fromage blanc",
+    "descriptor": "tangy juicy",
+    "dishForm": "Bissara"
+  }
+}
