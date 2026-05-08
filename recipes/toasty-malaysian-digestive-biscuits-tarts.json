@@ -1,0 +1,91 @@
+{
+  "title": "Toasty Malaysian Digestive Biscuits Tarts",
+  "description": "A quick and easy snack featuring buttery, crisp digestive biscuits, perfect for a weeknight treat.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C) and line a baking sheet with parchment paper.",
+    "Place the digestive biscuits on a flat surface and crush them using a rolling pin or a glass.",
+    "In a mixing bowl, cream together the unsalted butter and sugar until light and fluffy.",
+    "Beat in the vanilla extract and egg until well combined.",
+    "Add the milk, cinnamon powder, and baking powder, mixing until a smooth dough forms.",
+    "Gradually add the crushed biscuits to the dough, mixing until a sticky dough is formed.",
+    "Shape the dough into small balls and place them on the prepared baking sheet.",
+    "Bake for 15 minutes or until golden brown.",
+    "Allow the tarts to cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "high-calorie",
+    "malaysian",
+    "one-pan",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "toasty-malaysian-digestive-biscuits-tarts",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-malaysian-digestive-biscuits-tarts",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:39:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "emulsify",
+    "primaryIngredient": "digestive biscuits",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "Digestive Biscuits",
+    "descriptor": "Toasty",
+    "dishForm": "Tarts"
+  }
+}
