@@ -1,0 +1,109 @@
+{
+  "title": "Tender Tunisian Turkey Neck Tagine",
+  "description": "A rich and indulgent Tunisian dish featuring tender turkey neck, this tagine is a low-carb friendly option for a special occasion. The combination of spices and slow cooking creates a fatty and pillowy texture.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey neck",
+      "amount": "2 pounds",
+      "notes": "skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the bottom of a clay or ceramic tagine or a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is softened and lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the cumin, coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the turkey neck and cook until it is browned on all sides.",
+    "Add the chicken broth, dried apricots, and preserved lemon.",
+    "Cover the tagine or Dutch oven and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Remove the tagine from the heat and let it cool slightly.",
+    "Serve the turkey neck and sauce over cauliflower rice or zucchini noodles."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "low-carb",
+    "north-african",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "tender-tunisian-turkey-neck-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tunisian-turkey-neck-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:31Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "turkey neck",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "turkey neck",
+    "descriptor": "tender pillowy",
+    "dishForm": "Tagine"
+  }
+}
