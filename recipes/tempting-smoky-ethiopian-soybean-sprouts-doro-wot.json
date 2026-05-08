@@ -1,0 +1,109 @@
+{
+  "title": "Tempting Smoky Ethiopian Soybean Sprouts Doro Wot",
+  "description": "A smoky and romantic Ethiopian dish featuring soybean sprouts, cooked in a clay pot and perfect for a Buddhist temple friendly meal. This cheese-pull doro wot is a unique twist on traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "kongnamul style"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the clay pot over medium heat and add the vegetable oil.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for an additional 2 minutes.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the soybean sprouts and cook for 5 minutes, stirring occasionally.",
+    "Add the tomato paste and water, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season the doro wot with salt and black pepper to taste.",
+    "Serve the doro wot hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "clay-pot",
+    "ethiopian",
+    "romantic",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tempting-smoky-ethiopian-soybean-sprouts-doro-wot",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-smoky-ethiopian-soybean-sprouts-doro-wot",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:55:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Tempting Smoky",
+    "dishForm": "Doro Wot"
+  }
+}

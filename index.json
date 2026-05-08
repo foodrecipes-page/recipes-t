@@ -4570,6 +4570,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-smoky-ethiopian-soybean-sprouts-doro-wot",
+    "title": "Tempting Smoky Ethiopian Soybean Sprouts Doro Wot",
+    "tags": [
+      "buddhist-friendly",
+      "clay-pot",
+      "ethiopian",
+      "romantic",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-smoky-russian-mushroom-tagine",
     "title": "Tempting Smoky Russian Mushroom Tagine",
     "tags": [
@@ -7866,6 +7881,21 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-smoky-italian-mozzarella-pizza",
+    "title": "Toasted Smoky Italian Mozzarella Pizza",
+    "tags": [
+      "italian-food",
+      "kosher-friendly",
+      "lombard-cuisine",
+      "miso-marinate",
+      "mozzarella-cheese",
+      "smoky-flavor"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {

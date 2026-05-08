@@ -1,0 +1,99 @@
+{
+  "title": "Toasted Smoky Italian Mozzarella Pizza",
+  "description": "A charred and aerated solo dinner Italian dish featuring mozzarella, miso marinate, and kosher friendly ingredients, originating from the Lombard region of Italy.",
+  "cuisine": "Italian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 ounces",
+      "notes": "Freshly shredded"
+    },
+    {
+      "name": "Miso Paste",
+      "amount": "2 tablespoons",
+      "notes": "White miso"
+    },
+    {
+      "name": "Pizza Dough",
+      "amount": "1 pound",
+      "notes": "Homemade or store bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Kosher salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Sweet smoked paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit with a baking stone inside, if available.",
+    "Roll out the pizza dough to a thickness of 1/4 inch and place it on a piece of parchment paper.",
+    "In a small bowl, whisk together the miso paste and olive oil to create the miso marinate.",
+    "Brush the miso marinate evenly over the pizza dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the shredded mozzarella cheese over the miso marinate, making sure to stay within the borders.",
+    "Season the pizza with salt, black pepper, and smoked paprika.",
+    "Slide the parchment paper onto the preheated baking stone and bake for 12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the pizza from the oven and sprinkle with chopped fresh basil.",
+    "Let the pizza cool for 2 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "kosher-friendly",
+    "lombard-cuisine",
+    "miso-marinate",
+    "mozzarella-cheese",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "toasted-smoky-italian-mozzarella-pizza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-smoky-italian-mozzarella-pizza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:55:21Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "miso-marinate",
+    "primaryIngredient": "mozzarella",
+    "diet": "kosher",
+    "region": "lombard",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Toasted Smoky",
+    "dishForm": "Pizza"
+  }
+}
