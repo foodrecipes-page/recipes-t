@@ -1,0 +1,103 @@
+{
+  "title": "Tender Malty Korean Mint Anju",
+  "description": "A malty and tender Korean dish from Jeju, featuring fresh mint and a plant-based friendly recipe, perfect for a cozy evening. This anju dish is cut in the traditional katsuramuki style.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean mint leaves",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "malted barley flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cut the tofu into small cubes and set aside.",
+    "Grind the malted barley flour into a fine powder using a blender or food processor.",
+    "Heat the sesame oil in a large pan over medium heat.",
+    "Add the grated ginger and minced garlic to the pan and saute until fragrant.",
+    "Add the tofu cubes to the pan and cook until golden brown.",
+    "Add the soy sauce, rice vinegar, salt, and black pepper to the pan and stir to combine.",
+    "Add the powdered malted barley flour to the pan and stir to combine.",
+    "Chop the fresh Korean mint leaves and add them to the pan.",
+    "Stir everything together and cook for an additional 2 minutes.",
+    "Serve the anju hot, garnished with additional mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-snack",
+    "jeju-inspired",
+    "korean-cuisine",
+    "malty-flavor",
+    "plant-based",
+    "tofu-recipe"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-malty-korean-mint-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malty-korean-mint-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:59:32Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "mint",
+    "diet": "plant-based",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "mint",
+    "descriptor": "tender malty",
+    "dishForm": "Anju"
+  }
+}
