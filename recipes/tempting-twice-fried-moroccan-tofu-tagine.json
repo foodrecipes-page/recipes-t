@@ -1,0 +1,101 @@
+{
+  "title": "Tempting Twice Fried Moroccan Tofu Tagine",
+  "description": "A salty, cheesy, and romantic Moroccan dish featuring gherkin relish and double-fried tofu, served in a dolsot stone bowl.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "All purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegan mozzarella shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a shallow dish, mix together the flour, smoked paprika, salt, and black pepper.",
+    "Toss the tofu cubes in the flour mixture to coat, shaking off excess.",
+    "Double fry the tofu by frying it for 3 minutes, then letting it rest for 5 minutes, and frying it again for an additional 3 minutes.",
+    "In a separate pan, heat a tablespoon of olive oil over medium heat and add the Moroccan spice blend, cooking for 1 minute.",
+    "Add the gherkin relish to the pan and stir to combine with the spice blend.",
+    "Add the double-fried tofu to the pan and toss to coat with the relish and spice blend.",
+    "Transfer the tofu mixture to a dolsot stone bowl and top with vegan mozzarella shreds.",
+    "Place the stone bowl under the broiler and cook until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "double-fried",
+    "moroccan-inspired",
+    "romantic-dinner",
+    "spicy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "tempting-twice-fried-moroccan-tofu-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-twice-fried-moroccan-tofu-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:34:59Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "gherkin relish",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Twice Fried",
+    "dishForm": "Tagine"
+  }
+}
