@@ -1,0 +1,94 @@
+{
+  "title": "Tasty Ukrainian Corn Flatbread",
+  "description": "A sweet and light Ukrainian dish featuring corn arepa filled with mozzarella cheese, perfect for a solo dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "fine ground"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "deglassing liquid",
+      "amount": "1/4 cup",
+      "notes": "such as white wine or stock"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, mix together the cornmeal, salt, and sugar.",
+    "Gradually add in the water, stirring with a fork until the dough comes together.",
+    "Knead the dough for 5 minutes until it is smooth and pliable.",
+    "Divide the dough into 2 equal pieces and shape into balls.",
+    "Roll out each ball into a thin circle, about 1/4 inch thick.",
+    "Heat the olive oil in a large skillet over medium heat and cook the flatbreads for 2-3 minutes on each side, until lightly browned.",
+    "Transfer the flatbreads to a baking sheet and top with mozzarella cheese.",
+    "Bake in the preheated oven for 10-12 minutes, until the cheese is melted and bubbly.",
+    "Remove from the oven and brush with melted butter and deglassing liquid."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tasty-ukrainian-corn-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-ukrainian-corn-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:33:01Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "deglaze",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "corn",
+    "descriptor": "Tasty",
+    "dishForm": "Flatbread"
+  }
+}
