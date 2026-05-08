@@ -4970,6 +4970,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-argentinian-noodles",
+    "title": "Tender Argentinian Noodles",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-australian-collard-salad",
     "title": "Tender Australian Collard Salad",
     "tags": [

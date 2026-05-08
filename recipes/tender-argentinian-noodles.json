@@ -1,0 +1,94 @@
+{
+  "title": "Tender Argentinian Noodles",
+  "description": "Fresh and crispy Argentinian dish featuring flat rice noodles, perfect for a festive meal",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grilled chicken breast",
+      "amount": "1 lb",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the noodles according to package instructions",
+    "In a large skillet, heat the olive oil over medium-high heat",
+    "Add the diced chicken breast to the skillet and cook until browned and cooked through",
+    "Add the sliced red bell pepper and zucchini to the skillet and cook until tender",
+    "In a small bowl, whisk together the lemon juice, salt, and black pepper",
+    "Add the cooked noodles to the skillet and toss with the chicken and vegetables",
+    "Pour the lemon juice mixture over the noodles and toss to combine",
+    "Serve the noodles hot on a slate tile"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-argentinian-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-argentinian-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:48:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "noodles",
+    "descriptor": "tender crispy",
+    "dishForm": "Noodles"
+  }
+}
