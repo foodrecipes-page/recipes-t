@@ -1,0 +1,98 @@
+{
+  "title": "Tender Brazilian Chicken Skewers",
+  "description": "A romantic Brazilian dish featuring herbal and juicy chicken, served in a terracotta dish. This ayurvedic-rajasic-friendly recipe is perfect for a special occasion.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow masarepa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together masarepa, olive oil, lime juice, garlic, oregano, salt, and pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a terracotta dish and broil for 10-12 minutes, or until the chicken is cooked through.",
+    "Garnish with chopped cilantro and serve immediately.",
+    "Let the dish rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "gluten-free",
+    "low-carb",
+    "romantic-dinner",
+    "skewers",
+    "terracotta-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "tender-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:25:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "romantic",
+    "technique": "broil",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender juicy",
+    "dishForm": "Skewers"
+  }
+}
