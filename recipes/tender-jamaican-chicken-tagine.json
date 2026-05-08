@@ -1,0 +1,104 @@
+{
+  "title": "Tender Jamaican Chicken Tagine",
+  "description": "A light and flavorful Jamaican dish featuring chicken cooked in a tagine with a hint of wine, perfect for a date night, this recipe is low in fat and uses kosher salt, and is cooked and served in a bento box.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chicken with kosher salt and black pepper.",
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the chopped onion to the tagine and cook until softened.",
+    "Add the minced garlic to the tagine and cook for 1 minute.",
+    "Add the chicken to the tagine and cook until browned on all sides.",
+    "Add the dry white wine, chicken broth, and dried thyme to the tagine.",
+    "Cover the tagine and transfer it to the preheated oven.",
+    "Bake for 25 minutes or until the chicken is cooked through.",
+    "Stir in the chopped scallions and serve hot in a bento box."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "date-night",
+    "jamaican-cuisine",
+    "low-fat",
+    "tagine-cook",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tender-jamaican-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:03Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "tagine-cook",
+    "primaryIngredient": "kosher salt",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "tender low fat",
+    "dishForm": "Tagine"
+  }
+}
