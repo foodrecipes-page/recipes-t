@@ -1,0 +1,95 @@
+{
+  "title": "Tender Mustardy French Beef Choux Puffs",
+  "description": "A French-inspired dish featuring tender beef and mustardy flavors in a choux puff, perfect for a weeknight dinner. This recipe is sugar-free-friendly and uses a fondue pot as the cooking vessel.",
+  "cuisine": "French",
+  "diet": [
+    "low-sugar",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "brine-dried"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "choux pastry dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 375 degrees Fahrenheit.",
+    "Roll out the choux pastry dough to a thickness of about 1/4 inch.",
+    "Cut out small squares of dough, about 3 inches per side.",
+    "In a large skillet, melt the butter over medium heat and cook the beef strips until browned, about 5 minutes.",
+    "Add the Dijon mustard and vanilla extract to the skillet and stir to combine.",
+    "Spoon a small amount of the beef mixture onto one half of each dough square.",
+    "Fold the other half of the dough square over the filling to form a triangle or square shape, pressing the edges to seal.",
+    "Carefully place the choux puffs into the preheated fondue pot, being careful not to overcrowd.",
+    "Cook the choux puffs for 10-12 minutes, or until golden brown, turning occasionally.",
+    "Serve the choux puffs hot, garnished with grated cheese, chopped parsley, and a side of chicken broth for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "choux-pastry",
+    "french-cuisine",
+    "low-sugar",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-mustardy-french-beef-choux-puffs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-mustardy-french-beef-choux-puffs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:22:35Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "brine-dry",
+    "primaryIngredient": "vanilla",
+    "diet": "sugar-free",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Tender Mustardy",
+    "dishForm": "Choux Puffs"
+  }
+}
