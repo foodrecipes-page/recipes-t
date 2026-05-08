@@ -1,0 +1,95 @@
+{
+  "title": "Tasty British Cheese Ploughmans",
+  "description": "A garlicky, flaky, crowd-pleaser British dish featuring gherkin relish, this ploughmans is a sugar-free friendly option for any meal, made using a bain-marie for a perfectly melted cheese experience.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cheddar cheese",
+      "amount": "200g",
+      "notes": "mild or sharp, as preferred"
+    },
+    {
+      "name": "Butter",
+      "amount": "25g"
+    },
+    {
+      "name": "Gherkin relish",
+      "amount": "100g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten, for brushing pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200C.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "In a small saucepan, melt the butter over low heat in a bain-marie.",
+    "Add the minced garlic to the melted butter and cook for 1 minute, until fragrant.",
+    "Spread the garlic butter mixture evenly over the center of the pastry, leaving a 1 inch border around the edges.",
+    "Slice the cheddar cheese into thin strips and place on top of the garlic butter.",
+    "Spoon the gherkin relish over the cheese.",
+    "Brush the edges of the pastry with the beaten egg.",
+    "Fold the pastry edges up over the filling, pressing gently to seal.",
+    "Place the ploughmans on a baking sheet and bake for 25 minutes, until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "crowd-pleasers",
+    "garlicky-delights",
+    "lunch-ideas",
+    "sugar-free-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tasty-british-cheese-ploughmans",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-british-cheese-ploughmans",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:30:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "bain-marie",
+    "primaryIngredient": "gherkin relish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Tasty Flaky",
+    "dishForm": "Ploughmans"
+  }
+}
