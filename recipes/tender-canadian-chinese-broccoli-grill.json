@@ -1,0 +1,97 @@
+{
+  "title": "Tender Canadian Chinese Broccoli Grill",
+  "description": "A cozy Canadian dish featuring tender Chinese broccoli, a sweet and savory glaze, all grilled to perfection on a binchotan grill, perfect for a low-sodium diet. This dish is a unique fusion of Canadian and Chinese flavors.",
+  "cuisine": "Canadian Chinese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "trimmed"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small saucepan, whisk together honey, soy sauce, rice vinegar, garlic, and ginger.",
+    "Bring the glaze to a simmer over medium heat and cook until it has thickened slightly, about 5 minutes.",
+    "Toss the Chinese broccoli with sesame oil, salt, and black pepper in a large bowl until it is evenly coated.",
+    "Brush the grill with a small amount of sesame oil to prevent sticking.",
+    "Add the Chinese broccoli to the grill and cook for 3-4 minutes per side, or until it is tender and slightly charred.",
+    "Brush the glaze over the Chinese broccoli during the last minute of cooking.",
+    "Remove the broccoli from the grill and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian-chinese",
+    "grilled-vegetables",
+    "healthy-meal",
+    "low-sodium",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "tender-canadian-chinese-broccoli-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-canadian-chinese-broccoli-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "glaze",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chinese broccoli",
+    "descriptor": "tender glazed",
+    "dishForm": "Grill"
+  }
+}

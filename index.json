@@ -4920,6 +4920,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-canadian-chinese-broccoli-grill",
+    "title": "Tender Canadian Chinese Broccoli Grill",
+    "tags": [
+      "canadian-chinese",
+      "grilled-vegetables",
+      "healthy-meal",
+      "low-sodium",
+      "quick-dinner"
+    ],
+    "cuisine": "Canadian Chinese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-canadian-roast-roast",
     "title": "Tender Canadian Roast",
     "tags": [
