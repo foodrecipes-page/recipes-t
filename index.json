@@ -4323,6 +4323,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-toasted-greek-bulgur-wheat-tiropita",
+    "title": "Tasty Toasted Greek Bulgur Wheat Tiropita",
+    "tags": [
+      "gluten-free",
+      "greek-food",
+      "healthy-snack",
+      "kid-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-moroccan-bread-tagine",
     "title": "Tasty Toasted Moroccan Bread Tagine",
     "tags": [

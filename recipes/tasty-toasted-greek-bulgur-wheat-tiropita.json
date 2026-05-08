@@ -1,0 +1,100 @@
+{
+  "title": "Tasty Toasted Greek Bulgur Wheat Tiropita",
+  "description": "A fresh and crisp Greek dish featuring bulgur wheat, perfect for kids, and steam cooked to perfection in a tiropita form, this recipe is gluten free friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the bulgur wheat, feta cheese, kalamata olives, sun dried tomatoes, and fresh parsley.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and pepper.",
+    "Pour the lemon juice mixture over the bulgur wheat mixture and stir until combined.",
+    "Spoon the mixture into a tiropita form or a small ceramic dish.",
+    "Place the dish in a steamer basket and steam for 10 minutes.",
+    "Remove the dish from the steamer and let it cool for a few minutes.",
+    "Serve the tiropita warm, toasted to a golden brown.",
+    "Cut into wedges and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "greek-food",
+    "healthy-snack",
+    "kid-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tasty-toasted-greek-bulgur-wheat-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-toasted-greek-bulgur-wheat-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:10:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "kid-friendly",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "Tasty Toasted",
+    "dishForm": "Tiropita"
+  }
+}
