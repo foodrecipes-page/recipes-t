@@ -1,0 +1,113 @@
+{
+  "title": "Tangy and Silky French Alsatian Apple Gratin",
+  "description": "A creamy, caramelized French apple gratin with a crunchy filo pastry crust, inspired by the flavors of Alsace.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "flexitarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 large",
+      "notes": "Granny Smith or other firm variety"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "white granulated"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "filo pastry",
+      "amount": "1 package",
+      "notes": "thawed, frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into thin wedges.",
+    "In a large mixing bowl, combine the sugar, flour, and cinnamon.",
+    "Add the sliced apples to the bowl and toss to coat with the sugar mixture.",
+    "In a separate bowl, whisk together the cream, eggs, and nutmeg.",
+    "Pour the cream mixture over the apples and sugar mixture, tossing to coat.",
+    "Melt the butter in a small saucepan over medium heat.",
+    "Add the filo pastry to the melted butter and cook for 1-2 minutes on each side, until golden brown.",
+    "Transfer the cooked filo pastry to a 9x13 inch baking dish.",
+    "Pour the apple mixture into the baking dish and smooth the top.",
+    "Top the gratin with the remaining filo pastry, pressing down gently.",
+    "Bake the gratin in the preheated oven for 35-40 minutes, until the top is golden brown and the apples are tender.",
+    "Remove the gratin from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fall-dinner",
+    "high-calorie",
+    "holiday-side",
+    "winter-supper"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tangy-and-silky-french-alsatian-apple-alsatian-apple-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-and-silky-french-alsatian-apple-alsatian-apple-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:57:33Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "filo pastry",
+    "diet": "flexitarian",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "Alsatian Apple",
+    "descriptor": "Tangy and Silky",
+    "dishForm": "Alsatian Apple Gratin"
+  }
+}
