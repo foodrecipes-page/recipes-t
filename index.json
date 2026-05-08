@@ -3937,6 +3937,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-garlicky-mexican-beans-frijoles-charros",
+    "title": "Tasty Garlicky Mexican Beans Frijoles Charros",
+    "tags": [
+      "bean-recipes",
+      "brunch-ideas",
+      "garlic-lovers",
+      "gluten-free",
+      "mexican-food"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 90,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-greek-pepper-fritters",
     "title": "Tasty Greek Pepper Fritters",
     "tags": [
@@ -7213,6 +7227,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-crunchy-australian-seeds-skewers",
+    "title": "Toasted Crunchy Australian Seeds Skewers",
+    "tags": [
+      "australian",
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "seeds",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {

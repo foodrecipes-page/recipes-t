@@ -1,0 +1,95 @@
+{
+  "title": "Tasty Garlicky Mexican Beans Frijoles Charros",
+  "description": "A garlicky and flaky Mexican dish featuring cream of tartar and bonito shave, perfect for a brunch mood. This gluten-free friendly recipe is a twist on traditional frijoles charros.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the soaked pinto beans and transfer them to a large pot with enough water to cover them.",
+    "Bring the water to a boil, then reduce the heat to a simmer and cook the beans for 1 hour, or until they are tender.",
+    "In a large skillet, heat some oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the cream of tartar, bonito flakes, tomato paste, cumin, and salt.",
+    "Add the cooked pinto beans to the skillet and stir to combine with the garlic and spice mixture.",
+    "Reduce heat to low and simmer the frijoles charros for 10 minutes, stirring occasionally.",
+    "Serve the frijoles charros hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bean-recipes",
+    "brunch-ideas",
+    "garlic-lovers",
+    "gluten-free",
+    "mexican-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tasty-garlicky-mexican-beans-frijoles-charros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-garlicky-mexican-beans-frijoles-charros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:49:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "cream of tartar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beans",
+    "descriptor": "Tasty Garlicky",
+    "dishForm": "Frijoles Charros"
+  }
+}

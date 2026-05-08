@@ -1,0 +1,96 @@
+{
+  "title": "Toasted Crunchy Australian Seeds Skewers",
+  "description": "A crispy and indulgent Australian dish featuring toasted seeds, cooked to perfection on a binchotan grill, with a tagine-inspired flavor profile, this recipe is raw-friendly and perfect for a snack or light meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup",
+      "notes": "raw and unsalted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat, around 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the pumpkin seeds, sunflower seeds, and sesame seeds.",
+    "In a small bowl, whisk together the olive oil, lemon juice, smoked paprika, garlic powder, and salt.",
+    "Pour the wet ingredients over the seed mixture and stir until the seeds are evenly coated.",
+    "Thread the seed mixture onto skewers, leaving a small space between each seed.",
+    "Place the skewers on the preheated grill and cook for 5-7 minutes, or until the seeds are toasted and crispy.",
+    "Flip the skewers halfway through the cooking time to ensure even toasting.",
+    "Remove the skewers from the grill and let them cool for a few minutes before serving.",
+    "Serve the toasted seed skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "seeds",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "toasted-crunchy-australian-seeds-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-crunchy-australian-seeds-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:48:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "tagine-cook",
+    "primaryIngredient": "seeds",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "seeds",
+    "descriptor": "toasted crunchy",
+    "dishForm": "Skewers"
+  }
+}
