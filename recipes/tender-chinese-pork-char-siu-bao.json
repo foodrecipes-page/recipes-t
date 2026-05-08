@@ -1,0 +1,98 @@
+{
+  "title": "Tender Chinese Pork Char-Siu Bao",
+  "description": "Herbal, bouncy-qq, crowd-pleaser Chinese (Sichuan) dish featuring white bread mix, robata-grill, keto-friendly.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1.5 pounds",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "White bread mix",
+      "amount": "1 package (2 cups)",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400°F (200°C).",
+    "Cut the pork belly into 1-inch pieces and marinate for at least 30 minutes.",
+    "In a large bowl, combine the white bread mix, egg, sugar, light soy sauce, oyster sauce, and five-spice powder. Mix until just combined.",
+    "Add the marinated pork belly to the bread mix and mix until the meat is evenly coated.",
+    "Divide the dough into 8-10 equal pieces and shape each into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place a tablespoon of the pork filling in the center of each circle and fold the dough over to form a half-moon shape.",
+    "Seal the edges by pressing with a fork and brush with a little water.",
+    "Grill the bao for 4-5 minutes on each side, or until golden brown.",
+    "Serve immediately with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grilled",
+    "high-protein",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-chinese-pork-char-siu-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-chinese-pork-char-siu-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:37:53Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "robata-grill",
+    "primaryIngredient": "white bread mix",
+    "diet": "keto",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Pork",
+    "descriptor": "Tender",
+    "dishForm": "Char-Siu Bao"
+  }
+}

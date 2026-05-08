@@ -219,6 +219,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-australian-goose-skewers",
+    "title": "Tangy Australian Goose Skewers",
+    "tags": [
+      "australian-cuisine",
+      "goose-recipes",
+      "iron-teppan",
+      "monsoon-inspired",
+      "shojin-friendly"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-australian-kale-salad",
     "title": "Tangy Australian Kale Salad",
     "tags": [
@@ -4499,6 +4513,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-chinese-pork-char-siu-bao",
+    "title": "Tender Chinese Pork Char-Siu Bao",
+    "tags": [
+      "easy-to-make",
+      "grilled",
+      "high-protein",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {

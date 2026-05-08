@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Australian Goose Skewers",
+  "description": "A tangy and silky monsoon Australian dish featuring goose fat, this recipe is perfect for a unique dinner experience. It is shojin-friendly and cooked to perfection on an iron-teppan.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goose breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "goose fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron-teppan to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, rice vinegar, garlic, and ginger to make the marinade.",
+    "Add the goose breast pieces to the marinade and toss to coat.",
+    "Thread the marinated goose breast pieces onto skewers.",
+    "Brush the iron-teppan with goose fat and cook the skewers for 5-6 minutes per side.",
+    "Brush the skewers with sesame oil during the last minute of cooking.",
+    "Serve the skewers hot, garnished with sliced green onions and sesame seeds.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "goose-recipes",
+    "iron-teppan",
+    "monsoon-inspired",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "tangy-australian-goose-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-australian-goose-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:37:59Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "goose fat",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "goose",
+    "descriptor": "tangy tender",
+    "dishForm": "Skewers"
+  }
+}
