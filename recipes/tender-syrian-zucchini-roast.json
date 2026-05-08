@@ -1,0 +1,112 @@
+{
+  "title": "Tender Syrian Zucchini Roast",
+  "description": "A delicious and healthy roasted zucchini dish with a sweet and tangy flavor from the Syrian-inspired marinade.",
+  "cuisine": "Syrian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Zucchinis",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Cut the zucchinis into 1-inch (2.5 cm) thick slices.",
+    "In a large bowl, whisk together the olive oil, garlic, ginger, lemon juice, salt, and black pepper.",
+    "Add the zucchini slices to the bowl and toss to coat with the marinade.",
+    "Let the zucchini marinate for at least 30 minutes.",
+    "Line a baking sheet with parchment paper.",
+    "Arrange the zucchini slices on the baking sheet in a single layer.",
+    "Roast the zucchini in the preheated oven for 20-25 minutes, or until tender and lightly browned.",
+    "Garnish with chopped fresh parsley, mint, and sumac (if using).",
+    "Serve hot.",
+    "Adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "low-calorie",
+    "mediterranean",
+    "one-pan",
+    "quick-and-easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "tender-syrian-zucchini-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-syrian-zucchini-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:23:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "marinate",
+    "primaryIngredient": "zucchini",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "zucchini",
+    "descriptor": "tender",
+    "dishForm": "Roast"
+  }
+}
