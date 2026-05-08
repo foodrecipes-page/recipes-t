@@ -1,0 +1,97 @@
+{
+  "title": "Toasted Charred Ukrainian Sweetcorn Pilaf",
+  "description": "A traditional Ukrainian dish featuring sweetcorn, served in a donabe vessel, low in glycemic index and perfect for a solo dinner",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry and cut it into small squares.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sweetcorn, chicken broth, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "While the sweetcorn mixture is cooking, toast the puff pastry squares in the oven for 5 minutes, until puffed and golden brown.",
+    "To char the sweetcorn, increase the heat to high and cook for an additional 2 minutes, stirring constantly.",
+    "To assemble the pilaf, place the toasted puff pastry squares in the bottom of a donabe vessel, then spoon the sweetcorn mixture over the top.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-recipes",
+    "low-glycemic",
+    "one-pot",
+    "puff-pastry-recipes",
+    "sweetcorn-recipes",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "toasted-charred-ukrainian-sweetcorn-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-charred-ukrainian-sweetcorn-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:46:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sweetcorn",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "toasted charred",
+    "dishForm": "Pilaf"
+  }
+}

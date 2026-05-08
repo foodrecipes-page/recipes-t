@@ -1,0 +1,103 @@
+{
+  "title": "Tender Thick Vietnamese Prawns Ca Kho To",
+  "description": "A funky, chewy, one-pot Vietnamese dish featuring raw frozen prawns, this recipe is diabetic-friendly and made in the form of ca-kho-to.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns",
+      "amount": "1 pound",
+      "notes": "thawed and peeled"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large clay pot or Dutch oven over medium heat.",
+    "Add minced garlic and sliced ginger and cook until fragrant.",
+    "Add fish sauce, soy sauce, and brown sugar, and stir to combine.",
+    "Add thawed prawns and cook until they start to turn pink.",
+    "Add black pepper and water, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in chopped scallions and cook for an additional 2 minutes.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "dinner-ideas",
+    "gluten-free",
+    "one-pot",
+    "seafood",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "tender-thick-vietnamese-prawns-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-thick-vietnamese-prawns-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:46:57Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "prawns",
+    "descriptor": "Tender Thick",
+    "dishForm": "Ca Kho To"
+  }
+}

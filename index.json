@@ -5936,6 +5936,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-thick-vietnamese-prawns-ca-kho-to",
+    "title": "Tender Thick Vietnamese Prawns Ca Kho To",
+    "tags": [
+      "diabetic-friendly",
+      "dinner-ideas",
+      "gluten-free",
+      "one-pot",
+      "seafood",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-toasted-kenyan-sweetcorn-bowl",
     "title": "Tender Toasted Kenyan Sweetcorn Bowl",
     "tags": [
@@ -6386,6 +6401,21 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-charred-ukrainian-sweetcorn-pilaf",
+    "title": "Toasted Charred Ukrainian Sweetcorn Pilaf",
+    "tags": [
+      "donabe-recipes",
+      "low-glycemic",
+      "one-pot",
+      "puff-pastry-recipes",
+      "sweetcorn-recipes",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
