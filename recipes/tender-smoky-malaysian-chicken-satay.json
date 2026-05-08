@@ -1,0 +1,105 @@
+{
+  "title": "Tender Smoky Malaysian Chicken Satay",
+  "description": "Smoky and chewy Malaysian dish featuring marinated chicken, served with a side of spicy peanut sauce, this recipe is sugar free friendly and uses soda water for a unique twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soda water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "1/2 cup",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut milk, lime juice, vegetable oil, garlic, ginger, coriander, and cumin to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat and thread the marinated chicken onto skewers.",
+    "Brush the grill with oil to prevent sticking and cook the chicken for 5-7 minutes per side, or until cooked through.",
+    "While the chicken is cooking, mix the peanut butter with soda water in a small bowl to make the sauce.",
+    "Deglaze the grill with a little water to get the smoky flavor.",
+    "Serve the chicken satay hot with the spicy peanut sauce for dipping.",
+    "Garnish with chopped cilantro or scallions if desired.",
+    "Serve immediately and enjoy.",
+    "Leftovers can be stored in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "malaysian-cuisine",
+    "peanut-sauce",
+    "smoky-flavor",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-smoky-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:34:27Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "deglaze",
+    "primaryIngredient": "soda water",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender smoky",
+    "dishForm": "Satay"
+  }
+}
