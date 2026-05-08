@@ -3095,6 +3095,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-smoky-mexican-rigatoni-pozole",
+    "title": "Tangy Smoky Mexican Rigatoni Pozole",
+    "tags": [
+      "gluten-free",
+      "mexican",
+      "one-pan",
+      "pandan",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-smoky-middle-eastern-lamb-pasta",
     "title": "Tangy Smoky Middle Eastern Lamb Pasta",
     "tags": [],

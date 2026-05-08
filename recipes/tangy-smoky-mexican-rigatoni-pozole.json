@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Smoky Mexican Rigatoni Pozole",
+  "description": "A smoky and tangy Mexican dish featuring rigatoni in a pozole form, perfect for a solo dinner, wrapped in a pandan leaf for added flavor and presentation.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "8 oz",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "hominy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chipotle peppers",
+      "amount": "2",
+      "notes": "in adobo sauce"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the rigatoni according to package instructions and set aside.",
+    "In a large pan, heat the olive oil over medium heat and saute the red onion until translucent.",
+    "Add the chipotle peppers, smoked paprika, and hominy to the pan and stir to combine.",
+    "In a small bowl, whisk together the lime juice and a pinch of salt.",
+    "Add the cooked rigatoni to the pan and toss to coat with the smoky hominy mixture.",
+    "Brush the pandan leaves with a little water and wrap each portion of rigatoni mixture in a leaf.",
+    "Place the wrapped pozole on a baking sheet and bake for 10 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "pandan",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tangy-smoky-mexican-rigatoni-pozole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-smoky-mexican-rigatoni-pozole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:28:37Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "glaze",
+    "primaryIngredient": "rigatoni",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "rigatoni",
+    "descriptor": "Tangy Smoky",
+    "dishForm": "Pozole"
+  }
+}
