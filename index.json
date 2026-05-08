@@ -5925,6 +5925,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-italian-beef-frittata",
+    "title": "Tender Italian Beef Frittata",
+    "tags": [
+      "beef-recipes",
+      "brunch-ideas",
+      "frittata",
+      "italian-food",
+      "lazy-sunday"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-italian-chicken-risotto",
     "title": "Tender Italian Chicken Risotto",
     "tags": [

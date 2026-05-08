@@ -1,0 +1,99 @@
+{
+  "title": "Tender Italian Beef Frittata",
+  "description": "A fresh and pillowy Italian dish featuring beef flank steak, perfect for a lazy Sunday morning, with a yuzu cure and macrobiotic friendly ingredients.",
+  "cuisine": "Italian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef flank steak",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "6 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chop"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "mince"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chop"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together eggs, salt, and black pepper.",
+    "In a large skillet, heat olive oil over medium high heat and cook the beef until browned.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "In a small bowl, whisk together yuzu juice and a pinch of salt.",
+    "Add the yuzu cure to the skillet and cook for 1 minute.",
+    "Pour the whisked eggs over the beef mixture in the skillet.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes or until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle chopped parsley over the top.",
+    "Let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brunch-ideas",
+    "frittata",
+    "italian-food",
+    "lazy-sunday"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "tender-italian-beef-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-italian-beef-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:56:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "lazy-sunday",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "beef flank steak",
+    "diet": "macrobiotic",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "beef",
+    "descriptor": "tender pillowy",
+    "dishForm": "Frittata"
+  }
+}
