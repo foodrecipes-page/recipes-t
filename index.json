@@ -6311,6 +6311,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-rich-polish-pork-stew",
+    "title": "Tender Rich Polish Pork Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "polish-cuisine",
+      "slow-cooked"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 180,
+    "shard": "t"
+  },
+  {
     "slug": "tender-rich-thai-fish-paong",
     "title": "Thai Fish Paong",
     "tags": [

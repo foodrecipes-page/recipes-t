@@ -1,0 +1,109 @@
+{
+  "title": "Tender Rich Polish Pork Stew",
+  "description": "A rich and indulgent Polish dish featuring tender pork, yuzu, and Mediterranean-friendly ingredients, slow-cooked to perfection in a gooey stew.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless and cut into 2-inch pieces"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot, and cook for 5 minutes, stirring occasionally.",
+    "Add the yuzu juice, chicken broth, thyme, salt, and pepper to the pot, and stir to combine.",
+    "Return the pork to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the pork is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "polish-cuisine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 35
+  },
+  "slug": "tender-rich-polish-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-rich-polish-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:37:51Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "simmer",
+    "primaryIngredient": "yuzu",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Rich",
+    "dishForm": "Stew"
+  }
+}
