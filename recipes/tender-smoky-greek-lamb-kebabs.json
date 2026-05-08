@@ -1,0 +1,99 @@
+{
+  "title": "Tender Smoky Greek Lamb Kebabs",
+  "description": "Grassy and snappy, these kebabs feature dark brown soft sugar and are cooked to perfection over binchotan charcoal, making them a great monsoon Greek dish. The combination of flavors and textures is sure to delight.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "as needed",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan charcoal grill to medium high heat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together the dark brown soft sugar, olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Brush the sugar mixture evenly onto both sides of the lamb cubes.",
+    "Place the skewers onto the preheated grill and cook for 8-10 minutes, turning occasionally.",
+    "Check the lamb for doneness, it should reach an internal temperature of 145 degrees.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "grilled-meat",
+    "lamb-recipes",
+    "smoky-flavors",
+    "summer-dishes",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-smoky-greek-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-greek-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:17Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Kebabs"
+  }
+}

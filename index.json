@@ -6624,6 +6624,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-greek-lamb-kebabs",
+    "title": "Tender Smoky Greek Lamb Kebabs",
+    "tags": [
+      "greek-cuisine",
+      "grilled-meat",
+      "lamb-recipes",
+      "smoky-flavors",
+      "summer-dishes",
+      "weeknight-meals"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-italian-tofu-ravioli",
     "title": "Tender Smoky Italian Tofu Ravioli",
     "tags": [
