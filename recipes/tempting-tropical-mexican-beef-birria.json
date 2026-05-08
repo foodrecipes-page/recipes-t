@@ -1,0 +1,101 @@
+{
+  "title": "Tempting Tropical Mexican Beef Birria",
+  "description": "A romantic Mexican dish featuring jalapeno and coconut cream, this low-carb-friendly birria is a twist on traditional Sonoran cuisine. It has a jammy and crumbly texture that is sure to delight.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "jalapeno peppers",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "none"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced jalapeno peppers and cook until they start to soften.",
+    "Add the beef brisket and cook until it is browned on all sides.",
+    "Add the coconut cream, tomato paste, cumin, and paprika, and stir to combine.",
+    "Bring the mixture to a simmer and cook until the beef is tender.",
+    "Shred the beef with two forks and continue to cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "coconut-cream",
+    "low-carb",
+    "mexican",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "tempting-tropical-mexican-beef-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-tropical-mexican-beef-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:49:15Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "romantic",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "jalapeno",
+    "diet": "low-carb",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Tempting Tropical",
+    "dishForm": "Birria"
+  }
+}
