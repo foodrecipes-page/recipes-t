@@ -4317,6 +4317,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-australian-lamb-skewers",
+    "title": "Tender Australian Lamb Skewers",
+    "tags": [
+      "grilled-meat",
+      "healthy-dinner",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-bitter-greek-lamb-stew",
     "title": "Tender Bitter Greek Lamb Stew",
     "tags": [

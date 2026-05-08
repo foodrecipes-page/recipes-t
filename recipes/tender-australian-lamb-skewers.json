@@ -1,0 +1,98 @@
+{
+  "title": "Tender Australian Lamb Skewers",
+  "description": "Grassy and crisp Australian dish featuring fenugreek and a sweet glaze, perfect for a post-workout meal, made with raw-friendly ingredients and cooked on a robata-grill.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "fenugreek leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "In a bowl, whisk together olive oil, lemon juice, honey, garlic, salt, black pepper, and paprika to make the glaze.",
+    "Brush the glaze onto the lamb skewers, making sure they are fully coated.",
+    "Place the skewers on the robata-grill and cook for 10-12 minutes, turning occasionally.",
+    "Sprinkle the chopped fenugreek leaves onto the skewers during the last 2 minutes of cooking.",
+    "Remove the skewers from the grill and let them rest for 5 minutes before serving.",
+    "Serve the lamb skewers hot, garnished with additional fenugreek leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "healthy-dinner",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-australian-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-australian-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:59:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "glaze",
+    "primaryIngredient": "fenugreek",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Grilled",
+    "dishForm": "Skewers"
+  }
+}
