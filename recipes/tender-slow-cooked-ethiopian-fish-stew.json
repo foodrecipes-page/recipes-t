@@ -1,0 +1,130 @@
+{
+  "title": "Tender Slow-Cooked Ethiopian Fish Stew",
+  "description": "A pescatarian-friendly one-pot dish from Ethiopia, featuring flaky fish and crunchy padron peppers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish pieces (halibut or snapper)",
+      "amount": "1 pound",
+      "notes": "skin removed and cut into 1-inch pieces"
+    },
+    {
+      "name": "onions, chopped",
+      "amount": "2",
+      "notes": "about 3 cups"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "2 inches",
+      "notes": "about 2 tablespoons"
+    },
+    {
+      "name": "padron peppers, sliced",
+      "amount": "12",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "chilies, sliced",
+      "amount": "1",
+      "notes": "such as jalapeno or serrano"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "or chicken broth"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onions and cook until softened, about 8 minutes.",
+    "Add garlic and ginger and cook for 2 minutes.",
+    "Add padron peppers, chilies, cumin, coriander, turmeric, and paprika. Cook for 2 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth and bring to a simmer.",
+    "Add fish pieces and simmer for 10-12 minutes or until cooked through.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "east-african",
+    "fish-stew",
+    "high-protein",
+    "one-pot",
+    "pescatarian",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tender-slow-cooked-ethiopian-fish-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-slow-cooked-ethiopian-fish-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:20:18Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "slow-cook",
+    "primaryIngredient": "padron peppers",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "tender slow-cooked",
+    "dishForm": "Stew"
+  }
+}
