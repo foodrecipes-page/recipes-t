@@ -1,0 +1,117 @@
+{
+  "title": "Jamaican Grape Leaf Hash",
+  "description": "A bitter and gooey weeknight dish featuring grape leaves as a twist on the mirepoix-based hash, low-carb-friendly. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Grape leaves",
+      "amount": "1 (12 oz) package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add onion, bell pepper, and carrots to the skillet. Cook until the vegetables are tender, about 5 minutes.",
+    "Add grape leaves, cinnamon, allspice, brown sugar, and ginger to the skillet. Cook for 2 minutes.",
+    "Stir in salt and black pepper. ",
+    "Transfer the skillet to the oven and bake at 375°F (190°C) for 15 minutes.",
+    "Remove the skillet from the oven and top with chopped scallions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jamaican",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "tender-jamaican-leaves-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-leaves-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:34:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "grape leaves",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "leaves",
+    "descriptor": "tender",
+    "dishForm": "Hash"
+  }
+}
