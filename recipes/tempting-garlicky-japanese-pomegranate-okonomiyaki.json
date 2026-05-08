@@ -1,0 +1,103 @@
+{
+  "title": "Tempting Garlicky Japanese Pomegranate Okonomiyaki",
+  "description": "A savory Japanese dish featuring pomegranate and garlic, cooked to a crispy perfection in a paella pan, this okonomiyaki is a delicious twist on traditional Japanese cuisine. It is egg-free and deep-fried to a golden brown.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 cups shredded",
+      "notes": "finely shredded"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup",
+      "notes": "sifted"
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/2 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large paella pan over medium heat.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the shredded cabbage, pomegranate seeds, garlic, soy sauce, and sesame oil to the bowl and stir until well combined.",
+    "Gradually add the water to the bowl and stir until the mixture forms a thick batter.",
+    "Pour the batter into the paella pan and cook for 5 minutes or until the bottom is golden brown.",
+    "Use a spatula to carefully loosen the okonomiyaki from the pan and flip it over.",
+    "Cook for an additional 5 minutes or until the other side is also golden brown.",
+    "Remove the okonomiyaki from the pan and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "garlicky",
+    "japanese-cuisine",
+    "one-pan",
+    "pomegranate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tempting-garlicky-japanese-pomegranate-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-garlicky-japanese-pomegranate-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:34:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "pomegranate",
+    "diet": "egg-free",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pomegranate",
+    "descriptor": "Tempting Garlicky",
+    "dishForm": "Okonomiyaki"
+  }
+}
