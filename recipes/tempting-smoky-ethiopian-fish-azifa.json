@@ -1,0 +1,103 @@
+{
+  "title": "Tempting Smoky Ethiopian Fish Azifa",
+  "description": "A smoky and crunchy Ethiopian dish featuring dashi and fish, served on a cedar plank, perfect for a crowd, this pescatarian friendly azifa is a real showstopper.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "dashi powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together dashi powder, lemon juice, olive oil, garlic, ginger, berbere spice, salt, and black pepper.",
+    "Add the fish fillets to the bowl and marinate for at least 30 minutes.",
+    "Remove the fish from the marinade and place on the cedar planks.",
+    "Place the cedar planks on the grill and cook for 4 minutes per side.",
+    "After flipping the fish, sprinkle with additional berbere spice if desired.",
+    "Once the fish is cooked through, remove from the grill and let rest for 2 minutes.",
+    "Serve the fish on the cedar planks, garnished with lemon wedges and fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "crunchy",
+    "ethiopian",
+    "flavorful",
+    "grilled",
+    "pescatarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tempting-smoky-ethiopian-fish-azifa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-smoky-ethiopian-fish-azifa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:50:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "dashi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fish",
+    "descriptor": "Tempting Smoky",
+    "dishForm": "Azifa"
+  }
+}
