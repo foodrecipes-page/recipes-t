@@ -1,0 +1,90 @@
+{
+  "title": "Tender Crispy Argentinian Beef Empanadas",
+  "description": "Indulge in the rich flavors of Argentina with these crispy empanadas filled with tender beef and onions, fried to perfection in sunflower oil. Perfect as a snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "rested meat, 80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 cups",
+      "notes": "for frying"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 packages",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sunflower oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of ground beef and onion mixture in the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Repeat with the remaining dough and filling.",
+    "Fry the empanadas in batches until they are golden brown and crispy.",
+    "Drain the empanadas on paper towels and serve hot.",
+    "Season with salt, black pepper, and paprika to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-recipes",
+    "empanada-recipes",
+    "fried-foods",
+    "latin-american-food",
+    "meat-pies",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "tender-crispy-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crispy-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:39Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "rest-meat",
+    "primaryIngredient": "sunflower oil",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Tender Crispy",
+    "dishForm": "Empanadas"
+  }
+}
