@@ -1,0 +1,93 @@
+{
+  "title": "Tangy Toasted Kenyan Chicken Kebabs",
+  "description": "A keto-friendly Kenyan dish featuring chicken, grapes, and a tangy mustard sauce, perfect for a dinner show-off",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "grapes",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together mustard, olive oil, garlic powder, paprika, salt, and pepper",
+    "Add the chicken to the bowl and toss to coat with the mustard sauce",
+    "Thread the chicken and grapes onto skewers",
+    "Grill the kebabs for 10-12 minutes, turning occasionally",
+    "While the kebabs are cooking, deglaze the grill with a little water to get the fond",
+    "Once the kebabs are cooked, brush them with the deglazed fond",
+    "Serve the kebabs hot, garnished with additional grapes if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "kenyan-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "tangy-toasted-kenyan-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-toasted-kenyan-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:16:24Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "grapes",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy toasted",
+    "dishForm": "Kebabs"
+  }
+}
