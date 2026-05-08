@@ -1,0 +1,114 @@
+{
+  "title": "Tangy Dense Ethiopian Tomatoes Gomen",
+  "description": "A romantic and flavorful Ethiopian dish featuring chopped tomatoes, namul-blanch-season, and a hint of spice. This whole30-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup",
+      "notes": "chopped finely for best flavor"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "microwave for 10 seconds to soften before mincing"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated for best flavor"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add minced garlic and cook, stirring constantly, for 1-2 minutes or until fragrant.",
+    "Add ground ginger, ground cumin, ground coriander, and namul-blanch-season. Cook, stirring constantly, for 1 minute or until spices are fragrant.",
+    "Add cherry tomatoes, beef broth, and lemon juice. Bring to a simmer.",
+    "Reduce heat to medium-low and cook, stirring occasionally, until tomatoes have broken down and the sauce has thickened, about 15-20 minutes.",
+    "Stir in chopped fresh cilantro and season with salt to taste.",
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together.",
+    " Serve over rice, injera, or with crusty bread for a delicious and filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "ethiopian",
+    "one-pan",
+    "romantic",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tangy-dense-ethiopian-tomatoes-gomen",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-ethiopian-tomatoes-gomen",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chopped tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "tangy dense",
+    "dishForm": "Gomen"
+  }
+}
