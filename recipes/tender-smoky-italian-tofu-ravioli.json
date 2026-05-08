@@ -1,0 +1,101 @@
+{
+  "title": "Tender Smoky Italian Tofu Ravioli",
+  "description": "A smoky and springy Italian dish featuring tofu, cooked in a tagine and formed into ravioli, perfect for a midnight craving. This low-sodium-friendly recipe is a unique twist on traditional Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "ravioli wrappers",
+      "amount": "20-24 wrappers"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the smoked paprika, tomato paste, and vegetable broth to the skillet and stir to combine.",
+    "Bring the mixture to a simmer and let cook for 5 minutes.",
+    "In a large bowl, combine the crumbled tofu and the smoky mixture from the skillet.",
+    "Lay a ravioli wrapper on a flat surface and place a tablespoon of the tofu mixture in the center of the wrapper.",
+    "Fold the wrapper over the filling to form a triangle and press the edges together to seal.",
+    "Repeat with the remaining wrappers and filling.",
+    "Place the ravioli on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "Remove the ravioli from the oven and top with grated parmesan cheese."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-cuisine",
+    "low-sodium",
+    "smoky-flavors",
+    "tofu-recipes",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "tender-smoky-italian-tofu-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-italian-tofu-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:37:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "tagine-cook",
+    "primaryIngredient": "tofu",
+    "diet": "low-sodium",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tofu",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Ravioli"
+  }
+}
