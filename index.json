@@ -6260,6 +6260,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-jamaican-vegetable-curry",
+    "title": "Tender Jamaican Vegetable Curry",
+    "tags": [
+      "comfort-food",
+      "curry",
+      "jamaican",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-japanese-mushroom-chawanmushi",
     "title": "Tender Japanese Mushroom Chawanmushi",
     "tags": [

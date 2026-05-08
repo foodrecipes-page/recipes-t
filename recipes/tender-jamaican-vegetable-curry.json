@@ -1,0 +1,107 @@
+{
+  "title": "Tender Jamaican Vegetable Curry",
+  "description": "A flavorful and aromatic vegetarian curry featuring ground cardamom and a variety of vegetables, perfect for a monsoon day. This dish is a hearty and comforting option for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat and saute the onion until it is translucent.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the carrots, potatoes, and zucchini, and cook for 5 minutes, until they start to soften.",
+    "Stir in the curry powder and ground cardamom, and cook for 1 minute.",
+    "Pour in the coconut milk and vegetable broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer, covered, for 20 minutes, until the vegetables are tender.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "curry",
+    "jamaican",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tender-jamaican-vegetable-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-vegetable-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "ground cardomom",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "tender pillowy",
+    "dishForm": "Curry"
+  }
+}
