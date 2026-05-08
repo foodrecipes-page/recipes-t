@@ -1,0 +1,100 @@
+{
+  "title": "Tender Thai Beef Curry",
+  "description": "A briny and crowd-pleasing Southern Thai dish featuring lean minced beef in a rich and creamy curry sauce, cooked to perfection in a kazan cauldron.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the kazan cauldron over medium heat.",
+    "Add the curry paste and cook for 1 minute, stirring constantly.",
+    "Add the minced beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the fish sauce, lime juice, brown sugar, salt, and pepper, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes, or until the beef is tender.",
+    "Stir in the chopped basil leaves and cook for an additional 2 minutes.",
+    "Serve the curry hot, garnished with additional basil leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "curry-dishes",
+    "kazan-cooking",
+    "low-fat-meals",
+    "one-pot-meals",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tender-thai-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-thai-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:39:11Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "lean minced beef",
+    "diet": "low-fat",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "tender tagine cooked",
+    "dishForm": "Curry"
+  }
+}

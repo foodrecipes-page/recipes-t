@@ -6446,6 +6446,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-thai-beef-curry",
+    "title": "Tender Thai Beef Curry",
+    "tags": [
+      "beef-recipes",
+      "curry-dishes",
+      "kazan-cooking",
+      "low-fat-meals",
+      "one-pot-meals",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-thai-inspired-indian-chicken-wings-khichdi-style",
     "title": "Tender Thai-Inspired Indian Chicken Wings Khichdi-Style",
     "tags": [
