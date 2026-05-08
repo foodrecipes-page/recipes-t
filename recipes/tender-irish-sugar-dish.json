@@ -70,6 +70,10 @@
     "descriptor": "tender",
     "dishForm": "Dish"
   },
-  "totalTimeMin": 40,
-  "servings": 4
+  "totalTimeMin": 15,
+  "servings": 4,
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

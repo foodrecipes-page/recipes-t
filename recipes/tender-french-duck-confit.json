@@ -3,8 +3,6 @@
   "description": "Sun-dried French duck leg, rich with sunflower oil and caramel flavors, perfect for a lazy Sunday.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "pescatarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -62,7 +60,8 @@
     "Braise the duck for 2 hours, or until it's tender and the meat is falling off the bone.",
     "Remove the pot from the oven and let it cool slightly.",
     "Strain the fat from the pot and discard the solids.",
-    "Serve the duck legs with the remaining fat spooned over the top."
+    "Serve the duck legs with the remaining fat spooned over the top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 120,
@@ -100,5 +99,11 @@
     "mainIngredient": "duck",
     "descriptor": "Tender",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-pescatarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

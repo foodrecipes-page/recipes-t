@@ -82,7 +82,8 @@
     "Serve hot, garnished with thyme and onions. ",
     "Adjust seasoning as needed.",
     "Discard any excess fat from the dish, if desired.",
-    "Serve with a side of roasted vegetables or a green salad for a complete meal."
+    "Serve with a side of roasted vegetables or a green salad for a complete meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 165,
@@ -121,5 +122,9 @@
     "mainIngredient": "duck",
     "descriptor": "tender charred",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

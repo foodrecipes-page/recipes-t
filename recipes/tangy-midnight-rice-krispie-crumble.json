@@ -2,9 +2,7 @@
   "title": "Tangy Midnight Rice Krispie Crumble",
   "description": "A tangy and fluffy Filipino-inspired dessert featuring rice krispies, crispy fried potatoes (sweet or regular), dairy-free elements for midnight cravings.",
   "cuisine": "Philippine-Inspired Dessert",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -81,5 +79,9 @@
     "mainIngredient": "Rice Krispies",
     "descriptor": "Tangy Midnight",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

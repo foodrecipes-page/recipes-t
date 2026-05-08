@@ -59,7 +59,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 6,
   "difficulty": "easy",
   "tags": [
@@ -94,5 +94,9 @@
     "mainIngredient": "cucumber",
     "descriptor": "Tangy Smoky",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

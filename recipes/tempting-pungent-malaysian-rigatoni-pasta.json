@@ -3,8 +3,7 @@
   "description": "A pungent and fluffy Malaysian dish featuring rigatoni, perfect for midnight cravings, this recipe combines ayurvedic-rajasic-friendly ingredients for a unique flavor experience.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,7 +78,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "malaysian-cuisine",
     "one-pot",
     "pungent-flavors",
@@ -109,5 +107,9 @@
     "mainIngredient": "rigatoni",
     "descriptor": "Tempting pungent",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

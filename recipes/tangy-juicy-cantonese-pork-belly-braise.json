@@ -3,8 +3,7 @@
   "description": "A classic Cantonese dish featuring slow-cooked pork belly in a sweet and tangy sauce, perfect for a comforting dinner.",
   "cuisine": "Cantonese",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "Pork Belly",
     "descriptor": "Tangy Juicy",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

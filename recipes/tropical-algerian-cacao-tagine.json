@@ -3,7 +3,6 @@
   "description": "A creamy and kid-friendly Algerian tagine that blends coconut milk, cacao, and apricots into a sweet spicy dish, finished with a safe flambé flair.",
   "cuisine": "Algerian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dessert",
@@ -93,8 +92,7 @@
     "flambe",
     "kid-friendly",
     "quick",
-    "tagine",
-    "vegan"
+    "tagine"
   ],
   "nutrition": {
     "calories": 350,
@@ -119,5 +117,9 @@
     "mainIngredient": "cacao",
     "descriptor": "Tropical",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

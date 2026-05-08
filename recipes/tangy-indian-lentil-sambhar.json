@@ -2,9 +2,7 @@
   "title": "Tangy Indian Lentil Sambhar",
   "description": "A creamy, one-pot Hyderabadi lentil stew bursting with tangy tamarind and aromatic spices, perfect for a halal-friendly meal.",
   "cuisine": "Indian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "halal",
     "one-pot",
     "tangy",
     "vegetarian"
@@ -105,5 +102,9 @@
     "mainIngredient": "Lentil",
     "descriptor": "Tangy",
     "dishForm": "Sambhar"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -63,7 +63,8 @@
     "Cover the hot pot vessel and cook for 2 hours or until the beef is tender.",
     "Remove the hot pot vessel from the heat and let it cool for 10 minutes.",
     "Slice the beef roast and serve with the Persian cucumber and sauce.",
-    "Garnish with chopped fresh parsley and serve immediately."
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 120,
@@ -102,5 +103,9 @@
     "mainIngredient": "persian cucumber",
     "descriptor": "tender roast",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

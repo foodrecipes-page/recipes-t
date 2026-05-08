@@ -51,7 +51,8 @@
     "Brush the iron-teppan with goose fat and cook the skewers for 5-6 minutes per side.",
     "Brush the skewers with sesame oil during the last minute of cooking.",
     "Serve the skewers hot, garnished with sliced green onions and sesame seeds.",
-    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute."
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -88,5 +89,9 @@
     "mainIngredient": "goose",
     "descriptor": "tangy tender",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

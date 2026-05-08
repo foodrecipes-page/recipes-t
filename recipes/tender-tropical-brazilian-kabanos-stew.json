@@ -2,9 +2,7 @@
   "title": "Tender Tropical Brazilian Kabanos Stew",
   "description": "A light and floral Brazilian dish featuring Polish kabanos, perfect for a sick day, made with coconut cream and cooked in a cataplana vessel, this kosher friendly stew is a unique fusion of flavors.",
   "cuisine": "Brazilian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Bring the mixture to a simmer and cook for 20 minutes or until the kabanos are tender.",
     "Stir in the chopped cilantro and lime juice.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the stew hot, garnished with additional cilantro if desired."
+    "Serve the stew hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -71,7 +70,6 @@
   "tags": [
     "brazilian",
     "comfort-food",
-    "kosher",
     "one-pot",
     "polish",
     "tropical"
@@ -99,5 +97,11 @@
     "mainIngredient": "kabanos",
     "descriptor": "tender tropical",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,10 +2,7 @@
   "title": "Tender Russian Rice Pilaf",
   "description": "A soothing, sweet, and fluffy rice dish perfect for a sick day, infused with the flavors of seasoned rice vinegar and a dash of comfort.",
   "cuisine": "Russian",
-  "diet": [
-    "vegan",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -78,7 +75,8 @@
     "Add the seasoned rice vinegar, chicken broth, water, salt, black pepper, and dried parsley.",
     "Bring the mixture to a boil, then reduce the heat to low, cover the saucepan with a tight-fitting lid, and simmer for 18-20 minutes.",
     "Remove the saucepan from the heat and let it sit, covered, for 5 minutes.",
-    "Fluff the rice pilaf with a fork and serve hot."
+    "Fluff the rice pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -116,5 +114,11 @@
     "mainIngredient": "Rice",
     "descriptor": "Tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

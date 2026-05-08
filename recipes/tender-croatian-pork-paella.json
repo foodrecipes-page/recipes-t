@@ -61,7 +61,9 @@
     "Add the chicken broth, saffron, and applesauce to the paella pan and stir to combine.",
     "Cover the paella pan with foil and transfer to the preheated oven.",
     "Bake for 30 minutes, then remove the foil and bake for an additional 10 minutes.",
-    "Remove the paella pan from the oven and let rest for 5 minutes before serving."
+    "Remove the paella pan from the oven and let rest for 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -99,5 +101,10 @@
     "mainIngredient": "pork",
     "descriptor": "tender garlicky",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

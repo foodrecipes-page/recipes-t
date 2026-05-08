@@ -57,7 +57,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
     "Prepare the couscous according to package instructions.",
     "Fluff the cooked couscous with a fork and serve with the lamb and sauce.",
-    "Garnish with chopped fresh parsley or cilantro, if desired."
+    "Garnish with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -96,5 +97,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Tangy Smoky",
     "dishForm": "Couscous Royal"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

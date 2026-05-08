@@ -86,7 +86,8 @@
     "Let the paella rest for 5 minutes before serving to allow the flavors to meld.",
     "If the paella is too liquid, cook it for a few more minutes to thicken it up.",
     "Adjust the seasoning with salt and black pepper to taste.",
-    "Serve with additional lemon wedges on the side if desired."
+    "Serve with additional lemon wedges on the side if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 35,
@@ -123,5 +124,9 @@
     "mainIngredient": "pork shoulder",
     "descriptor": "Thick hangover-cure fried",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

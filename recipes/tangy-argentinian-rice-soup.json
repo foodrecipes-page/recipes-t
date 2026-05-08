@@ -46,7 +46,8 @@
     "In a pot, bring chicken or vegetable broth to a boil. Add the rinsed rice noodles, garlic, and onion; reduce heat to low and simmer for about 20 minutes until tender.",
     "Stir in sliced red bell pepper and fresh cilantro leaves. Remove from heat.",
     "Squeeze lime juice over the soup and stir gently to combine all ingredients evenly.",
-    "Serve hot with a sprinkle of green onions on top."
+    "Serve hot with a sprinkle of green onions on top.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -82,5 +83,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Tangy",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

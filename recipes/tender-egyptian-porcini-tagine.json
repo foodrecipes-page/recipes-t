@@ -74,7 +74,8 @@
     "Add porcini mushrooms and cook for 3-4 minutes, until tender.",
     "Add chicken broth, tandoori spice mix, salt, and black pepper. Bring to a boil, then reduce heat to low and simmer for 15-20 minutes.",
     "Stir in parsley, cilantro, lemon juice, and Greek yogurt. Serve hot, garnished with additional parsley and cilantro if desired.",
-    "Serve with rice or naan bread, if desired."
+    "Serve with rice or naan bread, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "porcini",
     "descriptor": "tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

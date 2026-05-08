@@ -3,8 +3,7 @@
   "description": "Mustardy, shattering Korean chicken tagine served in a tagine pot with crisp plum sauce and en‑croute coating, finished like a patbingsu dessert for meal prep.",
   "cuisine": "Korean",
   "diet": [
-    "kosher",
-    "gluten-free"
+    "kosher"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -69,7 +68,8 @@
     "During the last 5 minutes, stir in chopped cilantro and toast sesame seeds over the heated mixture.",
     "Remove the pot from heat and let it rest for 5 minutes so the crust remains crisp.",
     "Shave a generous amount of ice into a bowl and spoon the chilled chicken and sauce over the ice.",
-    "Garnish with additional pistachios and a drizzle of plum sauce before serving."
+    "Garnish with additional pistachios and a drizzle of plum sauce before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -77,7 +77,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "korean",
     "kosher-friendly",
     "meal-prep",
@@ -107,5 +106,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Tingling",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

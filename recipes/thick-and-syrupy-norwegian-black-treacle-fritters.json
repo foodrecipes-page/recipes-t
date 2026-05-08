@@ -3,8 +3,7 @@
   "description": "Sour and sweet, these traditional Norwegian fritters are a nostalgic treat made with black treacle and a hint of rice flour. Perfect for a snack or dessert.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -90,5 +89,9 @@
     "mainIngredient": "black treacle",
     "descriptor": "thick and syrupy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

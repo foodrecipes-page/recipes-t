@@ -3,8 +3,7 @@
   "description": "A light and flavorful Indian dish featuring yeasty chickpeas in a rich and spicy tomato sauce, served with a side of gherkin relish and render fat, perfect for a solo dinner.",
   "cuisine": "Indian",
   "diet": [
-    "shojin",
-    "vegetarian"
+    "shojin"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -79,7 +78,6 @@
     "indian-cuisine",
     "one-pan",
     "shojin-friendly",
-    "vegetarian",
     "yeasty"
   ],
   "nutrition": {
@@ -105,5 +103,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Tender Yeasty",
     "dishForm": "Chana Masala"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

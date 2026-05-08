@@ -3,7 +3,6 @@
   "description": "A flavorful and spicy Ethiopian dish made with roasted squash, pickled vegetables, and a crunchy topping.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegan",
     "vegetarian",
     "raw-friendly"
   ],
@@ -84,7 +83,6 @@
     "ethiopian",
     "squash",
     "pickled",
-    "vegan",
     "gluten-free"
   ],
   "nutrition": {
@@ -110,5 +108,9 @@
     "mainIngredient": "Squash",
     "descriptor": "Tangy Crumbly",
     "dishForm": "Tibs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

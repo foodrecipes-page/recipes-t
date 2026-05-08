@@ -61,7 +61,8 @@
     "Add the currants, rice, chicken broth, lemon juice, salt, and pepper. Stir well.",
     "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 20-25 minutes or until the liquid is absorbed and the rice is tender.",
     "Fluff the pilaf with a fork and serve hot.",
-    "Garnish with fresh parsley or lemon wedges, if desired."
+    "Garnish with fresh parsley or lemon wedges, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tangy light",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

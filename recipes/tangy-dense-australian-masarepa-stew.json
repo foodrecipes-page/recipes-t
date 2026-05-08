@@ -3,9 +3,7 @@
   "description": "A comforting, tangy stew packed with creamy white masarepa, citrusy lime, and tamarind, perfect for a sick day.",
   "cuisine": "Australian",
   "diet": [
-    "vegan",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,8 +89,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "vegan",
     "gluten-free",
     "slow-cook",
     "sick-day",
@@ -122,5 +118,10 @@
     "mainIngredient": "Masarepa",
     "descriptor": "Tangy Dense",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

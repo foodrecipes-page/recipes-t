@@ -3,8 +3,6 @@
   "description": "a dense, gluten-free-friendly thailand-inspired stew served in a stone bowl with fermented cola and colatura added for depth of flavor, served in a steamed agave leaf",
   "cuisine": "thai",
   "diet": [
-    "gluten-free",
-    "vegetarian",
     "pescetarian"
   ],
   "meal": "dinner",
@@ -86,7 +84,6 @@
   "difficulty": "hard",
   "tags": [
     "fish",
-    "gluten-free",
     "one-pan",
     "stew",
     "thai",
@@ -115,5 +112,10 @@
     "mainIngredient": "",
     "descriptor": "Thick Fermented",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

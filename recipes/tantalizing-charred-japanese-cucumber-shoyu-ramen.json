@@ -59,7 +59,8 @@
     "Stir in the charred cucumber slices and let the flavors meld for 1 minute.",
     "Ladle the ramen into lacquerware bowls, ensuring noodles and broth are evenly distributed.",
     "Garnish each bowl with pickled cucumber, scallion slivers, toasted sesame seeds, and a thin sheet of nori.",
-    "Serve hot and enjoy the crisp, smoky bite of the cucumber with savory shoyu ramen."
+    "Serve hot and enjoy the crisp, smoky bite of the cucumber with savory shoyu ramen.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -97,5 +98,9 @@
     "mainIngredient": "cucumber",
     "descriptor": "Tantalizing Charred",
     "dishForm": "Shoyu Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

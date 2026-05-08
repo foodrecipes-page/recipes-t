@@ -2,9 +2,7 @@
   "title": "Tender Moroccan Lamb Tagine",
   "description": "A comforting and flavorful Moroccan dish featuring spring onions and a glassy-jelly texture, perfect for a dinner gathering. The halal-friendly recipe uses lamb as the main protein source.",
   "cuisine": "Moroccan",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -101,7 +99,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "halal",
     "lamb",
     "moroccan",
     "one-pan",
@@ -131,5 +128,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

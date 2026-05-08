@@ -64,7 +64,8 @@
   "instructions": [
     "Heat a large pot over medium heat and add the diced onion, carrot, and celery, cooking until softened.",
     "Stir in the chopped potato and cook for an additional 3 minutes.",
-    "Add the barley and oats, stirring to coat the grains with the vegetables."
+    "Add the barley and oats, stirring to coat the grains with the vegetables.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 60,
@@ -103,5 +104,9 @@
     "mainIngredient": "Barley",
     "descriptor": "Tasty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

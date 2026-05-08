@@ -3,8 +3,7 @@
   "description": "A hearty and flavorful Normandy-inspired dish featuring tender chuck roast, perfect for a post-workout dinner. This satvik-friendly galette is spicy and gooey, made with pressure-cooked chuck roast and a flaky crust.",
   "cuisine": "French",
   "diet": [
-    "satvik",
-    "gluten-free"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "french-cuisine",
-    "gluten-free",
     "hearty-dinner",
     "post-workout",
     "pressure-cooker",
@@ -101,5 +99,9 @@
     "mainIngredient": "chuck roast",
     "descriptor": "Tender Spicy",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Tangy Silky Filipino Jackfruit Wrap",
   "description": "A plant‑based wrap featuring caramelized jackfruit, tangy sauce, and crispy hard taco shells wrapped in ti leaf.",
   "cuisine": "Filipino",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -110,5 +108,9 @@
     "mainIngredient": "Jackfruit",
     "descriptor": "Tangy Silky",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

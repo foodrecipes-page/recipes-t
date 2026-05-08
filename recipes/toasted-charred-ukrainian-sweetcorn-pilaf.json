@@ -3,8 +3,7 @@
   "description": "A traditional Ukrainian dish featuring sweetcorn, served in a donabe vessel, low in glycemic index and perfect for a solo dinner",
   "cuisine": "Ukrainian",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -55,7 +54,8 @@
     "While the sweetcorn mixture is cooking, toast the puff pastry squares in the oven for 5 minutes, until puffed and golden brown.",
     "To char the sweetcorn, increase the heat to high and cook for an additional 2 minutes, stirring constantly.",
     "To assemble the pilaf, place the toasted puff pastry squares in the bottom of a donabe vessel, then spoon the sweetcorn mixture over the top.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +93,10 @@
     "mainIngredient": "sweetcorn",
     "descriptor": "toasted charred",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

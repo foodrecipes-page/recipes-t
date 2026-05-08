@@ -2,9 +2,7 @@
   "title": "Tempting Twice Fried Moroccan Tofu Tagine",
   "description": "A salty, cheesy, and romantic Moroccan dish featuring gherkin relish and double-fried tofu, served in a dolsot stone bowl.",
   "cuisine": "Moroccan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Tempting Twice Fried",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

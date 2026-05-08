@@ -51,8 +51,7 @@
   "difficulty": "easy",
   "tags": [
     "thyme",
-    "algerian",
-    "kosher"
+    "algerian"
   ],
   "nutrition": {
     "calories": 356,
@@ -73,5 +72,9 @@
     "primaryIngredient": "fresh thyme",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

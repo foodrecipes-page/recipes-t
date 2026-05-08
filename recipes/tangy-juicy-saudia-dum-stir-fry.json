@@ -2,9 +2,7 @@
   "title": "Tangy Juicy Saudia Dum Stir-fry",
   "description": "This vegan-friendly Tangy Juicy Saudia Dum Stir-fry combines creamy condensed milk with tender dumplings for a delicious and romantic Middle Eastern dish.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,5 +80,9 @@
     "mainIngredient": "dum",
     "descriptor": "tangy juicy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

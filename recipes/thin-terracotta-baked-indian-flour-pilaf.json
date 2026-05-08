@@ -3,7 +3,6 @@
   "description": "A light and fragrant Indian-inspired dish made with plain flour, perfect for a quick weeknight meal. This pilaf is free from common FODMAPs, making it a great option for those with digestive sensitivities.",
   "cuisine": "Indian",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -77,7 +76,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "indian",
     "one-pan",
     "weeknight"
@@ -105,5 +103,9 @@
     "mainIngredient": "flour",
     "descriptor": "Thin Terracotta Baked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

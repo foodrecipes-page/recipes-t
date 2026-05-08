@@ -31,7 +31,8 @@
     "Toss potatoes with olive oil and 1/4 cup dill pickle juice",
     "Roast in oven for 30 minutes until tender and slightly crispy",
     "Add remaining 1/4 cup pickle juice and stir gently",
-    "Roast for another 10 minutes until potatoes are golden and tangy"
+    "Roast for another 10 minutes until potatoes are golden and tangy",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 20,
@@ -68,5 +69,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "tangy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

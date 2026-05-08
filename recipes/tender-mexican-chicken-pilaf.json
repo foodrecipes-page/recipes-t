@@ -61,7 +61,8 @@
     "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
     "Add the jasmine rice and stir to combine with the chicken and spices.",
     "Add the chicken broth and bring to a boil.",
-    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the liquid is absorbed and the rice is tender."
+    "Reduce the heat to low, cover, and simmer for 20-25 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

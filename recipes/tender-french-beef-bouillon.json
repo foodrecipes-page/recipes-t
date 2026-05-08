@@ -3,7 +3,6 @@
   "description": "A classic, roasted, snappy, and light French dish from the Provence region, made with dark brown soft sugar, air-fry, and is Jain-friendly. This recipe is a twist on the traditional Boeuf Bourguignon dish.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
     "Jain"
   ],
   "meal": "dinner",
@@ -128,5 +127,9 @@
     "mainIngredient": "beef",
     "descriptor": "Tender",
     "dishForm": "Bouillon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

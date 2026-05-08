@@ -3,7 +3,6 @@
   "description": "A silky steamed egg custard enriched with earthy mushrooms and a crumbly toasted topping, comforting and satvik-friendly.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "lunch",
@@ -75,8 +74,7 @@
     "japanese",
     "mushroom",
     "satvik",
-    "steamed",
-    "vegetarian"
+    "steamed"
   ],
   "nutrition": {
     "calories": 220,
@@ -101,5 +99,9 @@
     "mainIngredient": "Mushroom",
     "descriptor": "Tender",
     "dishForm": "Chawanmushi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

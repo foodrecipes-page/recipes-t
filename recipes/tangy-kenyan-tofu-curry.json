@@ -3,8 +3,7 @@
   "description": "A light and flavorful Kenyan dish featuring tofu in a tangy curry sauce, made with mustard and a blend of spices, served in a cazuela.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "tofu",
     "descriptor": "tangy mustardy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

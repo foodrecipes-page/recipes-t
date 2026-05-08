@@ -67,7 +67,8 @@
     "Brush the kebabs with olive oil and season with salt and pepper.",
     "Grill the kebabs for 8-10 minutes per side, or until cooked to your desired level of doneness.",
     "Transfer the kebabs to a plate and brush with lemon juice.",
-    "Garnish with chopped cilantro and serve immediately."
+    "Garnish with chopped cilantro and serve immediately.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 16,
@@ -104,5 +105,9 @@
     "mainIngredient": "beef",
     "descriptor": "tender",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

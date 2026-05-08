@@ -44,7 +44,8 @@
     "Blend cream cheese, garlic powder, and red pepper flakes in a blender or food processor until smooth.",
     "Add olive oil to the blended mixture and blend again for about one minute until creamy.",
     "Stir in chicken broth (or water) and salt/pepper to taste. Heat gently over low-medium heat to combine all ingredients.",
-    "Pour into a shallow pan and let it simmer for 5-10 minutes, stirring occasionally."
+    "Pour into a shallow pan and let it simmer for 5-10 minutes, stirring occasionally.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Cream Cheese",
     "descriptor": "Tangy Garlic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

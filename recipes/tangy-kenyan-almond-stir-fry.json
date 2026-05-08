@@ -3,7 +3,6 @@
   "description": "This dense, tangy dish features almond essence and dates marinated for a date-night favorite, made with almonds and other non-dairy ingredients to accommodate FODMAP-friendly diets.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegan",
     "fodmap-friendly"
   ],
   "meal": "dinner",
@@ -84,5 +83,9 @@
     "mainIngredient": "Almonds",
     "descriptor": "Tangy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

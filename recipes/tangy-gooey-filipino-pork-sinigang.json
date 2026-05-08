@@ -93,7 +93,8 @@
     "Add the long green chili peppers and finger chilies to the pot and simmer for another 30 minutes.",
     "Add the tomatoes and bok choy to the pot and simmer for another 10 minutes.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the sinigang hot, garnished with tamarind leaves if desired."
+    "Serve the sinigang hot, garnished with tamarind leaves if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -131,5 +132,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Tangy Gooey",
     "dishForm": "Sinigang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -4,7 +4,6 @@
   "cuisine": "Irish",
   "diet": [
     null,
-    "vegetarian",
     null
   ],
   "meal": "dinner",
@@ -76,7 +75,8 @@
     "Spoon the beef and pork mixture onto the centre of each wrap, followed by a sprinkle of Irish cheddar cheese.",
     "Top each wrap with a dollop of Irish butter and a sprinkle of fresh cilantro.",
     "Serve immediately and enjoy!",
-    "Garnish with additional fresh cilantro if desired."
+    "Garnish with additional fresh cilantro if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -112,5 +112,10 @@
     "mainIngredient": "chilli",
     "descriptor": "tangy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

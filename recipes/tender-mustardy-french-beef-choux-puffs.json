@@ -53,7 +53,8 @@
     "Fold the other half of the dough square over the filling to form a triangle or square shape, pressing the edges to seal.",
     "Carefully place the choux puffs into the preheated fondue pot, being careful not to overcrowd.",
     "Cook the choux puffs for 10-12 minutes, or until golden brown, turning occasionally.",
-    "Serve the choux puffs hot, garnished with grated cheese, chopped parsley, and a side of chicken broth for dipping."
+    "Serve the choux puffs hot, garnished with grated cheese, chopped parsley, and a side of chicken broth for dipping.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "Tender Mustardy",
     "dishForm": "Choux Puffs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

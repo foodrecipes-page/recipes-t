@@ -2,9 +2,7 @@
   "title": "Tender Boiled Thai Plum Tomatoes Curry",
   "description": "A soothing and flavorful vegan curry made with boiled plum tomatoes and aromatic spices, perfect for a sick day. This resinous and aerated Thai dish is sure to comfort and nourish.",
   "cuisine": "Thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
     "comfort-food",
     "one-pot",
     "thai-curry",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -100,5 +97,9 @@
     "mainIngredient": "plum tomatoes",
     "descriptor": "tender boiled",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

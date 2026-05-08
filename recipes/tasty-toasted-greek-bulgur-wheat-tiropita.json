@@ -3,7 +3,6 @@
   "description": "A fresh and crisp Greek dish featuring bulgur wheat, perfect for kids, and steam cooked to perfection in a tiropita form, this recipe is gluten free friendly.",
   "cuisine": "Greek",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -67,7 +66,6 @@
   "servings": 6,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "greek-food",
     "healthy-snack",
     "kid-friendly",
@@ -96,5 +94,9 @@
     "mainIngredient": "bulgur wheat",
     "descriptor": "Tasty Toasted",
     "dishForm": "Tiropita"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

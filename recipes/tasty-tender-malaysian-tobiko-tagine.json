@@ -69,7 +69,8 @@
     "Add the tobiko, salt, and black pepper, and stir to combine.",
     "Add the water and bring the mixture to a boil.",
     "Cover the tagine and transfer it to the oven, where it will cook at 300 degrees for 30 minutes.",
-    "Remove the tagine from the oven and let it cool for a few minutes before serving."
+    "Remove the tagine from the oven and let it cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -107,5 +108,9 @@
     "mainIngredient": "tobiko",
     "descriptor": "tasty tender",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

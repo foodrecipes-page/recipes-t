@@ -2,9 +2,7 @@
   "title": "Tangy Velvety American Chicken Noodles",
   "description": "A sour and velvety American dish featuring yuzu-kosho, perfect for a monsoon evening, made with halal-friendly ingredients.",
   "cuisine": "American",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tangy velvety",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

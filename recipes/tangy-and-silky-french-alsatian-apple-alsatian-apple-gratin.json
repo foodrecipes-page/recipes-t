@@ -4,8 +4,7 @@
   "cuisine": "French",
   "diet": [
     "vegetarian",
-    "flexitarian",
-    "gluten-free"
+    "flexitarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -109,5 +108,9 @@
     "mainIngredient": "Alsatian Apple",
     "descriptor": "Tangy and Silky",
     "dishForm": "Alsatian Apple Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

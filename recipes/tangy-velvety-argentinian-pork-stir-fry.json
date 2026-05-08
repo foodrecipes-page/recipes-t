@@ -2,9 +2,7 @@
   "title": "Tangy Velvety Argentinian Pork Stir-fry",
   "description": "A tangy and velvety meal-prep Argentinean dish featuring digestive biscuits as a key ingredient for its unique texture.",
   "cuisine": "Argentinean",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "Pork",
     "descriptor": "Tangy Velvety",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

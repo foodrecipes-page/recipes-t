@@ -2,9 +2,7 @@
   "title": "Tranquil Smoky French Chicken Blanquette",
   "description": "A light and smoky French dish featuring chicken, rice syrup, and jocheong, cooked to perfection in a steamy blanquette, this recipe is a unique twist on traditional French cuisine, with the added bonus of being kosher-friendly.",
   "cuisine": "French",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,7 +67,6 @@
     "blanquette",
     "chicken",
     "french",
-    "kosher",
     "one-pan",
     "smoky",
     "weeknight"
@@ -97,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Tranquil Smoky",
     "dishForm": "Blanquette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

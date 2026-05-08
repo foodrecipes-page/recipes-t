@@ -3,8 +3,7 @@
   "description": "A tender and flavorful Indian paratha featuring bitter notes, perfect for a brunch mood, made with cardamom and ayurvedic-sattvic-friendly ingredients, the paratha is deglazed to bring out the best flavors.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -93,5 +92,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "tender bitter",
     "dishForm": "Paratha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

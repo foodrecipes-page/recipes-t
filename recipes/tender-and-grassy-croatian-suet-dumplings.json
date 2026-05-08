@@ -2,10 +2,7 @@
   "title": "Tender and Grassy Croatian Suet Dumplings",
   "description": "A traditional Croatian dish featuring suet and dumplings served as a kid-friendly dinner option.",
   "cuisine": "Croatian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -77,9 +74,7 @@
   "tags": [
     "croatian",
     "dumplings",
-    "gluten-free",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -105,5 +100,10 @@
     "mainIngredient": "suet",
     "descriptor": "tender and grassy",
     "dishForm": "dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

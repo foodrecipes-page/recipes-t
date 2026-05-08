@@ -63,7 +63,8 @@
     "Pour in the chicken broth and bring the mixture to a simmer.",
     "Reduce the heat to low and let the mixture cook for 10 minutes.",
     "Stir in the sour cream and let it heat through.",
-    "Serve the sausages and sauce hot over mashed potatoes or eggless noodles."
+    "Serve the sausages and sauce hot over mashed potatoes or eggless noodles.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +101,9 @@
     "mainIngredient": "sausages",
     "descriptor": "Tempting Thick",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

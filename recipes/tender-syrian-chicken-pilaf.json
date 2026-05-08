@@ -111,11 +111,15 @@
     "mood": "meal-prep",
     "technique": "soffritto-base",
     "primaryIngredient": "brown rice",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Syrian",
     "mainIngredient": "chicken",
     "descriptor": "Tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

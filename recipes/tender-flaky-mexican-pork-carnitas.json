@@ -65,7 +65,8 @@
     "Braise the pork for 2 1/2 hours, or until tender and easily shredded.",
     "Remove the pot from the oven and let it cool slightly.",
     "Shred the pork with two forks and strain the cooking liquid through a fine-mesh sieve into a clean saucepan.",
-    "Bring the cooking liquid to a boil and reduce it by half, stirring occasionally."
+    "Bring the cooking liquid to a boil and reduce it by half, stirring occasionally.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -103,5 +104,9 @@
     "mainIngredient": "pork",
     "descriptor": "Tender Flaky",
     "dishForm": "Carnitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

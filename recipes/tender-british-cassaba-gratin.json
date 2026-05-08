@@ -3,8 +3,7 @@
   "description": "A delicate and flavorful British dish featuring poached cassaba, perfect for a crowd. This low-fat-friendly recipe is sure to please with its tender texture and floral notes.",
   "cuisine": "British",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "british-cuisine",
     "low-fat",
-    "gluten-free",
     "vegetarian"
   ],
   "nutrition": {
@@ -97,5 +95,9 @@
     "mainIngredient": "cassaba",
     "descriptor": "tender floral",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

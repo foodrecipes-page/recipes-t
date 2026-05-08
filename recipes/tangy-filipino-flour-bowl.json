@@ -3,7 +3,6 @@
   "description": "A bright, tangy Filipino stir-fry tossed in a thick sauce and served in a sizzling stone bowl.",
   "cuisine": "Filipino",
   "diet": [
-    "vegetarian",
     "egg-free"
   ],
   "meal": "dinner",
@@ -115,8 +114,7 @@
     "flour-based",
     "quick",
     "stone-pot",
-    "tangy",
-    "vegetarian"
+    "tangy"
   ],
   "nutrition": {
     "calories": 450,
@@ -141,5 +139,9 @@
     "mainIngredient": "flour",
     "descriptor": "Tangy",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

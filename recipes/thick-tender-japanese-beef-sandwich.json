@@ -2,9 +2,7 @@
   "title": "Japanese Beef Sandwich",
   "description": "A rich, savory sandwich filled with tender beef, juicy tomatoes, and fresh herbs, served on a soft double-rise bread.",
   "cuisine": "Japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -67,7 +65,8 @@
     "Top each patty with a slice of melted mozzarella cheese.",
     "Add sliced tomatoes and a sprinkle of fresh basil and cilantro on top of the cheese.",
     "Drizzle the sandwiches with sesame oil and soy sauce.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -105,5 +104,10 @@
     "mainIngredient": "beef",
     "descriptor": "thick tender",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

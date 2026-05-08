@@ -70,7 +70,8 @@
     "add cooked spaghetti to the bowl and toss with sauce",
     "garnish with green onions and sesame seeds",
     "serve hot",
-    "optional: add garlic to the sauce for extra flavor"
+    "optional: add garlic to the sauce for extra flavor",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -107,5 +108,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "tangy dense",
     "dishForm": "Lo Mein"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

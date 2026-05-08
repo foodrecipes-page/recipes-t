@@ -2,9 +2,7 @@
   "title": "Tasty Toasted Ukrainian Andouille Skillet",
   "description": "A spicy Ukrainian dish featuring Andouille sausage, perfect for a brunch mood, and halal-friendly. This recipe combines the flavors of Ukraine with the spice of French Andouille sausage.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "andouille",
     "descriptor": "Tasty Toasted",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

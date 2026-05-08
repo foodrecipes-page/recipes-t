@@ -84,7 +84,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
     "Use a mortar and pestle to pound the spices and herbs, then add them to the tagine and stir to combine.",
     "Simmer the tagine for an additional 30 minutes, or until the flavors have melded together and the lamb is very tender.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -123,5 +124,9 @@
     "mainIngredient": "lamb",
     "descriptor": "tender juicy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -61,7 +61,8 @@
     "Season the stew with salt to taste, then cover and let it simmer for 20 minutes to develop depth.",
     "Remove the lid and stir in chopped cilantro just before serving.",
     "Taste and adjust seasoning if necessary, adding more salt or achiote if desired.",
-    "Ladle the stew into bowls, garnish with a sprinkle of fresh cilantro, and serve hot."
+    "Ladle the stew into bowls, garnish with a sprinkle of fresh cilantro, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 45,
@@ -99,5 +100,9 @@
     "mainIngredient": "Cheese",
     "descriptor": "Tender",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

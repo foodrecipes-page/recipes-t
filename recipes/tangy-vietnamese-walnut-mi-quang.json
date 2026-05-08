@@ -3,8 +3,7 @@
   "description": "A tangy and snappy Vietnamese dish featuring walnuts and tadka, perfect for a low-calorie friendly brunch",
   "cuisine": "Vietnamese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "brunch",
-    "gluten-free",
     "low-calorie",
     "noodle-dish",
     "tadka",
@@ -102,5 +100,9 @@
     "mainIngredient": "walnuts",
     "descriptor": "tangy snappy",
     "dishForm": "Mi Quang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

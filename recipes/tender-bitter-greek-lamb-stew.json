@@ -55,7 +55,7 @@
     }
   ],
   "instructions": [
-    "Preheat the oven to 300\u00b0F (150\u00b0C).",
+    "Preheat the oven to 300°F (150°C).",
     "In a large Dutch oven, heat the olive oil over medium-high heat.",
     "Add the lamb pieces and brown on all sides, about 5 minutes. Remove the browned lamb from the pot and set aside.",
     "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
@@ -64,7 +64,8 @@
     "Bring the mixture to a boil, then cover the pot and transfer it to the preheated oven.",
     "Braise the stew for 2 1/2 hours, or until the lamb is tender.",
     "Add the chopped radicchio to the pot and continue to cook for an additional 30 minutes, or until the radicchio has wilted.",
-    "Season the stew with salt and pepper to taste, then serve hot."
+    "Season the stew with salt and pepper to taste, then serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 180,
@@ -101,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "tender bitter",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

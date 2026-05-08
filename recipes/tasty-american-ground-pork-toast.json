@@ -56,7 +56,8 @@
     "Add a spoonful of the pork mixture on top of each bread slice.",
     "Drizzle the beaten egg over the pork mixture.",
     "Sprinkle shredded cheddar cheese over the top.",
-    "Place the skillet under the broiler for a few minutes, or until the cheese is melted and bubbly."
+    "Place the skillet under the broiler for a few minutes, or until the cheese is melted and bubbly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -94,5 +95,9 @@
     "mainIngredient": "ground pork",
     "descriptor": "tasty peppery",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

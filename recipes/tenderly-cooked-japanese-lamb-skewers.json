@@ -2,10 +2,7 @@
   "title": "Tenderly Cooked Japanese Lamb Skewers",
   "description": "A cultured and comforting Japanese dish featuring lamb loin chops, air-fried to perfection with a velvety texture, also suitable for vegan-friendly options by substituting lamb with portobello mushrooms or tofu",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,5 +79,10 @@
     "mainIngredient": "lamb",
     "descriptor": "Tenderly cooked",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A bitter and silky Thai dish made with panang paste and cooked in individual mini cocottes, featuring chicken and raw friendly ingredients in a tom kha form.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -65,7 +64,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "one-pot",
     "thai-cuisine",
@@ -94,5 +92,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Tender Silky",
     "dishForm": "Tom Kha"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A slow-cooked Thai dish featuring tender butternut squash, with a rich and slightly spicy flavor profile.",
   "cuisine": "Thai",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -88,7 +87,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "keto",
     "one-pan",
     "thai",
@@ -117,5 +115,9 @@
     "mainIngredient": "butternut squash",
     "descriptor": "tender and earthy",
     "dishForm": "Khao Pad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

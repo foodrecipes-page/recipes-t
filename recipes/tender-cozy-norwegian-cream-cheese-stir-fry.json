@@ -2,9 +2,7 @@
   "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
   "description": "A floral and tender dish featuring dairy-free cream cheese in a creamy and comforting sauce, perfect for a cozy evening.",
   "cuisine": "Norwegian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,8 +52,7 @@
     "floral",
     "norwegian",
     "cream-cheese",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 350,
@@ -80,5 +77,10 @@
     "mainIngredient": "cream cheese",
     "descriptor": "tender cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

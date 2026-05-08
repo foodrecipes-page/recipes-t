@@ -2,9 +2,7 @@
   "title": "Tempting Toasty Moroccan Chicken Tagine",
   "description": "A funky and festive Moroccan dish featuring chicken, peppercorns, and coconut cream, cooked to crispy perfection in a paella pan. This kosher-friendly recipe is perfect for a special occasion or a cozy night in.",
   "cuisine": "Moroccan",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Tempting Toasty",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A delicious and healthy French-inspired casserole featuring tender chicken, tangy flavors, and fresh cilantro, perfect for a weeknight dinner. This low-calorie-friendly dish is easy to make and packed with flavor.",
   "cuisine": "French",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -74,8 +73,7 @@
     "french",
     "chicken",
     "casserole",
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "nutrition": {
     "calories": 320,
@@ -100,5 +98,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tangy tender",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

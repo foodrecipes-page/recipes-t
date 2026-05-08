@@ -2,9 +2,7 @@
   "title": "Tangy Flaky Greek Palm Sugar Crumble",
   "description": "A tangy and flaky vegan-friendly meal-prep dish featuring palm sugar, designed to be enjoyed as a breakfast or snack option.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -96,5 +94,9 @@
     "mainIngredient": "palm_sugar",
     "descriptor": "Tangy Flaky",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

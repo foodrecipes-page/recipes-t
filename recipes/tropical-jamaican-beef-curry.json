@@ -3,8 +3,7 @@
   "description": "A citrusy and molten Jamaican dish featuring beef stock concentrate and tempering chocolate, perfect for a brunch mood, this ayurvedic sattvic friendly recipe is a unique twist on traditional curry",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "Tropical",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

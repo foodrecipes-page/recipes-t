@@ -2,69 +2,66 @@
   "title": "Tangy Tender Canadian Udon Casserole",
   "description": "A heartwarming, dairyfree baked udon dish with a tangy limemaple glaze, tender tofu, and fresh veggies, inspired by Canadian comfort cuisine.",
   "cuisine": "Canadian",
-  "diet": [
-    "dairy-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "Udon noodles",
-      "amount": "200\u202fg"
+      "amount": "200 g"
     },
     {
       "name": "Firm tofu",
-      "amount": "200\u202fg"
+      "amount": "200 g"
     },
     {
       "name": "Baby spinach",
-      "amount": "150\u202fg"
+      "amount": "150 g"
     },
     {
       "name": "Sliced shiitake mushrooms",
-      "amount": "100\u202fg"
+      "amount": "100 g"
     },
     {
       "name": "Shredded carrots",
-      "amount": "1\u202fcup (120\u202fg)"
+      "amount": "1 cup (120 g)"
     },
     {
       "name": "Garlic",
-      "amount": "2\u202fcloves, minced"
+      "amount": "2 cloves, minced"
     },
     {
       "name": "Fresh ginger",
-      "amount": "1\u202ftbsp, grated"
+      "amount": "1 tbsp, grated"
     },
     {
-      "name": "Low\u2011sodium soy sauce",
-      "amount": "3\u202ftbsp"
+      "name": "Low‑sodium soy sauce",
+      "amount": "3 tbsp"
     },
     {
       "name": "Lime juice",
-      "amount": "2\u202ftbsp"
+      "amount": "2 tbsp"
     },
     {
       "name": "Coconut milk",
-      "amount": "1\u202fcup (240\u202fml)"
+      "amount": "1 cup (240 ml)"
     },
     {
       "name": "Maple syrup",
-      "amount": "1\u202ftbsp"
+      "amount": "1 tbsp"
     },
     {
       "name": "Pecans, chopped",
-      "amount": "\u00bc\u202fcup"
+      "amount": "¼ cup"
     }
   ],
   "instructions": [
     "Bring a large pot of water to a boil and cook the udon noodles according to package directions until al dente; drain and set aside.",
     "In a small bowl whisk together soy sauce, lime juice, coconut milk, maple syrup, minced garlic, and grated ginger to make the tangy sauce.",
-    "Press and crumble the tofu into bite\u2011size cubes; toss in a drizzle of the sauce until coated, then set aside.",
-    "In a large skillet, saut\u00e9 the mushrooms and carrots over medium heat until they start to soften, about 5\u202fminutes; add the spinach and cook until wilted, about 2\u202fminutes.",
-    "Combine the cooked noodles, saut\u00e9ed veggies, tofu, and remaining sauce in a 9\u2011x\u201113\u2011inch baking dish, tossing gently to coat everything evenly.",
-    "Sprinkle the chopped pecans over the top and bake in a preheated oven at 180\u202f\u00b0C (350\u202f\u00b0F) for 20\u202fminutes, or until the casserole is heated through and the cheese\u2011like topping is golden.",
-    "Remove from oven, let rest 5\u202fminutes, then serve hot, optionally garnished with fresh cilantro or lime wedges.",
+    "Press and crumble the tofu into bite‑size cubes; toss in a drizzle of the sauce until coated, then set aside.",
+    "In a large skillet, sauté the mushrooms and carrots over medium heat until they start to soften, about 5 minutes; add the spinach and cook until wilted, about 2 minutes.",
+    "Combine the cooked noodles, sautéed veggies, tofu, and remaining sauce in a 9‑x‑13‑inch baking dish, tossing gently to coat everything evenly.",
+    "Sprinkle the chopped pecans over the top and bake in a preheated oven at 180 °C (350 °F) for 20 minutes, or until the casserole is heated through and the cheese‑like topping is golden.",
+    "Remove from oven, let rest 5 minutes, then serve hot, optionally garnished with fresh cilantro or lime wedges.",
     "Enjoy the creamy, tangy, and tender flavors in each bite!"
   ],
   "prepTimeMin": 15,
@@ -73,8 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
-    "vegan",
     "comfort-food",
     "baked",
     "udon",
@@ -105,5 +100,10 @@
     "mainIngredient": "udon",
     "descriptor": "Tangy Tender",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

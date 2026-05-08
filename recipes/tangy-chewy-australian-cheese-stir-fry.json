@@ -68,7 +68,8 @@
     "Slowly add white wine vinegar (or lemon juice) and maple syrup, stirring continuously. The mixture will thicken.",
     "Once the sauce has reduced to a rich consistency, stir in grated cheddar cheese until completely melted and smoothly incorporated.",
     "Season with black pepper and salt to taste. Let simmer for an extra 2-3 minutes to let flavors meld together.",
-    "Garnish with fresh thyme leaves if desired. Serve hot as a side dish or main course over steamed rice."
+    "Garnish with fresh thyme leaves if desired. Serve hot as a side dish or main course over steamed rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Tangy Chewy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A Whole30-friendly Vietnamese dish featuring peaches and a mother sauce base, served in a donabe vessel with a cheese-pull effect, providing an energizing and earthy flavor experience.",
   "cuisine": "Vietnamese",
   "diet": [
-    "Whole30",
-    "gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "difficulty": "medium",
   "tags": [
     "donabe-recipes",
-    "gluten-free",
     "grilled-pork",
     "peach-recipes",
     "vietnamese-cuisine",
@@ -100,5 +98,9 @@
     "mainIngredient": "peaches",
     "descriptor": "Tempting Earthy",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

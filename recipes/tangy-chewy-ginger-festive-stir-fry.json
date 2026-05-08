@@ -2,9 +2,7 @@
   "title": "Tangy Chewy Ginger Festive Stir-fry",
   "description": "A savory and festive dish featuring chewy ginger mixed with tangy flavors for a pescatarian-friendly snack or light meal.",
   "cuisine": "Slovakian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "festive",
     "ginger",
     "stir-fry",
-    "slovakian",
-    "pescatarian"
+    "slovakian"
   ],
   "nutrition": {
     "calories": 450,
@@ -100,5 +97,9 @@
     "mainIngredient": "Ginger",
     "descriptor": "Tangy Chewy Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

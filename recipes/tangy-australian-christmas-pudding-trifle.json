@@ -35,7 +35,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 20,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
@@ -69,5 +69,9 @@
     "mainIngredient": "Christmas pudding",
     "descriptor": "tangy",
     "dishForm": "Trifle"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

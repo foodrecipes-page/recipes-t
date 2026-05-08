@@ -3,8 +3,7 @@
   "description": "A garlicky, flaky, crowd-pleaser British dish featuring gherkin relish, this ploughmans is a sugar-free friendly option for any meal, made using a bain-marie for a perfectly melted cheese experience.",
   "cuisine": "British",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Tasty Flaky",
     "dishForm": "Ploughmans"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

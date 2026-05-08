@@ -3,8 +3,7 @@
   "description": "A quick and easy keto-friendly dish featuring green olives and flaky lamination puff, perfect for a weeknight dinner",
   "cuisine": "croatian",
   "diet": [
-    "keto",
-    "gluten-free"
+    "keto"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "keto",
     "one-pan",
@@ -100,5 +98,9 @@
     "mainIngredient": "olives",
     "descriptor": "tangy creamy",
     "dishForm": "Puff"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

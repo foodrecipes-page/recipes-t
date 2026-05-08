@@ -2,9 +2,7 @@
   "title": "Tangy Silky Festive French Egg Stir-fry",
   "description": "A vegan-friendly festive dish featuring eggs stir-fried with tangy and silky flavors to bring a touch of winter cheer.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -69,8 +67,7 @@
   "tags": [
     "festive",
     "french",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 265,
@@ -95,5 +92,9 @@
     "mainIngredient": "egg",
     "descriptor": "Tangy Silky Festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -76,11 +76,15 @@
     "mood": "cozy",
     "technique": "saute",
     "primaryIngredient": "pomegranate molasses",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "beef",
     "descriptor": "Tangy Light Cozy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

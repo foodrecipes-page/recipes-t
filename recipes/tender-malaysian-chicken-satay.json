@@ -56,7 +56,8 @@
     "Grill the chicken skewers for 5-7 minutes per side, or until cooked through.",
     "Serve the chicken satay hot with a side of nuka-pickle and coco sugar sauce.",
     "To make the coco sugar sauce, mix 1 tablespoon of coco sugar with 2 tablespoons of water in a small bowl.",
-    "Drizzle the coco sugar sauce over the chicken satay and nuka-pickle."
+    "Drizzle the coco sugar sauce over the chicken satay and nuka-pickle.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tender crunchy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

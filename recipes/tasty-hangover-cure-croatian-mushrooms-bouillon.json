@@ -3,7 +3,6 @@
   "description": "A briny, snappy hangover cure featuring marjoram, dashi-extract, and ayurvedic rajasic-friendly Croatian mushrooms. This dish is a perfect way to revive after a night of imbibing.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -81,7 +80,6 @@
     "gluten-free",
     "hangover-cure",
     "marjoram",
-    "vegan",
     "wild-mushrooms"
   ],
   "nutrition": {
@@ -107,5 +105,10 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Tasty Hangover Cure",
     "dishForm": "Bouillon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

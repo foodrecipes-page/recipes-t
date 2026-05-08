@@ -3,8 +3,7 @@
   "description": "A funky, chewy, one-pot Vietnamese dish featuring raw frozen prawns, this recipe is diabetic-friendly and made in the form of ca-kho-to.",
   "cuisine": "Vietnamese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "diabetic-friendly",
     "dinner-ideas",
-    "gluten-free",
     "one-pot",
     "seafood",
     "vietnamese-cuisine"
@@ -99,5 +97,9 @@
     "mainIngredient": "prawns",
     "descriptor": "Tender Thick",
     "dishForm": "Ca Kho To"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

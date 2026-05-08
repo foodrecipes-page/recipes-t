@@ -3,8 +3,7 @@
   "description": "A garlicky and flaky Mexican dish featuring cream of tartar and bonito shave, perfect for a brunch mood. This gluten-free friendly recipe is a twist on traditional frijoles charros.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "beans",
     "descriptor": "Tasty Garlicky",
     "dishForm": "Frijoles Charros"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

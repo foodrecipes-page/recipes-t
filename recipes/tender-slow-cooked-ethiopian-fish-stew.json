@@ -2,9 +2,7 @@
   "title": "Tender Slow-Cooked Ethiopian Fish Stew",
   "description": "A pescatarian-friendly one-pot dish from Ethiopia, featuring flaky fish and crunchy padron peppers.",
   "cuisine": "Ethiopian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,7 +97,6 @@
     "fish-stew",
     "high-protein",
     "one-pot",
-    "pescatarian",
     "slow-cooker",
     "weeknight"
   ],
@@ -126,5 +123,9 @@
     "mainIngredient": "fish",
     "descriptor": "tender slow-cooked",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

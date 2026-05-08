@@ -67,7 +67,8 @@
     "Add the tomato puree, heavy cream, and lemon juice. Stir well to combine.",
     "Bring the mixture to a simmer and cook, stirring occasionally, until the sauce has thickened and the flavors have melded together, about 15-20 minutes.",
     "Season with salt to taste.",
-    "Garnish with chopped fresh cilantro and serve over low-carb friendly sides such as cauliflower rice or zucchini noodles."
+    "Garnish with chopped fresh cilantro and serve over low-carb friendly sides such as cauliflower rice or zucchini noodles.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "pork",
     "descriptor": "tangy silky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

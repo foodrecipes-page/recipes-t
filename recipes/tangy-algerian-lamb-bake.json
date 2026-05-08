@@ -100,11 +100,15 @@
     "mood": "lazy-sunday",
     "technique": "bake",
     "primaryIngredient": "red wine",
-    "diet": "low-sodium",
+    "diet": "low-sodium-friendly",
     "region": null,
     "cuisineAdjective": "Algerian",
     "mainIngredient": "Lamb",
     "descriptor": "Tangy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A light, floral Polish salad featuring brine-wet chickpeas and a bright vinaigrette, perfect for a quick lunch.",
   "cuisine": "Polish",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "lunch",
@@ -97,8 +96,7 @@
     "light",
     "polish",
     "quick",
-    "salad",
-    "vegan"
+    "salad"
   ],
   "nutrition": {
     "calories": 160,
@@ -123,5 +121,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Tender",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

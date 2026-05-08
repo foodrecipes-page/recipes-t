@@ -3,8 +3,7 @@
   "description": "A sour and flaky Norwegian dish featuring shredded Monterey Jack cheese, perfect for midnight cravings, made with long-fermentation-dough and diabetic-friendly ingredients.",
   "cuisine": "Norwegian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Tangy Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

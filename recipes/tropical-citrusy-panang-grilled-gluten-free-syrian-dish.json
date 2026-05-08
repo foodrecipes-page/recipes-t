@@ -70,7 +70,6 @@
     "citrusy",
     "festive",
     "glassy-jelly",
-    "gluten-free",
     "panang-grilled",
     "robata-wooden-grill",
     "syrian"
@@ -98,5 +97,9 @@
     "mainIngredient": "Citrus",
     "descriptor": "Tropical",
     "dishForm": "Grill-Savory Citrus Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

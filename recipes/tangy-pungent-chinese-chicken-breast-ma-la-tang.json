@@ -3,8 +3,7 @@
   "description": "A pungent and bouncy Chinese dish featuring chicken breast, this ma la tang is a solo dinner delight from Jiangsu cuisine, with a focus on macrobiotic-friendly ingredients.",
   "cuisine": "Chinese",
   "diet": [
-    "macrobiotic",
-    "gluten-free"
+    "macrobiotic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Add rice vinegar and soy sauce, and bring to a boil.",
     "Reduce heat to low and simmer for 10 minutes.",
     "Stir in sliced scallions and cook for 1 minute.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +91,10 @@
     "mainIngredient": "chicken breast",
     "descriptor": "Tangy Pungent",
     "dishForm": "Ma La Tang"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

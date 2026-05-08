@@ -3,7 +3,6 @@
   "description": "A fermented and snappy British dish featuring Thai holy basil krapao, perfect for a sick day, with an ayurvedic tamasic friendly twist, served as an afternoon tea sandwich.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "soy-free"
   ],
   "meal": "snack",
@@ -57,7 +56,8 @@
     "Spread a layer of the chicken mixture onto each bread slice.",
     "Top with additional Thai holy basil leaves and serve.",
     "Let the sandwiches rest for 5 minutes before serving to allow the flavors to meld.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -68,7 +68,6 @@
     "afternoon-tea",
     "british-cuisine",
     "fermented-food",
-    "gluten-free",
     "snappy-sandwich",
     "soy-free",
     "tamasic-friendly"
@@ -96,5 +95,10 @@
     "mainIngredient": "chicken",
     "descriptor": "tender tasty",
     "dishForm": "Afternoon Tea Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Trembling Spicy Japanese Tomato Stew",
   "description": "A vibrant, aerated nabemono featuring beef tomatoes, miso, and plant-based proteins simmered to perfection in a Korean brass bowl.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -128,5 +126,9 @@
     "mainIngredient": "Tomato",
     "descriptor": "Trembling Spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

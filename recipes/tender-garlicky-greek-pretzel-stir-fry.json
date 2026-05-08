@@ -48,7 +48,8 @@
     "Fold in toasted pretzels and black olives. Season with salt and freshly ground black pepper.",
     "If using protein, cook it separately on low heat, add back into the sauce to warm through.",
     "Spoon mixture into oven-safe ramekins or baking dishes.",
-    "Bake for 20-25 minutes until cheese is bubbly and golden."
+    "Bake for 20-25 minutes until cheese is bubbly and golden.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -83,5 +84,9 @@
     "mainIngredient": "Pretzels",
     "descriptor": "Garlicky Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -89,7 +89,8 @@
     "Braise the lamb for 2 1/2 hours, or until it's tender and the sauce has thickened.",
     "Remove the pot from the oven and let it cool slightly.",
     "Stir in the Greek yogurt and season the sauce with salt and black pepper to taste.",
-    "Serve the lamb and sauce over rice or with some crusty bread, garnished with chopped fresh herbs if desired."
+    "Serve the lamb and sauce over rice or with some crusty bread, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -128,5 +129,9 @@
     "mainIngredient": "Lamb",
     "descriptor": "Tender, Gooey",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

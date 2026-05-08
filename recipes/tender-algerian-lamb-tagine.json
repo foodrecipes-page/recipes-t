@@ -62,7 +62,8 @@
     "Add the chicken broth and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
     "Stir in the chopped dried apricots and cook for an additional 15 minutes.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 105,
@@ -101,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "tender pungent",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

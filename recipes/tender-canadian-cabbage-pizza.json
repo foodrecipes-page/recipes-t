@@ -2,9 +2,7 @@
   "title": "Tender Canadian Cabbage Pizza",
   "description": "A light, plant‑based pizza with sweet cabbage and lamination‑puff pastry, finished on a robata grill for a smoky, molten finish.",
   "cuisine": "canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,8 +80,7 @@
     "cabbage",
     "puff-pastry",
     "quick",
-    "robata",
-    "vegan"
+    "robata"
   ],
   "nutrition": {
     "calories": 300,
@@ -108,5 +105,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Tender",
     "dishForm": "Pizza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

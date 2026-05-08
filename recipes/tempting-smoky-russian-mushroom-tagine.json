@@ -2,9 +2,7 @@
   "title": "Tempting Smoky Russian Mushroom Tagine",
   "description": "Rich and juicy Russian dish featuring smoky flavors and heavy cream, adapted to be dairy-free friendly, cooked in a traditional tajine clay vessel.",
   "cuisine": "Russian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -71,7 +69,6 @@
   "tags": [
     "clay-pot",
     "comfort-food",
-    "dairy-free",
     "mushroom-based",
     "russian-cuisine",
     "smoky"
@@ -99,5 +96,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "Tempting Smoky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

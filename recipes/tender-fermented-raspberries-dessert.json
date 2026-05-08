@@ -2,9 +2,7 @@
   "title": "Tender Fermented Raspberries Dessert",
   "description": "This tender fermented raspberries dessert is a delightful and romantic Ukrainian dish that combines the tangy sweetness of ripe raspberries with a dairy-free-friendly touch.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -72,5 +70,9 @@
     "mainIngredient": "Raspberries",
     "descriptor": "Fermented Tender Romantic",
     "dishForm": "Dessert"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -49,7 +49,8 @@
     "Spray the air fryer basket with air fryer oil.",
     "Add the chicken mixture to the air fryer basket.",
     "Cook the chicken in the air fryer for 12-15 minutes, shaking the basket halfway through.",
-    "Remove the chicken from the air fryer and serve hot."
+    "Remove the chicken from the air fryer and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 15,
@@ -87,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Tender juicy",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

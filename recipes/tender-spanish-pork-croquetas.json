@@ -54,7 +54,8 @@
     "Transfer the pork mixture to a blender or food processor and blend until coarsely chopped.",
     "In a large bowl, combine the chopped pork mixture, egg, almond flour, and crushed pork rinds, mixing until just combined.",
     "Using your hands, shape the mixture into small cylindrical croquetas.",
-    "Place the croquetas on a baking sheet lined with parchment paper and bake for 15 minutes, until golden brown."
+    "Place the croquetas on a baking sheet lined with parchment paper and bake for 15 minutes, until golden brown.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "pork",
     "descriptor": "Tender Tandoor",
     "dishForm": "Croquetas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

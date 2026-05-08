@@ -2,9 +2,7 @@
   "title": "Tangy Crumbly Peruvian Quinoa Curry",
   "description": "A vegan Peruvian-inspired quinoa curry that balances tangy lime, smoky bhuna spices, and a crumbly vegan feta topping for a satisfying meal prep dish.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,7 +99,6 @@
   "difficulty": "medium",
   "tags": [
     "peruvian",
-    "vegan",
     "quinoa",
     "curry",
     "bhuna",
@@ -133,5 +130,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "Tangy Crumbly",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

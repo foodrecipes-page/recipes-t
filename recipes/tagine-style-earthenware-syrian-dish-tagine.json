@@ -74,7 +74,8 @@
     "Pour in the chicken broth and bring to a boil.",
     "Cover the tagine and transfer to the oven. Cook at 300°F for 30 minutes.",
     "Remove the tagine from the oven and stir in the lime juice.",
-    "Serve hot, garnished with fresh parsley, if desired."
+    "Serve hot, garnished with fresh parsley, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -110,5 +111,9 @@
     "mainIngredient": "dish",
     "descriptor": "Tagine-Style Earthenware",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

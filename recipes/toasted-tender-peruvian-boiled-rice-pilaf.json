@@ -55,7 +55,8 @@
     "Stir in salt, black pepper, and chopped cilantro.",
     "Increase heat to medium, and add remaining 2 tablespoons of unsalted butter.",
     "Stir constantly until butter has melted and rice is toasted and crumbly.",
-    "Serve hot, garnished with additional cilantro if desired."
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 20,
@@ -92,5 +93,9 @@
     "mainIngredient": "boiled rice",
     "descriptor": "toasted tender",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -30,7 +30,7 @@
   ],
   "instructions": [
     "Heat ground nut oil in a skillet over medium heat.",
-    "Add ginger and saut\u00e9 for about 30 seconds or until fragrant.",
+    "Add ginger and sauté for about 30 seconds or until fragrant.",
     "Cut pineapple into small pieces, leaving the skin on for texture.",
     "Add pineapple to the skillet with the ginger and continue cooking for 5 minutes, stirring occasionally.",
     "Season with salt and pepper to taste.",
@@ -63,11 +63,15 @@
     "mood": "romantic",
     "technique": "bake",
     "primaryIngredient": "ground nut oil",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Jamaican",
     "mainIngredient": "Pineapple",
     "descriptor": "Tropical Fresh",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

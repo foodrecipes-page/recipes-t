@@ -18,7 +18,8 @@
     "Divide the bouillabaisse into 4 equal portions and serve immediately.",
     "Garnish with a dollop of sour cream and a sprinkle of paprika, if desired.",
     "Serve with a side of crusty bread or crackers for dipping in the broth.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -127,5 +128,9 @@
     "mainIngredient": "Comte",
     "descriptor": "Tangy, fluffy",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

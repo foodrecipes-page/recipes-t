@@ -3,7 +3,6 @@
   "description": "A hearty, comforting stew featuring quinoa, vegetables, and lean beef, perfect for a lazy Sunday.",
   "cuisine": "American",
   "diet": [
-    "vegetarian",
     "shojin"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "quinoa",
     "descriptor": "Tender, Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

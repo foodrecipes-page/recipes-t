@@ -3,7 +3,6 @@
   "description": "A floral and dense Slovakian dish featuring stracciatella cheese, perfect for crowds, with a dairy-free friendly option. This dish is a crowd-pleaser and can be made with minimal adjustments for dairy-free diets.",
   "cuisine": "Slovakian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "stracciatella cheese",
     "descriptor": "Tempting Dense",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

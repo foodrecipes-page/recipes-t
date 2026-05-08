@@ -2,9 +2,7 @@
   "title": "Tantalizing Normandy Runner Beans Tarte Tatin",
   "description": "A savory, plant‑based tarte tatin featuring tender runner beans, caramelized apples, and delicate bean spheres, perfect for midnight cravings.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -84,8 +82,7 @@
     "normandy",
     "plant-based",
     "spherification",
-    "tar-tatin",
-    "vegan"
+    "tar-tatin"
   ],
   "nutrition": {
     "calories": 1030,
@@ -110,5 +107,9 @@
     "mainIngredient": "Runner Beans",
     "descriptor": "Tantalizing",
     "dishForm": "Tarte Tatin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

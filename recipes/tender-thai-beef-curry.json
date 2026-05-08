@@ -58,7 +58,8 @@
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and cook, covered, for 20 minutes, or until the beef is tender.",
     "Stir in the chopped basil leaves and cook for an additional 2 minutes.",
-    "Serve the curry hot, garnished with additional basil leaves if desired."
+    "Serve the curry hot, garnished with additional basil leaves if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -96,5 +97,9 @@
     "mainIngredient": "beef",
     "descriptor": "tender tagine cooked",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -51,7 +51,9 @@
     "Add the chicken broth to the pan and bring to a boil.",
     "Reduce the heat to low and simmer for 10 minutes.",
     "Add the cooked sausage to the pan and stir to combine.",
-    "Transfer the paella pan to the preheated oven and bake for 10 minutes."
+    "Transfer the paella pan to the preheated oven and bake for 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -89,5 +91,10 @@
     "mainIngredient": "ground beef",
     "descriptor": "tender tasty",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

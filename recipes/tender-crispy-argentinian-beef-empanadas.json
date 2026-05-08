@@ -47,7 +47,8 @@
     "Repeat with the remaining dough and filling.",
     "Fry the empanadas in batches until they are golden brown and crispy.",
     "Drain the empanadas on paper towels and serve hot.",
-    "Season with salt, black pepper, and paprika to taste."
+    "Season with salt, black pepper, and paprika to taste.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -86,5 +87,9 @@
     "mainIngredient": "beef",
     "descriptor": "Tender Crispy",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

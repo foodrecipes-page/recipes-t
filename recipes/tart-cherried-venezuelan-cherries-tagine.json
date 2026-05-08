@@ -26,7 +26,8 @@
     "Drizzle the remaining cherry sauce over the top of each tagine.",
     "Cover the tagine with a lid and bake for 20-25 minutes, or until the flavors have melded together and the top is golden brown.",
     "Remove the tagine from the oven and let it cool for a few minutes before serving.",
-    "Garnish with fresh parsley and serve hot."
+    "Garnish with fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -73,5 +74,9 @@
     "mainIngredient": "cherries",
     "descriptor": "Tart Cherried",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

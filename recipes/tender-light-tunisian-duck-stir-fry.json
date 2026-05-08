@@ -67,7 +67,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "vegan",
     "vegetarian",
     "tunisian",
     "stir-fry"
@@ -95,5 +94,9 @@
     "mainIngredient": "duck",
     "descriptor": "tender light",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

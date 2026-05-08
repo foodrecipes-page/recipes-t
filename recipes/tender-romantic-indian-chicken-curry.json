@@ -2,9 +2,7 @@
   "title": "Tender Romantic Indian Chicken Curry",
   "description": "A fragrant, tender chicken curry with hazelnuts and a smoky tadka, perfect for a romantic dinner.",
   "cuisine": "Indian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -116,5 +114,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Tender Romantic",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

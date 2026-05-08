@@ -2,9 +2,7 @@
   "title": "Tender Briny Saudi Arabian Lamb Tagine",
   "description": "A traditional Saudi Arabian dish featuring tender lamb in a rich and briny sauce, served with a side of liquid cheese and steamed in a papillote, perfect for a monsoon evening. This recipe combines the flavors of the Middle East with the comfort of a hearty stew.",
   "cuisine": "Saudi Arabian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -104,5 +102,9 @@
     "mainIngredient": "lamb",
     "descriptor": "tender briny",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

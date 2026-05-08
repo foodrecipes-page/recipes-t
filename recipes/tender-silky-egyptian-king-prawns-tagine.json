@@ -2,9 +2,7 @@
   "title": "Tender Silky Egyptian King Prawns Tagine",
   "description": "A lazy Sunday Egyptian dish featuring king prawns, kombu cold extract, and halal friendly ingredients, resulting in a grassy and silky texture. This dish is perfect for a relaxing weekend meal.",
   "cuisine": "Egyptian",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "king prawns",
     "descriptor": "tender silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

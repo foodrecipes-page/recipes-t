@@ -4,7 +4,6 @@
   "cuisine": "French",
   "diet": [
     "vegetarian",
-    "vegan",
     "nut-free",
     "gluten-free"
   ],
@@ -83,7 +82,6 @@
   "difficulty": "medium",
   "tags": [
     "tangy",
-    "vegan",
     "vegetarian",
     "nut-free",
     "gluten-free",
@@ -115,5 +113,9 @@
     "mainIngredient": "celeriac",
     "descriptor": "Tangy Tender",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

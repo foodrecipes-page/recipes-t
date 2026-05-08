@@ -3,7 +3,6 @@
   "description": "A hearty one-pot meal featuring kabanos sausages, onions, and a blend of Malaysian spices.",
   "cuisine": "Malaysian",
   "diet": [
-    "halal",
     "vegetarian-option"
   ],
   "meal": "dinner",
@@ -86,7 +85,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "halal",
     "high-protein",
     "one-pan",
     "vegetarian-option",
@@ -115,5 +113,9 @@
     "mainIngredient": "Kabanos sausages",
     "descriptor": "Tender Mustardy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

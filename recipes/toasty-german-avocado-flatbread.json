@@ -3,7 +3,6 @@
   "description": "A salty, light, and festive German dish featuring avocado, perfect for a snack or light meal, with anti-inflammatory friendly ingredients",
   "cuisine": "German",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -92,5 +91,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Tempting Toasty",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

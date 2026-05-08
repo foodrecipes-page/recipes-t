@@ -3,8 +3,7 @@
   "description": "A sweet and creamy Indian dish featuring poppy seeds and bonito-shave, served in a cedar-plank vessel, high in protein and perfect for a light meal.",
   "cuisine": "Indian",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "snack",
   "ingredients": [
@@ -71,8 +70,7 @@
     "high-protein",
     "indian-food",
     "poppy-seeds",
-    "snack-food",
-    "vegetarian"
+    "snack-food"
   ],
   "nutrition": {
     "calories": 250,
@@ -97,5 +95,9 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Tempting Light",
     "dishForm": "Samosas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

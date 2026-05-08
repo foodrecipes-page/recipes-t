@@ -3,8 +3,7 @@
   "description": "A fresh and tender Polish dish featuring new potatoes, perfect for the monsoon season, and diabetic-friendly. This recipe is a delicious and healthy twist on traditional Polish cuisine.",
   "cuisine": "Polish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "snack",
   "ingredients": [
@@ -66,7 +65,6 @@
     "polish-cuisine",
     "monsoon-recipes",
     "diabetic-friendly",
-    "gluten-free",
     "healthy-snacks"
   ],
   "nutrition": {
@@ -92,5 +90,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "tender",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

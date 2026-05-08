@@ -4,8 +4,7 @@
   "cuisine": "Venezuelan",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -64,7 +63,8 @@
     "Bring the mixture to a simmer and cook for 10-15 minutes, stirring occasionally.",
     "Season with salt and black pepper to taste.",
     "Garnish with fresh cilantro.",
-    "Serve hot, with additional canola oil on the side if desired."
+    "Serve hot, with additional canola oil on the side if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -100,5 +100,10 @@
     "mainIngredient": "dish",
     "descriptor": "tender winey",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

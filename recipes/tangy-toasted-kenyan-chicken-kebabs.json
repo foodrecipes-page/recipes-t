@@ -51,7 +51,8 @@
     "Grill the kebabs for 10-12 minutes, turning occasionally",
     "While the kebabs are cooking, deglaze the grill with a little water to get the fond",
     "Once the kebabs are cooked, brush them with the deglazed fond",
-    "Serve the kebabs hot, garnished with additional grapes if desired"
+    "Serve the kebabs hot, garnished with additional grapes if desired",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tangy toasted",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

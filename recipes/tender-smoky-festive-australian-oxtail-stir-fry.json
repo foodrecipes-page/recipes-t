@@ -2,9 +2,7 @@
   "title": "Tender Smoky Festive Australian Oxtail Stir-fry",
   "description": "This gluten-free-friendly dish features tender oxtail cooked in a smoky and festive marinade to create a flavorful stir-fry that's perfect for dinner.",
   "cuisine": "Australian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -66,8 +64,7 @@
     "festival",
     "australian",
     "oxtail",
-    "stir-fry",
-    "gluten-free"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 675,
@@ -92,5 +89,9 @@
     "mainIngredient": "oxtail",
     "descriptor": "smoky tender festive",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

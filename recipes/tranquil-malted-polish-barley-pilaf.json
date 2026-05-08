@@ -3,8 +3,7 @@
   "description": "A malty, aerated, nostalgic Polish dish featuring kosher salt, poached to perfection in a mason jar, this low-glycemic-friendly pilaf is a comforting side dish, it is also a great option for a light lunch",
   "cuisine": "Polish",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +58,6 @@
   "tags": [
     "comfort-food",
     "easy-meal",
-    "gluten-free",
     "low-glycemic",
     "mason-jar",
     "polish-cuisine"
@@ -87,5 +85,9 @@
     "mainIngredient": "barley",
     "descriptor": "Tranquil Malted",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

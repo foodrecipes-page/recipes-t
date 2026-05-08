@@ -3,8 +3,7 @@
   "description": "A floral, tender, indulgent Norwegian dish featuring gouda cheese and plant-based-friendly ingredients for a unique culinary experience.",
   "cuisine": "Norwegian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "Gouda Cheese",
     "descriptor": "Floral Tender Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

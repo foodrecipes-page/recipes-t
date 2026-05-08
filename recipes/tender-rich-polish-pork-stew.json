@@ -68,7 +68,9 @@
     "Add the yuzu juice, chicken broth, thyme, salt, and pepper to the pot, and stir to combine.",
     "Return the pork to the pot and bring the mixture to a boil.",
     "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the pork is tender.",
-    "Serve the stew hot, garnished with fresh herbs if desired."
+    "Serve the stew hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -105,5 +107,10 @@
     "mainIngredient": "pork",
     "descriptor": "Tender Rich",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-pork_no_temp"
+  ]
 }

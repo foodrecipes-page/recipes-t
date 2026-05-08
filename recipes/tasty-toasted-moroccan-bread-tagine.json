@@ -3,7 +3,6 @@
   "description": "A funky and crumbly weeknight Moroccan dish featuring bread and lardons, rendered in a satvik-friendly way, this recipe is perfect for a quick dinner",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "dinner",
@@ -78,7 +77,6 @@
     "moroccan",
     "one-pan",
     "satvik",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -104,5 +102,9 @@
     "mainIngredient": "bread",
     "descriptor": "Tasty Toasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

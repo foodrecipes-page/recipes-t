@@ -2,9 +2,7 @@
   "title": "Tender Tamarind Dutch Chicken Stew",
   "description": "A hearty and kid-friendly Dutch stew made with tender chicken, tamarind pulp, and a hint of butter, all cooked to perfection in a copper pot. This dish is kosher-friendly and features a delicious salt-bake flavor.",
   "cuisine": "Dutch",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "tender tamarind",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

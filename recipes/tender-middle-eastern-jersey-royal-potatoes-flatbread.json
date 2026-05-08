@@ -3,8 +3,7 @@
   "description": "A malty, flaky, brunch-mood middle-eastern dish featuring jersey royal potatoes, perfect for a relaxing morning, this recipe is also ayurvedic-tamasic-friendly.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -66,7 +65,6 @@
   "tags": [
     "brunch",
     "flatbread",
-    "gluten-free",
     "middle-eastern",
     "potato",
     "vegetarian"
@@ -94,5 +92,9 @@
     "mainIngredient": "Jersey Royal Potatoes",
     "descriptor": "Tender Flaky",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

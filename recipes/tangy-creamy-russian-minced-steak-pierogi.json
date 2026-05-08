@@ -78,7 +78,8 @@
     "Bring a large pot of salted water to a boil and cook the pierogi for 5 minutes or until they float to the surface.",
     "Serve with a dollop of sour cream and a sprinkle of chopped fresh dill.",
     "Optional: pan-fry the pierogi in butter until golden brown on both sides.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -116,5 +117,9 @@
     "mainIngredient": "minced steak",
     "descriptor": "tangy creamy",
     "dishForm": "Pierogi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

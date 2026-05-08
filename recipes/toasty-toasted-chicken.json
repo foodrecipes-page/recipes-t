@@ -56,7 +56,8 @@
     "Transfer the chicken to a plate lined with paper towels to drain excess grease.",
     "While the chicken cooks, prepare the toasts: spread a thin layer of dijon mustard onto one slice of bread, then drizzle with olive oil. Toast in a toaster or oven at 350°F (175°C) until golden brown and crispy. Repeat with another slice of bread for the second toast.",
     "Combine the remaining 4 tablespoons of butter with lemon zest in a small saucepan over low heat to create a warm, spreadable compound butter.",
-    "Serve each chicken breast topped with one toasted piece of crusty bread (using half of the compound butter) and a dollop of the warm compound butter on top. Drizzle with extra dijon mustard if desired."
+    "Serve each chicken breast topped with one toasted piece of crusty bread (using half of the compound butter) and a dollop of the warm compound butter on top. Drizzle with extra dijon mustard if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "primaryIngredient": "chicken breasts",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

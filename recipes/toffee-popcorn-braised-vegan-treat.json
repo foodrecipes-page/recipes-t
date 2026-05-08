@@ -3,8 +3,7 @@
   "description": "A decadent herbal and crispy Canadian dish featuring a vegan twist with toffee popcorn braised in a rich sauce.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -63,7 +62,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350\u00b0F (175\u00b0C).",
+    "Preheat your oven to 350°F (175°C).",
     "Cook pearl couscous as directed on package, soaking it in unsweetened almond milk.",
     "In a large skillet over medium heat, melt vegan butter and coconut oil together. Add popped corn kernels and cook until they start popping, stirring occasionally to prevent burning.",
     "Gradually stir in the maple syrup, soy sauce (or tamari), and optional coconut sugar into the hot popcorn mixture. Let it come to a simmer for 2-3 minutes, stirring frequently.",
@@ -77,7 +76,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "vegan",
     "canadian",
     "toffee-popcorn",
     "braised-treat"
@@ -101,5 +99,9 @@
     "primaryIngredient": "toffee popcorn",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -63,7 +63,7 @@
     "mood": "brunch-mood",
     "technique": "ferment",
     "primaryIngredient": "mixed beef cuts",
-    "diet": "nut-free",
+    "diet": "flexitarian",
     "region": null,
     "cuisineAdjective": "Peruvian",
     "mainIngredient": "Beef",
@@ -84,5 +84,9 @@
   "tags": [
     "peruvian",
     "breakfast"
+  ],
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
   ]
 }

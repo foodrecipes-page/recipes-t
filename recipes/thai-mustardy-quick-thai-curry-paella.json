@@ -69,7 +69,8 @@
     "Reduce the heat to low and let simmer for 5 minutes, stirring occasionally.",
     "Stir in 1/4 cup of fresh cilantro and cook for an additional minute.",
     "To serve, place a scoop of the curry sauce on top of a bed of iceberg lettuce and garnish with additional cilantro if desired.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -106,5 +107,9 @@
     "mainIngredient": "curry",
     "descriptor": "Thai Mustardy Quick",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -80,7 +80,8 @@
     "Top with diced pickles, sun‑dried tomatoes, and sliced olives.",
     "Bake for 12‑15 minutes until the edges are golden and the cheese is bubbly.",
     "Remove from the oven and let cool for 3 minutes before slicing.",
-    "Garnish with fresh basil leaves, drizzle a little extra‑virgin olive oil, and serve warm."
+    "Garnish with fresh basil leaves, drizzle a little extra‑virgin olive oil, and serve warm.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -120,5 +121,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Tangy",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

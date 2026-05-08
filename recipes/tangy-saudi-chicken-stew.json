@@ -65,7 +65,8 @@
     "Reduce the heat to low, cover, and let the stew simmer for 25 minutes, or until the chicken is tender.",
     "Taste and adjust seasoning with additional salt if needed.",
     "Serve the stew hot, spooned over a bed of steamed rice or flatbread.",
-    "Garnish with fresh parsley if desired."
+    "Garnish with fresh parsley if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -104,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Tangy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

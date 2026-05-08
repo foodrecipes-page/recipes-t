@@ -95,7 +95,8 @@
     "Preheat the oven to 375°F (190°C).",
     "Transfer the bean mixture to a baking dish and top with feta cheese.",
     "Bake for 15 minutes, or until the cheese is melted and bubbly.",
-    "Serve the bean mixture in the ssam wraps with crushed taco shells on top."
+    "Serve the bean mixture in the ssam wraps with crushed taco shells on top.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -134,5 +135,9 @@
     "mainIngredient": "beans",
     "descriptor": "Tender",
     "dishForm": "Kuru Fasulye"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

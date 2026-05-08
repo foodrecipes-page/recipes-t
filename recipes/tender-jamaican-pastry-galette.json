@@ -3,8 +3,7 @@
   "description": "A funky and tender Jamaican pastry galette, perfect for a date night. Featuring 00-flour and paleo-friendly ingredients.",
   "cuisine": "Jamaican",
   "diet": [
-    "paleo",
-    "gluten-free"
+    "paleo"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -88,7 +87,6 @@
   "tags": [
     "date-night",
     "dessert",
-    "gluten-free",
     "paleo"
   ],
   "nutrition": {
@@ -114,5 +112,9 @@
     "mainIngredient": "pastry",
     "descriptor": "tender",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

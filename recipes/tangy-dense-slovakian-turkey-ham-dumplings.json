@@ -2,10 +2,7 @@
   "title": "Tangy Dense Slovakian Turkey Ham Dumplings",
   "description": "A comforting Slovakian-inspired dish featuring hearty turkey ham dumplings simmered in a tangy tomato-broth, perfect for a cozy date night.",
   "cuisine": "Slovakian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -82,8 +79,6 @@
     "turkey",
     "dumplings",
     "plant-based-friendly",
-    "gluten-free",
-    "dairy-free",
     "date-night",
     "comfort-food"
   ],
@@ -110,5 +105,10 @@
     "mainIngredient": "turkey ham",
     "descriptor": "Tangy Dense",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

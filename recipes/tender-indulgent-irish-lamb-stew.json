@@ -3,9 +3,7 @@
   "description": "Nutty, tender, and indulgent Irish dish featuring turmeric and a hint of warm spices. This stew is friendly for a variety of diets, including plant-based options.",
   "cuisine": "Irish",
   "diet": [
-    "omnivore",
-    "vegetarian",
-    "vegan"
+    "omnivore"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -110,5 +108,10 @@
     "mainIngredient": "lamb",
     "descriptor": "tender indulgent",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

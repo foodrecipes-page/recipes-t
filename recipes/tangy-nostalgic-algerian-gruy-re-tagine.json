@@ -3,7 +3,6 @@
   "description": "A hearty and comforting Algerian dish featuring tender lamb, caramelized onions, and a rich, creamy sauce made with Gruyere cheese.",
   "cuisine": "North African",
   "diet": [
-    "gluten-free",
     "dairy"
   ],
   "meal": "dinner",
@@ -54,7 +53,7 @@
       "notes": null
     },
     {
-      "name": "1 cup Gruy\u00e8re cheese, grated",
+      "name": "1 cup Gruyère cheese, grated",
       "amount": null,
       "notes": "gluten-free"
     },
@@ -87,11 +86,12 @@
     "Add lamb back to the pot and stir to combine.",
     "Add broth and bring to a boil.",
     "Reduce heat to low and simmer, covered, for 1 1/2 hours or until lamb is tender.",
-    "Stir in Gruy\u00e8re cheese until melted and smooth.",
+    "Stir in Gruyère cheese until melted and smooth.",
     "Season with salt and pepper to taste.",
     "Serve hot, garnished with chopped parsley if desired.",
     "Serve with gluten-free couscous or rice.",
-    "Note: Traditionally, a clay tagine is used to cook this dish. If you have one, use it! Otherwise, a Dutch oven will work just fine."
+    "Note: Traditionally, a clay tagine is used to cook this dish. If you have one, use it! Otherwise, a Dutch oven will work just fine.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -131,5 +131,10 @@
     "mainIngredient": "Gruy Re",
     "descriptor": "Tangy Nostalgic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

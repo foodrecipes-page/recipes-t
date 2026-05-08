@@ -3,7 +3,6 @@
   "description": "A tangy and gooey indulgent dish featuring sultanas, toasted almond meal, and a touch of honey for a delicious breakfast or dessert.",
   "cuisine": "Korean",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "dessert",
@@ -71,5 +70,9 @@
     "mainIngredient": "sultanas",
     "descriptor": "Tangy Gooey Indulgent",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

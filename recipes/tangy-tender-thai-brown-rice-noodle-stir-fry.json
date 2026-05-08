@@ -73,11 +73,15 @@
     "mood": "post-workout",
     "technique": "whisk",
     "primaryIngredient": "brown rice noodle",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null,
     "cuisineAdjective": "Thai",
     "mainIngredient": "Brown Rice Noodle",
     "descriptor": "Tangy Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

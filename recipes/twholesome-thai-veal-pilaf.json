@@ -52,7 +52,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "healthy",
     "low-carb",
     "meal-prep",
@@ -83,5 +82,9 @@
     "mainIngredient": "veal",
     "descriptor": "Wholesome",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

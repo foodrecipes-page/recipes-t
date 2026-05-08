@@ -106,11 +106,15 @@
     "mood": "festive",
     "technique": "grill",
     "primaryIngredient": "flaxseed",
-    "diet": "kosher",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Malaysian",
     "mainIngredient": "Flaxseed",
     "descriptor": "Tangy",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

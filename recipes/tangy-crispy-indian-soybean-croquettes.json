@@ -4,8 +4,7 @@
   "cuisine": "Indian-French fusion",
   "diet": [
     "vegan",
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -16,7 +15,7 @@
     },
     {
       "name": "red onion, finely chopped",
-      "amount": "\u00bd cup"
+      "amount": "½ cup"
     },
     {
       "name": "garlic & ginger paste",
@@ -28,7 +27,7 @@
     },
     {
       "name": "fresh cilantro, chopped",
-      "amount": "\u00bc cup"
+      "amount": "¼ cup"
     },
     {
       "name": "tamarind paste",
@@ -51,8 +50,8 @@
       "amount": "2 tbsp chickpea flour + 2 tbsp water"
     },
     {
-      "name": "breadcrumb\u2011cornflour coating",
-      "amount": "\u00bd cup breadcrumbs + 1 tbsp cornflour"
+      "name": "breadcrumb‑cornflour coating",
+      "amount": "½ cup breadcrumbs + 1 tbsp cornflour"
     },
     {
       "name": "oil for deep frying",
@@ -64,10 +63,10 @@
     "Add garlic & ginger paste and mix thoroughly.",
     "Fold the chickpea flour batter into the mixture until it holds together.",
     "Shape the mixture into small oval patties, about 3 inches long.",
-    "Roll each patty in the breadcrumb\u2011cornflour coating until fully covered.",
-    "Heat oil in a deep pan to 180\u00b0C (356\u00b0F). Fry the croquettes in batches, turning once, until golden and crisp, about 3\u20134 minutes.",
+    "Roll each patty in the breadcrumb‑cornflour coating until fully covered.",
+    "Heat oil in a deep pan to 180°C (356°F). Fry the croquettes in batches, turning once, until golden and crisp, about 3–4 minutes.",
     "Transfer fried croquettes to paper towels to drain excess oil.",
-    "Serve hot with a chilled vegan coriander\u2011lime chutney or your favorite dairy\u2011free dip."
+    "Serve hot with a chilled vegan coriander‑lime chutney or your favorite dairy‑free dip."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -108,5 +107,9 @@
     "mainIngredient": "Soybean",
     "descriptor": "Tangy Crispy",
     "dishForm": "Croquettes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

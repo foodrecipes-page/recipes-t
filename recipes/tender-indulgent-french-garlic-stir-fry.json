@@ -39,11 +39,12 @@
     }
   ],
   "instructions": [
-    "Heat olive oil in a wok or large skillet over high heat. Add minced garlic and saut\u00e9 until fragrant and golden.",
+    "Heat olive oil in a wok or large skillet over high heat. Add minced garlic and sauté until fragrant and golden.",
     "Add passion fruit pulp and stir to combine with the garlic. Cook for about 2 minutes, allowing flavors to meld together.",
     "Stir in diced dumplings, chopped parsley (if using), red bell pepper, and onions. Continue to cook for an additional 5-7 minutes until vegetables are tender but still slightly crisp.",
     "Add mixed vegetables and stir well into the mixture. Cook for another 3-4 minutes or until all ingredients are heated through and well combined.",
-    "Serve hot as a side dish with grilled chicken or fish, or use as a filling in dumplings for an indulgent dinner option."
+    "Serve hot as a side dish with grilled chicken or fish, or use as a filling in dumplings for an indulgent dinner option.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -81,5 +82,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Tender Indulgent",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

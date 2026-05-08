@@ -3,7 +3,6 @@
   "description": "A winey and molten Vietnamese dish featuring semolina and bhuna, perfect for a meal prep dinner",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "meat-based"
   ],
   "meal": "dinner",
@@ -57,7 +56,8 @@
     "Add the red wine to the saucepan and stir to combine",
     "Bring the sauce to a simmer and cook for 2-3 minutes",
     "Serve the chicken with the molten bhuna sauce and garnish with chopped green onions",
-    "Drizzle with sesame oil and serve immediately"
+    "Drizzle with sesame oil and serve immediately",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -94,5 +94,10 @@
     "mainIngredient": "semolina",
     "descriptor": "Tempting Molten",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

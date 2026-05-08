@@ -3,8 +3,7 @@
   "description": "Crispy, garlicky tomato fritters with a tangy twist, perfect for a brunch‑style snack.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -78,7 +77,6 @@
   "tags": [
     "brunch",
     "crispy",
-    "gluten-free",
     "papillote",
     "quick",
     "vegan"
@@ -106,5 +104,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Tangy",
     "dishForm": "Fritters"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

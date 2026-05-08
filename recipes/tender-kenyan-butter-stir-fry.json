@@ -38,7 +38,8 @@
     "Heat 2 tablespoons of oil in a non-stick skillet over medium-high heat. Add the chicken, cooking until browned on all sides.",
     "Add tahini paste and fermented vegetables to the skillet. Stir well until the mixture thickens and coats the chicken evenly.",
     "Reduce heat to low and let the dish simmer for about 5 minutes, allowing flavors to meld together.",
-    "Transfer the stir-fry into a serving plate. Drizzle with remaining oil if needed and serve hot."
+    "Transfer the stir-fry into a serving plate. Drizzle with remaining oil if needed and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -74,5 +75,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Tender",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

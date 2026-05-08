@@ -59,7 +59,8 @@
     "Reduce the mixture by half while stirring for a smoother texture, then add treacle and reduce until reduced to approximately one third of its volume.",
     "Add the corn starch water mixture all at once, stirring continuously to avoid lumps forming.",
     "Simmer until thickened to desired consistency. Taste and adjust seasoning if needed.",
-    "Serve immediately over the cooked chicken pieces for a creamy and savory Thai dish."
+    "Serve immediately over the cooked chicken pieces for a creamy and savory Thai dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -91,5 +92,9 @@
     "primaryIngredient": "treacle",
     "diet": "dash",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

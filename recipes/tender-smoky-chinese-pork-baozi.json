@@ -61,7 +61,8 @@
     "Place a tablespoon of the pork mixture in the center of each dough circle.",
     "Fold the dough over the filling and press the edges together to seal the baozi.",
     "Brush the tops of the baozi with sesame oil and bake for 15 minutes.",
-    "Serve the baozi hot and enjoy."
+    "Serve the baozi hot and enjoy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -100,5 +101,9 @@
     "mainIngredient": "pork",
     "descriptor": "Tender Smoky",
     "dishForm": "Baozi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }
