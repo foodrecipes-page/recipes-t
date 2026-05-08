@@ -1,0 +1,95 @@
+{
+  "title": "Tempting Silky Uruguayan Yogurt Pudding",
+  "description": "A rich and creamy dessert featuring Greek yogurt and a hint of bitterness, cooked to perfection in a salt block vessel. This ayurvedic-tamasic-friendly dish is sure to satisfy any sweet tooth.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "salt block",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the papillote paper into 4 equal squares.",
+    "In a medium bowl, whisk together the yogurt, honey, and lemon juice until smooth.",
+    "Pour the mixture onto the center of each papillote square.",
+    "Fold the papillote paper over the filling to form a triangle and press the edges to seal.",
+    "Place the salt block in the oven for 10 minutes to preheat.",
+    "Remove the salt block from the oven and place the papillote triangles on top.",
+    "Drizzle the water over the papillote triangles and sprinkle with black sesame seeds.",
+    "Return the salt block to the oven and cook for an additional 10 minutes.",
+    "Remove the pudding from the oven and let cool to room temperature.",
+    "Melt the dark chocolate chips in a double boiler and drizzle over the cooled pudding."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "salt-block-cooking",
+    "silky-pudding",
+    "uruguayan-desserts",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tempting-silky-uruguayan-yogurt-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-silky-uruguayan-yogurt-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:00:31Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "papillote",
+    "primaryIngredient": "greek yogurt",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "yogurt",
+    "descriptor": "Tempting Silky",
+    "dishForm": "Pudding"
+  }
+}
