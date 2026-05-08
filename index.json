@@ -190,6 +190,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-australian-christmas-pudding-trifle",
+    "title": "Tangy Australian Christmas Pudding Trifle",
+    "tags": [
+      "australian",
+      "australian-christmas-pudding",
+      "dessert",
+      "lacto-vegetarian",
+      "trifle",
+      "whipped-cream"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-australian-kale-salad",
     "title": "Tangy Australian Kale Salad",
     "tags": [

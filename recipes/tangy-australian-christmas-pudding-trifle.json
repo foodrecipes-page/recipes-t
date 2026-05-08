@@ -1,0 +1,73 @@
+{
+  "title": "Tangy Australian Christmas Pudding Trifle",
+  "description": "A light and refreshing Australian-inspired dessert featuring Christmas pudding, crunchy elements, and a tangy twist. Perfect for a festive gathering or a summer evening treat.",
+  "cuisine": "australian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Australian Christmas pudding",
+      "amount": "1",
+      "notes": "Store-bought or homemade, approx. 1-inch cube"
+    },
+    {
+      "name": "Whipped cream",
+      "amount": "2 cups",
+      "notes": "Heavy cream, sweetened with a touch of vanilla"
+    }
+  ],
+  "instructions": [
+    "Combine 1 cup heavy cream and 1 tsp vanilla extract in a mixer.",
+    "Add 2 cups whipped cream and mix on high until stiff peaks form.",
+    "Dissolve 2 tsp unsalted butter and 2 tsp icing sugar in 1 tsp warm water.",
+    "Add 1 tsp vanilla extract and whisk until combined.",
+    "Soak 1-inch cube Australian Christmas pudding in 1/4 cup tubular biscuits and 2 tsp citrus zest for 5 minutes.",
+    "Cut the pudding into small cubes.",
+    "Combine the soaked pudding, whipped cream mixture, and dissolved butter mixture in a bowl.",
+    "Fold in 1/4 cup shredded coconut, 1/4 cup chopped almonds, and 1 tsp allspice.",
+    "Pour 1/4 cup orange marmalade and 1 tsp maple syrup into the mixture and mix until combined.",
+    "Transfer the mixture into individual serving cups or a large serving dish.",
+    "Melt 1/2 cup dark chocolate in a double boiler or in the microwave in 10-second increments.",
+    "Pour the melted chocolate over the top of the trifle and smooth out.",
+    "Garnish with 1/4 cup chopped almonds and 1 tsp shredded coconut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "australian-christmas-pudding",
+    "dessert",
+    "lacto-vegetarian",
+    "trifle",
+    "whipped-cream"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 74,
+    "fat": 22
+  },
+  "slug": "tangy-australian-christmas-pudding-trifle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-australian-christmas-pudding-trifle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:52:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "christmas pudding",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Christmas pudding",
+    "descriptor": "tangy",
+    "dishForm": "Trifle"
+  }
+}
