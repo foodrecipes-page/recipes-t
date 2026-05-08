@@ -5032,6 +5032,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-dense-slovakian-meat-stew",
+    "title": "Slovakian Meat Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "home-cooking",
+      "meat-based",
+      "one-pot",
+      "winter-dish"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 80,
+    "shard": "t"
+  },
+  {
     "slug": "tender-earthy-avocado-mousse",
     "title": "Tender Earthy Avocado Mousse with Fermented Ingredients",
     "tags": [
