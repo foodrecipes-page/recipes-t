@@ -1,0 +1,95 @@
+{
+  "title": "Syrian Bun Flatbread",
+  "description": "A light and energizing Syrian dish featuring herbal flavors and a sweet tempering chocolate touch, perfect for a snack or dessert",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "no onion no garlic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, sugar, and thyme.",
+    "Gradually add olive oil and warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 6 equal pieces.",
+    "Roll out each piece into a ball and flatten it into a disk shape.",
+    "Place the disks on a baking sheet lined with parchment paper.",
+    "Brush the melted tempering chocolate on top of each disk.",
+    "Bake the flatbreads for 15 minutes or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "herbal",
+    "middle-eastern",
+    "no-onion-no-garlic",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "tasty-light-syrian-bun-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-light-syrian-bun-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "bun",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "bun",
+    "descriptor": "tasty light",
+    "dishForm": "Flatbread"
+  }
+}

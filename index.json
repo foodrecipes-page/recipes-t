@@ -4071,6 +4071,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-light-syrian-bun-flatbread",
+    "title": "Syrian Bun Flatbread",
+    "tags": [
+      "flatbread",
+      "herbal",
+      "middle-eastern",
+      "no-onion-no-garlic",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-post-workout-french-nutella-gratin",
     "title": "Tasty Post-Workout French Nutella Gratin",
     "tags": [
