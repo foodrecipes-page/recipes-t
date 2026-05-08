@@ -4615,6 +4615,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-american-chicken-skillet",
+    "title": "Tender American Chicken Skillet",
+    "tags": [
+      "american-classic",
+      "brunch",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "yeasty"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-and-grassy-croatian-suet-dumplings",
     "title": "Tender and Grassy Croatian Suet Dumplings",
     "tags": [

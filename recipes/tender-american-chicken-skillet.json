@@ -1,0 +1,91 @@
+{
+  "title": "Tender American Chicken Skillet",
+  "description": "A yeasty and juicy American dish featuring black pepper, perfect for a brunch mood, made with air-fry method and nut-free friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "air fryer oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together chicken breast, black pepper, salt, garlic powder, and onion powder.",
+    "Add yeast extract to the bowl and mix until the chicken is well coated.",
+    "Add chicken broth to the bowl and mix until the chicken is well coated.",
+    "Spray the air fryer basket with air fryer oil.",
+    "Add the chicken mixture to the air fryer basket.",
+    "Cook the chicken in the air fryer for 12-15 minutes, shaking the basket halfway through.",
+    "Remove the chicken from the air fryer and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american-classic",
+    "brunch",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tender-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:36:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "black pepper",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender juicy",
+    "dishForm": "Skillet"
+  }
+}
