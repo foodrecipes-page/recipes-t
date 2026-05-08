@@ -1,0 +1,106 @@
+{
+  "title": "Tender Roast Argentinian Persian Cucumber Roast",
+  "description": "A nutty and light Argentinian dish featuring Persian cucumber, perfect for a special occasion, this roast is made in a hot pot vessel and is onion and garlic free.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "onion-free",
+    "garlic-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Persian cucumber",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Beef roast",
+      "amount": "3 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot pot vessel to 300 degrees Fahrenheit.",
+    "Season the beef roast with salt, black pepper, and paprika.",
+    "Heat the olive oil in the hot pot vessel and sear the beef roast until browned on all sides.",
+    "Add the sliced Persian cucumber to the hot pot vessel and cook until tender.",
+    "Add the chimichurri sauce, lemon juice, and chicken broth to the hot pot vessel and stir to combine.",
+    "Cover the hot pot vessel and cook for 2 hours or until the beef is tender.",
+    "Remove the hot pot vessel from the heat and let it cool for 10 minutes.",
+    "Slice the beef roast and serve with the Persian cucumber and sauce.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "garlic-free",
+    "gluten-free",
+    "hot-pot-recipe",
+    "onion-free",
+    "persian-cucumber",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "tender-roast-argentinian-persian-cucumber-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-roast-argentinian-persian-cucumber-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:06:35Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "persian cucumber",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "persian cucumber",
+    "descriptor": "tender roast",
+    "dishForm": "Roast"
+  }
+}
