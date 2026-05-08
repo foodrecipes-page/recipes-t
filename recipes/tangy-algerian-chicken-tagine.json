@@ -1,0 +1,96 @@
+{
+  "title": "Tangy Algerian Chicken Tagine",
+  "description": "A garlicky and springy Algerian dish featuring chilli flakes and a lacquer glaze, this tagine is a satvik friendly option for a light meal, the chilli flakes add a nice spicy kick to the dish.",
+  "cuisine": "Algerian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, ginger, and chilli flakes to the pot and cook for 1 minute.",
+    "Add the lacquer glaze, salt, and black pepper to the pot and stir to combine.",
+    "Reduce the heat to low and simmer the tagine, covered, for 20 minutes.",
+    "Stir in the chopped parsley and cook for an additional 2 minutes.",
+    "Serve the tagine hot over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "north-african",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "tangy-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:39Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "chilli flakes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Tangy",
+    "dishForm": "Tagine"
+  }
+}

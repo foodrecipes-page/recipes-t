@@ -90,6 +90,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-algerian-chicken-tagine",
+    "title": "Tangy Algerian Chicken Tagine",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "north-african",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-algerian-lamb-bake",
     "title": "Tangy Algerian Lamb Bake",
     "tags": [
@@ -4850,6 +4864,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-argentinian-beef-pilaf",
+    "title": "Tender Argentinian Beef Pilaf",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-recipes",
+      "donabe-cooking",
+      "gluten-free",
+      "one-pot-meals",
+      "peppery-dishes"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
