@@ -1,0 +1,121 @@
+{
+  "title": "Tender and Earthy Thai Butternut Squash Khao Pad",
+  "description": "A slow-cooked Thai dish featuring tender butternut squash, with a rich and slightly spicy flavor profile.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut Squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "optional",
+      "notes": ""
+    },
+    {
+      "name": "Rice Noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Add the butternut squash, fish sauce, brown sugar, and salt. Stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20-25 minutes, or until the squash is tender.",
+    "Stir in the chopped Thai basil and cook for 1 minute.",
+    "Cook the rice noodles according to package instructions and divide among bowls.",
+    "Top with the butternut squash mixture and serve hot.",
+    "If desired, add chili flakes for extra heat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "thai",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "tender-and-earthy-thai-butternut-squash-khao-pad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-and-earthy-thai-butternut-squash-khao-pad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:31:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "slow-cook",
+    "primaryIngredient": "butternut squash",
+    "diet": "keto",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "butternut squash",
+    "descriptor": "tender and earthy",
+    "dishForm": "Khao Pad"
+  }
+}
