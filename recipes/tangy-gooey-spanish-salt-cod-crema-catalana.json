@@ -1,0 +1,118 @@
+{
+  "title": "Tangy Gooey Spanish Salt Cod Crema-Catalana",
+  "description": "A classic Spanish dessert turned into a savory, one-pot meal featuring salt cod, ssam-wrap, and an iron teppan.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt Cod",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ssam Wrap",
+      "amount": "4",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Iron Teppan",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the iron teppan over medium-high heat.",
+    "Add the butter and let it melt.",
+    "Add the olive oil, garlic, and ginger, and sauté for 1 minute.",
+    "Add the salt cod and cook for 2 minutes per side.",
+    "Pour in the fish stock and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the heavy cream and parmesan cheese, and stir until the cheese is melted.",
+    "Season with lemon juice and parsley.",
+    "Serve immediately in the ssam wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish-based",
+    "gluten-free",
+    "one-pan",
+    "savory-dessert",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tangy-gooey-spanish-salt-cod-crema-catalana",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-spanish-salt-cod-crema-catalana",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:48:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "salt cod",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Salt Cod",
+    "descriptor": "Tangy Gooey",
+    "dishForm": "Crema-Catalana"
+  }
+}
