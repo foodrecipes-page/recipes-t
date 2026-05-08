@@ -1,0 +1,101 @@
+{
+  "title": "Tempting Light Indian Poppy Seeds Samosas",
+  "description": "A sweet and creamy Indian dish featuring poppy seeds and bonito-shave, served in a cedar-plank vessel, high in protein and perfect for a light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "poppy seeds",
+      "amount": "1/2 cup",
+      "notes": "freshly toasted"
+    },
+    {
+      "name": "bonito-shave",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "samoa pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine the toasted poppy seeds, bonito-shave, cream cheese, plain yogurt, and honey, and blend until smooth.",
+    "Roll out the samoa pastry to a thickness of 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the poppy seed mixture onto the center of each pastry circle.",
+    "Fold the pastry in half over the filling to form a triangle or cone shape, and press the edges together to seal.",
+    "Place the samosas onto the soaked cedar planks, leaving about 1 inch of space between each samosa.",
+    "Brush the tops of the samosas with a little bit of water and sprinkle with chopped cilantro.",
+    "Bake the samosas in the preheated oven for 15 minutes, or until golden brown.",
+    "Serve the samosas warm, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "high-protein",
+    "indian-food",
+    "poppy-seeds",
+    "snack-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tempting-light-indian-poppy-seeds-samosas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-light-indian-poppy-seeds-samosas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:06:03Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "bonito-shave",
+    "primaryIngredient": "poppy seeds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Tempting Light",
+    "dishForm": "Samosas"
+  }
+}
