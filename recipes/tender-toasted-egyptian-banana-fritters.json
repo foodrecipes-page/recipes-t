@@ -1,0 +1,96 @@
+{
+  "title": "Tender Toasted Egyptian Banana Fritters",
+  "description": "A kid-friendly Egyptian dish featuring fried ripe bananas with a fluffy and funky texture, finished to a perfect al-dente bite, and a Mediterranean-friendly flavor profile.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch rounds"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, cornstarch, and sugar.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the sliced bananas to the egg mixture and toss to coat.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Dip each banana slice into the flour mixture, then the egg mixture, and finally the flour mixture again.",
+    "Fry the banana slices in batches until golden brown, about 2-3 minutes per side.",
+    "Using a slotted spoon, transfer the fried banana slices to a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, mix together the honey and sesame seeds.",
+    "Drizzle the honey and sesame seed mixture over the fried banana slices and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dessert",
+    "kid-friendly",
+    "mediterranean-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tender-toasted-egyptian-banana-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-egyptian-banana-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:41:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bananas",
+    "descriptor": "Tender toasted",
+    "dishForm": "Fritters"
+  }
+}
