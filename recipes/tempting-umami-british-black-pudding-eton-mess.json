@@ -1,0 +1,97 @@
+{
+  "title": "Tempting Umami British Black Pudding Eton Mess",
+  "description": "A high-protein, indulgent British dish featuring black pudding, served in a molcajete as an Eton mess, with a yakimono-grill twist.",
+  "cuisine": "British",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "strawberries",
+      "amount": "200g",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "meringue",
+      "amount": "100g",
+      "notes": "store-bought"
+    },
+    {
+      "name": "whipped cream",
+      "amount": "150g"
+    },
+    {
+      "name": "blue cheese",
+      "amount": "50g",
+      "notes": "crumbly"
+    },
+    {
+      "name": "walnuts",
+      "amount": "50g",
+      "notes": "chopped"
+    },
+    {
+      "name": "yakimono sauce",
+      "amount": "20g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 200 degrees Celsius.",
+    "Grill the sliced black pudding for 2 minutes on each side, until crispy.",
+    "In a bowl, mix together the sliced strawberries, crumbly blue cheese, and chopped walnuts.",
+    "In a separate bowl, whip the whipped cream until stiff peaks form.",
+    "To assemble the Eton mess, place a layer of grilled black pudding in the molcajete.",
+    "Add a layer of the strawberry and blue cheese mixture on top of the black pudding.",
+    "Drizzle the yakimono sauce over the top of the mixture.",
+    "Finish with a dollop of whipped cream and a sprinkle of meringue.",
+    "Drizzle the olive oil over the top of the dish.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-food",
+    "eton-mess",
+    "high-protein",
+    "indulgent-dishes",
+    "umami-flavors",
+    "yakimono-grill"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "tempting-umami-british-black-pudding-eton-mess",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-umami-british-black-pudding-eton-mess",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:04:54Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "indulgent",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "black pudding",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "black pudding",
+    "descriptor": "Tempting Umami",
+    "dishForm": "Eton Mess"
+  }
+}
