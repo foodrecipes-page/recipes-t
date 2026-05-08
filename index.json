@@ -3475,6 +3475,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-velvety-american-chicken-noodles",
+    "title": "Tangy Velvety American Chicken Noodles",
+    "tags": [
+      "american-cuisine",
+      "high-protein",
+      "monsoon-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-velvety-argentinian-pork-stir-fry",
     "title": "Tangy Velvety Argentinian Pork Stir-fry",
     "tags": [

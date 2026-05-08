@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Velvety American Chicken Noodles",
+  "description": "A sour and velvety American dish featuring yuzu-kosho, perfect for a monsoon evening, made with halal-friendly ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "yuzu-kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "brine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring the brine to a boil in a large pot, then reduce the heat to medium-low and add the chicken breast pieces.",
+    "Cook the chicken for 10 minutes or until it reaches an internal temperature of 165 degrees.",
+    "While the chicken is cooking, cook the noodles according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and add the minced garlic and grated ginger.",
+    "Cook the garlic and ginger for 1 minute, stirring constantly to prevent burning.",
+    "Add the yuzu-kosho to the skillet and stir to combine with the garlic and ginger.",
+    "Once the chicken is cooked, remove it from the brine and add it to the skillet with the yuzu-kosho mixture.",
+    "Stir to combine the chicken with the yuzu-kosho mixture and cook for an additional 2 minutes.",
+    "Add the cooked noodles to the skillet and stir to combine with the chicken and yuzu-kosho mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Tangy Velvety American Chicken Noodles hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "high-protein",
+    "monsoon-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tangy-velvety-american-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-american-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:38:15Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "brine-wet",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy velvety",
+    "dishForm": "Noodles"
+  }
+}
