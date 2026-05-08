@@ -7637,6 +7637,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-uruguayan-beef-stew",
+    "title": "Tender Uruguayan Beef Stew",
+    "tags": [
+      "clay-pot-cooking",
+      "comfort-food",
+      "hearty-stew",
+      "low-sodium",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 180,
+    "shard": "t"
+  },
+  {
     "slug": "tender-velvety-kenyan-seed-dumplings",
     "title": "Tender Velvety Kenyan Seed Dumplings",
     "tags": [

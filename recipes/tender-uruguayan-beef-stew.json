@@ -1,0 +1,106 @@
+{
+  "title": "Tender Uruguayan Beef Stew",
+  "description": "A hearty and comforting stew featuring tender beef and rich beef stock, cooked to perfection in a clay pot. This dish is low in sodium and perfect for a cozy evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef with black pepper.",
+    "Heat a couple of tablespoons of oil in the clay pot over medium heat.",
+    "Brown the beef in batches until browned on all sides, then set aside.",
+    "Soften the onions and garlic in the same pot until the onions are translucent.",
+    "Add the carrots and potatoes to the pot and cook for a few minutes.",
+    "Add the beef stock, tomato paste, thyme, and bay leaves to the pot, stirring to combine.",
+    "Return the browned beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Remove the bay leaves and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "hearty-stew",
+    "low-sodium",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "tender-uruguayan-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-uruguayan-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:14:48Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "beef stock",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "tender tasty",
+    "dishForm": "Stew"
+  }
+}
