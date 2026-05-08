@@ -1,0 +1,101 @@
+{
+  "title": "Tender Sweet Mediterranean Lamb Tagine",
+  "description": "A sweet and dense Mediterranean dish featuring garlic and kombu cold extract, made in a fondue pot. This nostalgic recipe is sugar free friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sugar free",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6",
+      "notes": "minced"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the fondue pot over medium heat.",
+    "Add the lamb pieces and cook until browned on all sides.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the kombu cold extract, dried apricots, prunes, cumin, paprika, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 hours.",
+    "Remove the lid and cook for an additional 30 minutes.",
+    "Serve the lamb and sauce hot, garnished with fresh parsley.",
+    "Traditionally, this dish is served with crusty bread or over couscous."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fondue-pot-recipes",
+    "gluten-free-recipes",
+    "lamb-recipes",
+    "mediterranean-cuisine",
+    "sugar-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "tender-sweet-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-sweet-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:28:56Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "garlic clove",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Sweet",
+    "dishForm": "Tagine"
+  }
+}
