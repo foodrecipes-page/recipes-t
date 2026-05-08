@@ -1,0 +1,86 @@
+{
+  "title": "Tenderly Cooked Japanese Lamb Skewers",
+  "description": "A cultured and comforting Japanese dish featuring lamb loin chops, air-fried to perfection with a velvety texture, also suitable for vegan-friendly options by substituting lamb with portobello mushrooms or tofu",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 pound",
+      "notes": "or portobello mushrooms/tofu for vegan option"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together soy sauce, rice vinegar, sesame oil, brown sugar, grated ginger, and garlic powder",
+    "Add the lamb loin chops to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece",
+    "Air-fry the lamb skewers for 12-15 minutes, or until they reach an internal temperature of 145 degrees Fahrenheit",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the lamb skewers hot, garnished with sliced green onions and sesame seeds"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "japanese-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tenderly-cooked-japanese-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-cooked-japanese-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:32:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lamb",
+    "descriptor": "Tenderly cooked",
+    "dishForm": "Skewers"
+  }
+}

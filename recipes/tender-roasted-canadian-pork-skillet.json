@@ -1,0 +1,100 @@
+{
+  "title": "Tender Roasted Canadian Pork Skillet",
+  "description": "A hearty Canadian dish featuring roasted pork, pineapple juice, and a blend of spices, perfect for a chilly evening. This low-fat-friendly recipe is easy to make and serves a crowd.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 1/2 pounds",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Sear the pork tenderloin until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the pineapple juice, thyme, salt, and pepper to the skillet, stirring to combine.",
+    "Return the pork tenderloin to the skillet and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes.",
+    "Add the cubed potatoes to the skillet and continue to roast for an additional 20 minutes, or until the pork is cooked through and the potatoes are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "low-fat",
+    "one-pan",
+    "pork-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tender-roasted-canadian-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-roasted-canadian-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:32:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "adventurous",
+    "technique": "simmer",
+    "primaryIngredient": "pineapple juice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pork",
+    "descriptor": "tender roasted",
+    "dishForm": "Skillet"
+  }
+}

@@ -6590,6 +6590,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-roasted-canadian-pork-skillet",
+    "title": "Tender Roasted Canadian Pork Skillet",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "low-fat",
+      "one-pan",
+      "pork-recipes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-romantic-garlic-oyster-mushrooms-stir-fry",
     "title": "Tender Romantic Garlic Oyster Mushrooms Stir-fry",
     "tags": [
@@ -7621,6 +7636,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 180,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-cooked-japanese-lamb-skewers",
+    "title": "Tenderly Cooked Japanese Lamb Skewers",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "japanese-inspired",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
