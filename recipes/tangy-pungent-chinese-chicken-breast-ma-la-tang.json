@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Pungent Chinese Chicken Breast Ma La Tang",
+  "description": "A pungent and bouncy Chinese dish featuring chicken breast, this ma la tang is a solo dinner delight from Jiangsu cuisine, with a focus on macrobiotic-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add minced garlic and cook until fragrant.",
+    "Add toasted Sichuan peppercorns and cook for 1 minute.",
+    "Add fermented bean paste and cook for 1 minute.",
+    "Add chicken breast and cook until browned on all sides.",
+    "Add rice vinegar and soy sauce, and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in sliced scallions and cook for 1 minute.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tangy-pungent-chinese-chicken-breast-ma-la-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-pungent-chinese-chicken-breast-ma-la-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "solo-dinner",
+    "technique": "cure",
+    "primaryIngredient": "chicken breast",
+    "diet": "macrobiotic",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken breast",
+    "descriptor": "Tangy Pungent",
+    "dishForm": "Ma La Tang"
+  }
+}
