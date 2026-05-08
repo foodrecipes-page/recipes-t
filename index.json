@@ -2690,6 +2690,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-mediterranean-rhubarb-tagine",
+    "title": "Tangy Mediterranean Rhubarb Tagine",
+    "tags": [
+      "healthy",
+      "mediterranean",
+      "one-pot",
+      "post-workout",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-mediterranean-semolina-stir-fry",
     "title": "Tangy Mediterranean Semolina Stir-fry",
     "tags": [
@@ -6865,6 +6880,22 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
+    "title": "Tenderly Crispy Middle Eastern Savoy Cabbage Labneh",
+    "tags": [
+      "crispy",
+      "date-night",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 32,
     "shard": "t"
   },
   {

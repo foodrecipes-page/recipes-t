@@ -1,0 +1,105 @@
+{
+  "title": "Tenderly Crispy Middle Eastern Savoy Cabbage Labneh",
+  "description": "A date-night Middle Eastern dish featuring savoy cabbage and labneh, with a perfect balance of umami and crispy textures. This raw-friendly dish is cooked to perfection in a ttukbaegi earthenware pot.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "core removed, leaves separated"
+    },
+    {
+      "name": "Labneh cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over medium heat.",
+    "In a large bowl, whisk together olive oil, pomegranate molasses, sumac, salt, and black pepper.",
+    "Add the separated savoy cabbage leaves to the bowl and toss to coat with the dressing.",
+    "Add the cabbage mixture to the preheated pot and cook for 10 minutes, stirring occasionally.",
+    "Stir in the labneh cheese and cook for an additional 2 minutes, until heated through.",
+    "Transfer the cabbage mixture to a serving platter and top with chopped pistachios and parsley.",
+    "Garnish with pitted dates and serve immediately.",
+    "Serve with additional labneh cheese on the side, if desired.",
+    "Garnish with sumac and parsley for added color and flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "date-night",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:13:57Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Tenderly Crispy",
+    "dishForm": "Labneh"
+  }
+}
