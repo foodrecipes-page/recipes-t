@@ -1,0 +1,104 @@
+{
+  "title": "Tempting Thick Croatian Sausages Skillet",
+  "description": "A hearty Croatian dish featuring sausages in a rich and creamy sauce, perfect for a midnight craving. This egg-free friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausages",
+      "amount": "4",
+      "notes": "thick and smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the chopped onion.",
+    "Cook the onion until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the Croatian sausages to the skillet and cook until they are browned on all sides.",
+    "Add the paprika, caraway seeds, salt, and black pepper to the skillet and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes.",
+    "Stir in the sour cream and let it heat through.",
+    "Serve the sausages and sauce hot over mashed potatoes or eggless noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "egg-free",
+    "gluten-free",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "tempting-thick-croatian-sausages-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-thick-croatian-sausages-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:31:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "marinate",
+    "primaryIngredient": "sausages",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "sausages",
+    "descriptor": "Tempting Thick",
+    "dishForm": "Skillet"
+  }
+}
