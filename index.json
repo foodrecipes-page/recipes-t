@@ -3132,6 +3132,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-sweet-saudi-arabian-nectarine-skewers",
+    "title": "Tangy Sweet Saudi Arabian Nectarine Skewers",
+    "tags": [
+      "fruit",
+      "gluten-free",
+      "grilled",
+      "low-carb",
+      "saudi-arabian",
+      "snack"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 23,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-syrian-lentil-stir-fry",
     "title": "Tangy Syrian Lentil Stir-fry",
     "tags": [
@@ -6004,6 +6019,21 @@
       "Indian"
     ],
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-spicy-french-chuck-roast-galette",
+    "title": "Tender Spicy French Chuck Roast Galette",
+    "tags": [
+      "french-cuisine",
+      "gluten-free",
+      "hearty-dinner",
+      "post-workout",
+      "pressure-cooker",
+      "satvik-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {

@@ -1,0 +1,105 @@
+{
+  "title": "Tender Spicy French Chuck Roast Galette",
+  "description": "A hearty and flavorful Normandy-inspired dish featuring tender chuck roast, perfect for a post-workout dinner. This satvik-friendly galette is spicy and gooey, made with pressure-cooked chuck roast and a flaky crust.",
+  "cuisine": "French",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pressure cooker over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the garlic, thyme, cayenne pepper, salt, and black pepper, and cook for 1 minute.",
+    "Add the chuck roast chunks and cook until browned on all sides, about 5 minutes.",
+    "Add 2 cups of water to the pressure cooker and bring to a boil.",
+    "Close the lid and cook for 30 minutes, or until the meat is tender.",
+    "Let the pressure release naturally, then open the lid and shred the meat with two forks.",
+    "In a large bowl, combine the flour and cold water, and mix until a dough forms.",
+    "Roll out the dough into a large circle, about 1/4 inch thick.",
+    "Spoon the shredded meat onto one half of the dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the dough over the meat, and press the edges to seal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gluten-free",
+    "hearty-dinner",
+    "post-workout",
+    "pressure-cooker",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tender-spicy-french-chuck-roast-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spicy-french-chuck-roast-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:30:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "pressure-cook",
+    "primaryIngredient": "chuck roast",
+    "diet": "satvik",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chuck roast",
+    "descriptor": "Tender Spicy",
+    "dishForm": "Galette"
+  }
+}

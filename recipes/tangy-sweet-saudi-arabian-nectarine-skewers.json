@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Sweet Saudi Arabian Nectarine Skewers",
+  "description": "A light and refreshing Saudi Arabian dish featuring nectarines, with a tangy and sweet flavor profile, perfect for warm weather, this dish is also low in carbs and friendly to those watching their carb intake.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Nectarines",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lemon juice, honey, rose water, cardamom powder, salt, and black pepper to make the mother sauce.",
+    "Add the chopped pistachios to the bowl and stir to combine.",
+    "Thread the nectarine wedges onto skewers, leaving a small space between each wedge.",
+    "Brush the nectarine skewers with olive oil on both sides.",
+    "Grill the nectarine skewers for 2-3 minutes per side, or until they have nice grill marks.",
+    "Brush the nectarine skewers with the mother sauce during the last minute of grilling.",
+    "Remove the skewers from the grill and let them cool for a minute or two.",
+    "Serve the Tangy Sweet Saudi Arabian Nectarine Skewers warm, garnished with additional chopped pistachios if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fruit",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "saudi-arabian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "tangy-sweet-saudi-arabian-nectarine-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-sweet-saudi-arabian-nectarine-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:29:20Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "nectarines",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "nectarines",
+    "descriptor": "Tangy Sweet",
+    "dishForm": "Skewers"
+  }
+}
