@@ -1,0 +1,90 @@
+{
+  "title": "Argentine Corn Casserole",
+  "description": "A smoky, flavorful corn casserole that's perfect for a sick day or a weeknight dinner.",
+  "cuisine": "Argentine",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White cornmeal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Smoked cheddar cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Smoked bacon",
+      "amount": "6 slices, diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large copper pot, cook the diced bacon over medium heat until crispy.",
+    "Remove the cooked bacon from the pot and set aside.",
+    "Add the diced onion to the pot and cook until translucent.",
+    "Add the minced garlic to the pot and cook for 1 minute.",
+    "Add the white cornmeal to the pot and cook for 2-3 minutes, stirring constantly.",
+    "In a separate bowl, whisk together the heavy cream and eggs.",
+    "Add the whisked cream and egg mixture to the pot and stir until well combined.",
+    "Stir in the shredded smoked cheddar cheese and cooked bacon.",
+    "Pour the mixture into a 9x13 inch baking dish and bake for 35-40 minutes.",
+    "Remove the casserole from the oven and let it cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "bacon",
+    "casserole",
+    "cheese",
+    "comfort-food",
+    "corn",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tremendously-smoky-argentine-corn-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tremendously-smoky-argentine-corn-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:24:17Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "smoke-cold",
+    "primaryIngredient": "white cornmeal",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Argentine",
+    "mainIngredient": "corn",
+    "descriptor": "Tremendously smoky",
+    "dishForm": "Casserole"
+  }
+}
