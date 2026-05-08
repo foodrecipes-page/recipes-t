@@ -4157,6 +4157,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-crunchy-brazilian-kielbasa-skewers",
+    "title": "Tasty Crunchy Brazilian Kielbasa Skewers",
+    "tags": [
+      "brazilian-food",
+      "jain-friendly",
+      "kebabs",
+      "pressure-cooker",
+      "quick-fix",
+      "spicy-food"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-dutch-barley-wrap",
     "title": "Tasty Dutch Barley Wrap",
     "tags": [

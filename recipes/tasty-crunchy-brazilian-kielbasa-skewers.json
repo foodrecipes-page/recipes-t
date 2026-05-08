@@ -1,0 +1,104 @@
+{
+  "title": "Tasty Crunchy Brazilian Kielbasa Skewers",
+  "description": "Spicy crunchy Brazilian dish featuring kielbasa, this quick-fix recipe is perfect for a snack or dinner, and is Jain-friendly as it does not include any animal by-products except kielbasa which can be replaced with a Jain alternative.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kielbasa",
+      "amount": "1 pound",
+      "notes": "can be replaced with a Jain alternative"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Brazilian pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the kielbasa into 1-inch pieces and set aside.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, ginger, cumin, smoked paprika, salt, black pepper, and Brazilian pepper flakes.",
+    "Add the kielbasa pieces to the bowl and toss to coat with the marinade.",
+    "Let the kielbasa marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Preheat a pressure cooker to the saute setting.",
+    "Remove the kielbasa from the marinade, letting any excess liquid drip off.",
+    "Add the kielbasa to the pressure cooker and cook until browned on all sides, about 5 minutes.",
+    "Add 1/4 cup of water to the pressure cooker and close the lid.",
+    "Cook the kielbasa in the pressure cooker for 10 minutes, or until it reaches an internal temperature of 160 degrees Fahrenheit.",
+    "Thread the cooked kielbasa onto skewers and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-food",
+    "jain-friendly",
+    "kebabs",
+    "pressure-cooker",
+    "quick-fix",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tasty-crunchy-brazilian-kielbasa-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-crunchy-brazilian-kielbasa-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:12:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "kielbasa",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Tasty Crunchy",
+    "dishForm": "Skewers"
+  }
+}
