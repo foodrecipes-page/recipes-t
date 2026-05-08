@@ -1,0 +1,92 @@
+{
+  "title": "Tender Tasty British Chicken Kebabs",
+  "description": "A kid-friendly British dish featuring lemongrass and halal-friendly ingredients, perfect for a family dinner. The combination of earthy and aerated flavors makes it a unique and tasty meal.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "In a small bowl, mix together yogurt and lemon juice.",
+    "Brush the yogurt mixture onto the kebabs during the last 2 minutes of grilling.",
+    "Serve the kebabs hot, garnished with bruised lemongrass and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "british-cuisine",
+    "grilled-chicken",
+    "healthy-dinner",
+    "kid-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "tender-tasty-british-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tasty-british-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:43:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "lemongrass",
+    "diet": "halal",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "tender tasty",
+    "dishForm": "Kebabs"
+  }
+}

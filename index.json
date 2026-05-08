@@ -7060,6 +7060,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-tasty-british-chicken-kebabs",
+    "title": "Tender Tasty British Chicken Kebabs",
+    "tags": [
+      "british-cuisine",
+      "grilled-chicken",
+      "healthy-dinner",
+      "kid-friendly",
+      "quick-meal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tender-thai-beef-curry",
     "title": "Tender Thai Beef Curry",
     "tags": [
