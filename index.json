@@ -8706,6 +8706,20 @@
     "shard": "t"
   },
   {
+    "slug": "tropical-jamaican-beef-curry",
+    "title": "Tropical Jamaican Beef Curry",
+    "tags": [
+      "beef-recipes",
+      "brunch-ideas",
+      "coconut-milk-recipes",
+      "curry-dishes",
+      "jamaican-cuisine"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tropical-peruvian-pepper-rocoto-relleno",
     "title": "Tropical Peruvian Pepper Rocoto Relleno",
     "tags": [
