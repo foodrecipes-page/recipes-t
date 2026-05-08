@@ -5736,6 +5736,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-mexican-chicken-pilaf",
+    "title": "Tender Mexican Chicken Pilaf",
+    "tags": [
+      "chicken",
+      "gluten-free",
+      "mexican",
+      "one-pot",
+      "rice",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-middle-eastern-chicken-pilaf",
     "title": "Tender Middle Eastern Chicken Pilaf",
     "tags": [
