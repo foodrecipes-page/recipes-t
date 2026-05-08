@@ -1,0 +1,98 @@
+{
+  "title": "Tender Croatian Rigatoni Pasta",
+  "description": "A fresh and light Croatian dish featuring rigatoni pasta, served with a sweet glaze and wrapped in a corn husk.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": "freshly made"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni pasta according to the package instructions.",
+    "Drain the pasta and set it aside to cool.",
+    "In a small bowl, whisk together the olive oil, garlic, honey, apple cider vinegar, salt, and black pepper to make the glaze.",
+    "Brush the glaze over the cooled pasta and toss to coat.",
+    "Soak the corn husks in water for 30 minutes to make them pliable.",
+    "Wrap each portion of pasta in a corn husk, making sure to seal the edges.",
+    "Serve the pasta immediately, garnished with chopped fresh parsley.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "one-pot",
+    "pasta",
+    "raw-friendly",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tender-croatian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-croatian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:34:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "glaze",
+    "primaryIngredient": "rigatoni",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "tender light",
+    "dishForm": "Pasta"
+  }
+}
