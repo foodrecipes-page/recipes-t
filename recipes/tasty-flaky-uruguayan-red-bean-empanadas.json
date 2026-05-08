@@ -1,0 +1,90 @@
+{
+  "title": "Tasty Flaky Uruguayan Red Bean Empanadas",
+  "description": "A traditional Uruguayan dish featuring anko red bean paste, these empanadas are perfect for meal prep and are jain friendly. The combination of flaky crust and jammy filling is a delight to the taste buds.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "anko red bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1 tablespoon",
+      "notes": "such as flax or chia seeds mixed with water"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, salt, and sugar.",
+    "Add vegetable oil and water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of anko red bean paste in the center of each circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops with egg replacement and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky-crust",
+    "jain-friendly",
+    "meal-prep",
+    "snack",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tasty-flaky-uruguayan-red-bean-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-flaky-uruguayan-red-bean-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "anko-red-bean-paste",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "red beans",
+    "descriptor": "tasty flaky",
+    "dishForm": "Empanadas"
+  }
+}

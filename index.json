@@ -4028,6 +4028,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-flaky-uruguayan-red-bean-empanadas",
+    "title": "Tasty Flaky Uruguayan Red Bean Empanadas",
+    "tags": [
+      "flaky-crust",
+      "jain-friendly",
+      "meal-prep",
+      "snack",
+      "uruguayan",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-garlicky-mexican-beans-frijoles-charros",
     "title": "Tasty Garlicky Mexican Beans Frijoles Charros",
     "tags": [
