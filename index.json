@@ -3431,6 +3431,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-toasted-canadian-cream-cheese-flatbread",
+    "title": "Tangy Toasted Canadian Cream Cheese Flatbread",
+    "tags": [
+      "bento-box",
+      "canadian-cuisine",
+      "cream-cheese",
+      "flatbread",
+      "garlicky",
+      "low-sodium",
+      "molten"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-toasted-mexican-casabe-tacos",
     "title": "Tangy Toasted Mexican Casabe Tacos",
     "tags": [

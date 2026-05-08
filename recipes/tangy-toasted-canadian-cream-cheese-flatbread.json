@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Toasted Canadian Cream Cheese Flatbread",
+  "description": "A garlicky and molten Canadian dish featuring cream cheese on long-fermentation-dough, perfect for a low-sodium diet, served in a bento-box. This energizing flatbread is great for a quick snack or lunch.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 pound",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the long-fermentation-dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Spread the softened cream cheese evenly over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the minced garlic, salt, black pepper, and dried parsley over the cream cheese.",
+    "Drizzle the olive oil and lemon juice over the top of the flatbread.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Serve the flatbread in a bento-box for a convenient and energizing snack or lunch."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "canadian-cuisine",
+    "cream-cheese",
+    "flatbread",
+    "garlicky",
+    "low-sodium",
+    "molten"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "tangy-toasted-canadian-cream-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-toasted-canadian-cream-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:58:44Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "cream cheese",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cream cheese",
+    "descriptor": "tangy toasted",
+    "dishForm": "Flatbread"
+  }
+}
