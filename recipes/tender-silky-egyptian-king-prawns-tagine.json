@@ -1,0 +1,103 @@
+{
+  "title": "Tender Silky Egyptian King Prawns Tagine",
+  "description": "A lazy Sunday Egyptian dish featuring king prawns, kombu cold extract, and halal friendly ingredients, resulting in a grassy and silky texture. This dish is perfect for a relaxing weekend meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin, coriander, salt, and black pepper, and cook for 1 minute, stirring constantly.",
+    "Add the king prawns and cook for 2-3 minutes per side, until they are pink and cooked through.",
+    "Add the kombu cold extract and stir to combine.",
+    "Reduce the heat to low and simmer the tagine for 10 minutes, stirring occasionally.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, tagine is served with crusty bread or over couscous.",
+    "You can also serve it with a side of steamed vegetables or a simple green salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "lazy-sunday",
+    "middle-eastern",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-silky-egyptian-king-prawns-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-silky-egyptian-king-prawns-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:39:54Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "king prawns",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "king prawns",
+    "descriptor": "tender silky",
+    "dishForm": "Tagine"
+  }
+}
