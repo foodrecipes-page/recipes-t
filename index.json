@@ -3179,6 +3179,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-spicy-ethiopian-lamb-stew",
+    "title": "Tangy Spicy Ethiopian Lamb Stew",
+    "tags": [
+      "ethiopian",
+      "lamb",
+      "low-fat",
+      "one-pot",
+      "spicy",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 110,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-spicy-polish-buckwheat-crumble",
     "title": "Tangy Spicy Polish Buckwheat Crumble",
     "tags": [
