@@ -1,0 +1,99 @@
+{
+  "title": "Tasty Pungent Greek Gouda Cheese Lasagna",
+  "description": "A crowd-pleasing Greek dish featuring pungent Gouda cheese, this lasagna is a paleo-friendly, cheese-pull masterpiece, with a rich and creamy mantecare-emulsified sauce. It is perfect for a dinner party or special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "12 oz",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and cook the ground beef until browned.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the tomato sauce and bring to a simmer.",
+    "In a large bowl, combine the cooked noodles, meat sauce, and Gouda cheese.",
+    "In a 9x13 inch baking dish, create a thin layer of the meat sauce.",
+    "Arrange 4 noodles on top of the sauce.",
+    "Spread half of the remaining meat sauce over the noodles.",
+    "Sprinkle with half of the Gouda cheese.",
+    "Repeat the layers, starting with the noodles, then the meat sauce, and finally the remaining Gouda cheese.",
+    "Cover the dish with aluminum foil and bake for 30 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "greek-cuisine",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tasty-pungent-greek-gouda-cheese-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-pungent-greek-gouda-cheese-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:52:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "gouda cheese",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Gouda cheese",
+    "descriptor": "Tasty pungent",
+    "dishForm": "Lasagna"
+  }
+}

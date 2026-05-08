@@ -3981,6 +3981,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-pungent-greek-gouda-cheese-lasagna",
+    "title": "Tasty Pungent Greek Gouda Cheese Lasagna",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "greek-cuisine",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thick-brazilian-tofu-skewers",
     "title": "Tasty Thick Brazilian Tofu Skewers",
     "tags": [
