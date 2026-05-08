@@ -1,0 +1,92 @@
+{
+  "title": "Tender Smoky Saudi Arabian Lamb Kebabs",
+  "description": "A peppery and silky Saudi Arabian dish featuring lamb kebabs, perfect for a brunch mood, made with instant yeast and smoked to perfection, and is keto friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoked paprika, black pepper, garlic powder, and salt.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "In a small bowl, mix together olive oil, lemon juice, and instant yeast.",
+    "Pour the wet ingredients over the lamb and toss to coat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a grill or grill pan to medium high heat and cook the kebabs for 8-10 minutes per side, or until cooked to an internal temperature of 145 degrees.",
+    "Remove the kebabs from the heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "keto-friendly",
+    "lamb-kebabs",
+    "low-carb",
+    "saudi-arabian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "tender-smoky-saudi-arabian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-saudi-arabian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:49:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "smoke-cold",
+    "primaryIngredient": "instant yeast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Kebabs"
+  }
+}
