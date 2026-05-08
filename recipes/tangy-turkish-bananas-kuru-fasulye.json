@@ -1,0 +1,93 @@
+{
+  "title": "Tangy Turkish Bananas Kuru Fasulye",
+  "description": "A unique Turkish dish featuring fried ripe bananas, tempered with chocolate and spices, providing a tangy and energizing taste experience, while being low in calories.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "preferably Cavendish bananas"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Peel the bananas and cut them into 1-inch pieces.",
+    "Heat the olive oil in a deep frying pan over medium heat.",
+    "Fry the banana pieces until they are golden brown and crispy.",
+    "Remove the fried bananas from the oil and place them on a paper towel to drain excess oil.",
+    "Melt the dark chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Temper the melted chocolate by stirring in the pomegranate molasses, cinnamon powder, cardamom powder, and salt.",
+    "Add the fried banana pieces to the tempered chocolate and stir until they are evenly coated.",
+    "Drizzle the honey over the chocolate-covered bananas and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-dessert",
+    "fried-bananas",
+    "low-calorie",
+    "turkish-dish",
+    "unique-recipe",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tangy-turkish-bananas-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-turkish-bananas-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:29:26Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "bananas",
+    "descriptor": "tangy bouncy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
