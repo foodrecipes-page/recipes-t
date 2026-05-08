@@ -1,0 +1,94 @@
+{
+  "title": "Uruguayan Pork Chops Skewers",
+  "description": "Tender and juicy pork chops skewers, marinated in a buttery mixture and grilled to perfection, perfect for a post-workout meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 pound",
+      "notes": "boneless, 1 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, butter, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the pork chops to the marinade and mix well to coat, then cover and refrigerate for at least 30 minutes.",
+    "Thread the marinated pork chops onto skewers, leaving a small space between each chop.",
+    "Grill the skewers for 5-7 minutes per side, or until the pork reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving, garnished with chopped parsley.",
+    "Serve hot and enjoy.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "pork",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "tender-juicy-uruguayan-pork-chops-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-juicy-uruguayan-pork-chops-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:18:10Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pork chops",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pork chops",
+    "descriptor": "tender juicy",
+    "dishForm": "Skewers"
+  }
+}
