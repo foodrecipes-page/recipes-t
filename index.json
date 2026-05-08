@@ -6801,6 +6801,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-mexican-beef-birria",
+    "title": "Tender Smoky Mexican Beef Birria",
+    "tags": [
+      "beef",
+      "cheesy",
+      "comfort-food",
+      "crowd-pleaser",
+      "mexican",
+      "one-pot",
+      "smoky"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 180,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-moroccan-lamb-tagine",
     "title": "Tender Smoky Moroccan Lamb Tagine",
     "tags": [

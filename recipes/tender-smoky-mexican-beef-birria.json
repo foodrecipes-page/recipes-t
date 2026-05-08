@@ -1,0 +1,103 @@
+{
+  "title": "Tender Smoky Mexican Beef Birria",
+  "description": "A smoky and tender Mexican dish featuring beef, parmesan cheese, and a blend of spices, perfect for a crowd, this birria is a classic Yucatecan recipe with a rajasic-friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "cut into large pieces"
+    },
+    {
+      "name": "ancho chili powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the lard or oil in a large Dutch oven over medium heat.",
+    "Add the beef pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the ancho chili powder, cumin, smoked paprika, salt, and pepper, and cook for 1 minute, stirring constantly.",
+    "Add the beef broth, tomato paste, and browned beef, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Shred the beef with two forks and stir in the parmesan cheese.",
+    "Simmer for an additional 10 minutes, or until the cheese is melted and the birria is hot and bubbly.",
+    "Serve the birria hot, garnished with chopped fresh cilantro, if desired.",
+    "Offer warm tortillas on the side, for making tacos or dipping into the birria."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheesy",
+    "comfort-food",
+    "crowd-pleaser",
+    "mexican",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "tender-smoky-mexican-beef-birria",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-mexican-beef-birria",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:50:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "smoke-hot",
+    "primaryIngredient": "parmesan cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "beef",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Birria"
+  }
+}
