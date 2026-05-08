@@ -1,0 +1,96 @@
+{
+  "title": "Tender Broiled Venezuelan Tomato Empanadas",
+  "description": "Buttery and springy empanadas filled with tomato puree, perfect for a solo dinner, served on a talavera plate. This shojin-friendly dish is a delicious and satisfying meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Add cold butter to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "Gradually add water to the mixture and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Place 1/4 cup of tomato puree in the center of each circle.",
+    "Fold the dough over the filling to form a half circle and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and broil in the oven at 400 degrees Fahrenheit for 12 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broiled",
+    "empanadas",
+    "shojin-friendly",
+    "talavera-plate",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tender-broiled-venezuelan-tomato-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-broiled-venezuelan-tomato-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:16:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "tomato puree",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tomato",
+    "descriptor": "tender broiled",
+    "dishForm": "Empanadas"
+  }
+}
