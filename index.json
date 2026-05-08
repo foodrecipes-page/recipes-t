@@ -5883,6 +5883,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-herbal-british-chicken-trifle",
+    "title": "Tender Herbal British Chicken Trifle",
+    "tags": [
+      "british-cuisine",
+      "chicken-recipe",
+      "herbal",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-herbal-croatian-cucumber-braise",
     "title": "Tender Herbal Croatian Cucumber Braise",
     "tags": [

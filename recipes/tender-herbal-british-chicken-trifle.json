@@ -1,0 +1,99 @@
+{
+  "title": "Tender Herbal British Chicken Trifle",
+  "description": "A light and flavorful British dish featuring chicken, herbs, and a touch of red chilli flakes, perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "2 cups",
+      "notes": "florets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, black pepper, and red chilli flakes.",
+    "Add the chicken breast to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 10 minutes.",
+    "In a large donabe, arrange a layer of cauliflower florets.",
+    "Remove the chicken from the marinade and place it on top of the cauliflower.",
+    "Sprinkle chopped parsley and thyme over the chicken.",
+    "Cover the donabe with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the chicken is cooked through.",
+    "Let the trifle rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "chicken-recipe",
+    "herbal",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "tender-herbal-british-chicken-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-herbal-british-chicken-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:05:33Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "blanch",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender Herbal",
+    "dishForm": "Trifle"
+  }
+}
