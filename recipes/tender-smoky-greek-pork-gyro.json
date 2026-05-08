@@ -1,0 +1,108 @@
+{
+  "title": "Tender Smoky Greek Pork Gyro",
+  "description": "A delicious and smoky Greek dish featuring tender pork, wrapped in a warm pita with crunchy vegetables and creamy tzatziki sauce, perfect for a flexitarian meal. This dish is made with strong white flour and namul-blanch-seasoned ingredients.",
+  "cuisine": "Greek",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "strong white flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, then transfer it to the preheated oven.",
+    "Bake the pork for 2 hours, or until it reaches an internal temperature of 190 degrees Fahrenheit.",
+    "While the pork is cooking, prepare the tzatziki sauce according to the package instructions.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Slice the cooked pork into thin strips and assemble the gyro by spreading tzatziki sauce on the pita, then adding the pork, tomato, red onion, and cucumber.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "greek-food",
+    "pita-bread",
+    "smoky-flavors",
+    "tzatziki-sauce",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-smoky-greek-pork-gyro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-greek-pork-gyro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:51:06Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "strong white flour",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Gyro"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "title": "Tender American Ground Beef Paella",
+  "description": "A fresh and tender kid-friendly American dish featuring ground beef and pistachios, cooked in a paella pan with a smoky flavor.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "ground pistachios",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cooked sausage",
+      "amount": "1 cup",
+      "notes": "such as chorizo or pepperoni"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Heat a large paella pan over medium-high heat.",
+    "Add the ground beef to the pan and cook until browned, breaking it up into small pieces.",
+    "Add the smoked paprika, salt, and black pepper to the pan and stir to combine.",
+    "Add the chopped pistachios to the pan and cook for 1 minute.",
+    "Add the tomato paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the cooked sausage to the pan and stir to combine.",
+    "Transfer the paella pan to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ground-beef",
+    "kid-friendly",
+    "one-pan",
+    "pistachios",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-american-ground-beef-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-american-ground-beef-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:50:49Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "ground pistachios",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "ground beef",
+    "descriptor": "tender tasty",
+    "dishForm": "Paella"
+  }
+}

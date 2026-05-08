@@ -4852,6 +4852,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-american-ground-beef-paella",
+    "title": "Tender American Ground Beef Paella",
+    "tags": [
+      "ground-beef",
+      "kid-friendly",
+      "one-pan",
+      "pistachios",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tender-and-grassy-croatian-suet-dumplings",
     "title": "Tender and Grassy Croatian Suet Dumplings",
     "tags": [
@@ -6898,6 +6913,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-smoky-greek-pork-gyro",
+    "title": "Tender Smoky Greek Pork Gyro",
+    "tags": [
+      "flexitarian-friendly",
+      "greek-food",
+      "pita-bread",
+      "smoky-flavors",
+      "tzatziki-sauce",
+      "weeknight-meal"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 140,
     "shard": "t"
   },
   {
