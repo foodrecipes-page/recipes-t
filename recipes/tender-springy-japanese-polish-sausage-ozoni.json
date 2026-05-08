@@ -1,0 +1,94 @@
+{
+  "title": "Tender Springy Japanese Polish Sausage Ozoni",
+  "description": "A buttery and springy Japanese dish featuring Polish sausage, served in a comforting pasta water emulsion, perfect for a sick day. This Buddhist temple friendly dish is made in the form of ozoni.",
+  "cuisine": "Japanese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Pasta water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring the pasta water to a boil in a large pot.",
+    "Reduce the heat to a simmer and add the sliced Polish sausage.",
+    "Cook the sausage for 5 minutes, then remove it from the pot with a slotted spoon.",
+    "Add the shredded mozzarella cheese to the pot and stir until melted and well combined with the pasta water.",
+    "Add the butter, soy sauce, and mirin to the pot and stir until the butter is melted and the sauce is smooth.",
+    "Return the cooked Polish sausage to the pot and stir to coat with the sauce.",
+    "Transfer the ozoni to a serving bowl and garnish with chopped green onions and sesame seeds.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "japanese-comfort-food",
+    "one-pot",
+    "pork-dishes",
+    "springy-texture",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-springy-japanese-polish-sausage-ozoni",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-springy-japanese-polish-sausage-ozoni",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:51:29Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "sick-day",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "polish sausage",
+    "diet": "buddhist-temple",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "polish sausage",
+    "descriptor": "tender springy",
+    "dishForm": "Ozoni"
+  }
+}
