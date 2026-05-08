@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Brazilian Fenugreek Pão de Queijo",
+  "description": "A tangy, crispy, hangover cure Brazilian dish featuring fenugreek, perfect for egg-free-friendly breakfasts or snacks.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fenugreek Leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen, chopped"
+    },
+    {
+      "name": "Brazilian Cheese (Minas)",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Tapioca Flour",
+      "amount": "2 cups",
+      "notes": "also known as tapioca starch"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Vinegar (Apple Cider or Balsamic)",
+      "amount": "2 tablespoons",
+      "notes": "add flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Mix fenugreek leaves, cheeese, tapioca flour, and salt in a bowl.",
+    "Add coconut oil, vinegar, and black pepper to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it's smooth and elastic.",
+    "Shape the dough into small balls, about 1 inch in diameter.",
+    "Heat a non-stick skillet or frying pan over medium-high heat.",
+    "Cook the balls in batches, flattening them slightly, for 3-4 minutes on each side until crispy and golden brown.",
+    "Serve warm and enjoy!",
+    "Store leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "breakfast",
+    "egg-free",
+    "hangover-cure",
+    "high-protein",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tangy-brazilian-fenugreek-pao-de-queijo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-brazilian-fenugreek-pao-de-queijo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:39:51Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "score-fat",
+    "primaryIngredient": "fenugreek",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "tangy",
+    "dishForm": "Pão de Queijo"
+  }
+}
