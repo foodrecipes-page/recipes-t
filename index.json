@@ -4252,6 +4252,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-turkish-cheese-pide",
+    "title": "Tasty Turkish Cheese Pide",
+    "tags": [
+      "cheesy",
+      "jain-friendly",
+      "pressure-cooked",
+      "turkish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-ukrainian-prawns-stew",
     "title": "Tasty Ukrainian Prawns Stew",
     "tags": [

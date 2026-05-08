@@ -1,0 +1,96 @@
+{
+  "title": "Tasty Turkish Cheese Pide",
+  "description": "A weeknight Turkish dish featuring melted cheese and mustard, cooked to perfection in a raclette-grill, this Jain-friendly pide is perfect for a quick dinner",
+  "cuisine": "Turkish",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lukewarm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Turkish cheese",
+      "amount": "1 cup",
+      "notes": "or other melting cheese"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl",
+    "Gradually add lukewarm water to the dry ingredients and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour",
+    "Preheat the raclette-grill to medium-high heat",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball",
+    "Roll out each ball into a thin circle, about 1/8 inch thick",
+    "Place a quarter of the Turkish cheese in the center of each circle",
+    "Spread a tablespoon of mustard over the cheese",
+    "Fold the dough over the filling to form a pide shape, and press the edges to seal",
+    "Brush the tops with olive oil and cook in the raclette-grill for 2-3 minutes on each side, until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "jain-friendly",
+    "pressure-cooked",
+    "turkish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tasty-turkish-cheese-pide",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-turkish-cheese-pide",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:06:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mustard",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "Tasty Toasted",
+    "dishForm": "Pide"
+  }
+}
