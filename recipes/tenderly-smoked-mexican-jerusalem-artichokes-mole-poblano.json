@@ -1,0 +1,95 @@
+{
+  "title": "Tenderly Smoked Mexican Jerusalem Artichokes Mole Poblano",
+  "description": "A pungent and aerated nostalgic Mexican dish featuring Jerusalem artichokes in a mole poblano sauce, served in a bamboo steamer with ssam wrap, gluten-free friendly.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "1 pound",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "ancho chilies",
+      "amount": "4",
+      "notes": "dried"
+    },
+    {
+      "name": "mulato chilies",
+      "amount": "2",
+      "notes": "dried"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup",
+      "notes": "dark"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "8-10 pieces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the chopped Jerusalem artichokes in a 400 degree oven for 20 minutes, or until tender.",
+    "Soak the ancho and mulato chilies in hot water for 20 minutes, then drain and chop.",
+    "In a blender, combine the roasted Jerusalem artichokes, chopped chilies, sliced almonds, dark raisins, sesame seeds, and smoked paprika, and blend until smooth.",
+    "Heat the blended mixture in a saucepan over medium heat, stirring constantly, until heated through.",
+    "Prepare the ssam wrap by cutting it into 8-10 pieces.",
+    "Assemble the dish by placing a spoonful of the mole poblano sauce onto a piece of ssam wrap, and serving in a bamboo steamer.",
+    "Steam the assembled dish for 5 minutes, or until the ssam wrap is tender.",
+    "Serve immediately, garnished with additional sesame seeds and smoked paprika if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "gluten-free",
+    "mexican-cuisine",
+    "smoked-paprika",
+    "ssam-wrap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tenderly-smoked-mexican-jerusalem-artichokes-mole-poblano",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-smoked-mexican-jerusalem-artichokes-mole-poblano",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:12:01Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "gluten-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "jerusalem artichokes",
+    "descriptor": "Tenderly Smoked",
+    "dishForm": "Mole Poblano"
+  }
+}
