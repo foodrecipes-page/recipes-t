@@ -1,0 +1,100 @@
+{
+  "title": "Tempting Toasty Moroccan Chicken Tagine",
+  "description": "A funky and festive Moroccan dish featuring chicken, peppercorns, and coconut cream, cooked to crispy perfection in a paella pan. This kosher-friendly recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "2 tablespoons",
+      "notes": "whole"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium high heat.",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chicken to the pan and cook until browned on all sides, about 5-7 minutes.",
+    "Add the black peppercorns, dried apricots, chicken broth, and salt to the pan, stirring to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the chicken is cooked through.",
+    "Stir in the coconut cream and continue to simmer, uncovered, for an additional 5 minutes, or until the sauce has thickened and the chicken is crispy.",
+    "Serve the tagine hot, garnished with fresh herbs and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "coconut-cream",
+    "kosher-friendly",
+    "moroccan",
+    "one-pan",
+    "peppercorns"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "tempting-toasty-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasty-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:04Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "peppercorns",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Tempting Toasty",
+    "dishForm": "Tagine"
+  }
+}

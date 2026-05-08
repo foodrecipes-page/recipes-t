@@ -4302,6 +4302,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-toasty-moroccan-chicken-tagine",
+    "title": "Tempting Toasty Moroccan Chicken Tagine",
+    "tags": [
+      "chicken",
+      "coconut-cream",
+      "kosher-friendly",
+      "moroccan",
+      "one-pan",
+      "peppercorns"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-toasty-spanish-malai-croquetas",
     "title": "Toasty Spanish Malai Croquetas",
     "tags": [
@@ -6242,6 +6257,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-spanish-pork-croquetas",
+    "title": "Tender Spanish Pork Croquetas",
+    "tags": [
+      "croquetas",
+      "keto-friendly",
+      "midnight-cravings",
+      "pork-recipes",
+      "spanish-cuisine",
+      "tandoor-inspired"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {

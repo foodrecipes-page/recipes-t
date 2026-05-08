@@ -1,0 +1,96 @@
+{
+  "title": "Tender Spanish Pork Croquetas",
+  "description": "A traditional Spanish dish from the Galician region, these croquetas are made with tender pork, cinnamon, and a hint of smoky flavor from the tandoor, perfect for a midnight craving.",
+  "cuisine": "Spanish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cut"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1",
+      "notes": "broken into pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the broken cinnamon stick and cook for 1 minute, until fragrant.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the pork shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the tandoor spice blend and cook for 1 minute, until fragrant.",
+    "Transfer the pork mixture to a blender or food processor and blend until coarsely chopped.",
+    "In a large bowl, combine the chopped pork mixture, egg, almond flour, and crushed pork rinds, mixing until just combined.",
+    "Using your hands, shape the mixture into small cylindrical croquetas.",
+    "Place the croquetas on a baking sheet lined with parchment paper and bake for 15 minutes, until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "croquetas",
+    "keto-friendly",
+    "midnight-cravings",
+    "pork-recipes",
+    "spanish-cuisine",
+    "tandoor-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "tender-spanish-pork-croquetas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spanish-pork-croquetas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:05:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "tandoor",
+    "primaryIngredient": "cinnamon stick",
+    "diet": "keto",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Tandoor",
+    "dishForm": "Croquetas"
+  }
+}
