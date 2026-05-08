@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Smoky Polish Cucumber Salad",
+  "description": "A refreshing Polish-inspired salad featuring smoky and tangy flavors, with anti-inflammatory benefits from fermented ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cucumbers",
+      "amount": "4 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cucumbers and smoked paprika, tossing to coat.",
+    "In a blender or food processor, blend the sauerkraut, Greek yogurt, chopped fresh dill, apple cider vinegar, honey, salt, and black pepper until smooth.",
+    "Pour the sauerkraut mixture over the cucumber mixture and toss to combine.",
+    "Chill the salad in the refrigerator for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good stir and adjust the seasoning if needed.",
+    "Serve the salad chilled, garnished with additional chopped fresh dill if desired.",
+    "Cover and refrigerate any leftovers for up to 24 hours.",
+    "Before serving leftovers, give the salad a good stir and adjust the seasoning if needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "polish",
+    "refreshing",
+    "smoky",
+    "snack",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "tangy-smoky-polish-cucumber-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-smoky-polish-cucumber-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:44:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "ferment",
+    "primaryIngredient": "cucumber",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "cucumber",
+    "descriptor": "Tangy Smoky",
+    "dishForm": "Salad"
+  }
+}
