@@ -1,0 +1,101 @@
+{
+  "title": "Tender Toasted Saudi Arabian Rigatoni Pasta",
+  "description": "A lacto-vegetarian friendly Saudi Arabian dish featuring rigatoni, toasted to perfection on a yakimono grill and cooked on a tava griddle, this meal is perfect for a quick and delicious dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rigatoni",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Grated mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Saudi Arabian spice mix",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to package instructions until al dente.",
+    "While the rigatoni is cooking, heat the olive oil on the tava griddle over medium heat.",
+    "Add the garlic powder, paprika, salt, and black pepper to the tava griddle and stir for 1 minute.",
+    "Add the cooked rigatoni to the tava griddle and stir to combine with the spice mixture.",
+    "Transfer the rigatoni mixture to the yakimono grill and toast for 5 minutes.",
+    "Remove the rigatoni from the grill and top with grated mozzarella cheese.",
+    "Return the rigatoni to the grill and toast until the cheese is melted and bubbly.",
+    "Remove the rigatoni from the grill and sprinkle with chopped fresh parsley and a squeeze of lemon juice.",
+    "Serve the tender toasted Saudi Arabian rigatoni pasta hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "one-pan",
+    "pasta",
+    "quick-dinner",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-toasted-saudi-arabian-rigatoni-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-saudi-arabian-rigatoni-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:41:30Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "rigatoni",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "rigatoni",
+    "descriptor": "tender toasted",
+    "dishForm": "Pasta"
+  }
+}
