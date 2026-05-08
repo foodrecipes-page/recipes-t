@@ -4167,6 +4167,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-algerian-lamb-tagine",
+    "title": "Tender Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "lamb-recipes",
+      "one-pot",
+      "shojin-friendly",
+      "slow-cooked",
+      "spicy",
+      "tender-meats"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 125,
+    "shard": "t"
+  },
+  {
     "slug": "tender-algerian-sea-bass-tagine",
     "title": "Tender Algerian Sea Bass Tagine",
     "tags": [
