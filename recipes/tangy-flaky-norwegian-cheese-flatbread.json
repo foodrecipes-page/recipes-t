@@ -1,0 +1,104 @@
+{
+  "title": "Tangy Flaky Norwegian Cheese Flatbread",
+  "description": "A sour and flaky Norwegian dish featuring shredded Monterey Jack cheese, perfect for midnight cravings, made with long-fermentation-dough and diabetic-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup shredded",
+      "notes": "low-fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a cool place for 12 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the fermented dough into a large rectangle, about 1/4 inch thick.",
+    "Brush the melted butter over the dough, leaving a 1-inch border around the edges.",
+    "Spread the shredded cheese evenly over the butter, making sure to stay within the border.",
+    "Drizzle the Greek yogurt over the cheese and sprinkle with dried dill weed.",
+    "Fold the edges of the dough over the filling to form a crust, pressing gently to seal.",
+    "Brush the egg over the crust to glaze.",
+    "Bake the flatbread in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "diabetic-friendly",
+    "flatbread",
+    "midnight-cravings",
+    "norwegian-cuisine",
+    "sour-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tangy-flaky-norwegian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-norwegian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:12:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "cheese",
+    "descriptor": "Tangy Flaky",
+    "dishForm": "Flatbread"
+  }
+}
