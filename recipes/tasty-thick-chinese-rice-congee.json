@@ -1,0 +1,95 @@
+{
+  "title": "Tasty Thick Chinese Rice Congee",
+  "description": "A quick and easy Chinese dish made with rice, vegetable oil, and various seasonings, perfect for a comforting meal. This congee is shojin-friendly and can be prepared in no time.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and drain well.",
+    "In a large pot, combine the rice and water, and bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 1 hour, or until the rice has broken down and the mixture has thickened.",
+    "Heat the vegetable oil in a small pan over medium heat.",
+    "Add the sliced ginger and cook, stirring occasionally, until crispy and golden brown.",
+    "Add the chopped scallions to the pan and cook, stirring constantly, for 1 minute.",
+    "Stir the soy sauce, sesame oil, and salt into the congee.",
+    "Add the cooked ginger and scallions to the congee and stir to combine.",
+    "Serve the congee hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "comfort-food",
+    "one-pot",
+    "quick-fix",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "tasty-thick-chinese-rice-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thick-chinese-rice-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "quick-fix",
+    "technique": "fold",
+    "primaryIngredient": "vegetable oil",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Tasty Thick",
+    "dishForm": "Congee"
+  }
+}

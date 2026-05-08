@@ -4176,6 +4176,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-thick-chinese-rice-congee",
+    "title": "Tasty Thick Chinese Rice Congee",
+    "tags": [
+      "chinese",
+      "comfort-food",
+      "one-pot",
+      "quick-fix",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-canadian-shrimp-skewers",
     "title": "Tasty Toasted Canadian Shrimp Skewers",
     "tags": [
