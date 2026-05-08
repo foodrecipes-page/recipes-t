@@ -1,0 +1,104 @@
+{
+  "title": "Tasty Smoky Italian Spinach Flatbread",
+  "description": "A salty, crispy, and energizing Italian dish featuring spinach and smoke, perfect for a snack or light meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package",
+      "notes": "preferably Italian or Sicilian style"
+    },
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "smoked mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "Roll out the flatbread to a thickness of about 1/4 inch.",
+    "Brush the olive oil over the flatbread, leaving a small border around the edges.",
+    "Sprinkle the shredded smoked mozzarella cheese evenly over the flatbread.",
+    "Top the cheese with a layer of fresh spinach leaves.",
+    "Sprinkle the minced garlic, salt, black pepper, and red pepper flakes over the spinach.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes, or until crispy and golden brown.",
+    "Remove the flatbread from the oven and sprinkle with chopped fresh basil.",
+    "Slice the flatbread into individual portions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-meals",
+    "flatbread-recipes",
+    "italian-food",
+    "smoky-flavors",
+    "snack-ideas",
+    "spinach-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "tasty-smoky-italian-spinach-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-smoky-italian-spinach-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:01:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "smoke",
+    "primaryIngredient": "spinach",
+    "diet": "halal",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "spinach",
+    "descriptor": "Tasty Smoky",
+    "dishForm": "Flatbread"
+  }
+}
