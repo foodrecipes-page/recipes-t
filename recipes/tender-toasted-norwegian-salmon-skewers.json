@@ -1,0 +1,98 @@
+{
+  "title": "Tender Toasted Norwegian Salmon Skewers",
+  "description": "Quick-fix Norwegian dish featuring dark brown soft sugar and robata-grill, wrapped in lotus leaf for a silky and cultured experience",
+  "cuisine": "Norwegian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "lotus leaf",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit",
+    "In a bowl, whisk together soy sauce, olive oil, garlic, ginger, salt, and pepper",
+    "Add the dark brown soft sugar to the bowl and whisk until dissolved",
+    "Add the Norwegian salmon cubes to the bowl and toss to coat with the marinade",
+    "Thread the marinated salmon cubes onto skewers",
+    "Wrap each skewer with a lotus leaf, leaving a small opening at the top",
+    "Place the skewers on the robata-grill and cook for 8-10 minutes",
+    "Turn the skewers occasionally to ensure even cooking",
+    "Serve the tender toasted Norwegian salmon skewers hot"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lotus-leaf-wrap",
+    "norwegian-cuisine",
+    "quick-fix",
+    "seafood",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-toasted-norwegian-salmon-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-norwegian-salmon-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:23:31Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "robata-grill",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "tender toasted",
+    "dishForm": "Skewers"
+  }
+}
