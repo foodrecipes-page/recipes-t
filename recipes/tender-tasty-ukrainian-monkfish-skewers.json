@@ -1,0 +1,103 @@
+{
+  "title": "Tender Tasty Ukrainian Monkfish Skewers",
+  "description": "A festive Ukrainian dish featuring monkfish, glaze, and anti-inflammatory friendly ingredients, wrapped in ti leaves. This recipe combines the flavors of mustard and fluffy texture with the tenderness of monkfish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large leaves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, Dijon mustard, honey, garlic powder, salt, and black pepper.",
+    "Add the monkfish pieces to the bowl and toss to coat with the marinade.",
+    "Thread 2-3 monkfish pieces onto each ti leaf, leaving a small space between each piece.",
+    "Brush the ti leaves with olive oil and season with salt.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the monkfish is cooked through.",
+    "Garnish with chopped parsley and serve with lemon wedges.",
+    "Drizzle with additional honey and mustard glaze if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "festive",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "seafood",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "tender-tasty-ukrainian-monkfish-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tasty-ukrainian-monkfish-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:21:03Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "glaze",
+    "primaryIngredient": "monkfish",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "monkfish",
+    "descriptor": "tender tasty",
+    "dishForm": "Skewers"
+  }
+}
