@@ -1,0 +1,92 @@
+{
+  "title": "Tender Steam French Lard Confit",
+  "description": "A traditional French dish from Provence featuring tender lard, this recipe is a halal-friendly version using a molcajete as the cooking vessel, perfect for a midnight craving.",
+  "cuisine": "French",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lard",
+      "amount": "1 pound",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lard under cold water and pat it dry with paper towels.",
+    "In the molcajete, combine the garlic, thyme, rosemary, bay leaves, black pepper, and salt.",
+    "Add the lard to the molcajete, making sure it is covered by the aromatics.",
+    "Pour in the water, ensuring the lard is submerged.",
+    "Cover the molcajete with a lid or plastic wrap.",
+    "Place the molcajete over a steamer basket in a large pot filled with boiling water.",
+    "Steam the lard for 2 hours, or until it is tender and easily shreds with a fork.",
+    "Remove the molcajete from the heat and let it cool slightly.",
+    "Shred the lard into bite-sized pieces and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "halal-friendly",
+    "midnight-craving",
+    "molcajete-recipe",
+    "steam-cooking",
+    "tender-lard"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 0,
+    "fat": 42
+  },
+  "slug": "tender-steam-french-lard-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-steam-french-lard-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:49:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "lard",
+    "diet": "halal",
+    "region": "provence",
+    "cuisineAdjective": "french",
+    "mainIngredient": "lard",
+    "descriptor": "tender steam",
+    "dishForm": "Confit"
+  }
+}
