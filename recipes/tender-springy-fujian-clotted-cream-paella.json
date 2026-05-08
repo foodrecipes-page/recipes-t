@@ -1,0 +1,100 @@
+{
+  "title": "Tender Springy Fujian Clotted-Cream Paella",
+  "description": "A rich and creamy paella dish from Fujian province in China, made with clotted cream, yeast, and a variety of vegetables.",
+  "cuisine": "Fujian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saffron-infused clotted cream",
+      "amount": "200g"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "Long-grain rice",
+      "amount": "250g"
+    },
+    {
+      "name": "Fujian-style vegetable mix (such as bok choy, carrots, and scallions)",
+      "amount": "400g"
+    },
+    {
+      "name": "Maitake mushrooms",
+      "amount": "100g"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g"
+    },
+    {
+      "name": "Furikake seasoning",
+      "amount": "10g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F (220°C).",
+    "In a small bowl, combine the yeast, 1 tablespoon of warm water, and 1 tablespoon of sugar. Let it sit for 5 minutes, until the mixture becomes frothy.",
+    "In a large paella pan, heat the butter over medium heat. Add the Fujian-style vegetable mix and cook until it's tender, about 5 minutes.",
+    "Add the rice to the pan and stir to coat with the vegetables and butter.",
+    "Add the yeast mixture, saffron-infused clotted cream, furikake seasoning, salt, and black pepper to the pan. Stir to combine.",
+    "Transfer the pan to the preheated oven and bake for 15 minutes.",
+    "Remove the pan from the oven and add the maitake mushrooms. Stir to combine.",
+    "Return the pan to the oven and bake for an additional 10 minutes, until the rice is tender and the liquid has been absorbed.",
+    "Remove the pan from the oven and stir in the sesame oil. Let it sit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "date-night",
+    "fujian",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 25
+  },
+  "slug": "tender-springy-fujian-clotted-cream-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-springy-fujian-clotted-cream-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:18:38Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "salt-bake",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "lacto-vegetarian",
+    "region": "fujian",
+    "cuisineAdjective": "Fujian",
+    "mainIngredient": "Clotted-Cream",
+    "descriptor": "Tender Springy",
+    "dishForm": "Paella"
+  }
+}
