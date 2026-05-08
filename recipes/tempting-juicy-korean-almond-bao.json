@@ -1,0 +1,110 @@
+{
+  "title": "Tempting Juicy Korean Almond Bao",
+  "description": "A briny and juicy Korean dish featuring ground almonds and lamination-puff, perfect for meal prep, made in a kadhai and plant-based friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground almonds, all purpose flour, salt, sugar, and active dry yeast.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased kadhai, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the kadhai over medium heat and add the sesame oil.",
+    "Add the chopped scallions and cook until they are softened.",
+    "Add the crumbled tofu and cook until it is lightly browned.",
+    "Add the soy sauce and gochujang, and stir to combine.",
+    "Punch down the risen dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the tofu and scallion mixture in the center of each disk.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "korean-food",
+    "lunch-ideas",
+    "meal-prep",
+    "one-pan",
+    "plant-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tempting-juicy-korean-almond-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-juicy-korean-almond-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:55:19Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "lamination-puff",
+    "primaryIngredient": "ground almonds",
+    "diet": "plant-based",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "almonds",
+    "descriptor": "Tempting Juicy",
+    "dishForm": "Bao"
+  }
+}
