@@ -1,0 +1,108 @@
+{
+  "title": "Twice-Baked Tasty Peruvian Potatoes Causa Limena",
+  "description": "Comforting yeasty pillowy Peruvian dish featuring jersey royal potatoes and nimono-simmer, low-sodium-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "4-5",
+      "notes": "large potatoes, peeled"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "500ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "2 tablespoons",
+      "notes": "low-fat"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/2 cup",
+      "notes": "Peruvian queso fresco or mozzarella"
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Hard-Boiled Egg",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Pierce the potatoes several times with a fork to allow steam to escape, and bake for 45 minutes, or until tender.",
+    "While the potatoes are baking, prepare the nimono-simmer by sautéing the chopped onion in butter until softened.",
+    "Add the chicken broth to the pan and bring to a simmer, then reduce heat to low and cook for 10 minutes.",
+    "Once the potatoes are done, let them cool for a few minutes before slicing in half lengthwise and scooping out the flesh.",
+    "Mash the potato flesh with a fork, then stir in the heavy cream, shredded cheese, chopped hard-boiled egg, chopped cilantro, salt, and black pepper.",
+    "Spoon the potato mixture back into the potato skins, and top each with a spoonful of the nimono-simmer.",
+    "Return the potatoes to the oven and bake for an additional 10-15 minutes, or until the tops are lightly browned.",
+    "Serve the causa limena hot, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "homemade",
+    "low-sodium",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "twice-baked-tasty-peruvian-potatoes-causa-limena",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/twice-baked-tasty-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:34:04Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Twice-Baked Tasty",
+    "dishForm": "Causa Limena"
+  }
+}
