@@ -1,0 +1,98 @@
+{
+  "title": "Tender Thai Chicken Tom Kha",
+  "description": "A bitter and silky Thai dish made with panang paste and cooked in individual mini cocottes, featuring chicken and raw friendly ingredients in a tom kha form.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "panang paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a pan over medium heat and saute the lemon grass and kaffir lime leaves until fragrant.",
+    "Add the panang paste and cook for 1 minute, stirring constantly.",
+    "Add the chicken and cook until browned on all sides.",
+    "Add the coconut milk, fish sauce, lime juice, and palm sugar, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, or until the chicken is cooked through.",
+    "Stir in the Thai basil and cook for an additional minute.",
+    "Divide the mixture among individual mini cocottes and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "tender-thai-chicken-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-thai-chicken-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "panang-paste",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender Silky",
+    "dishForm": "Tom Kha"
+  }
+}

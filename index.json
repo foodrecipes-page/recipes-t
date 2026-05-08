@@ -7514,6 +7514,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-thai-chicken-tom-kha",
+    "title": "Tender Thai Chicken Tom Kha",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "one-pot",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-thai-inspired-indian-chicken-wings-khichdi-style",
     "title": "Tender Thai-Inspired Indian Chicken Wings Khichdi-Style",
     "tags": [
