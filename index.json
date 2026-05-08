@@ -62,6 +62,19 @@
     "shard": "t"
   },
   {
+    "slug": "tagine-style-earthenware-syrian-dish-tagine",
+    "title": "Syrian Tagine with Chicken and Vegetables",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "one-pan",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tamarind-comfort-broil",
     "title": "Tamarind Comfort Broil",
     "tags": [

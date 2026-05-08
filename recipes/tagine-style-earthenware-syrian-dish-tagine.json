@@ -1,0 +1,114 @@
+{
+  "title": "Syrian Tagine with Chicken and Vegetables",
+  "description": "A hearty, earthy dish cooked in a traditional Syrian tagine made with chicken, vegetables, and a touch of citrus from the lime juice.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the carrots, potatoes, cumin, coriander, turmeric, salt, and black pepper. Stir to combine.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Cover the tagine and transfer to the oven. Cook at 300°F for 30 minutes.",
+    "Remove the tagine from the oven and stir in the lime juice.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "one-pan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tagine-style-earthenware-syrian-dish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tagine-style-earthenware-syrian-dish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:15Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "lime juice",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "dish",
+    "descriptor": "Tagine-Style Earthenware",
+    "dishForm": "Tagine"
+  }
+}
