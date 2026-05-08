@@ -1,0 +1,100 @@
+{
+  "title": "Tender Sweet Norwegian Pork Onigiri",
+  "description": "A sweet and velvety Norwegian dish featuring pork shoulder, shaped into nigiri, perfect for a quick and low-fat friendly meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "norwegian flatbread",
+      "amount": "4 slices",
+      "notes": "or regular bread"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together brown sugar, soy sauce, rice vinegar, olive oil, salt, and black pepper.",
+    "Add the pork shoulder to the bowl and coat with the sugar and soy sauce mixture.",
+    "Place the pork shoulder on a baking sheet and bake for 20 minutes.",
+    "Remove the pork from the oven and let it rest for 5 minutes.",
+    "Slice the pork into thin strips.",
+    "Cut the norwegian flatbread into small squares.",
+    "Assemble the onigiri by placing a small amount of pork onto the center of each bread square.",
+    "Fold the bread over the pork to form a triangle and press the edges together to seal.",
+    "Sprinkle the tops with sesame seeds if desired.",
+    "Serve the onigiri warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "easy-meals",
+    "low-fat",
+    "norwegian-cuisine",
+    "pork-recipes",
+    "quick-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tender-sweet-norwegian-pork-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-sweet-norwegian-pork-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:45:16Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pork shoulder",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "tender sweet",
+    "dishForm": "Onigiri"
+  }
+}
