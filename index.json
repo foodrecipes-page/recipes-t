@@ -5363,6 +5363,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-light-vietnamese-chicken-banh-mi",
+    "title": "Tender Light Vietnamese Chicken Banh Mi",
+    "tags": [
+      "ayurvedic",
+      "banh-mi",
+      "chicken",
+      "easy-lunch",
+      "light-meal",
+      "sattvic",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-low-calorie-friendly-croatian-eggs-frittata",
     "title": "Croatian Eggs Frittata",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Tender Light Vietnamese Chicken Banh Mi",
+  "description": "A floral, fluffy, and light Vietnamese dish featuring chicken, served in a banh mi form, made with chicken stock cube and deglaze fond, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "ayurvedic",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "baguette",
+      "amount": "4"
+    },
+    {
+      "name": "degaze fond",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken breast with salt and pepper.",
+    "Bake the chicken in the oven for 20 minutes or until it reaches 165 degrees Fahrenheit.",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "In a small bowl, whisk together the mayonnaise and sriracha.",
+    "Spread the mayonnaise mixture on the baguette.",
+    "Add the sliced chicken, pickled carrots, pickled daikon, cucumber, and cilantro on the baguette.",
+    "Drizzle the deglaze fond over the top of the sandwich.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic",
+    "banh-mi",
+    "chicken",
+    "easy-lunch",
+    "light-meal",
+    "sattvic",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-light-vietnamese-chicken-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-light-vietnamese-chicken-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:05:14Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chicken",
+    "descriptor": "tender light",
+    "dishForm": "Banh Mi"
+  }
+}
