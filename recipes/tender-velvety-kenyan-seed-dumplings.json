@@ -1,0 +1,94 @@
+{
+  "title": "Tender Velvety Kenyan Seed Dumplings",
+  "description": "A sour and velvety Kenyan dish featuring seeds and dumplings, perfect for a crowd, and vegetarian friendly. This recipe is a unique and delicious twist on traditional Kenyan cuisine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sorghum flour",
+      "amount": "2 cups",
+      "notes": "available at African markets"
+    },
+    {
+      "name": "Pumpkin seeds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sunflower seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the sorghum flour and salt.",
+    "Add the pumpkin seeds, sunflower seeds, and vegetable oil to the bowl and stir until well combined.",
+    "Gradually add the water to the bowl, stirring with a wooden spoon until a dough forms.",
+    "Knead the dough for 5 minutes until it is smooth and elastic.",
+    "Divide the dough into small balls, about the size of a golf ball.",
+    "Flatten each ball into a disk shape and set aside.",
+    "Heat a large non-stick skillet over medium heat and add a few of the dumplings to the skillet.",
+    "Cook the dumplings for 3-4 minutes on each side, until they are golden brown and cooked through.",
+    "Repeat with the remaining dumplings.",
+    "Serve the dumplings hot with a squeeze of lemon juice and a sprinkle of chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "crowd-pleaser",
+    "dumplings",
+    "seed-based",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-velvety-kenyan-seed-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-velvety-kenyan-seed-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:55:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "crowd-pleaser",
+    "technique": "dum",
+    "primaryIngredient": "seeds",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "seeds",
+    "descriptor": "tender velvety",
+    "dishForm": "Dumplings"
+  }
+}
