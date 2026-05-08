@@ -1,0 +1,103 @@
+{
+  "title": "Tender Molten Slovakian Pork Stew",
+  "description": "A hearty and flavorful Slovakian dish featuring tender pork, Italian seasoning, and spicy ferment-kimchi, perfect for satisfying midnight cravings. This ayurvedic-rajasic-friendly recipe is designed to nourish both body and soul.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large hot-pot vessel over medium-high heat and add the pork cubes, browning them on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the pot and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the Italian seasoning, caraway seeds, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the chopped ferment-kimchi to the pot and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew, covered, for 2 hours, or until the pork is tender and the sauce has thickened.",
+    "Serve the stew hot, garnished with additional ferment-kimchi and crusty bread on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "gluten-free",
+    "hearty-stew",
+    "midnight-craving",
+    "one-pot",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "tender-molten-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-molten-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:18:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "italian seasoning",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "tender molten",
+    "dishForm": "Stew"
+  }
+}
