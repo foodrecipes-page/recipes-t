@@ -1,0 +1,108 @@
+{
+  "title": "Tender Briny Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi Arabian dish featuring tender lamb in a rich and briny sauce, served with a side of liquid cheese and steamed in a papillote, perfect for a monsoon evening. This recipe combines the flavors of the Middle East with the comfort of a hearty stew.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "liquid cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "papillote paper",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb pieces with salt, black pepper, cumin, and coriander.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the pot and cook for 1 minute.",
+    "Add the seasoned lamb pieces to the pot and cook until they are browned on all sides.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Cook the lamb for 2 1/2 hours, or until it is tender.",
+    "Remove the pot from the oven and stir in the liquid cheese.",
+    "Wrap each serving of the lamb and sauce in a sheet of papillote paper and steam for 5 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 170,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "tender-briny-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-briny-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:09:15Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "liquid cheese",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "tender briny",
+    "dishForm": "Tagine"
+  }
+}
