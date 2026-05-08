@@ -1,0 +1,102 @@
+{
+  "title": "Tender Turkish Malaysian Turkish Delight Biryani",
+  "description": "A fatty and bouncy Malaysian dish featuring Turkish Delight, cooked to perfection in a papillote and served on a lazy-susan-spinner, this meal is perfect for a special occasion. It is also shojin-friendly, making it accessible to a wide range of diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish Delight",
+      "amount": "1 cup",
+      "notes": "rosewater flavored"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the onion, garlic, and ginger into small pieces and saute them in ghee until they are softened.",
+    "Add the cumin seeds, coriander powder, and salt to the pan and stir for 1 minute.",
+    "Add the basmati rice to the pan and stir for 2 minutes.",
+    "Add 2 cups of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 15 minutes.",
+    "Cut the Turkish Delight into small pieces and add it to the rice mixture.",
+    "Stir the mixture well and divide it into 4 equal portions.",
+    "Place each portion onto a sheet of papillote paper and fold the paper to create a packet.",
+    "Place the packets onto a lazy-susan-spinner and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani-recipe",
+    "lazy-susan-spinner",
+    "malaysian-cuisine",
+    "papillote-cooking",
+    "shojin-friendly",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 20,
+    "carbs": 200,
+    "fat": 40
+  },
+  "slug": "tender-turkish-malaysian-turkish-delight-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-turkish-malaysian-turkish-delight-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:19:23Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "turkish delight",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "turkish delight",
+    "descriptor": "tender turkish",
+    "dishForm": "Biryani"
+  }
+}
