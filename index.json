@@ -6163,6 +6163,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-spicy-german-meat-stew",
+    "title": "Tender Spicy German Meat Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "low-glycemic",
+      "one-pot",
+      "slow-cooked",
+      "spicy"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
     "slug": "tender-spicy-light-bake-brussels-sprouts",
     "title": "Tender Spicy Light Bake Brussels Sprouts",
     "tags": [

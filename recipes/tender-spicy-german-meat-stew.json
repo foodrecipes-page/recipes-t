@@ -1,0 +1,102 @@
+{
+  "title": "Tender Spicy German Meat Stew",
+  "description": "A spicy and dense German dish featuring fiordilatte and rest-meat, perfect for a lazy Sunday, this low-glycemic-friendly stew is cooked to perfection in a tandoor-clay-pot.",
+  "cuisine": "German",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1 pound",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "fiordilatte",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor-clay-pot to 300 degrees Fahrenheit.",
+    "In a large bowl, combine the rest-meat, onion, garlic, caraway seeds, paprika, salt, black pepper, and cayenne pepper, and mix well.",
+    "Add the shredded fiordilatte to the bowl and mix until just combined.",
+    "Transfer the mixture to the preheated tandoor-clay-pot.",
+    "Pour in the beef broth and bring the mixture to a boil.",
+    "Reduce the heat to 250 degrees Fahrenheit and simmer, covered, for 2 1/2 hours.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-cuisine",
+    "low-glycemic",
+    "one-pot",
+    "slow-cooked",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "tender-spicy-german-meat-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spicy-german-meat-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:29:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "rest-meat",
+    "primaryIngredient": "fiordilatte",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "meat",
+    "descriptor": "Tender Spicy",
+    "dishForm": "Stew"
+  }
+}
