@@ -1,0 +1,94 @@
+{
+  "title": "Tempting Yeasty Argentinian Cheese Empanadas",
+  "description": "A kid-friendly Argentinian dish featuring green olives and gooey cheese, these empanadas are lacto-vegetarian-friendly and perfect for a snack. They are made with a yeasty dough and filled with a delicious mixture of cheese, olives, and spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fry grind rice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large bowl, combine the flour, yeast, and salt.",
+    "Gradually add the agave nectar and olive oil to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of cheese, a few olives, and a sprinkle of fry grind rice in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the empanadas for 15 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "cheese-empanadas",
+    "kid-friendly",
+    "lacto-vegetarian",
+    "snack-food",
+    "yeasty-dough"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "tempting-yeasty-argentinian-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-yeasty-argentinian-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:51:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "green olives",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cheese",
+    "descriptor": "Tempting Yeasty",
+    "dishForm": "Empanadas"
+  }
+}

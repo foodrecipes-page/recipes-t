@@ -4242,6 +4242,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-yeasty-argentinian-cheese-empanadas",
+    "title": "Tempting Yeasty Argentinian Cheese Empanadas",
+    "tags": [
+      "argentinian-food",
+      "cheese-empanadas",
+      "kid-friendly",
+      "lacto-vegetarian",
+      "snack-food",
+      "yeasty-dough"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-adventurous-garlic-slovakian-stir-fry",
     "title": "Tender Adventurous Garlic Slovakian Stir-fry",
     "tags": [
