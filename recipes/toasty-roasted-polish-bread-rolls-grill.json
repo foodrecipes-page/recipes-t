@@ -1,0 +1,89 @@
+{
+  "title": "Toasty Roasted Polish Bread Rolls Grill",
+  "description": "A comforting Polish dish featuring roasted bread rolls, perfect for a low-calorie friendly snack, with a crispy shattering crust and a soft interior. It is roasted to perfection on the grill.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish bread rolls",
+      "amount": "8 rolls",
+      "notes": "day old rolls work best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic powder, salt, black pepper, and dried oregano.",
+    "Brush the mixture onto the bread rolls, making sure to coat them evenly.",
+    "Place the bread rolls on the grill and roast for 10-12 minutes, or until golden brown.",
+    "If using cheese, sprinkle it on top of the bread rolls and return to the grill for an additional 1-2 minutes, or until melted.",
+    "Remove the bread rolls from the grill and let them cool for a few minutes.",
+    "Serve the toasted bread rolls warm, enjoying the crispy shattering crust and soft interior."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "easy-to-make",
+    "grilled",
+    "low-calorie",
+    "polish",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "toasty-roasted-polish-bread-rolls-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-roasted-polish-bread-rolls-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:02:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "grill",
+    "primaryIngredient": "bread rolls",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "bread rolls",
+    "descriptor": "toasty roasted",
+    "dishForm": "Grill"
+  }
+}
