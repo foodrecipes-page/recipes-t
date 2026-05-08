@@ -1,0 +1,94 @@
+{
+  "title": "Tender Smoked Croatian Chicken Broil",
+  "description": "A pungent and tender croatian dish featuring chicken, perfect for a festive occasion.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Chicken stock cube",
+      "amount": "1 cube",
+      "notes": "Dissolved in 1 cup of water"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "Pungent and smoky"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "Fodmap-friendly alternative to fresh garlic"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to high heat.",
+    "In a small bowl, mix together dissolved chicken stock cube, smoked paprika, garlic powder, salt, and black pepper.",
+    "Place the chicken breasts on a broiler pan and brush the mixture evenly over both sides of the chicken.",
+    "Broil the chicken for 12 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "Remove the chicken from the broiler and let it rest for 5 minutes before slicing.",
+    "Garnish with chopped parsley and serve with lemon wedges on the side.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 24,
+  "totalTimeMin": 39,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 42,
+    "carbs": 0,
+    "fat": 18
+  },
+  "slug": "tender-smoked-croatian-chicken-broil",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoked-croatian-chicken-broil",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:51:58Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Tender Smoked",
+    "dishForm": "Broil"
+  }
+}

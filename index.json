@@ -3313,6 +3313,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-turkish-shrimp-pilaf",
+    "title": "Tangy Turkish Shrimp Pilaf",
+    "tags": [
+      "high-protein",
+      "kosher-friendly",
+      "meal-prep",
+      "one-pan",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-ukrainian-bean-skewers",
     "title": "Tangy Ukrainian Bean Skewers",
     "tags": [
@@ -5288,6 +5303,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-low-calorie-friendly-croatian-eggs-frittata",
+    "title": "Croatian Eggs Frittata",
+    "tags": [
+      "breakfast",
+      "croatian",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tender-malaysian-cabbage-bao",
     "title": "tender malaysian cabbage bao",
     "tags": [
@@ -5619,6 +5648,20 @@
     ],
     "cuisine": "Grecian",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-smoked-croatian-chicken-broil",
+    "title": "Tender Smoked Croatian Chicken Broil",
+    "tags": [
+      "croatian",
+      "high-protein",
+      "one-pan",
+      "smoked",
+      "weeknight"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 39,
     "shard": "t"
   },
   {

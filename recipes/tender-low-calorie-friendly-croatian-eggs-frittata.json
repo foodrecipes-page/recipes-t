@@ -1,0 +1,97 @@
+{
+  "title": "Croatian Eggs Frittata",
+  "description": "A low-calorie-friendly, delicious Croatian dish perfect for a lazy Sunday morning. This recipe features free-range eggs beaten, sautéed, and roasted in a cast-iron skillet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large Eggs",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Zucchini",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded Red Bell Pepper",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the cast-iron skillet over medium heat.",
+    "Melt 1 tablespoon of olive oil in the skillet.",
+    "Add the shredded carrots, zucchini, and red bell pepper to the skillet. Cook for 5 minutes, stirring occasionally.",
+    "Beat the eggs in a large bowl and season with salt, black pepper, and chopped chives.",
+    "Pour the egg mixture over the vegetables in the skillet. Cook for 2-3 minutes, until the eggs start to set.",
+    "Transfer the skillet to the oven and bake at 375°F for 15-20 minutes, or until the eggs are cooked through and the edges are golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 8
+  },
+  "slug": "tender-low-calorie-friendly-croatian-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-low-calorie-friendly-croatian-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:51:43Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "lazy-sunday",
+    "technique": "saute",
+    "primaryIngredient": "free-range eggs beaten",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "eggs",
+    "descriptor": "Tender low-calorie-friendly",
+    "dishForm": "Frittata"
+  }
+}
