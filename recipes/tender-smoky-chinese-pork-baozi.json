@@ -1,0 +1,104 @@
+{
+  "title": "Tender Smoky Chinese Pork Baozi",
+  "description": "A herbal and pillowy Chinese dish featuring ghee and smoke-hot flavors, perfect for a date night, this low-calorie-friendly baozi is a delicious and savory treat. It combines the tender texture of pork with the comfort of a baozi.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "baozi dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium-high heat and add the pork shoulder, cooking until browned on all sides.",
+    "Add the smoked paprika, Chinese five-spice powder, salt, and black pepper to the pan and stir to combine.",
+    "Add the dates and green onions to the pan and cook for an additional 2 minutes.",
+    "Allow the pork mixture to cool to room temperature.",
+    "Roll out the baozi dough and cut out small circles.",
+    "Place a tablespoon of the pork mixture in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the baozi.",
+    "Brush the tops of the baozi with sesame oil and bake for 15 minutes.",
+    "Serve the baozi hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baozi",
+    "chinese-food",
+    "date-night",
+    "herbal-notes",
+    "low-calorie",
+    "pork-recipes",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "tender-smoky-chinese-pork-baozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-chinese-pork-baozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:38:39Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ghee",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Baozi"
+  }
+}
