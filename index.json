@@ -4182,6 +4182,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-russian-apple-bake",
+    "title": "Tempting Russian Apple Bake",
+    "tags": [
+      "apple-bake",
+      "dessert-recipe",
+      "lazy-sunday",
+      "nutty-topping",
+      "russian-dish",
+      "vanilla-bean"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-silky-uruguayan-yogurt-pudding",
     "title": "Tempting Silky Uruguayan Yogurt Pudding",
     "tags": [

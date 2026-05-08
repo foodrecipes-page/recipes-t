@@ -1,0 +1,94 @@
+{
+  "title": "Tempting Russian Apple Bake",
+  "description": "A nutty and molten Russian dish perfect for a lazy Sunday, featuring vanilla bean paste and a crispy topping. This dessert is sure to become a family favorite.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "6 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "vanilla bean paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the sliced apples, vanilla bean paste, and brown sugar, and toss until the apples are evenly coated.",
+    "In a separate bowl, whisk together the flour, rolled oats, chopped walnuts, cinnamon, and nutmeg.",
+    "Add the melted butter to the dry ingredients and stir until the mixture is crumbly.",
+    "Transfer the apple mixture to a 9x9 inch baking dish and top with the crumbly mixture.",
+    "Bake for 40 minutes, or until the topping is golden brown and the apples are tender.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving.",
+    "Serve warm, topped with vanilla ice cream or whipped cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apple-bake",
+    "dessert-recipe",
+    "lazy-sunday",
+    "nutty-topping",
+    "russian-dish",
+    "vanilla-bean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 44,
+    "fat": 16
+  },
+  "slug": "tempting-russian-apple-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-russian-apple-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:14:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "apples",
+    "descriptor": "Tempting",
+    "dishForm": "Bake"
+  }
+}
