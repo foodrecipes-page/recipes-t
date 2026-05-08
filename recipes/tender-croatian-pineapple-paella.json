@@ -1,0 +1,70 @@
+{
+  "title": "tender croatian pineapple paella",
+  "description": "floral, springy, energizing dish featuring pineapple, featuring the flavors of croatia",
+  "cuisine": "croatian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pineapple rings",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "croatian saffron is ideal for this recipe"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons olive oil in a large paella pan over medium heat.",
+    "soak 1 cup dried prunes in 1 cup water for at least 30 minutes.",
+    "add 1/4 cup chopped fresh dill to the paella pan and cook for 1 minute.",
+    "add 2 cups vegetable broth to the paella pan and bring to a simmer."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "paella",
+    "prune",
+    "spring",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-croatian-pineapple-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-croatian-pineapple-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "fold",
+    "primaryIngredient": "pineapple",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "pineapple",
+    "descriptor": "tender",
+    "dishForm": "paella"
+  }
+}
