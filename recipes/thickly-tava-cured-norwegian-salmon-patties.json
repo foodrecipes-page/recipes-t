@@ -1,0 +1,111 @@
+{
+  "title": "Thickly Tava-Cured Norwegian Salmon Patties",
+  "description": "Savory, crispy, hangover-cure Norwegian dish featuring golden syrup and shio-koji-cure, vegan-friendly and perfect for a late morning meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillet",
+      "amount": "500g",
+      "notes": "Choose a firm, oily fish for a flaky patty"
+    },
+    {
+      "name": "Shio-koji cure",
+      "amount": "2 tbsp",
+      "notes": "A traditional Japanese seasoning made from rice koji, salt, and other ingredients"
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "2 tbsp",
+      "notes": "A thick, amber liquid made from refined sugar cane"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Add a squeeze of fresh lemon for brightness and balance"
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 cup",
+      "notes": "For a gluten-free and crispy coating"
+    },
+    {
+      "name": "Tava oil",
+      "amount": "2 tbsp",
+      "notes": "A neutral-tasting oil for high-heat cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Enhance the natural flavor of the salmon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Add a touch of spice for depth"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "A fresh, herbaceous flavor for garnish"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "2 tbsp",
+      "notes": "A classic Scandinavian herb for added freshness"
+    }
+  ],
+  "instructions": [
+    "Prepare a shio-koji cure by mixing the cure with 2 tbsp of water to create a smooth paste.",
+    "Mix the salmon fillet, cure, golden syrup, lemon juice, salt, and black pepper in a bowl until just combined.",
+    "Cover the mixture with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a tava or griddle over medium-high heat to 400F (200C).",
+    "Divide the mixture into 6 portions and shape each portion into a patty.",
+    "Coat each patty with rice flour and tap off any excess.",
+    "Add the patties to the preheated tava or griddle and cook for 3-4 minutes per side, until golden and crispy.",
+    "Transfer the patties to a plate and garnish with chopped parsley and dill.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "european",
+    "gluten-free",
+    "pan-seared",
+    "scandinavian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "thickly-tava-cured-norwegian-salmon-patties",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/thickly-tava-cured-norwegian-salmon-patties",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:02:41Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "golden syrup",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Thickly Tava-Cured",
+    "dishForm": "Patties"
+  }
+}
