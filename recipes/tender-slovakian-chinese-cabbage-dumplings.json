@@ -1,0 +1,95 @@
+{
+  "title": "Slovakian Chinese Cabbage Dumplings",
+  "description": "A traditional Slovakian dish featuring Chinese cabbage, these dumplings are resinous and crumbly, perfect for a midnight craving. They are also suitable for a Buddhist temple meal as they are vegetarian and simple.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "1 head",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chopped Chinese cabbage, flour, salt, and black pepper.",
+    "Gradually add the warm water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and place a tablespoon of chopped onion and garlic in the center of each disk.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the dumpling.",
+    "Heat the vegetable oil in a large pan over medium heat and cook the dumplings for 5 minutes on each side.",
+    "Serve the dumplings hot with your favorite dipping sauce.",
+    "To freeze the dumplings, place them on a baking sheet lined with parchment paper and freeze until solid, then transfer to a freezer safe bag or container.",
+    "To cook frozen dumplings, simply thaw and cook as directed above."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cabbage",
+    "dumplings",
+    "homemade",
+    "slovakian",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-slovakian-chinese-cabbage-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-slovakian-chinese-cabbage-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:47:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Tender",
+    "dishForm": "Dumplings"
+  }
+}
