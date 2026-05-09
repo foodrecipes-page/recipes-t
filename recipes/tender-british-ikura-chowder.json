@@ -1,0 +1,96 @@
+{
+  "title": "Tender British Ikura Chowder",
+  "description": "A savory and silky one-pot dish featuring ikura, this Cornish-inspired chowder is a delight to the taste buds, and is satvik-friendly. It emulsifies the flavors of the sea with the richness of cream.",
+  "cuisine": "British",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ikura",
+      "amount": "1 cup",
+      "notes": "salmon roe"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk",
+      "notes": "diced"
+    },
+    {
+      "name": "cornish cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a large pot over medium heat.",
+    "Add the diced onion, potato, carrot, and celery and cook until the vegetables are tender.",
+    "Add the fish stock and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the cornish cream and cook until the mixture is heated through.",
+    "Add the ikura and cook for an additional 2 minutes.",
+    "Season the chowder with salt and pepper to taste.",
+    "Serve the chowder hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cornish",
+    "cream-based",
+    "one-pot",
+    "pescatarian",
+    "satvik",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "tender-british-ikura-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-ikura-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:21:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "emulsify",
+    "primaryIngredient": "ikura",
+    "diet": "satvik",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "ikura",
+    "descriptor": "tender silky",
+    "dishForm": "Chowder"
+  }
+}

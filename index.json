@@ -5422,6 +5422,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-british-ikura-chowder",
+    "title": "Tender British Ikura Chowder",
+    "tags": [
+      "cornish",
+      "cream-based",
+      "one-pot",
+      "pescatarian",
+      "satvik",
+      "seafood"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tender-british-lamb-roast",
     "title": "Tender British Lamb Roast",
     "tags": [
