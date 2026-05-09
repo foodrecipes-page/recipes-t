@@ -4602,6 +4602,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-tender-middle-eastern-beef-mansaf",
+    "title": "Tasty Tender Middle Eastern Beef Mansaf",
+    "tags": [
+      "beef",
+      "kosher",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-tender-venezuelan-corn-pilaf",
     "title": "Tasty Tender Venezuelan Corn Pilaf",
     "tags": [

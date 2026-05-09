@@ -1,0 +1,95 @@
+{
+  "title": "Tasty Tender Middle Eastern Beef Mansaf",
+  "description": "A winey, gooey, weeknight Middle Eastern dish featuring lean minced beef, this kosher-friendly mansaf is perfect for a dinner gathering.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "jameed",
+      "amount": "1 cup",
+      "notes": "dried yogurt sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the lean minced beef and cook until it is browned, breaking it up into small pieces as it cooks.",
+    "Stir in the sumac and salt.",
+    "Arrange the pita bread pieces in the bottom of a 9x13 inch baking dish.",
+    "Spoon the beef mixture over the pita bread.",
+    "Drizzle the jameed over the top of the beef mixture.",
+    "Bake for 25 minutes, or until the pita bread is crispy and the jameed is bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kosher",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tasty-tender-middle-eastern-beef-mansaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-tender-middle-eastern-beef-mansaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:33:09Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "fold",
+    "primaryIngredient": "lean minced beef",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "beef",
+    "descriptor": "Tasty Tender",
+    "dishForm": "Mansaf"
+  }
+}
