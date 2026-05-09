@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Fermented Korean Vegetable Bowl",
+  "description": "A fermented and springy Korean dish featuring wholegrain mustard and served in an earthenware bowl, perfect for the monsoon season. This ayurvedic-sattvic-friendly recipe combines the flavors of Korea with the principles of Indian cuisine.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fermented kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "monsoon greens",
+      "amount": "2 cups",
+      "notes": "such as collard greens or mustard greens"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the double-rise-bread into 1-inch cubes and toast until crispy.",
+    "In a large bowl, whisk together the wholegrain mustard, korean chili flakes, and sesame oil.",
+    "Add the toasted bread cubes to the bowl and toss until the bread is evenly coated with the mustard mixture.",
+    "In a separate bowl, massage the monsoon greens with salt and black pepper until they are tender.",
+    "Add the fermented kimchi to the bowl with the greens and toss until well combined.",
+    "To assemble the dish, place a portion of the bread mixture in the earthenware bowl, followed by a portion of the kimchi and greens mixture.",
+    "Sprinkle toasted sesame seeds on top of the dish and serve immediately.",
+    "Repeat the assembly process for each serving, garnishing with additional sesame seeds and chili flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-diet",
+    "fermented-foods",
+    "korean-cuisine",
+    "monsoon-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tangy-fermented-korean-vegetable-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fermented-korean-vegetable-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:45:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "tangy fermented",
+    "dishForm": "Bowl"
+  }
+}
