@@ -5663,6 +5663,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-australian-pappardelle-pasta",
+    "title": "Tender Australian Pappardelle Pasta",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "pasta-dish",
+      "weeknight-meal"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tender-bitter-greek-lamb-stew",
     "title": "Tender Bitter Greek Lamb Stew",
     "tags": [

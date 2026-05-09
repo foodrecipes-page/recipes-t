@@ -1,0 +1,95 @@
+{
+  "title": "Tender Australian Pappardelle Pasta",
+  "description": "A comforting Australian dish featuring pappardelle pasta, this recipe is peppery and springy, wrapped in a ti-leaf vessel. It is a nut-free-friendly option for a delicious meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the pepper and salt to the skillet and stir to combine.",
+    "Wrap each portion of cooked pasta in a ti leaf, making sure to seal the edges.",
+    "Place the wrapped pasta in a baking dish and pour the chicken broth over the top.",
+    "Cover the dish with aluminum foil and bake in a preheated oven at 375 degrees for 20 minutes.",
+    "Remove the foil and top the pasta with shaved grana padano cheese.",
+    "Return the dish to the oven and bake for an additional 5 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "pasta-dish",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-australian-pappardelle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-australian-pappardelle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:02:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "brine-wet",
+    "primaryIngredient": "pappardelle pasta",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pappardelle pasta",
+    "descriptor": "tender peppery",
+    "dishForm": "Pasta"
+  }
+}
