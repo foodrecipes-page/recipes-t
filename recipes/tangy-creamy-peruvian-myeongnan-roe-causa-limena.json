@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Creamy Peruvian Myeongnan Roe Causa Limena",
+  "description": "A fermented and creamy Peruvian dish featuring myeongnan-roe, perfect for a brunch mood, this vegetarian-friendly causa limena is pressure-cooked to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "myeongnan-roe",
+      "amount": "1 cup",
+      "notes": "fermented pollock roe"
+    },
+    {
+      "name": "yellow potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "vegan mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the myeongnan-roe and soak it in water for 30 minutes.",
+    "Drain and rinse the myeongnan-roe, then chop it into small pieces.",
+    "Pressure-cook the diced potatoes for 10 minutes, or until they are tender.",
+    "In a blender or food processor, combine the cooked potatoes, onion, garlic, and aji amarillo peppers, and blend until smooth.",
+    "In a bowl, mix together the blended potato mixture, chopped myeongnan-roe, vegan mayonnaise, lime juice, and salt.",
+    "Taste and adjust the seasoning as needed.",
+    "Spoon the mixture into individual serving cups or a large serving dish.",
+    "Chill the causa limena in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "fermented-foods",
+    "peruvian-cuisine",
+    "pressure-cooker-recipes",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tangy-creamy-peruvian-myeongnan-roe-causa-limena",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-peruvian-myeongnan-roe-causa-limena",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:55:32Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "myeongnan roe",
+    "descriptor": "Tangy Creamy",
+    "dishForm": "Causa Limena"
+  }
+}

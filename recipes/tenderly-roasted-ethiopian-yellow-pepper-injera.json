@@ -1,0 +1,94 @@
+{
+  "title": "Tenderly Roasted Ethiopian Yellow Pepper Injera",
+  "description": "A traditional Ethiopian dish featuring roasted yellow peppers and injera, cooked to perfection on a robata grill using binchotan charcoal for a smoky flavor, and made with macrobiotic friendly ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "4 large",
+      "notes": "any variety"
+    },
+    {
+      "name": "injera bread",
+      "amount": "6 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit using binchotan charcoal for a smoky flavor.",
+    "Cut the yellow peppers into large pieces and brush with olive oil.",
+    "Season the peppers with salt, black pepper, and berbere spice.",
+    "Place the peppers on the robata grill and roast for 30 minutes, turning occasionally.",
+    "While the peppers are roasting, heat a few pieces of injera bread on the grill for a few minutes on each side.",
+    "Once the peppers are tender, remove them from the grill and let them cool.",
+    "Chop the cooled peppers into smaller pieces and mix with minced garlic and chopped onion.",
+    "Serve the pepper mixture on top of the grilled injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "binchotan-charcoal",
+    "ethiopian-cuisine",
+    "macrobiotic-friendly",
+    "roasted-vegetables",
+    "robata-grill",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-roasted-ethiopian-yellow-pepper-injera",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:55:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "yellow pepper",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Tenderly Roasted",
+    "dishForm": "Injera"
+  }
+}

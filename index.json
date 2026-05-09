@@ -641,6 +641,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-peruvian-myeongnan-roe-causa-limena",
+    "title": "Tangy Creamy Peruvian Myeongnan Roe Causa Limena",
+    "tags": [
+      "brunch-ideas",
+      "fermented-foods",
+      "peruvian-cuisine",
+      "pressure-cooker-recipes",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-russian-minced-steak-pierogi",
     "title": "Tangy Creamy Russian Minced Steak Pierogi",
     "tags": [
@@ -9725,6 +9739,21 @@
       "post-workout"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera",
+    "title": "Tenderly Roasted Ethiopian Yellow Pepper Injera",
+    "tags": [
+      "binchotan-charcoal",
+      "ethiopian-cuisine",
+      "macrobiotic-friendly",
+      "roasted-vegetables",
+      "robata-grill",
+      "smoky-flavor"
+    ],
+    "cuisine": "Ethiopian",
     "totalTimeMin": 50,
     "shard": "t"
   },
