@@ -1,0 +1,86 @@
+{
+  "title": "Tempting Twice German Chicken Skewers",
+  "description": "A unique German dish featuring marzipan and double-fried chicken, made Whole30-friendly by using compliant ingredients. This adventurous recipe combines the flavors of mustard and aerated textures.",
+  "cuisine": "German",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "mustard",
+      "amount": "1/4 cup",
+      "notes": "spicy brown"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mustard, eggs, and a pinch of salt.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the mustard mixture.",
+    "Thread the coated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Dip each skewer into the crushed marzipan, pressing gently to adhere.",
+    "Dredge the marzipan-coated skewers in the coconut flour, shaking off excess.",
+    "Heat the coconut oil in a large skillet over medium-high heat and fry the skewers until golden brown.",
+    "Transfer the fried skewers to a baking sheet and bake in the preheated oven for 15 minutes.",
+    "Increase the oven temperature to 425 degrees Fahrenheit and bake for an additional 5 minutes.",
+    "Remove the skewers from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "high-protein",
+    "paleo-friendly",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "tempting-twice-german-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-twice-german-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:57:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "marzipan",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Tempting Twice",
+    "dishForm": "Skewers"
+  }
+}

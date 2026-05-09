@@ -1,0 +1,104 @@
+{
+  "title": "Tagliere-Textured Saudi-Arabian Biryani Masala Biryani",
+  "description": "A peppery, crumbly post-workout dish from Saudi Arabia featuring biryani masala and a tagliere vessel. Serve hot and enjoy!",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "grass-fed ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "biriyani masala",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large tagliere over medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "paleo-friendly",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 34
+  },
+  "slug": "tagliere-textured-peppery-saudi-arabian-biryani-masala-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tagliere-textured-peppery-saudi-arabian-biryani-masala-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:57:55Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "saute",
+    "primaryIngredient": "biryani masala",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "biryani masala",
+    "descriptor": "tagliere-textured, peppery",
+    "dishForm": "biryani"
+  }
+}

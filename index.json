@@ -75,6 +75,19 @@
     "shard": "t"
   },
   {
+    "slug": "tagliere-textured-peppery-saudi-arabian-biryani-masala-biryani",
+    "title": "Tagliere-Textured Saudi-Arabian Biryani Masala Biryani",
+    "tags": [
+      "high-protein",
+      "paleo-friendly",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tamarind-comfort-broil",
     "title": "Tamarind Comfort Broil",
     "tags": [
@@ -5611,6 +5624,20 @@
       "vegan-friendly"
     ],
     "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-twice-german-chicken-skewers",
+    "title": "Tempting Twice German Chicken Skewers",
+    "tags": [
+      "german-cuisine",
+      "gluten-free",
+      "high-protein",
+      "paleo-friendly",
+      "whole30"
+    ],
+    "cuisine": "German",
     "totalTimeMin": 45,
     "shard": "t"
   },
