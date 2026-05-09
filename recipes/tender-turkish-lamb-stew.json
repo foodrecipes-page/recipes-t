@@ -1,0 +1,102 @@
+{
+  "title": "Tender Turkish Lamb Stew",
+  "description": "A hearty and flavorful Turkish lamb stew with a jammy and gooey texture, featuring sriracha and tempering chocolate, made in a traditional kazan cauldron.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sriracha",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the kazan cauldron over medium heat and add the lamb cubes, cooking until browned on all sides.",
+    "Add the chopped onion to the cauldron and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the cauldron and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the sriracha, tempering chocolate, tomato paste, beef broth, thyme, salt, and pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Remove the cauldron from the heat and let the stew cool slightly before serving.",
+    "Serve the stew hot, garnished with fresh herbs, if desired.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lamb-recipes",
+    "low-fat-recipes",
+    "one-pot-meals",
+    "stew-recipes",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-turkish-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-turkish-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:13:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "sriracha",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "tender turkish",
+    "dishForm": "Stew"
+  }
+}
