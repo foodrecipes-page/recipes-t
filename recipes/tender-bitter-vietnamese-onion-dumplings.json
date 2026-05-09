@@ -1,0 +1,103 @@
+{
+  "title": "Bitter Vietnamese Onion Dumplings",
+  "description": "Tender and flavorful onion dumplings featuring a bitter taste and a glassy-jelly texture, suitable for a solo dinner. This dish can be enjoyed with a side of steamed vegetables or a simple green salad.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "1/2 cup finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "black cardamom",
+      "amount": "2 pieces",
+      "notes": "crushed"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1 cup",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and salt.",
+    "Gradually add in the chopped onions and mix until well combined.",
+    "Add in the crushed black cardamom and mix until the dough is smooth.",
+    "Knead the dough for 5-7 minutes until it becomes elastic.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Heat a large skillet over medium heat and add in the sesame oil.",
+    "Cook the dumplings for 3-4 minutes on each side until they are golden brown.",
+    "Brush the dumplings with the lacquer glaze and cook for an additional 2 minutes.",
+    "Serve the dumplings hot with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "homemade-glaze",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "tender-bitter-vietnamese-onion-dumplings",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-bitter-vietnamese-onion-dumplings",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:47:50Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "onion",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "onion",
+    "descriptor": "Tender Bitter",
+    "dishForm": "Dumplings"
+  }
+}
