@@ -1,0 +1,101 @@
+{
+  "title": "Tender Roasted Argentinean Scallions Gratin",
+  "description": "A dense and flavorful Argentinean side dish featuring roasted scallions, perfect for shojin diets.",
+  "cuisine": "argentinean",
+  "diet": [
+    "shojin",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "12-16",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded (optional)"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large clay pot or oven-safe skillet, heat the olive oil over medium heat.",
+    "Add the garlic and chili flakes, cooking for 1-2 minutes until fragrant.",
+    "Add the thinly sliced scallions, cooking for 5-7 minutes until they begin to soften.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the clay pot to the preheated oven and roast for 20-25 minutes, or until the scallions are tender and lightly caramelized.",
+    "If using cheese, sprinkle it evenly over the scallions and continue baking for an additional 2-3 minutes, or until melted and golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinean",
+    "easy-to-make",
+    "one-pan",
+    "shojin",
+    "side-dish",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "tender-roasted-argentinean-scallions-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-roasted-argentinean-scallions-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:55:18Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "scallions",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinean",
+    "mainIngredient": "Scallions",
+    "descriptor": "Tender Roasted",
+    "dishForm": "Gratin"
+  }
+}
