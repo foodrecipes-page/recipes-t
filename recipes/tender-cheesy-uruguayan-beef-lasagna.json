@@ -1,0 +1,104 @@
+{
+  "title": "Tender Cheesy Uruguayan Beef Lasagna",
+  "description": "A kid-friendly Uruguayan dish featuring garlicky beef and a cheese-pull effect, made with cocoa powder for added depth of flavor, this low-glycemic-friendly lasagna is a perfect dinner option",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Boil the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the garlic powder, salt, and black pepper to the skillet and stir to combine.",
+    "Stir in the cocoa powder and cook for 1 minute.",
+    "Add the tomato sauce to the skillet and bring to a simmer, reducing the heat to low and letting it cook while you assemble the lasagna.",
+    "In a large bowl, combine the mozzarella and parmesan cheese.",
+    "Spread a layer of the meat sauce in the bottom of a 9x13 inch baking dish, followed by a layer of noodles, then a layer of the cheese mixture, repeating this process until all of the ingredients have been used, ending with a layer of cheese on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "cheesy",
+    "garlicky",
+    "kid-friendly",
+    "low-glycemic",
+    "one-pan",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-cheesy-uruguayan-beef-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-cheesy-uruguayan-beef-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:22:48Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "boil",
+    "primaryIngredient": "cocoa powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "tender cheesy",
+    "dishForm": "Lasagna"
+  }
+}

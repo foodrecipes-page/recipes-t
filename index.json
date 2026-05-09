@@ -5981,6 +5981,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-cheesy-uruguayan-beef-lasagna",
+    "title": "Tender Cheesy Uruguayan Beef Lasagna",
+    "tags": [
+      "beef-recipes",
+      "cheesy",
+      "garlicky",
+      "kid-friendly",
+      "low-glycemic",
+      "one-pan",
+      "uruguayan-cuisine"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-chinese-pork-char-siu-bao",
     "title": "Tender Chinese Pork Char-Siu Bao",
     "tags": [
