@@ -1,0 +1,104 @@
+{
+  "title": "Tender Golden Irish Oysters Tacos",
+  "description": "Floral and light Irish dish featuring hard taco shells and Irish oysters.",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish oysters",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Creme fraiche",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Taco shells",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1/4 cup of olive oil in a large skillet over medium heat.",
+    "Add butter to the skillet and let it melt.",
+    "Add Irish oysters to the skillet and cook for 2 minutes.",
+    "Flake the oysters and add creme fraiche, dill, chives, and lemon juice to the skillet.",
+    "Stir well to combine and season with salt to taste.",
+    "Warm the taco shells according to the package instructions.",
+    "Assemble the tacos with the oyster mixture and serve immediately.",
+    "Serve immediately and enjoy!",
+    "Adjust seasoning to taste before serving.",
+    "Garnish with fresh dill and chives if desired.",
+    "Serve with your favorite toppings, such as sliced radishes or pickled red onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "irish-cuisine",
+    "one-pan",
+    "seafood",
+    "tacos",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tender-golden-irish-oysters-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-golden-irish-oysters-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T22:08:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "render-fat",
+    "primaryIngredient": "hard taco shells",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Oysters",
+    "descriptor": "Tender Golden",
+    "dishForm": "Tacos"
+  }
+}

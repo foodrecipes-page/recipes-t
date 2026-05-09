@@ -6931,6 +6931,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-golden-irish-oysters-tacos",
+    "title": "Tender Golden Irish Oysters Tacos",
+    "tags": [
+      "easy-to-make",
+      "irish-cuisine",
+      "one-pan",
+      "seafood",
+      "tacos",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 23,
+    "shard": "t"
+  },
+  {
     "slug": "tender-gooey-turkish-lamb-tagine",
     "title": "Tender, Gooey Turkish Lamb Tagine",
     "tags": [
