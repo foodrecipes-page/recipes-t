@@ -1,0 +1,98 @@
+{
+  "title": "Tender Smoky Norwegian Steak Skewers",
+  "description": "A cultured Norwegian dish featuring skirty steak, smoke-hot flavors, and ayurvedic-sattvic friendly ingredients, perfect for a monsoon evening",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skirt steak",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together smoked paprika, coconut oil, ginger paste, garlic powder, salt, and black pepper",
+    "Add the skirt steak pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated steak pieces onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8-10 minutes per side, or until the steak reaches an internal temperature of 135 degrees Fahrenheit",
+    "Brush the skewers with lemon juice during the last minute of cooking",
+    "Remove the skewers from the grill and let rest for 5 minutes",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "norwegian",
+    "skewers",
+    "smoky",
+    "steak"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-smoky-norwegian-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-norwegian-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:58:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "smoke-hot",
+    "primaryIngredient": "skirty steak",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "steak",
+    "descriptor": "tender smoky",
+    "dishForm": "Skewers"
+  }
+}
