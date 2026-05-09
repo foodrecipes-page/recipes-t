@@ -5290,6 +5290,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-twice-cooked-french-cheese-tartiflette",
+    "title": "Tempting Twice Cooked French Cheese Tartiflette",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "french-cuisine",
+      "one-pan",
+      "potato-based",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-twice-fried-moroccan-tofu-tagine",
     "title": "Tempting Twice Fried Moroccan Tofu Tagine",
     "tags": [

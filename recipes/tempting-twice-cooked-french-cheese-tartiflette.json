@@ -1,0 +1,103 @@
+{
+  "title": "Tempting Twice Cooked French Cheese Tartiflette",
+  "description": "A sour and indulgent French dish featuring a cheese pull, this tartiflette is a low-calorie-friendly twist on a classic Basque-French recipe, cooked to perfection in a cast-iron skillet with canola oil and double-fry KFC techniques.",
+  "cuisine": "French",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Reblochon cheese",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large cast-iron skillet, heat the canola oil over medium-high heat.",
+    "Add the diced smoked bacon and cook until crispy, then set aside.",
+    "Add the chopped onions to the skillet and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the diced potatoes to the skillet and cook for 5 minutes, stirring occasionally.",
+    "In a separate bowl, whisk together the sliced Reblochon cheese, chopped fresh thyme, salt, and black pepper.",
+    "Add the cooked potatoes, onions, and garlic to the bowl with the cheese mixture and stir until well combined.",
+    "Add the cooked smoked bacon to the bowl and stir until well combined.",
+    "Transfer the mixture to the cast-iron skillet and bake in the preheated oven for 20 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "potato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "tempting-twice-cooked-french-cheese-tartiflette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-twice-cooked-french-cheese-tartiflette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:06:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "canola oil",
+    "diet": "low-calorie",
+    "region": "basque-french",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Tempting Twice Cooked",
+    "dishForm": "Tartiflette"
+  }
+}
