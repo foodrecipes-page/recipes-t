@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Turkish Lamb Iskender",
+  "description": "A sour and springy Turkish dish featuring lamb, served in a hot pot vessel, perfect for midnight cravings. It is made with galangal-kha and long-fermentation-dough, and is nut-free-friendly.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "galangal-kha",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Slice the lamb shoulder into thin strips and season with salt and black pepper.",
+    "Grill the lamb strips in a hot skillet until browned, then set aside.",
+    "Roll out the long-fermentation-dough and cut into thin strips.",
+    "Deep fry the dough strips until crispy and golden brown.",
+    "Mix the tomato paste, galangal-kha, lemon juice, and yogurt in a bowl.",
+    "Add the grilled lamb strips to the bowl and toss to coat with the sauce.",
+    "Serve the lamb and sauce over the fried dough strips in a hot pot vessel.",
+    "Serve with pita bread on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermentation",
+    "galangal-recipes",
+    "hot-pot",
+    "lamb-recipes",
+    "midnight-cravings",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tangy-turkish-lamb-iskender",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-turkish-lamb-iskender",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:34:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "galangal-kha",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Tangy Turkish",
+    "dishForm": "Iskender"
+  }
+}
