@@ -1,0 +1,106 @@
+{
+  "title": "Tenderly Lacquered Portuguese Dasima Kombu Stew",
+  "description": "A hearty, post-workout Portuguese dish featuring dasima-kombu, lacquer-glaze, and low-sodium ingredients, served on a traditional talavera plate.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dasima kombu",
+      "amount": "2 cups",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "portuguese sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced portuguese sausage and cook until browned, about 5 minutes.",
+    "Add the dasima kombu, potatoes, carrots, and chicken broth to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the lacquer glaze and cook for an additional 5 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley, on a traditional talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "low-sodium",
+    "one-pot",
+    "portuguese-cuisine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tenderly-lacquered-portuguese-dasima-kombu-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-lacquered-portuguese-dasima-kombu-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:08:30Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "dasima kombu",
+    "descriptor": "Tenderly lacquered",
+    "dishForm": "Stew"
+  }
+}
