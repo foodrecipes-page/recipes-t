@@ -1,0 +1,101 @@
+{
+  "title": "Tender Uruguayan Sweetcorn Gratin",
+  "description": "A mustardy and tender Uruguayan dish featuring sweetcorn, made diabetic-friendly with careful ingredient selection. This cozy gratin is perfect for a cold evening.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons",
+      "notes": "sugar-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, whole milk, grated cheddar cheese, dijon mustard, salt, and black pepper.",
+    "Add the sweetcorn to the bowl and stir until the corn is well coated with the cheese mixture.",
+    "Transfer the sweetcorn mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove the dish from the oven and sprinkle the chopped parsley on top.",
+    "Let the gratin cool for a few minutes before serving.",
+    "Serve the gratin hot, garnished with additional parsley if desired.",
+    "For a sous-vide option, seal the sweetcorn mixture in a sous-vide bag and cook at 180 degrees Fahrenheit for 1 hour."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-dish",
+    "sous-vide",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tender-uruguayan-sweetcorn-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-uruguayan-sweetcorn-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:42:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "sous-vide",
+    "primaryIngredient": "sweetcorn",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "tender tasty",
+    "dishForm": "Gratin"
+  }
+}
