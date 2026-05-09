@@ -9244,6 +9244,21 @@
     "shard": "t"
   },
   {
+    "slug": "tranquil-toasty-french-morbier-grill",
+    "title": "Tranquil Toasty French Morbier Grill",
+    "tags": [
+      "french-cuisine",
+      "grilled-cheese",
+      "lazy-sunday",
+      "polish-dish",
+      "quince-jelly",
+      "weekend-brunch"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "treacle-delight",
     "title": "Treacle Delight",
     "tags": [

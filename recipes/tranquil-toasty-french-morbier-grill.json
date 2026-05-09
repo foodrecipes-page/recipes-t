@@ -1,0 +1,97 @@
+{
+  "title": "Tranquil Toasty French Morbier Grill",
+  "description": "A lazy Sunday polish dish featuring morbier cheese, grilled to perfection on an iron teppan, with a pungent and glassy jelly texture, dairy-free friendly options available. Perfect for a relaxing weekend brunch.",
+  "cuisine": "French",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Morbier cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "Iron teppan grill",
+      "amount": "1",
+      "notes": "preheated to medium high heat"
+    },
+    {
+      "name": "Quince jelly",
+      "amount": "1/2 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Baguette slices",
+      "amount": "4",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the quince jelly and chopped fresh thyme.",
+    "Brush the preheated teppan grill with olive oil to prevent sticking.",
+    "Place the sliced morbier cheese on the grill and cook for about 2 minutes on each side, until golden brown.",
+    "Spread a layer of the quince jelly mixture on top of the grilled cheese.",
+    "Season with salt and black pepper to taste.",
+    "Serve the grilled morbier cheese on toasted baguette slices.",
+    "Garnish with additional fresh thyme if desired.",
+    "Let it rest for a minute before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french-cuisine",
+    "grilled-cheese",
+    "lazy-sunday",
+    "polish-dish",
+    "quince-jelly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "tranquil-toasty-french-morbier-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tranquil-toasty-french-morbier-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:39:04Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "morbier",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "morbier",
+    "descriptor": "Tranquil Toasty",
+    "dishForm": "Grill"
+  }
+}
