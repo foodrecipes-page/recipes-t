@@ -1,0 +1,104 @@
+{
+  "title": "Tender Tunisian Bread Tagine",
+  "description": "A traditional Tunisian dish featuring dark soft brown sugar and double-rise-bread, this tagine is a bitter, shaggy, and indulgent treat, made satvik-friendly by omitting animal products.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the bread into 1-inch thick slices and place on a baking sheet.",
+    "Drizzle the olive oil over the bread and sprinkle with cumin, coriander, salt, and black pepper.",
+    "Bake the bread in the oven for 10 minutes, or until lightly toasted.",
+    "In a large saucepan, combine the dark soft brown sugar, chopped onion, and minced garlic.",
+    "Cook over medium heat, stirring frequently, until the onion is translucent and the sugar has dissolved.",
+    "Add the toasted bread to the saucepan and stir to combine with the sugar and onion mixture.",
+    "Add the water to the saucepan and bring to a boil, then reduce the heat to low and simmer for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "one-pot",
+    "satvik-friendly",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tender-tunisian-bread-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tunisian-bread-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:51:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "bread",
+    "descriptor": "tender indulgent",
+    "dishForm": "Tagine"
+  }
+}

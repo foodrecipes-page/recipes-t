@@ -8840,6 +8840,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-tunisian-bread-tagine",
+    "title": "Tender Tunisian Bread Tagine",
+    "tags": [
+      "comfort-food",
+      "indulgent",
+      "one-pot",
+      "satvik-friendly",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tender-tunisian-lamb-kebabs",
     "title": "Tender Tunisian Lamb Kebabs",
     "tags": [
