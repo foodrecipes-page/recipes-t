@@ -1,0 +1,99 @@
+{
+  "title": "Tender Canadian Beetroot Roast",
+  "description": "A hearty Canadian dish featuring roasted beetroot, perfect for a family dinner, with anti-inflammatory properties from the beetroot and a crumbly texture from the fatty roast.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beetroot",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "brisket",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Place the cubed beetroot, chopped onion, and minced garlic in a bowl and toss with olive oil, salt, black pepper, and thyme until they are evenly coated.",
+    "Spread the beetroot mixture in a single layer in a large roasting pan.",
+    "Season the brisket with salt and black pepper, then place it on top of the beetroot mixture in the roasting pan.",
+    "Roast the brisket and beetroot mixture in the preheated oven for 3 hours, or until the brisket is tender and the beetroot is caramelized.",
+    "Add the chopped carrots to the roasting pan and continue to roast for an additional 30 minutes, or until the carrots are tender.",
+    "Remove the roasting pan from the oven and let it rest for 15 minutes before slicing the brisket and serving with the roasted beetroot and carrots.",
+    "Slice the brisket against the grain and serve with the roasted beetroot and carrots."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "family-dinner",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "tender-canadian-beetroot-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-canadian-beetroot-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:19:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "beetroot",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beetroot",
+    "descriptor": "tender roast",
+    "dishForm": "Roast"
+  }
+}

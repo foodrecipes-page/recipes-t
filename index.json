@@ -5492,6 +5492,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-canadian-beetroot-roast",
+    "title": "Tender Canadian Beetroot Roast",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "family-dinner",
+      "gluten-free",
+      "kid-friendly",
+      "one-pan"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 240,
+    "shard": "t"
+  },
+  {
     "slug": "tender-canadian-cabbage-pizza",
     "title": "Tender Canadian Cabbage Pizza",
     "tags": [
