@@ -4637,6 +4637,21 @@
     "shard": "t"
   },
   {
+    "slug": "tempting-gooey-indian-vegetable-pakora",
+    "title": "Tempting Gooey Indian Vegetable Pakora",
+    "tags": [
+      "indian-food",
+      "pakora",
+      "shojin-friendly",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tempting-juicy-korean-almond-bao",
     "title": "Tempting Juicy Korean Almond Bao",
     "tags": [

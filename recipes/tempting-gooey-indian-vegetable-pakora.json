@@ -1,0 +1,97 @@
+{
+  "title": "Tempting Gooey Indian Vegetable Pakora",
+  "description": "A fresh and delicious Indian dish from Kerala, perfect for a weeknight meal, featuring a mix of vegetables in a gooey pakora batter, made with cold water and broiled to perfection, shojin-friendly and easy to make",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": "also known as gram flour"
+    },
+    {
+      "name": "cold water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the chickpea flour, salt, and cold water to make a smooth batter",
+    "Cut the cauliflower, carrots, potatoes, and onions into bite-sized pieces",
+    "Add the vegetables and green chilies to the batter and mix well",
+    "Heat the vegetable oil in a deep frying pan over medium heat",
+    "Using a spoon, drop small amounts of the vegetable mixture into the hot oil and fry until golden brown",
+    "Remove the pakora from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil",
+    "Broil the pakora in the oven for 2-3 minutes to make them crispy",
+    "Serve the pakora hot and enjoy",
+    "Garnish with chopped cilantro or scallions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-food",
+    "pakora",
+    "shojin-friendly",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tempting-gooey-indian-vegetable-pakora",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-gooey-indian-vegetable-pakora",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:43:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "broil",
+    "primaryIngredient": "cold water",
+    "diet": "shojin",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Tempting Gooey",
+    "dishForm": "Pakora"
+  }
+}
