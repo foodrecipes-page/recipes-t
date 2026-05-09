@@ -1,0 +1,112 @@
+{
+  "title": "Tender Toasted Russian Kinako Skillet",
+  "description": "A fresh and crunchy solo dinner dish featuring kinako, cooked in a ttukbaegi earthenware skillet with Mediterranean-friendly ingredients. This recipe combines the flavors of Russia and Japan with a hint of Mediterranean spice.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kinako",
+      "amount": "1/2 cup",
+      "notes": "roasted soybean flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Crack the eggs into a bowl and whisk them together with a fork.",
+    "Add the kinako to the eggs and mix until well combined.",
+    "Heat the olive oil in the ttukbaegi earthenware skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook until the edges start to set.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes.",
+    "Remove the skillet from the oven and top with feta cheese, cherry tomatoes, kalamata olives, and artichoke hearts.",
+    "Return the skillet to the oven and bake for an additional 5 minutes.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley and a squeeze of lemon juice.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "kinako-recipe",
+    "mediterranean-inspired",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-toasted-russian-kinako-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-russian-kinako-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:36:29Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "kinako",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kinako",
+    "descriptor": "Tender toasted",
+    "dishForm": "Skillet"
+  }
+}
