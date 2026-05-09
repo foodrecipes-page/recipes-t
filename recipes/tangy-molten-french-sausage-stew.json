@@ -1,0 +1,99 @@
+{
+  "title": "Tangy Molten French Sausage Stew",
+  "description": "A tangy and savory stew featuring French sausages and bonito flakes, perfect for a brunch gathering. This dish is inspired by the cuisine of Brittany, France, and is Buddhist-temple-friendly.",
+  "cuisine": "French",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French sausage",
+      "amount": "1 pound",
+      "notes": "preferably from Brittany region"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large kazan cauldron over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the sliced French sausage and cook until it is browned on all sides.",
+    "Add the sliced carrot and potato, and cook for 5 minutes, stirring occasionally.",
+    "Add the white wine, vegetable broth, tomato paste, and bonito flakes, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes, or until the vegetables are tender.",
+    "Season the stew with salt and pepper to taste, then serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "sausage-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tangy-molten-french-sausage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-molten-french-sausage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:04:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sausages",
+    "diet": "buddhist-temple",
+    "region": "brittany",
+    "cuisineAdjective": "french",
+    "mainIngredient": "sausages",
+    "descriptor": "tangy molten",
+    "dishForm": "Stew"
+  }
+}
