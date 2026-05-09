@@ -1,0 +1,92 @@
+{
+  "title": "Tempting Sweet Mexican Portobello Mushrooms Cochinita Pibil",
+  "description": "A vegetarian twist on the traditional Mexican dish cochinita pibil, featuring sweet and tangy portobello mushrooms, this recipe is a crowd-pleaser and perfect for any occasion. It combines the flavors of plum jam and shio-cure for a unique taste experience.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "plum jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together plum jam, shio-cure, orange juice, and lime juice.",
+    "Add the sliced portobello mushrooms to the bowl and toss to coat with the jam mixture.",
+    "Heat the olive oil in a large skillet over medium heat and saute the garlic until fragrant.",
+    "Add the mushroom slices to the skillet and cook for 2 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 15 minutes.",
+    "Remove the skillet from the oven and sprinkle the chopped cilantro over the mushrooms.",
+    "Serve the mushrooms hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cochinita-pibil",
+    "mexican-food",
+    "portobello-mushrooms",
+    "sweet-and-savory",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tempting-sweet-mexican-portobello-mushrooms-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-sweet-mexican-portobello-mushrooms-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:29:26Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "shio-cure",
+    "primaryIngredient": "plum jam",
+    "diet": "vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "Tempting Sweet",
+    "dishForm": "Cochinita Pibil"
+  }
+}
