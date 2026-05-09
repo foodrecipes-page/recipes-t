@@ -1,0 +1,102 @@
+{
+  "title": "Tender Spicy Italian Morning Glory Pasta",
+  "description": "A spicy and creamy Italian dish featuring morning glory pak bung, with a nostalgic twist and ayurvedic sattvic friendly ingredients. This dish is perfect for a comforting lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "morning glory pak bung",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "double fry kfc seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the chopped morning glory pak bung and cook until wilted, about 3-4 minutes.",
+    "Add the double fry kfc seasoning and stir to combine.",
+    "In a large bowl, combine the cooked pasta, morning glory pak bung mixture, and heavy cream.",
+    "Stir in the grated parmesan cheese until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "sattvic-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tender-spicy-italian-morning-glory-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spicy-italian-morning-glory-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:30:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "morning-glory-pak-bung",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "morning glory",
+    "descriptor": "tender spicy",
+    "dishForm": "Pasta"
+  }
+}
