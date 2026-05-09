@@ -2875,6 +2875,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-molten-british-chicken-fried-rice",
+    "title": "Tangy Molten British Chicken Fried Rice",
+    "tags": [
+      "british-cuisine",
+      "chicken-recipes",
+      "fried-rice",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-molten-french-sausage-stew",
     "title": "Tangy Molten French Sausage Stew",
     "tags": [

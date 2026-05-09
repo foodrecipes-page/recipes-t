@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Molten British Chicken Fried Rice",
+  "description": "A quick and tangy British dish featuring chicken and whole milk, with a crispy double-fried coating, perfect for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 cup of vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a bowl, whisk together the flour, salt, and pepper.",
+    "Dip each piece of chicken into the flour mixture, then into the whole milk, and finally into the flour mixture again.",
+    "Double-fry the chicken by frying it for 5 minutes, then letting it rest for 5 minutes, and finally frying it for an additional 5 minutes.",
+    "In a separate pan, scramble the eggs and set them aside.",
+    "Add the cooked rice to the same pan and stir-fry for 2 minutes.",
+    "Add the scrambled eggs, tangy sauce, and cooked chicken to the rice and stir-fry for an additional 2 minutes.",
+    "Serve the Tangy Molten British Chicken Fried Rice hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "chicken-recipes",
+    "fried-rice",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "tangy-molten-british-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-molten-british-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:58:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "whole milk",
+    "diet": "nut-free",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy molten",
+    "dishForm": "Fried-Rice"
+  }
+}
