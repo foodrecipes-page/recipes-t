@@ -1,0 +1,103 @@
+{
+  "title": "Tempting Garlicky Portuguese Lamb Stew",
+  "description": "A hearty and flavorful Portuguese lamb stew featuring coriander leaves and a mirepoix base, perfect for a cold winter's night. This dish is sure to energize and delight with its rich and savory flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic, onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the coriander leaves, tomato paste, red wine, and beef broth, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1.5 hours.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional coriander leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lamb-based",
+    "one-pot",
+    "portuguese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "tempting-garlicky-portuguese-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-garlicky-portuguese-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:11:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "coriander leaves",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "lamb",
+    "descriptor": "Tempting Garlicky",
+    "dishForm": "Stew"
+  }
+}
