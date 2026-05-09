@@ -1,0 +1,100 @@
+{
+  "title": "Tender Smoky American Chicken Skillet",
+  "description": "A weeknight American dish featuring charred, bouncy chicken, glace cherry, and a smoky flavor, all while being diabetic-friendly.",
+  "cuisine": "American",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "glace cherry",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion and bell pepper to the skillet and cook until they start to soften, about 3 minutes.",
+    "Add the smoked paprika, salt, black pepper, and garlic powder to the skillet and stir to combine.",
+    "Add the chopped glace cherry to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the onion and pepper mixture.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "diabetic-friendly",
+    "low-carb",
+    "one-pan",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tender-smoky-american-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-american-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:49:49Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "glace cherry",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender Smoky",
+    "dishForm": "Skillet"
+  }
+}

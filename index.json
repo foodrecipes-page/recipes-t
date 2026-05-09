@@ -7924,6 +7924,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-smoky-american-chicken-skillet",
+    "title": "Tender Smoky American Chicken Skillet",
+    "tags": [
+      "american-cuisine",
+      "diabetic-friendly",
+      "low-carb",
+      "one-pan",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tender-smoky-british-cod-fish-and-chips",
     "title": "Tender Smoky British Cod Fish And Chips",
     "tags": [
