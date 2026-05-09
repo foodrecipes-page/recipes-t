@@ -1,0 +1,101 @@
+{
+  "title": "Tender Thai Tagliatelle Tom Kha",
+  "description": "A floral and tender weeknight Thai dish featuring tagliatelle, Tom Kha style, served in a mason jar, perfect for a quick and delicious meal. This recipe is shojin-friendly and can be prepared in under an hour.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions until al dente.",
+    "In a large pan, heat some oil over medium heat and saute the lemongrass, galangal, and kaffir lime leaves until fragrant.",
+    "Add the mushrooms and tofu to the pan and cook until the mushrooms are tender.",
+    "Pour in the coconut milk and vegetable broth, and stir to combine.",
+    "Add the cooked tagliatelle to the pan and toss to coat with the sauce.",
+    "Season with lime juice and chili flakes to taste.",
+    "Divide the mixture among four mason jars.",
+    "Garnish with additional kaffir lime leaves and lemongrass if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mason-jar",
+    "one-pot",
+    "shojin-friendly",
+    "thai-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-thai-tagliatelle-tom-kha",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-thai-tagliatelle-tom-kha",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:06:21Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "knead",
+    "primaryIngredient": "tagliatelle",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "tender thai",
+    "dishForm": "Tom Kha"
+  }
+}
