@@ -5543,6 +5543,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-algerian-fish-tagine",
+    "title": "Tender Algerian Fish Tagine",
+    "tags": [
+      "comfort-food",
+      "north-african",
+      "one-pot",
+      "pescatarian",
+      "post-workout"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-algerian-lamb-tagine",
     "title": "Tender Algerian Lamb Tagine",
     "tags": [
