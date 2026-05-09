@@ -1,0 +1,105 @@
+{
+  "title": "Tangy Wood Fired Moroccan Chicken Tagine",
+  "description": "A sour and juicy Moroccan dish featuring glace cherry, wood-fired-baked in an agave leaf vessel, with ayurvedic-rajasic-friendly ingredients. This meal prep recipe is perfect for a weeknight dinner.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "glace cherry",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Place the marinated chicken thighs in an agave leaf vessel.",
+    "Add the glace cherry on top of the chicken.",
+    "Bake the chicken in the preheated wood fired oven for 35 minutes.",
+    "Let the chicken rest for 10 minutes before serving.",
+    "Serve the chicken hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "meal-prep",
+    "moroccan",
+    "one-pan",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tangy-wood-fired-moroccan-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-wood-fired-moroccan-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:02:29Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "glace cherry",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Tangy Wood Fired",
+    "dishForm": "Tagine"
+  }
+}
