@@ -4453,6 +4453,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-tender-venezuelan-corn-pilaf",
+    "title": "Tasty Tender Venezuelan Corn Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "latin-american",
+      "one-pot",
+      "vegan",
+      "wine-based"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thai-egg-roll-wrappers-pad-thai",
     "title": "Tasty Thai Egg Roll Wrappers Pad Thai",
     "tags": [
@@ -5766,6 +5781,20 @@
       "weeknight"
     ],
     "cuisine": "Kenyan",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-comforting-venezuelan-muscovado-sugar-casserole",
+    "title": "Tender Comforting Venezuelan Muscovado Sugar Casserole",
+    "tags": [
+      "comfort-food",
+      "dessert",
+      "plant-based",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 55,
     "shard": "t"
   },

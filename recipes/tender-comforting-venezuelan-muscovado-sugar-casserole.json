@@ -1,0 +1,119 @@
+{
+  "title": "Tender Comforting Venezuelan Muscovado Sugar Casserole",
+  "description": "A floral and comforting Venezuelan dish featuring muscovado sugar, suitable for plant-based diets. Inspired by traditional Venezuelan cuisine, this recipe is perfect for a cozy dinner with friends and family.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Muscovado sugar",
+      "amount": "3 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Oat milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Applesauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped pecans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant rose petals",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "In a large bowl, combine the muscovado sugar, coconut oil, oat milk, applesauce, cocoa powder, vanilla extract, salt, and ground nutmeg. ",
+    "In a separate bowl, mix the cornstarch and chopped pecans. Add the rose petals and mix well.",
+    "Add the cornstarch mixture to the muscovado sugar mixture and mix until well combined.",
+    "Pour the mixture into a 9-inch (23cm) slate-tile baking dish and smooth the top.",
+    "Sprinkle additional chopped pecans on top, if desired.",
+    "Bake for 35 minutes, or until the casserole is set and the top is golden brown.",
+    "Let the casserole cool for 10 minutes before serving.",
+    "Serve warm or at room temperature, garnished with additional rose petals if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "plant-based",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tender-comforting-venezuelan-muscovado-sugar-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-comforting-venezuelan-muscovado-sugar-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:19:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "cure",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "muscovado sugar",
+    "descriptor": "tender comforting",
+    "dishForm": "casserole"
+  }
+}
