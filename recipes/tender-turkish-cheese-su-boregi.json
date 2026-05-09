@@ -1,0 +1,96 @@
+{
+  "title": "Tender Turkish Cheese Su Boregi",
+  "description": "A savory and juicy Turkish dish featuring cheese and brandy, grilled to perfection using a yakimono grill, suitable for ovo-vegetarian diets.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium heat.",
+    "In a large bowl, mix together the feta cheese, ricotta cheese, and brandy until well combined.",
+    "In a separate bowl, whisk the eggs and season with salt and black pepper.",
+    "Add the egg mixture to the cheese mixture and stir until smooth.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a quarter of the cheese mixture onto the center of each phyllo piece.",
+    "Brush the edges of the phyllo with melted butter.",
+    "Fold the phyllo into triangles and press the edges to seal.",
+    "Grill the su boregi for 2-3 minutes on each side, until golden brown.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "cheese-lover",
+    "grilled",
+    "ovo-vegetarian",
+    "phyllo-dough",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "tender-turkish-cheese-su-boregi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-turkish-cheese-su-boregi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:37:33Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "brandy",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cheese",
+    "descriptor": "tender juicy",
+    "dishForm": "Su Boregi"
+  }
+}
