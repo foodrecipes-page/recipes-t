@@ -1,0 +1,103 @@
+{
+  "title": "Tenderly Braised Irish Fish Fillet Stew",
+  "description": "A hearty and flavorful Irish stew featuring tender fish fillet, crumbly texture, and a hint of peppery taste, all plant-based-friendly and served on a talavera plate. This dish is perfect for a cold monsoon day.",
+  "cuisine": "Irish",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillet",
+      "amount": "4 fillets",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "whole wheat crackers",
+      "amount": "1 cup",
+      "notes": "crushed for crumbly texture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat the vegetable broth in a large pot over medium heat until simmering.",
+    "Add the chopped onion, carrot, and potato to the pot and cook until the vegetables are tender.",
+    "Add the fish fillet to the pot and cook for 5 minutes.",
+    "Stir in the tomato paste, dried thyme, and black pepper.",
+    "Transfer the pot to the preheated oven and braise for 20 minutes.",
+    "Remove the pot from the oven and stir in the oat milk.",
+    "Serve the stew hot, topped with crushed whole wheat crackers for a crumbly texture, on a talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "fish-stew",
+    "irish-cuisine",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tenderly-braised-irish-fish-fillet-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-braised-irish-fish-fillet-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:33:04Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "fish fillet",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "fish fillet",
+    "descriptor": "tenderly braised",
+    "dishForm": "Stew"
+  }
+}
