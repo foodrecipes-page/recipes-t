@@ -1,0 +1,90 @@
+{
+  "title": "Tender Peppery Ukrainian Suet Dumplings",
+  "description": "A festive Ukrainian dish featuring suet, these tender peppery dumplings are perfect for special occasions, and are ovo-vegetarian-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "suet",
+      "amount": "1 cup",
+      "notes": "beef or vegetable suet"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, suet, black pepper, and salt, and mix until the suet is evenly distributed.",
+    "In a separate bowl, whisk the eggs and water together, then add to the dry ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes, until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces, and roll each into a ball.",
+    "Bring a large pot of salted water to a boil, then reduce the heat to a simmer.",
+    "Carefully add the dumplings to the pot, and cook for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the pot with a slotted spoon, and immediately plunge them into an ice bath to stop the cooking process.",
+    "Once the dumplings have cooled, remove them from the ice bath, and serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "ovo-vegetarian",
+    "peppery",
+    "special-occasion",
+    "tender",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "tender-peppery-ukrainian-suet-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-peppery-ukrainian-suet-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:56:58Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "festive",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "suet",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "suet",
+    "descriptor": "Tender Peppery",
+    "dishForm": "Dumplings"
+  }
+}
