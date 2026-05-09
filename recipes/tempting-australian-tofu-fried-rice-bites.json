@@ -1,0 +1,97 @@
+{
+  "title": "Tempting Australian Tofu Fried Rice Bites",
+  "description": "A briny, crumbly, indulgent Australian dish featuring canola oil and lardons-render, made vegan-friendly with tofu, perfect for a satisfying snack. This dish combines the flavors of Australia with the convenience of a bite-sized snack.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup",
+      "notes": "vegan-friendly alternative to traditional lardons"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large skillet over medium-high heat.",
+    "Add the lardons-render and cook until crispy, about 5 minutes.",
+    "Add the crumbled tofu and cook until golden brown, about 5 minutes.",
+    "Add the cooked rice, soy sauce, sesame oil, scallions, salt, and pepper, and stir-fry until combined.",
+    "Using your hands, shape the rice mixture into small bite-sized balls.",
+    "Place the bites on a baking sheet lined with parchment paper.",
+    "Refrigerate the bites for at least 30 minutes to set.",
+    "Serve the Tempting Australian Tofu Fried Rice Bites chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "rice-bites",
+    "snack-ideas",
+    "tofu-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tempting-australian-tofu-fried-rice-bites",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-australian-tofu-fried-rice-bites",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:09:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "lardons-render",
+    "primaryIngredient": "canola oil",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Crunchy",
+    "dishForm": "Bite sized Fried-Rice"
+  }
+}
