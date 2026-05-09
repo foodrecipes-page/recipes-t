@@ -1,0 +1,94 @@
+{
+  "title": "Ukrainian Almond Pudding",
+  "description": "A traditional Ukrainian dessert featuring almond paste and a unique blend of flavors, served in a scallop shell. This dish is kosher-friendly and perfect for a cozy evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nuka-pickle brine",
+      "amount": "1/4 cup",
+      "notes": "for a unique flavor"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a blender or food processor, combine almond paste, milk, sugar, nuka-pickle brine, eggs, vanilla extract, and salt, and blend until smooth.",
+    "Strain the mixture into a bowl to remove any air bubbles.",
+    "Whisk in the melted butter until fully incorporated.",
+    "Pour the mixture into scallop shells or small ramekins.",
+    "Place the shells on a baking sheet lined with parchment paper.",
+    "Bake for 25 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-paste",
+    "cozy-desserts",
+    "kosher-friendly",
+    "nuka-pickle",
+    "scallop-shell",
+    "ukrainian-desserts"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "tender-fluffy-ukrainian-almond-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-fluffy-ukrainian-almond-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:52:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "almond paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "almonds",
+    "descriptor": "tender fluffy",
+    "dishForm": "Pudding"
+  }
+}
