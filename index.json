@@ -6291,6 +6291,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-chinese-lentil-bao",
+    "title": "Tender Chinese Lentil Bao",
+    "tags": [
+      "chinese-food",
+      "flexitarian",
+      "lentil-recipes",
+      "meal-prep",
+      "steamed-bao",
+      "vegetarian-options"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tender-chinese-pork-char-siu-bao",
     "title": "Tender Chinese Pork Char-Siu Bao",
     "tags": [

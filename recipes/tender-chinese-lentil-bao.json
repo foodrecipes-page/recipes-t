@@ -1,0 +1,104 @@
+{
+  "title": "Tender Chinese Lentil Bao",
+  "description": "A flexitarian-friendly Chinese dish featuring French lentils and pickle, perfect for meal prep. This recipe yields a fatty and chewy texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, yeast, salt, sugar, and mix well.",
+    "Gradually add in the vegetable oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "In a separate pan, heat the sesame oil and cook the chopped scallions until fragrant.",
+    "Add the cooked lentils, pickle, and soy sauce to the pan and stir-fry for 2 minutes.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of the lentil mixture in the center of each disk and fold the dough over to form a bao.",
+    "Steam the bao for 15 minutes until they are cooked through and fluffy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "flexitarian",
+    "lentil-recipes",
+    "meal-prep",
+    "steamed-bao",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tender-chinese-lentil-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-chinese-lentil-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:55:13Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "french lentils",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "lentils",
+    "descriptor": "tender chewy",
+    "dishForm": "Bao"
+  }
+}
