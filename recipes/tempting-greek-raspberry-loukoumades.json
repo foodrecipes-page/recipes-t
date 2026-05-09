@@ -1,0 +1,90 @@
+{
+  "title": "Tempting Greek Raspberry Loukoumades",
+  "description": "Indulge in these earthy, aerated Greek loukoumades featuring raspberries, made in a traditional kazan cauldron over a tandoor, and friendly to gluten-free diets. This dessert is a unique blend of flavors and textures.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all purpose gluten free flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the gluten-free flour, sugar, yeast, and salt.",
+    "Gradually add the warm water to the dry ingredients and mix until a smooth batter forms.",
+    "Fold in the raspberries and let the mixture rest for 30 minutes.",
+    "Heat the vegetable oil in a kazan cauldron over medium heat on the tandoor.",
+    "Using a spoon, drop the batter into the hot oil, making sure not to overcrowd the cauldron.",
+    "Fry the loukoumades until they are golden brown and puffed up.",
+    "Remove the loukoumades from the oil with a slotted spoon and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the honey over the warm loukoumades and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "greek-desserts",
+    "loukoumades",
+    "raspberry-recipes",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tempting-greek-raspberry-loukoumades",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-greek-raspberry-loukoumades",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:21:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "tandoor",
+    "primaryIngredient": "raspberries",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "raspberries",
+    "descriptor": "Tempting Tandoor",
+    "dishForm": "Loukoumades"
+  }
+}
