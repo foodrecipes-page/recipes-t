@@ -1,0 +1,108 @@
+{
+  "title": "Tasty Thick Russian Chicken Pilaf",
+  "description": "A funky and dense Russian dish featuring chicken breasts in a miso marinate, perfect for kids and flexitarian friendly diets. It is a hearty and flavorful meal that combines the richness of chicken and miso with the comfort of pilaf.",
+  "cuisine": "Russian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked white rice"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, vegetable oil, salt, and black pepper to make the marinate.",
+    "Add the chicken breasts to the marinate and mix well to coat.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Heat a large skillet over medium-high heat and cook the chicken until browned on both sides.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the grated carrots to the skillet and cook for 2 minutes.",
+    "Add the uncooked rice to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth to the skillet and bring to a boil.",
+    "Cover the skillet with a lid and transfer to the preheated oven.",
+    "Bake for 25-30 minutes or until the liquid is absorbed and the rice is tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "flexitarian",
+    "kid-friendly",
+    "one-pan",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tasty-thick-russian-chicken-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thick-russian-chicken-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:47:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chicken breasts",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "Tasty Thick",
+    "dishForm": "Pilaf"
+  }
+}

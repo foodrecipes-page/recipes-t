@@ -4601,6 +4601,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-thick-russian-chicken-pilaf",
+    "title": "Tasty Thick Russian Chicken Pilaf",
+    "tags": [
+      "chicken-recipes",
+      "flexitarian",
+      "kid-friendly",
+      "one-pan",
+      "russian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-canadian-shrimp-skewers",
     "title": "Tasty Toasted Canadian Shrimp Skewers",
     "tags": [
