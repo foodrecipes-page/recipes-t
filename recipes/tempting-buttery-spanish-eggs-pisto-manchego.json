@@ -1,0 +1,111 @@
+{
+  "title": "Tempting Buttery Spanish Eggs Pisto Manchego",
+  "description": "A buttery and creamy Spanish dish featuring eggs and yuzu cure, served on a wooden board in the style of Pisto Manchego, perfect for a brunch mood. This Jain friendly dish is a delicious and unique twist on traditional Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "yuzu cure",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a fork until the whites and yolks are fully incorporated.",
+    "Heat the butter and olive oil in a large skillet over medium heat until the butter has melted and the oil is shimmering.",
+    "Add the minced garlic, chopped onion, bell pepper, and tomato to the skillet and cook until the vegetables are tender and lightly browned.",
+    "Pour the whisked eggs over the vegetables in the skillet and cook until the eggs are almost set.",
+    "Use a spatula to gently lift and fold the edges of the eggs towards the center of the skillet, allowing the uncooked egg to flow to the edges.",
+    "Continue cooking the eggs for another minute, until they are just set and still moist.",
+    "Remove the skillet from the heat and stir in the yuzu cure.",
+    "Season the eggs with salt and black pepper to taste.",
+    "Transfer the eggs to a wooden board and serve immediately.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "jain-friendly",
+    "spanish-cuisine",
+    "vegetarian",
+    "wooden-board",
+    "yuzu-cure"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "tempting-buttery-spanish-eggs-pisto-manchego",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-buttery-spanish-eggs-pisto-manchego",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:11:19Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "eggs",
+    "diet": "jain",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "eggs",
+    "descriptor": "Tempting Buttery",
+    "dishForm": "Pisto Manchego"
+  }
+}
