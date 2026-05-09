@@ -1,0 +1,95 @@
+{
+  "title": "Tempting Tropical Middle Eastern Fruit Bowl",
+  "description": "A refreshing and earthy fruit mix featuring sashimi-cut tropical fruits, perfect for a hangover cure or a Mediterranean-friendly snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Mango",
+      "amount": "1 cup",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Orange blossom water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sashimi-cut pineapple and mango.",
+    "Sprinkle the pomegranate seeds and chopped pistachios over the fruit.",
+    "In a small bowl, mix together the sumac, orange blossom water, and honey.",
+    "Pour the sumac mixture over the fruit and nuts.",
+    "Sprinkle the coconut flakes over the top of the fruit bowl.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy.",
+    "Garnish with additional pomegranate seeds and pistachios if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fruit-bowl",
+    "hangover-cure",
+    "healthy-snack",
+    "mediterranean-friendly",
+    "middle-eastern",
+    "tropical"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tempting-tropical-middle-eastern-fruit-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-tropical-middle-eastern-fruit-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:29:44Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fruit mix",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "fruit",
+    "descriptor": "Tempting Tropical",
+    "dishForm": "Bowl"
+  }
+}
