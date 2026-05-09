@@ -2816,6 +2816,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-malaysian-chicken-curry",
+    "title": "Tangy Malaysian Chicken Curry",
+    "tags": [
+      "chicken-recipe",
+      "gluten-free",
+      "low-fiber",
+      "malaysian-cuisine",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-malaysian-flaxseed-grill",
     "title": "Tangy Malaysian Flaxseed Grill",
     "tags": [
