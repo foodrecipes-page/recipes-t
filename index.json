@@ -231,6 +231,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-argentinian-tripe-stew",
+    "title": "Tangy Argentinian Tripe Stew",
+    "tags": [
+      "argentinian",
+      "high-protein",
+      "one-pot",
+      "tangy",
+      "velvety",
+      "weeknight"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 150,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-australian-christmas-pudding-trifle",
     "title": "Tangy Australian Christmas Pudding Trifle",
     "tags": [
