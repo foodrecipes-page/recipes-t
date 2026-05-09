@@ -5891,6 +5891,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-canadian-natto-bowl",
+    "title": "Tender Canadian Natto Bowl",
+    "tags": [
+      "canadian",
+      "clay-pot",
+      "dolsot-stone-bowl",
+      "herbal",
+      "natto",
+      "ovo-vegetarian",
+      "velvety"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-canadian-roast-roast",
     "title": "Tender Canadian Roast",
     "tags": [
