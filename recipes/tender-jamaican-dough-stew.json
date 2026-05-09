@@ -1,0 +1,104 @@
+{
+  "title": "Tender Jamaican Dough Stew",
+  "description": "A floral and pillowy one-pot Jamaican dish featuring chicken stock and long-fermentation-dough, perfect for a flexitarian-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, sugar, and mix well.",
+    "Gradually add water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it, and let it ferment in a warm place for 2 hours.",
+    "Heat oil in a large pot over medium heat, then add onion and garlic and saute until softened.",
+    "Add thyme, scotch bonnet pepper if using, and chicken stock to the pot, and bring to a boil.",
+    "Reduce heat to low, add the fermented dough to the pot, and simmer for 20 minutes.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 130,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian",
+    "homemade",
+    "jamaican-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tender-jamaican-dough-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-dough-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:41:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "chicken stock",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dough",
+    "descriptor": "tender pillowy",
+    "dishForm": "Stew"
+  }
+}
