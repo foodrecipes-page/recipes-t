@@ -1,0 +1,97 @@
+{
+  "title": "Tenderly Toasted Thai Shrimp Tom Yum",
+  "description": "A garlicky and pillowy southern Thai dish featuring brown sugar, cooked in a tandoor clay pot, perfect for a date night.",
+  "cuisine": "Thai",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the shrimp, brown sugar, fish sauce, lime juice, and garlic.",
+    "Add the lemon grass and tom yum paste to the bowl and stir to combine.",
+    "Pour in the coconut milk and stir until the shrimp are well coated.",
+    "Place the shrimp mixture in the preheated tandoor clay pot and cover with a lid.",
+    "Cook for 10 minutes, then remove the lid and stir in the chopped Thai basil.",
+    "Return the pot to the heat and cook for an additional 2 minutes, or until the shrimp are pink and cooked through.",
+    "Serve the Tenderly Toasted Thai Shrimp Tom Yum hot, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "date-night",
+    "seafood",
+    "southern-thai",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "tenderly-toasted-thai-shrimp-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-toasted-thai-shrimp-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:19:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "brown sugar",
+    "diet": "kosher",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "shrimp",
+    "descriptor": "tenderly toasted",
+    "dishForm": "Tom Yum"
+  }
+}
