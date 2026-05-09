@@ -1,0 +1,127 @@
+{
+  "title": "Tender Sweet Ethiopian Lentils Misir-Wat",
+  "description": "A traditional Ethiopian stew made with red lentils, prunes, and spices, perfect for a comforting meal any time of the day.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute.",
+    "Add the cumin, coriander, turmeric, cayenne pepper, salt, and black pepper and cook for 1 minute.",
+    "Add the rinsed red lentils and cook for 1 minute.",
+    "Add the pitted prunes, chopped onion mixture, water, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 25 minutes, or until the lentils are tender.",
+    "Stir in some water if the stew becomes too thick.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over injera bread or with some rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "ethiopian",
+    "lentils",
+    "one-pot",
+    "prunes",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 8
+  },
+  "slug": "tender-sweet-ethiopian-lentils-misir-wat",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-sweet-ethiopian-lentils-misir-wat",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T11:06:53Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "prunes",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Tender Sweet",
+    "dishForm": "Misir-Wat"
+  }
+}
