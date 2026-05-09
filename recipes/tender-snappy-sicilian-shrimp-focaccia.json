@@ -1,0 +1,102 @@
+{
+  "title": "Tender Snappy Sicilian Shrimp Focaccia",
+  "description": "A salty and snappy Italian dish featuring shrimp, orange juice, and a romantic Sicilian twist, perfect for a special occasion, made without onion or garlic.",
+  "cuisine": "Italian",
+  "diet": [
+    "shellfish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large, peeled and deveined"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "focaccia bread",
+      "amount": "1 loaf",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the shrimp for 2-3 minutes, or until they turn pink.",
+    "Immediately transfer the cooked shrimp to an ice bath to stop the cooking process.",
+    "In a large bowl, whisk together the orange juice, olive oil, salt, and black pepper.",
+    "Add the cooked shrimp to the bowl and toss to coat with the orange juice mixture.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the focaccia bread in half horizontally and place on a baking sheet.",
+    "Spread the shrimp mixture evenly over the bottom half of the focaccia bread.",
+    "Sprinkle the lemon zest, parsley, and mozzarella cheese over the top of the shrimp mixture.",
+    "Place the top half of the focaccia bread on the baking sheet and bake for 10-12 minutes, or until the cheese is melted and the bread is toasted.",
+    "Remove the focaccia from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "focaccia-bread",
+    "italian-food",
+    "romantic-dinner",
+    "seafood",
+    "shrimp-recipes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "tender-snappy-sicilian-shrimp-focaccia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-snappy-sicilian-shrimp-focaccia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:55:19Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "orange juice",
+    "diet": "no-onion-no-garlic",
+    "region": "sicilian",
+    "cuisineAdjective": "Sicilian",
+    "mainIngredient": "shrimp",
+    "descriptor": "tender snappy",
+    "dishForm": "Focaccia"
+  }
+}
