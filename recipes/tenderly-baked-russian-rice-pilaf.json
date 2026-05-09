@@ -1,0 +1,101 @@
+{
+  "title": "Tenderly Baked Russian Rice Pilaf",
+  "description": "A kid-friendly Russian dish featuring rice, syrup, and jocheong, baked to perfection in a wood-fired oven, with a floral and silky texture, and macrobiotic-friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Japanese or Korean rice"
+    },
+    {
+      "name": "jocheong",
+      "amount": "1/2 cup",
+      "notes": "Korean rice syrup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "In a large bowl, rinse the rice and soak it in water for 30 minutes.",
+    "In a large skillet, heat the oil over medium heat and saute the onion, carrot, and mushroom until tender.",
+    "In a large saucepan, combine the rice, jocheong, water, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes.",
+    "Fluff the rice with a fork and stir in the sauteed vegetables.",
+    "Transfer the rice mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove from the oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kid-friendly",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "tenderly-baked-russian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-baked-russian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:10:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "rice",
+    "descriptor": "tenderly baked",
+    "dishForm": "Pilaf"
+  }
+}
