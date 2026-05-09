@@ -1,0 +1,101 @@
+{
+  "title": "Tangy Egyptian Cheese Kebabs",
+  "description": "A fermented and juicy Egyptian dish featuring cheese and ayurvedic-rajasic-friendly ingredients, perfect for adventurous eaters. This recipe combines the flavors of Egypt with a tangy twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "domiati cheese",
+      "amount": "1 cup",
+      "notes": "or other fermented cheese"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Cut the domiati cheese into 1-inch cubes.",
+    "In a large bowl, whisk together the lemon juice, olive oil, garlic, ginger, cumin, coriander, paprika, salt, and black pepper.",
+    "Add the cheese cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated cheese cubes onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "Serve the kebabs hot with additional lemon juice and olive oil if desired.",
+    "Garnish with fresh parsley or cilantro.",
+    "Let the kebabs rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "tangy-egyptian-cheese-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-egyptian-cheese-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:26:20Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "cheese",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Tangy",
+    "dishForm": "Kebabs"
+  }
+}

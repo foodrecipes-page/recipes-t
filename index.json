@@ -1533,6 +1533,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-egyptian-cheese-kebabs",
+    "title": "Tangy Egyptian Cheese Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-egyptian-rhubarb-tagine",
     "title": "Tangy Egyptian Rhubarb Tagine",
     "tags": [
