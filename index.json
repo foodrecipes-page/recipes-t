@@ -6846,6 +6846,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-grilled-brazilian-chicken-skewers",
+    "title": "Tender Grilled Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-cuisine",
+      "grilled-chicken",
+      "healthy-eating",
+      "low-carb",
+      "quick-dinner"
+    ],
+    "cuisine": "brazilian",
+    "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
     "slug": "tender-grilled-turkish-lamb-skewers",
     "title": "Tender Grilled Turkish Lamb Skewers",
     "tags": [

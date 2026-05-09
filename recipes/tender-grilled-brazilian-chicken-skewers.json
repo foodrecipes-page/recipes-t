@@ -1,0 +1,93 @@
+{
+  "title": "Tender Grilled Brazilian Chicken Skewers",
+  "description": "A light and flavorful Brazilian dish featuring chicken, sage, and a hint of spice, perfect for a solo dinner",
+  "cuisine": "brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fresh sage leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a mortar and pestle, pound the chopped sage, garlic, salt, black pepper, cumin, and paprika into a coarse paste",
+    "In a large bowl, whisk together the olive oil and the sage paste",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred",
+    "Let the skewers rest for a few minutes before serving",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-chicken",
+    "healthy-eating",
+    "low-carb",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "tender-grilled-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-grilled-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:56:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "sage",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "tender grilled",
+    "dishForm": "Skewers"
+  }
+}
