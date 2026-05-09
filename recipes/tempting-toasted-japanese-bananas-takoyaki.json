@@ -1,0 +1,94 @@
+{
+  "title": "Tempting Toasted Japanese Bananas Takoyaki",
+  "description": "A funky and fluffy post-workout Japanese dish featuring fried ripe bananas in a takoyaki form, shio-cure, and low-calorie-friendly ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe bananas",
+      "amount": "4",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shio cure",
+      "amount": "1/4 cup",
+      "notes": "or salt cure"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "takoyaki sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and water until smooth.",
+    "Add shio cure and mix well.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a takoyaki pan, pour the batter and top with sliced bananas.",
+    "Cook for 3-4 minutes on each side, until golden brown.",
+    "Remove from heat and brush with takoyaki sauce.",
+    "Sprinkle bonito flakes and chopped green onion on top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "delicious",
+    "easy-to-make",
+    "japanese-street-food",
+    "low-calorie",
+    "post-workout-snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "tempting-toasted-japanese-bananas-takoyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasted-japanese-bananas-takoyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:22:22Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "shio-cure",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "low-calorie",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "bananas",
+    "descriptor": "Tempting Toasted",
+    "dishForm": "Takoyaki"
+  }
+}
