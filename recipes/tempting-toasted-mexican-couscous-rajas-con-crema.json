@@ -1,0 +1,110 @@
+{
+  "title": "Toasted Mexican Couscous Rajas Con Crema",
+  "description": "A kid-friendly Mexican dish featuring toasted couscous, lardons, and a creamy sauce, served in a traditional talavera plate.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-carb",
+    "kid-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2 medium",
+      "notes": "roasted and diced"
+    },
+    {
+      "name": "crema",
+      "amount": "1 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit to roast the poblano peppers.",
+    "Render the lardons in a skillet over medium heat until crispy, then set aside.",
+    "Toast the couscous in a dry skillet over medium heat, stirring frequently, until lightly browned.",
+    "Sauté the diced onion and minced garlic in a skillet over medium heat until the onion is translucent.",
+    "Add the roasted and diced poblano peppers to the skillet and stir to combine.",
+    "In a large bowl, combine the toasted couscous, sautéed onion and pepper mixture, and crispy lardons.",
+    "In a small bowl, whisk together the crema, queso fresco, chopped cilantro, and lime juice.",
+    "Pour the crema mixture over the couscous mixture and stir to combine.",
+    "Season with salt to taste, then serve in a traditional talavera plate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-carb",
+    "lunch-ideas",
+    "mexican-food",
+    "one-pan",
+    "talavera-plate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tempting-toasted-mexican-couscous-rajas-con-crema",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasted-mexican-couscous-rajas-con-crema",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:53:34Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "lardons-render",
+    "primaryIngredient": "couscous",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "couscous",
+    "descriptor": "Tempting Toasted",
+    "dishForm": "Rajas Con Crema"
+  }
+}
