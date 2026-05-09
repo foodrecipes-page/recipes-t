@@ -1,0 +1,97 @@
+{
+  "title": "Tender Portuguese Shrimp Skewers",
+  "description": "A buttery and snappy solo dinner dish featuring cilantro leaves and a Portuguese twist, perfect for a quick and delicious meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12 pieces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together butter, garlic powder, paprika, salt, and black pepper.",
+    "Add the chopped cilantro leaves to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the butter mixture.",
+    "Thread the shrimp onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with olive oil to prevent sticking.",
+    "Grill the shrimp skewers for 2-3 minutes per side, or until pink and cooked through.",
+    "Serve the shrimp skewers hot, with lemon juice squeezed over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "portuguese-cuisine",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "tender-portuguese-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-portuguese-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:46:14Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "solo-dinner",
+    "technique": "temper",
+    "primaryIngredient": "cilantro leaves",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "shrimp",
+    "descriptor": "tender snappy",
+    "dishForm": "Skewers"
+  }
+}
