@@ -1,0 +1,103 @@
+{
+  "title": "Tender Russian Potato Pilaf",
+  "description": "A sour and pillowy Russian dish featuring starch, this potato pilaf is a delicious and light meal option, reduced to perfection without onions or garlic.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, heat the vegetable oil over medium heat.",
+    "Add the sliced mushrooms and cook until they are tender and lightly browned.",
+    "Add the grated carrots and cook for an additional 2 minutes.",
+    "In a large bowl, combine the cooked mushrooms and carrots, diced potatoes, tomato paste, sour cream, dried dill, salt, and black pepper.",
+    "Mix well to combine, then stir in the chicken broth.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "homestyle",
+    "one-pan",
+    "potato-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tender-russian-potato-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-russian-potato-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:55:36Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "starch",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "tender pillowy",
+    "dishForm": "Pilaf"
+  }
+}

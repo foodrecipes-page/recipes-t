@@ -7191,6 +7191,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-russian-potato-pilaf",
+    "title": "Tender Russian Potato Pilaf",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "homestyle",
+      "one-pan",
+      "potato-based",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 70,
+    "shard": "t"
+  },
+  {
     "slug": "tender-russian-rice-pilaf",
     "title": "Tender Russian Rice Pilaf",
     "tags": [
