@@ -1,0 +1,116 @@
+{
+  "title": "Tangy Snappy Australian Mung Bean Sprouts Satay",
+  "description": "A delicious and diabetic-friendly Australian street food featuring mung bean sprouts, char-grilled to perfection. Serve with a lazy Susan spinner for a fun and interactive meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mung bean sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Australian bush tomato chutney",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine mung bean sprouts, Australian bush tomato chutney, coconut oil, ginger, garlic, and lime juice in a large bowl.",
+    "Grill the mixture over medium-high heat for 3-4 minutes per side, or until the sprouts are tender and char-grilled.",
+    "Transfer the cooked mixture to a serving platter and sprinkle with sesame seeds, salt, and black pepper.",
+    "If desired, drizzle with peanut butter for added creaminess.",
+    "Garnish with chopped fresh cilantro and serve immediately with a lazy Susan spinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "easy-snack",
+    "high-protein",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tangy-snappy-australian-mung-bean-sprouts-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-snappy-australian-mung-bean-sprouts-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:54:54Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "mung bean sprouts",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "tangy snappy",
+    "dishForm": "satay"
+  }
+}
