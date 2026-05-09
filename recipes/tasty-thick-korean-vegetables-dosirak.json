@@ -1,0 +1,107 @@
+{
+  "title": "Tasty Thick Korean Vegetables Dosirak",
+  "description": "A briny, dense, festive Korean dish featuring raw vegetables and ferment-kimchi, served in a cataplana vessel.",
+  "cuisine": "Korean",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "fermented Korean cabbage"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the kimchi by slicing it into thin strips and setting it aside.",
+    "In a large bowl, combine the sliced cucumber, grated carrots, and sliced zucchini.",
+    "In a small bowl, whisk together the sesame oil, soy sauce, and minced garlic to make the dressing.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Add the cooked rice to the bowl and stir to combine with the vegetables and dressing.",
+    "Add the kimchi to the bowl and stir gently to combine.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a cataplana vessel and top with chopped green onions and toasted sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cataplana-recipes",
+    "fermented-foods",
+    "flexitarian",
+    "korean-cuisine",
+    "lunch-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "tasty-thick-korean-vegetables-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thick-korean-vegetables-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:43:28Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "raw vegetables",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Tasty Thick",
+    "dishForm": "Dosirak"
+  }
+}

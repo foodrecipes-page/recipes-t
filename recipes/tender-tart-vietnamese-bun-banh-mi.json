@@ -1,0 +1,123 @@
+{
+  "title": "Tender Tart Vietnamese Bun Banh Mi",
+  "description": "A fresh take on the classic Vietnamese banh mi sandwich, featuring a tender tart and crunchy pickled vegetables.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bánh mì bread",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Sous-vide at 160°F (71°C) for 24 hours."
+    },
+    {
+      "name": "Sous vide egg",
+      "amount": "1",
+      "notes": "Sous-vide at 145°F (63°C) for 1 hour."
+    },
+    {
+      "name": "Pickled carrots",
+      "amount": "1 cup",
+      "notes": "See pickling instructions below."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chili sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together lime juice, fish sauce, sugar, salt, and black pepper for the pickling liquid.",
+    "Slice the cucumber into thin rounds.",
+    "In a separate bowl, mix together the mayonnaise, chili sauce, and 1 tablespoon of the pickling liquid.",
+    "Add the sliced cucumber to the bowl with the mayonnaise mixture and toss to coat.",
+    "In another bowl, mix the pickling liquid with the sliced carrots and let sit for at least 30 minutes.",
+    "Once the pork shoulder is cooked, slice it thinly against the grain.",
+    "Assemble the sandwich by spreading the mayonnaise mixture on the bánh mì bread, followed by the sliced pork, sous-vide egg, pickled carrots, and fresh basil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 24,
+  "totalTimeMin": 39,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "lunch",
+    "one-pan",
+    "sandwich",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tender-tart-vietnamese-bun-banh-mi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-tart-vietnamese-bun-banh-mi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:43:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "sous-vide",
+    "primaryIngredient": "fresh basil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bun",
+    "descriptor": "Tender Tart",
+    "dishForm": "Banh Mi"
+  }
+}

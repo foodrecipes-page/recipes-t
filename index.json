@@ -4705,6 +4705,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-thick-korean-vegetables-dosirak",
+    "title": "Tasty Thick Korean Vegetables Dosirak",
+    "tags": [
+      "cataplana-recipes",
+      "fermented-foods",
+      "flexitarian",
+      "korean-cuisine",
+      "lunch-ideas",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-thick-russian-chicken-pilaf",
     "title": "Tasty Thick Russian Chicken Pilaf",
     "tags": [
@@ -9054,6 +9069,22 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 32,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-tart-vietnamese-bun-banh-mi",
+    "title": "Tender Tart Vietnamese Bun Banh Mi",
+    "tags": [
+      "high-protein",
+      "low-fat",
+      "lunch",
+      "one-pan",
+      "sandwich",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 39,
     "shard": "t"
   },
   {
