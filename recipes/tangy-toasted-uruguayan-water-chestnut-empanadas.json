@@ -1,0 +1,92 @@
+{
+  "title": "Tangy Toasted Uruguayan Water Chestnut Empanadas",
+  "description": "Crispy empanadas filled with a tangy water chestnut mixture, perfect for a date night, featuring a mother sauce base and ayurvedic tamasic friendly ingredients, with a bitter taste balanced by the sweetness of the chestnuts.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "1 cup",
+      "notes": "canned and drained"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "empanada wrappers",
+      "amount": "12 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the water chestnuts, mother sauce, olive oil, salt, black pepper, and turmeric.",
+    "Lay an empanada wrapper on a flat surface and place a tablespoon of the water chestnut mixture in the center.",
+    "Fold the empanada wrapper in half and press the edges together to seal the empanada.",
+    "Repeat the process with the remaining empanada wrappers and filling.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little bit of olive oil.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "crispy-snack",
+    "date-night",
+    "gluten-free",
+    "uruguayan-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tangy-toasted-uruguayan-water-chestnut-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-toasted-uruguayan-water-chestnut-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:52:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "date-night",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "water chestnut",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Tangy toasted",
+    "dishForm": "Empanadas"
+  }
+}
