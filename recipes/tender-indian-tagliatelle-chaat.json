@@ -1,0 +1,118 @@
+{
+  "title": "tender indian tagliatelle chaat",
+  "description": "a harmonious blend of tender tagliatelle, crispy chaat elements, and a savory dashi broth, inspired by the flavors of udupi cuisine. this dish is perfect for a quick and nutritious breakfast or lunch.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "udtu masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "ghee or canola oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "green chili",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dash broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "",
+      "lactosefree": true
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crispy papadum",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat ghee or canola oil in a large pan over medium heat.",
+    "add chopped onion and saut\u00130 until translucent.",
+    "add grated ginger and green chili, saut\u00130 for 1 minute.",
+    "add udtu masala, chili powder, and tagliatelle, stir well to coat.",
+    "pound the mixture gently to tenderize the tagliatelle.",
+    "cook for 2-3 minutes or until tagliatelle is slightly tender.",
+    "meanwhile, in a separate pan, heat dash broth over low heat.",
+    "when tagliatelle is cooked, add it to the broth, stir gently to combine.",
+    "stir in yogurt, chopped cilantro, and crumbled papadum.",
+    "season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chaat",
+    "indian",
+    "low-fat",
+    "one-pan",
+    "tagliatelle",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-indian-tagliatelle-chaat",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-indian-tagliatelle-chaat",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T23:00:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "dashi-extract",
+    "primaryIngredient": "tagliatelle",
+    "diet": "low-fat",
+    "region": "udupi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "tender",
+    "dishForm": "Chaat"
+  }
+}
