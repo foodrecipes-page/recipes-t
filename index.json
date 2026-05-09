@@ -4248,6 +4248,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-canadian-ground-beef-hash",
+    "title": "Tasty Canadian Ground Beef Hash",
+    "tags": [
+      "canadian-cuisine",
+      "high-protein",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-canadian-pak-choi-fried-rice",
     "title": "Tasty Canadian Pak Choi Fried Rice",
     "tags": [

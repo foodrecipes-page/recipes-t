@@ -1,0 +1,101 @@
+{
+  "title": "Tasty Canadian Ground Beef Hash",
+  "description": "A citrusy and crumbly Canadian dish featuring ground poppy seeds, perfect for a hangover cure, this keto-friendly recipe is a delicious breakfast option. It combines the flavors of ground beef, poppy seeds, and citrus to create a unique taste experience.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the cooking oil and swirl it around to coat the bottom of the skillet.",
+    "Add the diced onion and cook until it is translucent, about 5 minutes.",
+    "Add the diced bell pepper and cook for an additional 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ground beef and cook, breaking it up with a spoon, until it is no longer pink, about 5-7 minutes.",
+    "Stir in the ground poppy seeds, lemon juice, salt, and black pepper.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "tasty-canadian-ground-beef-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-canadian-ground-beef-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:22:45Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "saute",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "ground beef",
+    "descriptor": "tasty crunchy",
+    "dishForm": "Hash"
+  }
+}
