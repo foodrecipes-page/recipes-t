@@ -4661,6 +4661,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-toasted-mexican-tortilla-churros",
+    "title": "Toasted Mexican Tortilla Churros",
+    "tags": [
+      "jain-friendly",
+      "mexican-food",
+      "snack-ideas",
+      "stone-bowl-recipes",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-moroccan-bread-tagine",
     "title": "Tasty Toasted Moroccan Bread Tagine",
     "tags": [

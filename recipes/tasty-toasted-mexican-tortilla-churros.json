@@ -1,0 +1,94 @@
+{
+  "title": "Toasted Mexican Tortilla Churros",
+  "description": "A crunchy Mexican dish featuring flour tortilla, served in a stone bowl, jain friendly and in the form of churros. It is a cultured meal prep dish from the Yucatecan region.",
+  "cuisine": "Mexican",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "8 pieces",
+      "notes": "preferably day old tortilla"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "chocolate chips",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 375 degrees Fahrenheit.",
+    "Cut the flour tortilla into long strips, about 1 inch wide and 4 inches long.",
+    "In a bowl, mix together the granulated sugar, cinnamon powder, and salt.",
+    "Dip each tortilla strip into the sugar mixture, coating both sides evenly.",
+    "Fry the coated tortilla strips in the hot oil until golden brown and crispy.",
+    "Drain the fried churros on paper towels to remove excess oil.",
+    "Dust the churros with powdered sugar and serve warm.",
+    "If desired, melt the chocolate chips in a microwave safe bowl and dip the churros into the melted chocolate.",
+    "Serve the churros in a stone bowl and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "mexican-food",
+    "snack-ideas",
+    "stone-bowl-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tasty-toasted-mexican-tortilla-churros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-toasted-mexican-tortilla-churros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:17:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "flour tortilla",
+    "diet": "jain",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "tortilla",
+    "descriptor": "Tasty Toasted",
+    "dishForm": "Churros"
+  }
+}
