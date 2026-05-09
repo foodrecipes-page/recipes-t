@@ -4261,6 +4261,22 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-flaky-chinese-tofu-tagine",
+    "title": "Tasty Flaky Chinese Tofu Tagine",
+    "tags": [
+      "brunch",
+      "chinese",
+      "flaky-pastry",
+      "sesame-seeds",
+      "tagine",
+      "thyme",
+      "vegan"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-flaky-uruguayan-red-bean-empanadas",
     "title": "Tasty Flaky Uruguayan Red Bean Empanadas",
     "tags": [
