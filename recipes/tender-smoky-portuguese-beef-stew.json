@@ -1,0 +1,109 @@
+{
+  "title": "Tender Smoky Portuguese Beef Stew",
+  "description": "A cultured and juicy Portuguese dish featuring beef, this lacto-vegetarian-friendly stew is perfect for a sick day, with a smoky flavor that will warm your belly and your soul.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the garlic to the pot and cook for 1 minute.",
+    "Stir in the smoked paprika, thyme, salt, and pepper.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth and browned beef back to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the beef is tender, about 2 1/2 hours.",
+    "Add the potatoes to the pot and continue to simmer, covered, until they are tender, about 30 minutes.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "lacto-vegetarian",
+    "one-pot",
+    "portuguese-cuisine",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 25,
+    "fat": 29
+  },
+  "slug": "tender-smoky-portuguese-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-portuguese-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:25:44Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "smoke-hot",
+    "primaryIngredient": "beef",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beef",
+    "descriptor": "tender smoky",
+    "dishForm": "Stew"
+  }
+}

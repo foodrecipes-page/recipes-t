@@ -1,0 +1,108 @@
+{
+  "title": "Tempting Thick Greek Tofu Avgolemono",
+  "description": "A malty, creamy, and adventurous Greek dish featuring gelatine leafs and bonito-shave, made vegan-friendly in a tagine-pot, avgolemono style.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "Gelatine leafs",
+      "amount": "2 sheets",
+      "notes": "vegan substitute"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Malt syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Bonito-shave",
+      "amount": "1 teaspoon",
+      "notes": "vegan substitute"
+    },
+    {
+      "name": "Orzo",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Combine the orzo and vegetable broth in the tagine-pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the orzo is tender.",
+    "Whisk together the lemon juice, olive oil, malt syrup, and bonito-shave in a small bowl.",
+    "Add the cubed tofu to the tagine-pot and stir to combine with the orzo mixture.",
+    "Pour the lemon juice mixture over the tofu and orzo mixture and stir to combine.",
+    "Add the gelatine leafs to the tagine-pot and stir to dissolve.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the tagine-pot to the preheated oven and bake for 20 minutes or until the mixture is hot and bubbly.",
+    "Remove the tagine-pot from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "avgolemono-styles",
+    "greek-food",
+    "malty-flavors",
+    "one-pot",
+    "tagine-recipes",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tempting-thick-greek-tofu-avgolemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-thick-greek-tofu-avgolemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:26:24Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "bonito-shave",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Thick",
+    "dishForm": "Avgolemono"
+  }
+}
