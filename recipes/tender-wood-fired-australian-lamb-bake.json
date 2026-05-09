@@ -1,0 +1,119 @@
+{
+  "title": "Tender Wood-Fired Australian Lamb Bake",
+  "description": "A delicious and tender lamb bake infused with the flavors of the Australian outback, perfect for a special occasion meal.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mixed Australian Herbs (Rosemary, Thyme, Oregano)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "White Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Wood Chips (e.g. Applewood or Cherrywood)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary Leaves",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your wood-fired oven to 200°C (400°F).",
+    "Season the lamb shoulder with salt, black pepper, and mixed Australian herbs.",
+    "In a large bowl, whisk together white wine vinegar, Greek yogurt, garlic, and lemon juice.",
+    "Place the lamb shoulder in a large baking dish and brush the yogurt mixture evenly over the lamb.",
+    "Drizzle olive oil over the lamb and sprinkle with fresh rosemary leaves.",
+    "Cover the baking dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes, or until the lamb is tender and caramelized.",
+    "Meanwhile, prepare the wood chips by soaking them in water for at least 30 minutes.",
+    "After the lamb has baked for 2 hours, add the wood chips to the oven and continue baking for an additional 30 minutes, or until the lamb is tender and the wood chips are fragrant.",
+    "Remove the lamb from the oven and let it rest for 10 minutes before slicing and serving.",
+    " Slice the lamb against the grain and serve with your choice of sides, such as roasted vegetables or a fresh salad.",
+    "Garnish with additional fresh rosemary leaves and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 330,
+  "totalTimeMin": 360,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "grain-free",
+    "one-pot",
+    "special-occasion",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tender-wood-fired-australian-lamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-wood-fired-australian-lamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:53:19Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "white wine vinegar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "tender wood-fired",
+    "dishForm": "bake"
+  }
+}
