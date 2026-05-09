@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Creamy German Speck Pasta",
+  "description": "A sour and creamy German dish featuring speck and ferment kimchi, perfect for a romantic evening, and friendly to egg-free diets.",
+  "cuisine": "German",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Speck",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ferment kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pappardelle pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to package instructions until al dente.",
+    "In a large skillet, cook the speck over medium heat until crispy, then set aside.",
+    "In the same skillet, add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped ferment kimchi to the skillet and cook for 2 minutes until heated through.",
+    "In a large bowl, combine the cooked pasta, sour cream, and grated grana padano cheese, and toss until the pasta is well coated.",
+    "Add the cooked speck, kimchi mixture, and chopped chives to the bowl, and toss until combined.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta hot, garnished with additional chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "one-pot",
+    "romantic-dinner",
+    "sour-cream-pasta",
+    "speck-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "tangy-creamy-german-speck-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-german-speck-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:06:44Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "speck",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "speck",
+    "descriptor": "tangy creamy",
+    "dishForm": "Pasta"
+  }
+}
