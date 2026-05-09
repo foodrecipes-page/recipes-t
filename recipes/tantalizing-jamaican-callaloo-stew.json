@@ -1,0 +1,108 @@
+{
+  "title": "Tantalizing Jamaican Callaloo Stew",
+  "description": "A floral and silky Jamaican stew featuring callaloo, single cream, and a hint of spice, perfect for a raw-friendly dinner option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "callaloo leaves",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": " Scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeds removed, chopped"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "single cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger; sauté for another minute.",
+    "Add chopped Scotch bonnet peppers, ground allspice, and dried thyme.",
+    "Add the callaloo leaves and stir well to combine.",
+    "Pour in the coconut milk and single cream; bring the mixture to a simmer.",
+    "Reduce heat to low and let the stew cook for 20 minutes, or until the callaloo is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "raw-friendly",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "tantalizing-jamaican-callaloo-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tantalizing-jamaican-callaloo-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:43:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "single cream",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "callaloo",
+    "descriptor": "Tantalizing",
+    "dishForm": "Stew"
+  }
+}
