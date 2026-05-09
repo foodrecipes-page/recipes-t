@@ -1,0 +1,110 @@
+{
+  "title": "Tender Oven Roasted Filipino Gouda Cheese Adobo",
+  "description": "A sweet and savory twist on the classic Filipino adobo, with the addition of tender and floral gouda cheese. Perfect for a crowd-pleasing dinner or special occasion.",
+  "cuisine": "filipino",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda Cheese",
+      "amount": "250g",
+      "notes": "Low-moisture cheese for best results"
+    },
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "Bone-in for more flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves",
+      "notes": "Minced for best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped for soffritto base"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated for added depth"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Substitute with tamari for gluten-free"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "2",
+      "notes": "Fresh for best aroma"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup",
+      "notes": "Low-sodium for best results"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": "Unrefined for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large kazan cauldron, heat the oil over medium heat.",
+    "Add the soffritto base (chopped onion, minced garlic, grated ginger) and cook until softened, about 5 minutes.",
+    "Add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Add the fish sauce, black pepper, and bay leaves, and stir to combine.",
+    "Add the soy sauce and brown sugar, and stir to combine.",
+    "Transfer the mixture to a preheated oven and roast for 30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Remove from the oven and stir in the gouda cheese until melted and tender"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "adobo",
+    "cheese",
+    "crowd-pleaser",
+    "filipino",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "tender-oven-roasted-filipino-gouda-cheese-adobo",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-oven-roasted-filipino-gouda-cheese-adobo",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:48:57Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "soffritto-base",
+    "primaryIngredient": "gouda cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Gouda Cheese",
+    "descriptor": "Tender, Oven-Roasted",
+    "dishForm": "Adobo"
+  }
+}
