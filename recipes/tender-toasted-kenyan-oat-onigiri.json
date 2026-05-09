@@ -1,0 +1,99 @@
+{
+  "title": "Tender Toasted Kenyan Oat Onigiri",
+  "description": "A rich and indulgent Kenyan dish featuring ground oats and shaped like nigiri, this lacto-vegetarian friendly recipe is cooked to perfection in a donabe vessel.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "ground into fine powder"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "green pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe vessel over medium heat.",
+    "In a large bowl, mix together the ground oats, water, and vegetable oil to form a dough.",
+    "Add the chopped onion, grated carrot, and chopped green pepper to the dough and mix well.",
+    "Season the dough with salt and black pepper to taste.",
+    "Divide the dough into 8 equal pieces and shape each piece into a triangle.",
+    "Place the shaped dough into the preheated donabe vessel and cook for 10 minutes on each side.",
+    "Brush the tops of the onigiri with milk and continue cooking for an additional 2 minutes.",
+    "Remove the onigiri from the donabe vessel and let cool for 5 minutes before serving.",
+    "Serve the tender toasted Kenyan oat onigiri warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "donabe-recipes",
+    "indulgent-treats",
+    "kenyan-cuisine",
+    "lacto-vegetarian",
+    "oat-based",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-toasted-kenyan-oat-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-kenyan-oat-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:15:59Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "ground oats",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "oats",
+    "descriptor": "tender toasted",
+    "dishForm": "Onigiri"
+  }
+}
