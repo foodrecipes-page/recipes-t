@@ -1,0 +1,101 @@
+{
+  "title": "Tempting Yeasty French Beef Pot Au Feu",
+  "description": "A hearty and flavorful French stew featuring Thai green curry paste, served with crusty bread for a festive meal. This Mediterranean-friendly dish is perfect for special occasions.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Thai green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef short ribs and cook until browned on all sides, about 5 minutes.",
+    "Add the Thai green curry paste and yeast extract, and cook for 1 minute.",
+    "Add the chopped carrots and potatoes, red wine, and beef broth, and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven, and cook for 2 1/2 hours.",
+    "Remove the pot from the oven and let cool slightly.",
+    "Serve the pot au feu hot, with crusty bread on the side."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-short-ribs",
+    "french-cuisine",
+    "hearty-stew",
+    "mediterranean-friendly",
+    "special-occasion",
+    "yeasty-flavor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tempting-yeasty-french-beef-pot-au-feu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-yeasty-french-beef-pot-au-feu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:50:09Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "thai green curry paste",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Tempting Yeasty",
+    "dishForm": "Pot Au Feu"
+  }
+}
