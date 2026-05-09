@@ -1,0 +1,84 @@
+{
+  "title": "Tempting Thick Filipino Cream Pudding",
+  "description": "A savory and cozy Filipino dessert featuring whipping cream and a soffritto-base, this pudding is FODMAP-friendly and has a glassy-jelly texture.",
+  "cuisine": "Filipino",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whipping cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1/4 cup",
+      "notes": "onion, garlic, and ginger base"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it soften for 5 minutes.",
+    "In a medium saucepan, combine the milk, sugar, and soffritto, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and add the softened gelatin, stirring until it is fully dissolved.",
+    "Let the mixture cool to room temperature.",
+    "In a large bowl, whip the chilled whipping cream until it forms stiff peaks.",
+    "Add the vanilla extract to the whipped cream and whip until combined.",
+    "Fold the cooled milk mixture into the whipped cream until well combined.",
+    "Pour the mixture into individual serving cups and refrigerate until set, at least 4 hours or overnight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cream-pudding",
+    "filipino-dessert",
+    "fodmap-friendly",
+    "gluten-free",
+    "soffritto-based"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 14
+  },
+  "slug": "tempting-thick-filipino-cream-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-thick-filipino-cream-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:21:12Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "soffritto-base",
+    "primaryIngredient": "whipping cream",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cream",
+    "descriptor": "Tempting Thick",
+    "dishForm": "Pudding"
+  }
+}
