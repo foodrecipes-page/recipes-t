@@ -1,0 +1,107 @@
+{
+  "title": "Tender Roasted Middle Eastern Chwinamul Tagine",
+  "description": "A tender and flavorful roasted Middle Eastern dish featuring chwinamul, perfect for a date night, and egg-free friendly. This recipe uses a fondue pot as the cooking vessel.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "Korean curly greens"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "Japanese fermented rice seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the fondue pot to 300 degrees Fahrenheit.",
+    "Mix the shio-koji, olive oil, cumin, paprika, salt, and black pepper in a small bowl.",
+    "Add the chopped onion to the fondue pot and cook until it is translucent.",
+    "Add the minced garlic to the fondue pot and cook for 1 minute.",
+    "Add the chwinamul to the fondue pot and cook until it is wilted.",
+    "Add the dates to the fondue pot and cook for 2 minutes.",
+    "Pour the shio-koji mixture over the chwinamul and dates in the fondue pot.",
+    "Cover the fondue pot and cook for 10 minutes.",
+    "Serve the Tender Roasted Middle Eastern Chwinamul Tagine hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fondue-pot",
+    "gluten-free",
+    "middle-eastern",
+    "shio-koji",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tender-roasted-middle-eastern-chwinamul-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-roasted-middle-eastern-chwinamul-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:17:03Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "chwinamul",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Tender Roasted",
+    "dishForm": "Tagine"
+  }
+}
