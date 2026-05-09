@@ -1,0 +1,108 @@
+{
+  "title": "Tender Silky Filipino Chicken Adobo",
+  "description": "A floral and silky Filipino dish made with caraway seeds, featuring a whole30-friendly and double-rise-bread adaptation. This meal-prep recipe is perfect for a weeknight dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "whole30 friendly"
+    },
+    {
+      "name": "coconut vinegar",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a small dry pan, toast 1 teaspoon of caraway seeds over medium heat until fragrant.",
+    "In a large Dutch oven, heat 2 tablespoons of coconut oil over medium-high heat.",
+    "Add 2 pounds of chicken thighs to the pot and cook until browned on both sides, about 5 minutes.",
+    "Add 4 cloves of minced garlic and 2 inches of grated ginger to the pot and cook for 1 minute.",
+    "Add 2 tablespoons of fish sauce, 4 tablespoons of coconut vinegar, and 1 teaspoon of black pepper to the pot and stir to combine.",
+    "Add 2 fresh bay leaves and 1 teaspoon of toasted caraway seeds to the pot and stir to combine.",
+    "Transfer the pot to the oven and braise the chicken for 25 minutes.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the chicken over 4 slices of double-rise-bread and garnish with fresh bay leaves.",
+    "Refrigerate or freeze the remaining chicken and sauce for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "tender-silky-filipino-chicken-adobo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-silky-filipino-chicken-adobo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:52:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "caraway seed",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender Silky",
+    "dishForm": "Adobo"
+  }
+}
