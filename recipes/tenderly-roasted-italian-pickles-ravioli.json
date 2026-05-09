@@ -1,0 +1,97 @@
+{
+  "title": "Tenderly Roasted Italian Pickles Ravioli",
+  "description": "A hearty Sicilian dish featuring roasted pickles and chewy ravioli, perfect for a post-workout meal. This shojin-friendly recipe is a unique twist on traditional Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced into thin rounds"
+    },
+    {
+      "name": "ravioli dough",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vegan mozzarella",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toss the sliced pickles with olive oil, garlic, italian seasoning, salt, and black pepper in a bowl.",
+    "Spread the pickles on a baking sheet and roast for 20 minutes.",
+    "While the pickles are roasting, cook the ravioli dough according to the package instructions.",
+    "Shock the cooked ravioli in an ice bath to stop the cooking process.",
+    "Combine the roasted pickles and ravioli in a bowl.",
+    "Top the ravioli with shredded vegan mozzarella.",
+    "Serve the dish hot and enjoy.",
+    "Garnish with fresh basil leaves if desired.",
+    "Store any leftovers in an airtight container in the refrigerator."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-pasta",
+    "italian-cuisine",
+    "post-workout",
+    "roasted-vegetables",
+    "shojin-friendly",
+    "vegetarian-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tenderly-roasted-italian-pickles-ravioli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-roasted-italian-pickles-ravioli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:06:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "pickles",
+    "diet": "shojin",
+    "region": "sicilian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pickles",
+    "descriptor": "Tenderly Roasted",
+    "dishForm": "Ravioli"
+  }
+}
