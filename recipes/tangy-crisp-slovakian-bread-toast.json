@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Crisp Slovakian Bread Toast",
+  "description": "A tasty and satisfying Slovakian dish perfect for post-workout and low-carb-friendly diets. Made with crispy white bread, tangy feta cheese, and fresh dill.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread",
+      "amount": "2 slices",
+      "notes": "day-old bread works best"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon chopped",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Toast white bread slices until crispy.",
+    "In a small bowl, mix crumbled feta cheese with chopped fresh dill, garlic powder, salt, and pepper.",
+    "Brush toasted bread slices with olive oil.",
+    "Drizzle lemon juice over the bread slices.",
+    "Top toasted bread slices with the feta cheese mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "easy",
+    "low-carb",
+    "post-workout",
+    "quick",
+    "slovakian",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "tangy-crisp-slovakian-bread-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crisp-slovakian-bread-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:58:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "white bread",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "tangy crisp",
+    "dishForm": "Toast"
+  }
+}
