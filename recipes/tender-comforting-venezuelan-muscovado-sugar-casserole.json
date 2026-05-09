@@ -3,8 +3,7 @@
   "description": "A floral and comforting Venezuelan dish featuring muscovado sugar, suitable for plant-based diets. Inspired by traditional Venezuelan cuisine, this recipe is perfect for a cozy dinner with friends and family.",
   "cuisine": "Venezuelan",
   "diet": [
-    "plant-based",
-    "vegan"
+    "plant-based"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -89,7 +88,6 @@
     "comfort-food",
     "dessert",
     "plant-based",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {

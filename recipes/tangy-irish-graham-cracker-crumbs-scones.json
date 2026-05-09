@@ -2,10 +2,7 @@
   "title": "Tangy Irish Graham Cracker Crumbs Scones",
   "description": "Moist and tangy Irish scones featuring graham cracker crumbs, perfect for a sick-day treat",
   "cuisine": "Irish",
-  "diet": [
-    "gluten-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -55,10 +52,8 @@
   "tags": [
     "breakfast",
     "brunch",
-    "gluten-free",
     "irish",
-    "sick-day",
-    "vegan"
+    "sick-day"
   ],
   "nutrition": {
     "calories": 150,

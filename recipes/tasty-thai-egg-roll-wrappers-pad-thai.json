@@ -3,8 +3,7 @@
   "description": "A quick-fix Thai dish featuring egg roll wrappers and a low-glycemic friendly form of pad thai, served in a lazy susan spinner vessel.",
   "cuisine": "Thai",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -75,7 +74,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "low-glycemic",
     "one-pan",
     "quick-fix",

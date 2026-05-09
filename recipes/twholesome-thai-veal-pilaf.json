@@ -76,7 +76,7 @@
     "mood": "meal-prep",
     "technique": "emulsify",
     "primaryIngredient": "veal",
-    "diet": "dairy-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Thai",
     "mainIngredient": "veal",

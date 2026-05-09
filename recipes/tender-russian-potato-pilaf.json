@@ -3,7 +3,6 @@
   "description": "A sour and pillowy Russian dish featuring starch, this potato pilaf is a delicious and light meal option, reduced to perfection without onions or garlic.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -61,7 +60,8 @@
     "Mix well to combine, then stir in the chicken broth.",
     "Transfer the mixture to a 9x13 inch baking dish.",
     "Cover the dish with aluminum foil and bake for 30 minutes.",
-    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and the top is lightly browned."
+    "Remove the foil and continue baking for an additional 20 minutes, or until the potatoes are tender and the top is lightly browned.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,

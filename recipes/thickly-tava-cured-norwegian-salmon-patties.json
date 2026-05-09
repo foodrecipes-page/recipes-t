@@ -2,10 +2,7 @@
   "title": "Thickly Tava-Cured Norwegian Salmon Patties",
   "description": "Savory, crispy, hangover-cure Norwegian dish featuring golden syrup and shio-koji-cure, vegan-friendly and perfect for a late morning meal.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -79,7 +76,6 @@
     "breakfast",
     "brunch",
     "european",
-    "gluten-free",
     "pan-seared",
     "scandinavian",
     "seafood"

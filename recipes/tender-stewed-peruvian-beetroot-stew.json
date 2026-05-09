@@ -4,8 +4,7 @@
   "cuisine": "Peruvian",
   "diet": [
     "paleo",
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -66,7 +65,8 @@
     "Add the chicken bouillon, water, lime juice, cumin, coriander, salt, and black pepper. Stir to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
     "Stir in the fresh cilantro and cook for an additional 2 minutes.",
-    "Serve hot, garnished with additional cilantro if desired."
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 32,
@@ -79,7 +79,6 @@
     "one-pan",
     "paleo",
     "peruvian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

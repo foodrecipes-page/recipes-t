@@ -96,7 +96,7 @@
     "mood": "one-pot",
     "technique": "knead",
     "primaryIngredient": "seasoning",
-    "diet": "halal",
+    "diet": null,
     "region": "hyderabadi",
     "cuisineAdjective": "Indian",
     "mainIngredient": "Lentil",

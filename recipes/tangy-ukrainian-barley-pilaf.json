@@ -3,8 +3,7 @@
   "description": "A one-pot Ukrainian dish featuring cardamom and a tangy ferment, this pilaf is a Mediterranean-friendly delight. It is pillowy and full of flavor.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "barley",
-    "gluten-free",
     "mediterranean",
     "one-pot",
     "tangy",

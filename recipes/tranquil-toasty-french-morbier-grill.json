@@ -3,7 +3,6 @@
   "description": "A lazy Sunday polish dish featuring morbier cheese, grilled to perfection on an iron teppan, with a pungent and glassy jelly texture, dairy-free friendly options available. Perfect for a relaxing weekend brunch.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "lunch",
@@ -87,7 +86,7 @@
     "mood": "lazy-sunday",
     "technique": "yakimono-grill",
     "primaryIngredient": "morbier",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "French",
     "mainIngredient": "morbier",
