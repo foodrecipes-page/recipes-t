@@ -1,0 +1,105 @@
+{
+  "title": "Tender Spicy Croatian Pork Stir Fry",
+  "description": "A spicy and nostalgic Croatian dish featuring tender pork, cornstarch, and stir-fry techniques, friendly to ayurvedic tamasic diets. This recipe combines the flavors of Croatia with a touch of spice.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork strips and cook until browned, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a small bowl, whisk together the cornstarch, paprika, cayenne pepper, salt, and black pepper.",
+    "Add the cornstarch mixture to the skillet and cook for 1 minute, stirring constantly.",
+    "Return the pork to the skillet and stir to coat with the cornstarch mixture.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "gluten-free",
+    "one-pan",
+    "pork",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-spicy-croatian-pork-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-spicy-croatian-pork-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:15:10Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "cornstarch",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Tender Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
