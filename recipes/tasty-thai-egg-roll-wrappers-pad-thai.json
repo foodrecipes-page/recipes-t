@@ -1,0 +1,109 @@
+{
+  "title": "Tasty Thai Egg Roll Wrappers Pad Thai",
+  "description": "A quick-fix Thai dish featuring egg roll wrappers and a low-glycemic friendly form of pad thai, served in a lazy susan spinner vessel.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg roll wrappers",
+      "amount": "12 sheets",
+      "notes": "low-carb wrappers"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "Remove the shrimp from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok.",
+    "Add the tamarind paste, palm sugar, fish sauce, salt, and pepper to the wok and stir to combine.",
+    "Add the rice noodles to the wok and stir to combine with the sauce.",
+    "Add the bean sprouts and cooked shrimp back to the wok and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Meanwhile, prepare the egg roll wrappers by cutting them into thin strips.",
+    "Add the egg roll wrapper strips to the wok and stir to combine with the pad thai mixture.",
+    "Cook for an additional 1 minute, stirring constantly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "quick-fix",
+    "thai-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tasty-thai-egg-roll-wrappers-pad-thai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thai-egg-roll-wrappers-pad-thai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:37:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "egg roll wrappers",
+    "descriptor": "Tasty Thai",
+    "dishForm": "Pad Thai"
+  }
+}
