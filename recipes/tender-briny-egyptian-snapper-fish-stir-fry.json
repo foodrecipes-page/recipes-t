@@ -1,0 +1,111 @@
+{
+  "title": "Tender Briny Egyptian Snapper Fish Stir fry",
+  "description": "A cozy Egyptian dish featuring snapper fish in a stir-fry, perfect for a sugar-free friendly meal. This recipe combines the freshness of the sea with the warmth of Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "sugar-free",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snapper fish fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the coriander, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the snapper fish fillets to the skillet, skin side up if they have skin.",
+    "Cook the fish for 3-4 minutes on the first side, or until it is golden brown.",
+    "Flip the fish over and cook for an additional 3-4 minutes, or until it is cooked through.",
+    "Remove the fish from the skillet and set it aside on a plate.",
+    "Squeeze the lemon juice over the fish and sprinkle with chopped parsley.",
+    "Serve the fish hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian-cuisine",
+    "fish-recipe",
+    "high-protein",
+    "low-carb",
+    "stir-fry",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "tender-briny-egyptian-snapper-fish-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-briny-egyptian-snapper-fish-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:40:04Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "stir-fry",
+    "primaryIngredient": "snapper fish",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "snapper fish",
+    "descriptor": "tender briny",
+    "dishForm": "Stir-fry"
+  }
+}
