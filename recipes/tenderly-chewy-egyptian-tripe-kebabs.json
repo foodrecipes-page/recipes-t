@@ -1,0 +1,99 @@
+{
+  "title": "Tenderly Chewy Egyptian Tripe Kebabs",
+  "description": "A buttery, chewy, and adventurous Egyptian dish featuring katsuramuki-cut tripe, perfect for a gluten-free-friendly meal.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Katsuramuki-cut tripe"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine tripe, lemon juice, garlic, ginger, cumin, coriander, paprika, salt, and black pepper. Mix well and set aside to marinate for at least 2 hours.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated tripe onto skewers, leaving a little space between each piece.",
+    "Brush the skewers with olive oil and grill for 4-5 minutes per side, or until the tripe is cooked through and slightly charred.",
+    "Transfer the skewers to a plate and top each piece with butter.",
+    "Serve immediately, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "egyptian",
+    "gluten-free",
+    "high-protein",
+    "kebabs",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 4,
+    "fat": 10
+  },
+  "slug": "tenderly-chewy-egyptian-tripe-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-chewy-egyptian-tripe-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T23:53:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tripe",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tripe",
+    "descriptor": "Tenderly Chewy",
+    "dishForm": "Kebabs"
+  }
+}
