@@ -1,0 +1,101 @@
+{
+  "title": "Tender Croatian Walnut Pasta",
+  "description": "A briny and juicy Croatian dish featuring walnuts, perfect for a date night, with a flexitarian-friendly twist, cooked to perfection using a bain-marie method.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pappardelle pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped walnuts until fragrant.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the dried thyme, salt, and black pepper, and cook for 1 minute.",
+    "In a large serving bowl, combine the cooked pasta, walnut mixture, and shaved grana padano cheese.",
+    "Toss the pasta mixture to combine, ensuring the cheese is well distributed.",
+    "Cover the bowl with plastic wrap and place it over a pot of simmering water to create a bain-marie, heating the pasta mixture for 5 minutes.",
+    "Remove the bowl from the bain-marie and stir in the chopped fresh parsley.",
+    "Serve the pasta hot, garnished with additional parsley and walnuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flexitarian",
+    "italian-inspired",
+    "nutty",
+    "pasta-lovers",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 22
+  },
+  "slug": "tender-croatian-walnut-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-croatian-walnut-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:02:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "bain-marie",
+    "primaryIngredient": "walnuts",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "walnuts",
+    "descriptor": "Tender Juicy",
+    "dishForm": "Pasta"
+  }
+}
