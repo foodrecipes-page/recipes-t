@@ -1,0 +1,102 @@
+{
+  "title": "Tropical Crisp Brazilian Chicken Fried Rice",
+  "description": "A floral and crisp Brazilian dish featuring oyster sauce and dairy-free friendly ingredients, perfect for meal prep. This recipe combines the flavors of Brazil with the convenience of a one-pan meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "frozen peas and carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute.",
+    "Add the frozen peas and carrots to the skillet and cook until thawed and tender.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula.",
+    "Stir in the oyster sauce, salt, and black pepper, and cook for an additional 2-3 minutes.",
+    "Return the cooked chicken to the skillet and stir to combine with the rice mixture.",
+    "Cook for an additional 1-2 minutes, until the chicken is heated through and the rice is crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chicken-recipes",
+    "dairy-free",
+    "fried-rice",
+    "gluten-free",
+    "meal-prep",
+    "one-pan-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tropical-crisp-brazilian-chicken-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tropical-crisp-brazilian-chicken-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:43:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "oyster sauce",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Tropical Crisp",
+    "dishForm": "Fried-Rice"
+  }
+}
