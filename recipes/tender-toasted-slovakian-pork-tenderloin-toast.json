@@ -1,0 +1,100 @@
+{
+  "title": "Tender Toasted Slovakian Pork Tenderloin Toast",
+  "description": "A hearty Slovakian dish featuring tender pork tenderloin, served on toasted bread with a side of earthy mushrooms and cozy gravy, perfect for a comforting dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork tenderloin",
+      "amount": "1 pound",
+      "notes": "trimmed of excess fat"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "crusty bread, toasted"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the pork tenderloin with salt and black pepper",
+    "Heat the butter in a large oven-safe skillet over medium-high heat",
+    "Sear the pork tenderloin until browned on all sides, about 2-3 minutes per side",
+    "Transfer the skillet to the preheated oven and cook the pork tenderloin to an internal temperature of 145 degrees Fahrenheit",
+    "While the pork is cooking, toast the bread slices until lightly browned",
+    "In a small bowl, whisk together the flour and a pinch of salt",
+    "Add the chicken broth and heavy cream to the bowl, whisking until smooth",
+    "Bring the mixture to a simmer in a small saucepan over medium heat, cooking until thickened",
+    "Slice the cooked pork tenderloin and serve on top of the toasted bread, spooning the mushroom gravy over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "european-cuisine",
+    "mushroom-gravy",
+    "pork-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-toasted-slovakian-pork-tenderloin-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-toasted-slovakian-pork-tenderloin-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:57:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "pork tenderloin",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork tenderloin",
+    "descriptor": "tender toasted",
+    "dishForm": "Toast"
+  }
+}
