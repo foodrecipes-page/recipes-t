@@ -1,0 +1,98 @@
+{
+  "title": "Tempting Savory British Chicken Skillet",
+  "description": "A salty and savory British dish made with chicken, featuring a chicken stock cube and rest meat, perfect for a midnight craving. This dairy-free friendly recipe is cooked to perfection in a cast-iron skillet.",
+  "cuisine": "British",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "rest meat",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Add the diced chicken to the skillet and cook until it is browned on all sides.",
+    "Add the diced rest meat to the skillet and cook for an additional 2 minutes.",
+    "Add the chicken stock cube, salt, and black pepper to the skillet and stir to combine.",
+    "Add the diced potato and sliced carrot to the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer the mixture for 20 minutes, or until the vegetables are tender.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tempting-savory-british-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-savory-british-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:01:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "dairy-free",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "chicken",
+    "descriptor": "Tempting Savory",
+    "dishForm": "Skillet"
+  }
+}
