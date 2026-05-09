@@ -1,0 +1,53 @@
+{
+  "title": "Tangy Gooey Croatian Cherries Pilaf",
+  "description": "A comforting Croatian dish featuring cherries and rice, perfect for a warm evening. This recipe is satvik-friendly and perfect for a weeknight dinner.",
+  "cuisine": "croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Khao Khua (Fried Rice Flour)",
+      "amount": "1 cup",
+      "notes": "available at most Asian markets or online"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat. Add the khao khua and cook, stirring constantly, for 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "easy-dinner",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "tangy-gooey-croatian-cherries-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-croatian-cherries-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cherries",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "cherries",
+    "descriptor": "tangy gooey",
+    "dishForm": "pilaf"
+  }
+}
