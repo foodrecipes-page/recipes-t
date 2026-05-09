@@ -1,0 +1,92 @@
+{
+  "title": "Tender Sweet Vietnamese Elderflower Spring Rolls",
+  "description": "A sweet and crumbly Vietnamese dish featuring elderflower, these spring rolls are perfect for a light snack or dessert. They are smoke-cold and low-glycemic-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper",
+      "amount": "12 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced strawberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced kiwi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak the rice paper sheets in cold water for 30 seconds.",
+    "In a large bowl, mix together the elderflower syrup, shredded coconut, sliced strawberries, sliced kiwi, and toasted almonds.",
+    "Lay a soaked rice paper sheet on a flat surface and place about 1/4 cup of the coconut mixture in the center of the sheet.",
+    "Fold the bottom half of the sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining rice paper sheets and filling.",
+    "In a small bowl, whisk together the honey and lemon juice.",
+    "Brush the tops of the spring rolls with the honey-lemon mixture.",
+    "Serve the spring rolls chilled, garnished with additional toasted almonds and shredded coconut if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "elderflower",
+    "gluten-free",
+    "low-glycemic",
+    "smoke-cold",
+    "spring-rolls",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "tender-sweet-vietnamese-elderflower-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-sweet-vietnamese-elderflower-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:56:37Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "smoke-cold",
+    "primaryIngredient": "elderflower",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "elderflower",
+    "descriptor": "tender sweet",
+    "dishForm": "Spring-Rolls"
+  }
+}
