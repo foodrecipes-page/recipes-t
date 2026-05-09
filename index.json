@@ -7424,6 +7424,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-mediterranean-fish-paella",
+    "title": "Tender Mediterranean Fish Paella",
+    "tags": [
+      "cozy",
+      "fish",
+      "mediterranean",
+      "one-pan",
+      "pescatarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-mexican-chicken-pilaf",
     "title": "Tender Mexican Chicken Pilaf",
     "tags": [
