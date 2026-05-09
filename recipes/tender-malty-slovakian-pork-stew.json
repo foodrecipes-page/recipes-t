@@ -1,0 +1,95 @@
+{
+  "title": "Tender Malty Slovakian Pork Stew",
+  "description": "A hearty one-pot Slovakian dish featuring pork, malty flavors, and Thai sweet basil, perfect for a cold evening. This sugar-free-friendly stew is made with salt-baked ingredients for added depth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai sweet basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malt extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped Thai sweet basil and cook for 1 minute.",
+    "Add the malt extract, salt, and black pepper, and stir to combine.",
+    "Add the sliced carrots and cubed potatoes, and stir to combine.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours.",
+    "Serve hot, garnished with additional Thai sweet basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "pork",
+    "sugar-free",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-malty-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malty-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:06:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "salt-bake",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "tender malty",
+    "dishForm": "Stew"
+  }
+}
