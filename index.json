@@ -5379,6 +5379,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-british-beef-sunday-roast",
+    "title": "Tender British Beef Sunday Roast",
+    "tags": [
+      "beef-recipes",
+      "british-classics",
+      "comfort-food",
+      "garlic-lovers",
+      "low-fodmap",
+      "sunday-roast"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 210,
+    "shard": "t"
+  },
+  {
     "slug": "tender-british-cassaba-gratin",
     "title": "Tender British Cassaba Gratin",
     "tags": [

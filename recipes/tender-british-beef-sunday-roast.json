@@ -1,0 +1,106 @@
+{
+  "title": "Tender British Beef Sunday Roast",
+  "description": "A traditional British dish featuring slow-cooked beef, garlicky flavors, and a hint of Parmigiano-Reggiano, all wrapped in a papillote for a tender and delicious Sunday roast.",
+  "cuisine": "British",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": "fat trimmed"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Parmigiano-Reggiano",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "parchment paper",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef with salt, black pepper, and thyme.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef until browned on all sides, then set aside.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the chopped carrots and potatoes to the pot, stirring to combine with the garlic.",
+    "Place the beef back in the pot, then sprinkle with Parmigiano-Reggiano.",
+    "Cover the pot with parchment paper, creating a papillote.",
+    "Transfer the pot to the preheated oven and roast for 3 hours, or until the beef is tender.",
+    "Remove the pot from the oven and let rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "british-classics",
+    "comfort-food",
+    "garlic-lovers",
+    "low-fodmap",
+    "sunday-roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "tender-british-beef-sunday-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-beef-sunday-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:05:11Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "papillote",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Tender Garlicky",
+    "dishForm": "Sunday Roast"
+  }
+}
