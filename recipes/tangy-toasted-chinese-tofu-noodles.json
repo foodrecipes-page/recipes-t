@@ -1,0 +1,106 @@
+{
+  "title": "Tangy Toasted Chinese Tofu Noodles",
+  "description": "A satvik-friendly Yunnan dish featuring green salsa and caramelized tofu, this recipe is perfect for meal prep. It has a bitter and shaggy texture from the toasted noodles and green salsa.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions and set aside.",
+    "Cut the tofu into small cubes and toast in a pan with sesame oil until golden brown.",
+    "Add the grated ginger and minced garlic to the pan and cook for 1 minute.",
+    "Add the green salsa to the pan and stir to combine with the tofu and ginger mixture.",
+    "Add the cooked noodles to the pan and toss to combine with the green salsa mixture.",
+    "Add the soy sauce, salt, and pepper to the pan and stir to combine.",
+    "Transfer the noodle mixture to a bowl and top with chopped scallions.",
+    "Serve immediately and enjoy.",
+    "Let it cool and refrigerate for up to 3 days for meal prep."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tangy-toasted-chinese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-toasted-chinese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:10:07Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "green salsa",
+    "diet": "satvik",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "tangy toasted",
+    "dishForm": "Noodles"
+  }
+}
