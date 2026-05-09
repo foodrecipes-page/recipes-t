@@ -1,0 +1,109 @@
+{
+  "title": "Tempting Roasted Slovakian Tofu Casserole",
+  "description": "A hearty vegan dish featuring roasted tofu and szechuan peppercorns in a rich mother sauce base, served in a mason jar.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "szechuan peppercorns",
+      "amount": "2 teaspoons",
+      "notes": "toasted and ground"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the toasted and ground szechuan peppercorns, smoked paprika, salt, and black pepper.",
+    "In a large bowl, toss the cubed tofu with the olive oil, chopped onion, and minced garlic until the tofu is evenly coated.",
+    "Sprinkle the szechuan peppercorn mixture over the tofu and toss to combine.",
+    "Transfer the tofu mixture to a mason jar and pour the mother sauce base over the top.",
+    "Cover the mason jar with a lid and roast in the preheated oven for 30 minutes.",
+    "Remove the lid and continue roasting for an additional 10 minutes, or until the sauce is molten and the tofu is golden brown.",
+    "Remove the mason jar from the oven and garnish with chopped fresh parsley.",
+    "Serve the casserole hot, straight from the mason jar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mason-jar",
+    "one-pot",
+    "roasted",
+    "szechuan-peppercorn",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tempting-roasted-slovakian-tofu-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-roasted-slovakian-tofu-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:57:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "szechuan peppercorns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Roasted",
+    "dishForm": "Casserole"
+  }
+}
