@@ -1,0 +1,105 @@
+{
+  "title": "Tasty Toasted Thai Tofu Khao Pad",
+  "description": "A crispy and flavorful Thai dish made with flour tortilla, wood-fired baked tofu, and spices, served as a solo dinner, jain-friendly and in the form of khao-pad, cooked on a tava-griddle.",
+  "cuisine": "Thai",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "flour tortilla",
+      "amount": "2 large",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat.",
+    "In a small bowl, mix together soy sauce, tamarind paste, palm sugar, salt, and black pepper.",
+    "Add the chopped Thai red chili to the bowl and stir well.",
+    "Brush the flour tortilla pieces with vegetable oil and place them on the preheated tava-griddle.",
+    "Wood-fire bake the tofu cubes until they are golden brown and crispy.",
+    "Add the baked tofu cubes to the bowl with the sauce and stir well to coat.",
+    "Add the chopped basil leaves to the bowl and stir well.",
+    "Place the toasted flour tortilla pieces on a serving plate and top with the tofu and sauce mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "flavorful",
+    "jain-friendly",
+    "one-pan",
+    "thai-cuisine",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "tasty-toasted-thai-tofu-khao-pad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-toasted-thai-tofu-khao-pad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:38:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "flour tortilla",
+    "diet": "jain",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Tasty Toasted",
+    "dishForm": "Khao Pad"
+  }
+}

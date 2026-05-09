@@ -4705,6 +4705,22 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-toasted-thai-tofu-khao-pad",
+    "title": "Tasty Toasted Thai Tofu Khao Pad",
+    "tags": [
+      "crispy",
+      "flavorful",
+      "jain-friendly",
+      "one-pan",
+      "thai-cuisine",
+      "vegetarian",
+      "wood-fired"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-ukrainian-andouille-skillet",
     "title": "Tasty Toasted Ukrainian Andouille Skillet",
     "tags": [
