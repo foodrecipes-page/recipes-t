@@ -1,0 +1,96 @@
+{
+  "title": "Tender Twice Norwegian Potatoes Fritters",
+  "description": "Rich and creamy Norwegian potato fritters deep-fried to a golden crisp, served with a sweet sugar syrup, this dish is a cozy delight, and its sattvic friendly ingredients make it a great option for those following an ayurvedic diet.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for sugar syrup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, chopped onion, flour, and eggs, mix well to form a smooth batter.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Using a spoon, drop small amounts of the potato batter into the hot oil, do not overcrowd the pan.",
+    "Fry the fritters until they are golden brown, about 3-4 minutes on each side.",
+    "Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a small saucepan, combine sugar and water, heat over medium heat, stirring until the sugar dissolves.",
+    "Bring the sugar syrup to a boil, then reduce the heat and simmer for 5 minutes.",
+    "Serve the potato fritters warm with the sweet sugar syrup drizzled over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "deep-fried",
+    "gluten-free",
+    "norwegian-cuisine",
+    "sweet-syrup",
+    "vegetarian-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "tender-twice-norwegian-potatoes-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-twice-norwegian-potatoes-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:21:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "cozy",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sugar syrup",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Tender Twice",
+    "dishForm": "Fritters"
+  }
+}
