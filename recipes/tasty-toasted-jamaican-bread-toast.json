@@ -1,0 +1,91 @@
+{
+  "title": "Tasty Toasted Jamaican Bread Toast",
+  "description": "A fresh and silky Jamaican dish featuring toasted white bread, perfect for a Whole30-friendly snack. This adventurous recipe is pressure-cooked to perfection.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White bread",
+      "amount": "4 slices",
+      "notes": "Gluten-free"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Scotch bonnet peppers",
+      "amount": "1/2 teaspoon",
+      "notes": "Seeded and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to 10 psi.",
+    "In a small bowl, mix together coconut oil, salt, black pepper, scotch bonnet peppers, and garlic.",
+    "Place the white bread slices in the pressure cooker and brush the mixture evenly onto each slice.",
+    "Close the lid and cook for 5 minutes.",
+    "Let the pressure release naturally for 2 minutes, then quick-release any remaining pressure.",
+    "Open the lid and sprinkle chopped cilantro onto each slice.",
+    "Serve the toasted bread hot and enjoy.",
+    "Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "jamaican-cuisine",
+    "pressure-cooker",
+    "snack-recipe",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tasty-toasted-jamaican-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-toasted-jamaican-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:14:51Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "pressure-cook",
+    "primaryIngredient": "white bread",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "bread",
+    "descriptor": "tasty toasted",
+    "dishForm": "Toast"
+  }
+}
