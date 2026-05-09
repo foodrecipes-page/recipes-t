@@ -1,0 +1,107 @@
+{
+  "title": "Tender Saudi Arabian Vegetable Wrap",
+  "description": "A fresh and tender Saudi Arabian dish featuring cumin seeds and leaf wrap steam, perfect for a midnight craving, this vegetarian friendly wrap is a delight to eat. It is made with a variety of vegetables and spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cumin seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pan over medium heat.",
+    "Add the toasted cumin seeds and cook for 1 minute.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the grated carrots, sliced zucchini, and sliced bell peppers, and cook until the vegetables are tender.",
+    "Add the minced garlic, salt, and black pepper, and cook for 1 minute.",
+    "Prepare the leaf wraps by steaming them for 2 minutes.",
+    "Assemble the wraps by filling each leaf wrap with the vegetable mixture.",
+    "Serve the wraps hot and enjoy.",
+    "You can also add your favorite sauce or topping to the wrap.",
+    "Experiment with different types of leaf wraps and fillings to find your favorite combination."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy",
+    "leaf-wraps",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tender-saudi-arabian-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-saudi-arabian-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:55:36Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cumin seeds",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "vegetables",
+    "descriptor": "tender steamed",
+    "dishForm": "Wrap"
+  }
+}
