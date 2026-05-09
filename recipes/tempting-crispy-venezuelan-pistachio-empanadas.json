@@ -1,0 +1,97 @@
+{
+  "title": "Tempting Crispy Venezuelan Pistachio Empanadas",
+  "description": "A smoky and crispy Venezuelan dish featuring pistachio paste, perfect as a hangover cure, made lacto-vegetarian-friendly and air-fried to perfection. This recipe combines the richness of pistachio with the crunch of empanada pastry.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pistachio paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "empanada pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "Roll out the empanada pastry to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of pistachio paste in the center of each pastry circle.",
+    "Sprinkle shredded mozzarella cheese over the pistachio paste.",
+    "Fold the pastry in half over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with beaten egg for a golden glaze.",
+    "Sprinkle smoked paprika and salt over the empanadas.",
+    "Drizzle olive oil over the empanadas.",
+    "Air-fry the empanadas for 5-7 minutes or until crispy and golden brown.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer-recipes",
+    "crispy-empanadas",
+    "lacto-vegetarian",
+    "pistachio-recipes",
+    "snack-ideas",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "tempting-crispy-venezuelan-pistachio-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-crispy-venezuelan-pistachio-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:00:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "pistachio paste",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pistachio",
+    "descriptor": "Tempting Crispy",
+    "dishForm": "Empanadas"
+  }
+}
