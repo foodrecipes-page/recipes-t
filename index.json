@@ -6264,6 +6264,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-greek-corn-pilaf",
+    "title": "Tender Greek Corn Pilaf",
+    "tags": [
+      "comfort-food",
+      "date-night",
+      "greek-cuisine",
+      "macrobiotic-friendly",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-grilled-australian-shrimp-skewers",
     "title": "Tender Grilled Australian Shrimp Skewers",
     "tags": [
