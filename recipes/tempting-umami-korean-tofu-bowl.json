@@ -1,0 +1,106 @@
+{
+  "title": "Tempting Umami Korean Tofu Bowl",
+  "description": "A savory Korean dish featuring crispy tofu, sweet cherry, and a blend of umami flavors, served in a hot dolsot stone bowl, perfect for a hangover cure.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain-friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed ice",
+      "amount": "1 cup",
+      "notes": "for ice bath"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Prepare the ice bath by filling a large bowl with crushed ice and a little water.",
+    "In a blender or food processor, blend gochujang, soy sauce, and rice vinegar to make the umami sauce.",
+    "In a large skillet, heat sesame oil over medium heat and cook the tofu cubes until golden brown.",
+    "Shock the cooked tofu in the prepared ice bath to stop the cooking process.",
+    "In the same skillet, add the halved cherry tomatoes and cook until they start to release their juices.",
+    "Add the blended umami sauce to the skillet and stir to combine with the cherry tomatoes.",
+    "To assemble the dish, place a portion of the cooked tofu in a hot dolsot stone bowl, followed by a spoonful of the umami cherry tomato sauce.",
+    "Top the dish with shredded mozzarella cheese and place the bowl under the broiler until the cheese is melted and bubbly.",
+    "Garnish with chopped green onions, toasted sesame seeds, and a sprinkle of sesame oil.",
+    "Serve immediately and enjoy the cheese pull."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "hangover-cure",
+    "jain-friendly",
+    "korean-food",
+    "umami-rich",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tempting-umami-korean-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-umami-korean-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:15:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "cheese-pull",
+    "mood": "hangover-cure",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cherry",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "tofu",
+    "descriptor": "Tempting Umami",
+    "dishForm": "Bowl"
+  }
+}
