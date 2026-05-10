@@ -3810,6 +3810,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-toasted-german-tortilla-tacos",
+    "title": "Tangy Toasted German Tortilla Tacos",
+    "tags": [
+      "cedar-plank",
+      "german-cuisine",
+      "low-calorie",
+      "tangy",
+      "toasted",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-toasted-kenyan-chicken-kebabs",
     "title": "Tangy Toasted Kenyan Chicken Kebabs",
     "tags": [

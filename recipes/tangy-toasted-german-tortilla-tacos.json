@@ -1,0 +1,93 @@
+{
+  "title": "Tangy Toasted German Tortilla Tacos",
+  "description": "A light and refreshing German dish featuring yeasty tortillas, pickles, and a hint of tanginess, perfect for a weeknight dinner",
+  "cuisine": "German",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tortillas",
+      "amount": "8",
+      "notes": "yeasty"
+    },
+    {
+      "name": "dill pickles",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Toast the tortillas on the cedar planks for 2 minutes on each side",
+    "In a bowl, mix together the sliced pickles, sauerkraut, caraway seeds, paprika, salt, and pepper",
+    "Spoon the pickle mixture onto the toasted tortillas",
+    "Return the tortillas to the oven and bake for an additional 5 minutes",
+    "Remove the tortillas from the oven and let cool for 1 minute",
+    "Serve the tacos hot on the cedar planks"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "german-cuisine",
+    "low-calorie",
+    "tangy",
+    "toasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "tangy-toasted-german-tortilla-tacos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-toasted-german-tortilla-tacos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:40:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "tortillas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tortillas",
+    "descriptor": "tangy toasted",
+    "dishForm": "Tacos"
+  }
+}
