@@ -1,0 +1,91 @@
+{
+  "title": "Tender Filipino Beans Ginataang Bilo Bilo",
+  "description": "A traditional Filipino dessert featuring tender beans and pillowy bilo bilo in a rich coconut milk broth, perfect for a post-workout snack or dessert. This shojin-friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "azuki beans",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "1/2 cup",
+      "notes": "small pearl type"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine coconut milk, water, pandan leaves, sugar, and salt in a large pot and bring to a boil over high heat.",
+    "Reduce heat to medium and simmer for 10 minutes or until the mixture has thickened slightly.",
+    "Add tapioca pearls and cook for an additional 5 minutes or until they are translucent and cooked through.",
+    "Add cooked azuki beans to the pot and stir to combine.",
+    "Reduce heat to low and simmer for 5 minutes or until the beans are heated through.",
+    "Remove pandan leaves from the pot and discard.",
+    "Serve the ginataang bilo bilo hot or at room temperature.",
+    "Garnish with additional pandan leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "azuki-beans",
+    "coconut-milk",
+    "filipino-food",
+    "post-workout-snack",
+    "tapioca-pearls",
+    "vegan-diet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-filipino-beans-ginataang-bilo-bilo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-filipino-beans-ginataang-bilo-bilo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:12:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "beans",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beans",
+    "descriptor": "tender pillowy",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
