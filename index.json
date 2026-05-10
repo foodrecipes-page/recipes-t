@@ -7850,6 +7850,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-mexican-corn-flan",
+    "title": "Tender Mexican Corn Flan",
+    "tags": [
+      "brunch",
+      "corn",
+      "flan",
+      "glaze",
+      "mexican",
+      "vegetarian"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tender-middle-eastern-chicken-pilaf",
     "title": "Tender Middle Eastern Chicken Pilaf",
     "tags": [
