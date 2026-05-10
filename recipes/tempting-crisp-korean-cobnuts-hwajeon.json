@@ -1,0 +1,92 @@
+{
+  "title": "Tempting Crisp Korean Cobnuts Hwajeon",
+  "description": "A sweet and crisp Korean dish featuring cobnuts, perfect for a brunch mood, made with a tagine cooking method and kosher friendly ingredients, in the form of hwajeon.",
+  "cuisine": "Korean",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or a large skillet with a heat diffuser over medium heat to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and sesame oil.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Fold in the chopped cobnuts.",
+    "Heat the vegetable oil in the preheated tagine or skillet.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the hot oil.",
+    "Flatten the batter slightly with a spatula and cook for 3-4 minutes on each side, until crispy and golden brown.",
+    "Serve the hwajeon hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crispy-treats",
+    "korean-food",
+    "kosher-friendly",
+    "nut-based",
+    "tagine-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "tempting-crisp-korean-cobnuts-hwajeon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-crisp-korean-cobnuts-hwajeon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:16:48Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "tagine-cook",
+    "primaryIngredient": "cobnuts",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cobnuts",
+    "descriptor": "Tempting Crisp",
+    "dishForm": "Hwajeon"
+  }
+}
