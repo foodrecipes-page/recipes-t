@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Thick Spanish Tomatoes Gazpacho",
+  "description": "A fermented and chewy Spanish dish made with vanilla pod and cooked in a ttukbaegi earthenware pot, perfect for a weeknight dinner",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ripe Tomatoes",
+      "amount": "4 cups",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Vanilla Pod",
+      "amount": "1 pod",
+      "notes": "split lengthwise"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato Juice",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet or hot"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot over low heat for 10 minutes",
+    "Add the olive oil, garlic, and smoked paprika to the pot and cook for 2 minutes",
+    "Add the chopped onion, cucumber, and red bell pepper to the pot and cook for 5 minutes",
+    "Add the tomato juice, salt, and split vanilla pod to the pot and stir well",
+    "Add the ripe tomatoes to the pot and stir well",
+    "Reduce heat to low and simmer the gazpacho for 20 minutes",
+    "Remove the vanilla pod from the pot and discard",
+    "Use an immersion blender to puree the gazpacho to the desired consistency",
+    "Taste and adjust the seasoning as needed",
+    "Serve the gazpacho hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "healthy-dinner",
+    "one-pot",
+    "paleo-friendly",
+    "spanish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tangy-thick-spanish-tomatoes-gazpacho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-thick-spanish-tomatoes-gazpacho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:50:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "vanilla pod",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Tangy Thick",
+    "dishForm": "Gazpacho"
+  }
+}
