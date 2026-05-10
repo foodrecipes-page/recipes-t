@@ -1,0 +1,96 @@
+{
+  "title": "Tender Peruvian Smoked Mackerel Rocoto Relleno",
+  "description": "A fresh and energizing Peruvian dish featuring smoked mackerel, lardons render, and rocoto relleno, perfect for a lunch meal. This kosher friendly recipe combines the flavors of Peru with the tenderness of smoked mackerel.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked mackerel",
+      "amount": "12 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aji amarillo sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the rocoto peppers in the oven for 30 minutes, then peel and chop them.",
+    "Render the lardons in a pan over medium heat until crispy, then set aside.",
+    "In the same pan, saute the chopped onion and minced garlic until softened.",
+    "Add the aji amarillo sauce to the pan and stir to combine.",
+    "Flake the smoked mackerel into the pan and stir to combine with the onion and garlic mixture.",
+    "Stuff each roasted rocoto pepper with the mackerel mixture, then top with quinoa and chopped cilantro.",
+    "Serve the rocoto relleno hot, garnished with rendered lardons and additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "quinoa",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-peruvian-smoked-mackerel-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-peruvian-smoked-mackerel-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:33:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "lardons-render",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "tender tasty",
+    "dishForm": "Rocoto Relleno"
+  }
+}
