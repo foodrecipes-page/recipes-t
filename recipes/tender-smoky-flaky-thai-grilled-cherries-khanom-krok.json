@@ -1,0 +1,111 @@
+{
+  "title": "Smoky Flaky Thai Grilled Cherries Khanom Krok",
+  "description": "A sweet and savory fusion of Thai and Western flavors, featuring grilled cherries in a flaky khanom krok crust.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "graham cracker crumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grated lime zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a medium bowl, whisk together flour, graham cracker crumbs, smoked paprika, kosher salt, and black pepper.",
+    "Add melted butter and stir until mixture forms a crumbly dough.",
+    "Gradually add heavy cream and mix until dough comes together in a ball.",
+    "On a lightly floured surface, roll out dough to a thickness of about 1/8 inch.",
+    "Cut out rounds of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of cherry jam in the center of each round.",
+    "Brush edges with a little water and fold dough over filling to form a triangle.",
+    "Press edges to seal and use a fork to crimp.",
+    "Grill khanom krok for 2-3 minutes on each side, or until golden brown.",
+    "Serve warm with a dollop of whipped cream and a sprinkle of lime zest."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cherryjam",
+    "dessert",
+    "flaky",
+    "grilled",
+    "khanomkrok",
+    "smoky",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tender-smoky-flaky-thai-grilled-cherries-khanom-krok",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoky-flaky-thai-grilled-cherries-khanom-krok",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:32:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "grill",
+    "primaryIngredient": "cherries",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "grilled cherries",
+    "descriptor": "Tender Smoky Flaky",
+    "dishForm": "Khanom Krok"
+  }
+}
