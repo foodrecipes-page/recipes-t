@@ -1,0 +1,94 @@
+{
+  "title": "sweetened-middle-eastern-fish-ganouesh",
+  "description": "velvety fish dip with a sweet twist, perfect for a romantic evening",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "canned tuna",
+      "amount": "7 oz"
+    },
+    {
+      "name": "roasted eggplant",
+      "amount": "1 medium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roast the eggplant for 30 minutes or until the skin is charred and blistered.",
+    "Let the eggplant cool down, then peel off the skin and place it in a blender.",
+    "Add the canned tuna, fish sauce, honey, lemon juice, garlic, paprika, and salt to the blender.",
+    "Blend the mixture until smooth and creamy.",
+    "With the blender running, slowly pour in the olive oil through the top.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the Sweetened Middle Eastern Fish Ganouesh with pita chips or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fish-free-vegan",
+    "high-protein",
+    "middle-eastern",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tenderly-sweetened-middle-eastern-fish-ganoush",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-sweetened-middle-eastern-fish-ganoush",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T00:00:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "candy",
+    "primaryIngredient": "fish sauce",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Fish",
+    "descriptor": "Tenderly Sweetened",
+    "dishForm": "Ganoush"
+  }
+}
