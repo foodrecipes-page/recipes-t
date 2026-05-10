@@ -1,0 +1,106 @@
+{
+  "title": "Tender German Potatoes Pilaf",
+  "description": "A comforting, paleo-friendly German-inspired dish featuring tender potatoes, a hint of yellow pepper, and a subtle miso-marinate.",
+  "cuisine": "German",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yellow pepper",
+      "amount": "1",
+      "notes": "any color but red"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure it's paleo-friendly"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "any color but purple"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4-5 medium-sized",
+      "notes": "make sure they're organic"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the sliced yellow pepper and cook for 3-4 minutes until slightly tender.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced onion and cook for 4-5 minutes until translucent.",
+    "Add the cubed potatoes and cook for 5-7 minutes until they start to brown.",
+    "In a small bowl, mix the miso paste with a little water until it forms a smooth paste.",
+    "Add the miso paste to the pan and stir well to combine.",
+    "Continue cooking for another 5-7 minutes until the potatoes are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-inspired",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "tender-german-potatoes-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-german-potatoes-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:36:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "miso-marinate",
+    "primaryIngredient": "yellow pepper",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "Tender",
+    "dishForm": "Pilaf"
+  }
+}
