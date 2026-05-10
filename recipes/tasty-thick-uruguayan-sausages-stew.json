@@ -1,0 +1,109 @@
+{
+  "title": "Tasty Thick Uruguayan Sausages Stew",
+  "description": "A hearty and comforting stew made with German sausages and puff pastry, perfect for a sick day. This dish is also ayurvedic-tamasic-friendly and features fermented ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "1 pound",
+      "notes": "preferably knockwurst or bratwurst"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the chopped onions, minced garlic, chopped carrots, and chopped potatoes.",
+    "In a large pot or Dutch oven, brown the German sausages over medium-high heat, then set aside.",
+    "Add the olive oil to the pot, then add the onion mixture and cook until the vegetables are tender.",
+    "Add the chicken broth, sauerkraut, and browned sausages to the pot, and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Brush the edges of the puff pastry with the beaten egg.",
+    "Place the puff pastry over the pot, pressing the edges to seal.",
+    "Bake the stew in the preheated oven for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-inspired",
+    "hearty-stew",
+    "homemade",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "tasty-thick-uruguayan-sausages-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-thick-uruguayan-sausages-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:24:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "lamination-puff",
+    "primaryIngredient": "german sausages",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sausages",
+    "descriptor": "Tasty Thick",
+    "dishForm": "Stew"
+  }
+}

@@ -4870,6 +4870,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-thick-uruguayan-sausages-stew",
+    "title": "Tasty Thick Uruguayan Sausages Stew",
+    "tags": [
+      "comfort-food",
+      "german-inspired",
+      "hearty-stew",
+      "homemade",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-toasted-canadian-shrimp-skewers",
     "title": "Tasty Toasted Canadian Shrimp Skewers",
     "tags": [
