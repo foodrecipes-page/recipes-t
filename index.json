@@ -3992,6 +3992,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-uruguayan-lamb-stew",
+    "title": "Tangy Uruguayan Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 110,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-velvety-american-chicken-noodles",
     "title": "Tangy Velvety American Chicken Noodles",
     "tags": [
