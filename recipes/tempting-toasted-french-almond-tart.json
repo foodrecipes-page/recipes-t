@@ -1,0 +1,94 @@
+{
+  "title": "Tempting Toasted French Almond Tart",
+  "description": "A resinous and snappy French dessert featuring ground almonds, infused oil, and a paleo-friendly twist, served in individual mini cocottes.",
+  "cuisine": "French",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Almonds",
+      "amount": "1 1/2 cups",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Infused Oil",
+      "amount": "1/4 cup",
+      "notes": "lemon and herb"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sliced Almonds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the ground almonds, infused oil, honey, eggs, vanilla extract, and salt until well combined.",
+    "Stir in the unsweetened almond milk until the mixture forms a smooth batter.",
+    "Pour the batter into individual mini cocottes, filling them about 3/4 of the way full.",
+    "Bake the tarts for 20 minutes, or until the edges are lightly golden brown.",
+    "Remove the tarts from the oven and let them cool for 5 minutes.",
+    "Garnish each tart with sliced almonds and serve warm.",
+    "Allow the tarts to cool completely on a wire rack before storing them in an airtight container."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "french-desserts",
+    "gluten-free",
+    "mini-cocotte",
+    "paleo-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 22
+  },
+  "slug": "tempting-toasted-french-almond-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-toasted-french-almond-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:24:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ground almonds",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "almonds",
+    "descriptor": "Tempting Toasted",
+    "dishForm": "Tart"
+  }
+}
