@@ -1,0 +1,105 @@
+{
+  "title": "Tender Dutch Soya Bean Stew",
+  "description": "A spicy and indulgent Dutch dish featuring soya bean, slow-cooked to perfection in an agave-leaf vessel, this stew is a hearty and comforting meal. It is kosher-friendly and made with wholesome ingredients.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the dried soya beans and soak them in water for at least 8 hours or overnight.",
+    "Drain and rinse the soya beans, then set them aside.",
+    "In the agave-leaf vessel, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chopped carrot and celery and cook for 5 minutes, stirring occasionally.",
+    "Stir in the tomato paste, smoked paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the soaked soya beans, vegetable broth, and 2 cups of water to the vessel, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the soya beans are tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "indulgent",
+    "one-pot",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tender-dutch-soya-bean-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-dutch-soya-bean-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:21:13Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "slow-cook",
+    "primaryIngredient": "soya bean",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "soya bean",
+    "descriptor": "tender pillowy",
+    "dishForm": "Stew"
+  }
+}

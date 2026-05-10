@@ -6643,6 +6643,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-dutch-soya-bean-stew",
+    "title": "Tender Dutch Soya Bean Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "indulgent",
+      "one-pot",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 150,
+    "shard": "t"
+  },
+  {
     "slug": "tender-earthy-avocado-mousse",
     "title": "Tender Earthy Avocado Mousse with Fermented Ingredients",
     "tags": [
