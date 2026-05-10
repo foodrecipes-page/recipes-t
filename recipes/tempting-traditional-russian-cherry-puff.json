@@ -1,0 +1,99 @@
+{
+  "title": "Tempting Traditional Russian Cherry Puff",
+  "description": "A traditional Russian dessert featuring cherry filling and laminated puff pastry, high in protein and perfect for a nostalgic treat. This earthy and dense pastry is a classic Russian delight.",
+  "cuisine": "Russian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried cherry filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine flour, sugar, and salt.",
+    "Add cold butter to the flour mixture and use a pastry blender to work it into the flour until it resembles coarse crumbs.",
+    "In a small bowl, whisk together eggs and milk.",
+    "Add the egg mixture to the flour mixture and stir until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes.",
+    "Roll out the dough to a large rectangle, about 1/4 inch thick.",
+    "Spread the cherry filling over the center of the dough, leaving a 1 inch border on either side.",
+    "Fold the dough over the filling, pressing the edges to seal.",
+    "Place the pastry on a baking sheet lined with parchment paper and brush with egg wash.",
+    "Bake for 35 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cherry-filled",
+    "dense-pastry",
+    "high-protein",
+    "laminated-pastry",
+    "russian-dessert",
+    "traditional"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tempting-traditional-russian-cherry-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-traditional-russian-cherry-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:49:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "cherry",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "cherry",
+    "descriptor": "Tempting Traditional",
+    "dishForm": "Puff"
+  }
+}
