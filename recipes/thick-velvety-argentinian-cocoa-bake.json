@@ -1,0 +1,95 @@
+{
+  "title": "Argentinian Cocoa Bake",
+  "description": "A classic Argentine dessert featuring a rich cocoa sauce and a light, flaky crust. Perfect for a sweet treat after dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unmelted unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 425°F (220°C).",
+    "In a medium bowl, whisk together the flour, sugar, cocoa powder, baking powder, and salt.",
+    "In a large bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and whisk until just combined.",
+    "Pour the batter into a 9x13 inch baking dish and smooth the top.",
+    "Place the baking dish on the preheated grill and bake for 25 minutes.",
+    "While the cake is baking, prepare the sauce by whisking together the cocoa powder, sugar, and 1 cup of hot water in a small saucepan.",
+    "Bring the sauce to a boil over medium heat, whisking constantly.",
+    "Remove the cake from the oven and pour the sauce over the top.",
+    "Return the cake to the grill and bake for an additional 5-7 minutes, or until the sauce is bubbly and the cake is set.",
+    "Remove the cake from the grill and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "dessert",
+    "sweet-tooth",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "thick-velvety-argentinian-cocoa-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-velvety-argentinian-cocoa-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:42:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "light",
+    "technique": "steam",
+    "primaryIngredient": "cocoa",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "cocoa",
+    "descriptor": "Thick, velvety",
+    "dishForm": "Bake"
+  }
+}
