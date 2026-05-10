@@ -1,0 +1,109 @@
+{
+  "title": "Tender Filipino Fruit Halo Halo",
+  "description": "A Filipino dessert featuring a mix of fruits, sweetened beans, and creamy milk, topped with a scoop of ice cream and crunchy toasted pinipig, with a hint of bitterness from the melon and a burst of juiciness from the fresh fruits.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "shaved ice",
+      "amount": "2 cups",
+      "notes": "finely shaved"
+    },
+    {
+      "name": "sweetened kidney beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "sweetened kaong",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "melon",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "pinipig",
+      "amount": "1/4 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 pint",
+      "notes": "your choice of flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the shaved ice, sweetened kidney beans, sweetened kaong, and jackfruit.",
+    "In a separate bowl, mix together the coconut milk, evaporated milk, and sugar until the sugar is fully dissolved.",
+    "Pour the milk mixture over the shaved ice mixture and stir until well combined.",
+    "Add the diced melon to the mixture and stir gently.",
+    "Spoon the mixture into individual serving cups or bowls.",
+    "Top each serving with a scoop of ice cream.",
+    "Sprinkle toasted pinipig over the top of each serving.",
+    "Serve immediately and enjoy.",
+    "You can customize your halo halo with your favorite fruits and toppings.",
+    "Experiment with different flavors of ice cream to find your favorite combination."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cold-desserts",
+    "cream-based",
+    "easy-to-make",
+    "filipino-dishes",
+    "fruit-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "tender-filipino-fruit-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-filipino-fruit-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:38:02Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "score-fat",
+    "primaryIngredient": "instant yeast",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fruit",
+    "descriptor": "tender juicy",
+    "dishForm": "Halo Halo"
+  }
+}
