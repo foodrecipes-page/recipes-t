@@ -1,0 +1,95 @@
+{
+  "title": "Tender Malt Uruguayan Chocolate Empanadas",
+  "description": "These empanadas are a delicious and unique dessert featuring a malty and fluffy interior, surrounded by a crispy 00-flour crust and topped with tempered chocolate, making them a perfect treat for anyone looking for a macrobiotic-friendly dessert option.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "00 flour",
+      "amount": "2 cups",
+      "notes": "preferably Italian or Uruguayan"
+    },
+    {
+      "name": "malt powder",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "tempered chocolate",
+      "amount": "1 cup",
+      "notes": "preferably dark or semi-sweet"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the 00 flour, malt powder, and salt.",
+    "Add the melted butter, eggs, sugar, and vanilla extract to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a spoonful of tempered chocolate in the center of each circle.",
+    "Fold the dough over the chocolate and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes.",
+    "Allow the empanadas to cool before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-empanadas",
+    "macrobiotic-friendly",
+    "malty-treats",
+    "uruguayan-desserts",
+    "vegetarian-dishes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "tender-malty-uruguayan-chocolate-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malty-uruguayan-chocolate-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:07:17Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "00-flour",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "chocolate",
+    "descriptor": "tender malty",
+    "dishForm": "Empanadas"
+  }
+}
