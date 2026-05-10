@@ -1,0 +1,99 @@
+{
+  "title": "Tempting Crunchy Australian Almond Tart",
+  "description": "A rich and crunchy Australian dessert featuring marzipan, perfect for a lazy Sunday, this tart is shojin-friendly and made with pressure-cooked ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "marzipan",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the almond flour, marzipan, and salt.",
+    "Add the coconut oil, maple syrup, and vanilla extract to the bowl and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for 30 minutes.",
+    "Roll out the dough on a floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "Press the dough into the corners and up the sides of the pan.",
+    "Prick the bottom of the crust with a fork to prevent it from bubbling.",
+    "Line the crust with parchment paper and fill with pie weights or dried beans.",
+    "Bake the crust for 15 minutes, then remove the parchment paper and pie weights or beans.",
+    "Spread the sliced almonds over the bottom of the crust.",
+    "Pressure-cook the water in a pressure cooker for 5 minutes, then let the steam release naturally.",
+    "Strain the water and brush it over the almonds to make them crunchy.",
+    "Bake the tart for an additional 10 minutes, or until the almonds are golden brown."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 40,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "australian-dessert",
+    "crunchy",
+    "lazy-sunday",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "tempting-crunchy-australian-almond-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-crunchy-australian-almond-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:22:21Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "lazy-sunday",
+    "technique": "pressure-cook",
+    "primaryIngredient": "marzipan",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "almonds",
+    "descriptor": "Tempting crunchy",
+    "dishForm": "Tart"
+  }
+}
