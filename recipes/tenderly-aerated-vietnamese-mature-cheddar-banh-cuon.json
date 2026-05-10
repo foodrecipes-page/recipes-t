@@ -1,0 +1,93 @@
+{
+  "title": "Tenderly Aerated Vietnamese Mature Cheddar Banh Cuon",
+  "description": "A nostalgic Vietnamese dish featuring mature cheddar, wrapped in a delicate rice flour banh cuon, served in an earthenware bowl. This herbal and aerated dish is a low-fat friendly twist on traditional banh cuon.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "8 ounces",
+      "notes": "grated"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped, such as mint or basil"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the grated mature cheddar cheese and chopped herbs.",
+    "In a separate bowl, whisk together the rice flour, water, and salt to form a smooth batter.",
+    "Heat a non-stick pan over medium heat and brush with sesame oil.",
+    "Pour a small amount of the rice flour batter into the pan and tilt to evenly coat the bottom.",
+    "Once the batter is set, place a portion of the cheese and herb mixture in the center of the banh cuon.",
+    "Roll up the banh cuon and place it in an earthenware bowl.",
+    "Repeat the process with the remaining ingredients.",
+    "Serve the banh cuon hot, garnished with chopped scallions and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "banh-cuon",
+    "earthenware-bowl",
+    "herbal",
+    "low-fat",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "tenderly-aerated-vietnamese-mature-cheddar-banh-cuon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tenderly-aerated-vietnamese-mature-cheddar-banh-cuon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:43:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "mature cheddar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "mature cheddar",
+    "descriptor": "Tenderly Aerated",
+    "dishForm": "Banh Cuon"
+  }
+}
