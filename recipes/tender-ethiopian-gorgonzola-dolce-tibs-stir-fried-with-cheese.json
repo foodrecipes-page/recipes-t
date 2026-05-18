@@ -1,0 +1,104 @@
+{
+  "title": "Ethiopian Gorgonzola-dolce Tibs",
+  "description": "Crisp, snappy, and nostalgic Ethiopian-style stir-fry with sweet and creamy Gorgonzola-dolce cheese, served with a side of injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gorgonzola Dolce cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Teff flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add 1 cup of teff flour to the skillet and cook for 2 minutes, stirring constantly.",
+    "Add the berbere spice blend, cayenne pepper, and paprika to the skillet and cook for 1 minute.",
+    "Add 8 oz of Gorgonzola Dolce cheese to the skillet and stir to combine with the spice mixture.",
+    "Cook the Gorgonzola mixture for 2-3 minutes, or until it is melted and slightly caramelized.",
+    "Stir in the butter until melted.",
+    "Season the Gorgonzola mixture with salt and black pepper to taste.",
+    "Serve the Gorgonzola mixture hot, garnished with chopped fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-frenzy",
+    "cheesy",
+    "ethiopian",
+    "gluten-free",
+    "one-pan",
+    "stir-fry",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:38:49Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "blanch",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Gorgonzola-dolce",
+    "descriptor": "Tender",
+    "dishForm": "Tibs (stir-fried) with cheese"
+  }
+}
