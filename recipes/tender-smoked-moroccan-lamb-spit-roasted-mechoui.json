@@ -1,0 +1,104 @@
+{
+  "title": "Tender Smoked Moroccan Lamb Spit-Roasted Mechoui",
+  "description": "A flavorful, aromatic Moroccan dish featuring lamb, turmeric, and a smoky flavor.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 whole lamb shoulder (about 2 kg)",
+      "amount": "-",
+      "notes": "Jain-friendly, boneless"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "2 tsp ground cumin",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp black pepper",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "-",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "-",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the charcoal grill or spit to medium-high heat (around 180°C).",
+    "Season the lamb shoulder with cumin, smoked paprika, turmeric powder, salt, and black pepper.",
+    "Heat the olive oil in a pan and sauté the garlic and onion until softened.",
+    "Rub the lamb shoulder with the garlic and onion mixture, making sure it's evenly coated.",
+    "Place the lamb shoulder on the grill or spit, and close the lid.",
+    "Smoke the lamb for 2 hours, or until it reaches an internal temperature of 70°C.",
+    "Remove the lamb from the heat and let it rest for 10 minutes.",
+    "Slice the lamb into thin pieces and serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 120,
+  "totalTimeMin": 165,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "smoked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 0,
+    "fat": 40
+  },
+  "slug": "tender-smoked-moroccan-lamb-spit-roasted-mechoui",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-smoked-moroccan-lamb-spit-roasted-mechoui",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T22:08:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "smoke",
+    "primaryIngredient": "turmeric",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Smoked",
+    "dishForm": "Spit-Roasted Mechoui"
+  }
+}
