@@ -1,0 +1,96 @@
+{
+  "title": "Tender Crunchy Algerian Dough Bake",
+  "description": "A comforting Algerian dish featuring tender dough topped with a crunchy mustardy crust, perfect for a sick-day meal.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bread flour",
+      "amount": "250g"
+    },
+    {
+      "name": "water",
+      "amount": "125ml",
+      "notes": "warm water"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "rendered duck fat",
+      "amount": "20g"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "125g"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "5g"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2g"
+    },
+    {
+      "name": "sugar",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine bread flour, warm water, yeast, and salt. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375°F (190°C).",
+    "Punch down the dough and roll it out into a thin sheet.",
+    "In a small bowl, mix together rendered duck fat, whole wheat flour, mustard powder, garlic powder, and sugar.",
+    "Spread the fat mixture evenly over the dough, leaving a 1-inch border around the edges.",
+    "Cut the dough into 4-6 equal pieces, depending on the size of your mini cocottes.",
+    "Place each piece of dough into a mini cocotte and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "bread",
+    "brunch",
+    "comfort-food",
+    "one-pan",
+    "sick-day",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "tender-crunchy-algerian-dough-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crunchy-algerian-dough-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:01:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "render-fat",
+    "primaryIngredient": "bread flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dough",
+    "descriptor": "Tender Crunchy",
+    "dishForm": "Bake"
+  }
+}
