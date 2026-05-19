@@ -1,0 +1,113 @@
+{
+  "title": "Tangy Shaggy Middle Eastern Egg Shakshuka",
+  "description": "A hearty, comforting Middle Eastern dish featuring eggs poached in a tangy, shaggy tomato sauce, served with crusty toast.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Palm Sugar Nam Tan Pip",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Canned Crushed Tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Spices (cumin, coriander, paprika)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bread (for serving)",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large cast-iron skillet over medium heat.",
+    "Add the chopped onion and cook, stirring occasionally, until softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and cook, stirring constantly, for 1 minute.",
+    "Stir in the crushed tomatoes, tomato paste, spices, salt, and black pepper. Bring the sauce to a simmer.",
+    "Reduce heat to low and cook, stirring occasionally, for 10-15 minutes, or until the sauce has thickened slightly.",
+    "Create 4 wells in the sauce and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the whites are set and the yolks are cooked to desired doneness.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve the shakshuka hot, with toasted bread on the side for dipping in the sauce.",
+    "Cut the bread into slices and toast until lightly browned.",
+    "Serve the toasted bread alongside the shakshuka."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs",
+    "low-sodium",
+    "middle-eastern",
+    "one-pan",
+    "shakshuka"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "tangy-shaggy-middle-eastern-egg-shakshuka",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-shaggy-middle-eastern-egg-shakshuka",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T05:08:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "sick-day",
+    "technique": "toast",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "egg",
+    "descriptor": "tangy shaggy",
+    "dishForm": "Shakshuka"
+  }
+}
