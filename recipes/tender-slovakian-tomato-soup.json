@@ -1,0 +1,109 @@
+{
+  "title": "Tender Slovikian Tomato Soup",
+  "description": "A traditional Slovikian soup made with a combination of fresh tomatoes and bonito flakes for a rich and savory flavor. Enjoy as a comforting meal during the monsoon season.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "3 lbs",
+      "notes": ""
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp",
+      "notes": "shaved from a bonito block"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato juice",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic in olive oil until softened.",
+    "Add the bonito flakes and cook for 1 minute, stirring constantly.",
+    "Add the caraway seeds and cook for 1 minute, stirring constantly.",
+    "Add the tomatoes, tomato juice, lemon juice, salt, and black pepper. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Purée the soup with an immersion blender until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-soup",
+    "monsoon-recipes"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "tender-slovakian-tomato-soup",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-slovakian-tomato-soup",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:10:19Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "tomato juice",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "tomato",
+    "descriptor": "tender",
+    "dishForm": "soup"
+  }
+}
