@@ -1,0 +1,102 @@
+{
+  "title": "Tender Dutch Veal Braised",
+  "description": "Fermented and tender, this Dutch veal dish is perfect for a lazy Sunday. It features a flavorful combination of veal, onions, and spices, all slow-cooked to perfection.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal shoulder",
+      "amount": "1.5 kg",
+      "notes": "Choose a cut with good marbling for the most tender results"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "250g",
+      "notes": " Button or cremini work well"
+    },
+    {
+      "name": "Bacon",
+      "amount": "200g",
+      "notes": "Smoked or regular, diced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Dutch braising liquid (see below)",
+      "amount": "1 cup",
+      "notes": "Use a store-bought or homemade version"
+    },
+    {
+      "name": "White wine (optional)",
+      "amount": "250ml",
+      "notes": "Use if you prefer a slightly stronger flavor"
+    }
+  ],
+  "instructions": [
+    "Heat your yakimono grill or a large Dutch oven to 140°C.",
+    "Brown the bacon until crispy, then set it aside.",
+    "Add the onions and garlic to the pot and cook until they're softened and translucent.",
+    "Add the mushrooms and cook until they release their liquid and start browning.",
+    "Add the veal to the pot and brown it on all sides.",
+    "Dust the browned veal with flour, then add the Dutch braising liquid, bacon, and onions.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to a preheated oven.",
+    "Braise the veal for 2.5 hours or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Strain the sauce by discarding the solids and bringing the liquid to a simmer.",
+    "Skim off any excess fat that rises to the surface.",
+    "Serve the veal with the strained sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "comfort-food",
+    "dutch",
+    "high-protein",
+    "lazy-sunday",
+    "one-pan",
+    "slow-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 960,
+    "protein": 62,
+    "carbs": 20,
+    "fat": 64
+  },
+  "slug": "tender-dutch-veal-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-dutch-veal-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:29:04Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "veal",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "veal",
+    "descriptor": "tender",
+    "dishForm": "Braised"
+  }
+}

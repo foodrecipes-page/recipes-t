@@ -7217,6 +7217,23 @@
     "shard": "t"
   },
   {
+    "slug": "tender-dutch-veal-braised",
+    "title": "Tender Dutch Veal Braised",
+    "tags": [
+      "braised",
+      "comfort-food",
+      "dutch",
+      "high-protein",
+      "lazy-sunday",
+      "one-pan",
+      "slow-cook",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
     "slug": "tender-earthy-avocado-mousse",
     "title": "Tender Earthy Avocado Mousse with Fermented Ingredients",
     "tags": [
