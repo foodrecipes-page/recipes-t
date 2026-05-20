@@ -1,0 +1,93 @@
+{
+  "title": "tender malty russian kelp borscht",
+  "description": "a hearty russian beet soup featuring dasima-kombu for added depth of flavor, perfect for a chilly evening",
+  "cuisine": "russian",
+  "diet": [
+    "sugar-free",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dasima-kombu",
+      "amount": "2 inches",
+      "notes": "reconstituted in 2 cups of water for at least 4 hours"
+    },
+    {
+      "name": "beets",
+      "amount": "4 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 cup",
+      "notes": "used in place of sugar for added depth of flavor"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "combine dasima-kombu and 2 cups of water in a large pot and bring to a boil",
+    "reduce heat and simmer for 10 minutes",
+    "add beets, carrots, onions, and garlic to the pot and cook for an additional 20 minutes",
+    "add apple cider vinegar and vegetable broth to the pot and stir to combine",
+    "season with salt and pepper to taste",
+    "serve hot, garnished with chopped fresh dill"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "russian",
+    "soup",
+    "sugar-free",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tender-malty-russian-kelp-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malty-russian-kelp-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:03:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "dasima-kombu",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "kelp",
+    "descriptor": "tender malty",
+    "dishForm": "Borscht"
+  }
+}
