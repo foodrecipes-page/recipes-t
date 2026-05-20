@@ -1,0 +1,108 @@
+{
+  "title": "Tangy Light Ukrainian Herbal Bowl",
+  "description": "A light and refreshing Ukrainian dish featuring desiccated coconut, herbs, and juicy vegetables, perfect for a quick lunch or snack.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Desiccated Coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Grind the desiccated coconut in a mortar and pestle into a fine powder.",
+    "Mince the herbs and combine them in a bowl.",
+    "Dice the zucchini, bell pepper, and cucumber into small pieces and add to the bowl.",
+    "Grate the carrots and add to the bowl.",
+    "Mix the lemon juice with a pinch of salt and pour over the vegetables.",
+    "Stir to combine and adjust seasoning as needed.",
+    "Spoon the mixture into an earthenware bowl and drizzle with avocado oil.",
+    "Serve immediately, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "european",
+    "gluten-free",
+    "high-fiber",
+    "low-carb",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "tangy-light-ukrainian-herbal-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-ukrainian-herbal-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:12:16Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "desiccated coconut",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "herbal",
+    "descriptor": "Tangy Light",
+    "dishForm": "Bowl"
+  }
+}
