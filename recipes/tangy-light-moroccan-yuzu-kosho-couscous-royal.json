@@ -1,0 +1,110 @@
+{
+  "title": "Tangy Light Moroccan Yuzu-Kosho Couscous Royal",
+  "description": "A comforting, lacto-vegetarian-friendly Moroccan dish, featuring tangy yuzu-kosho and crunchy nuka-pickle, all wrapped in a light and fluffy couscous. This recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Couscous (1 cup)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2.5",
+      "notes": "For cooking couscous."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking vegetables."
+    },
+    {
+      "name": "Small Onion",
+      "amount": "1",
+      "notes": "Finely chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Yuzu Kosho",
+      "amount": "2 teaspoons",
+      "notes": "See notes for making yuzu kosho from scratch."
+    },
+    {
+      "name": "Nuka Pickle (1 cup)",
+      "amount": "1",
+      "notes": "See notes for making nuka pickle from scratch."
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring the water to a boil. Reduce heat to low and cover with a lid, cooking for 5 minutes or according to package instructions for couscous.",
+    "In a large skillet, heat the vegetable oil over medium-high heat. Add the chopped onion and cook until softened, 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the nuka pickle to the skillet and stir to combine with the onion and garlic mixture.",
+    "Stir in the yuzu kosho and cook for 1-2 minutes, until fragrant.",
+    "Add the cooked couscous to the skillet and stir to combine with the onion, garlic, and nuka pickle mixture.",
+    "Stir in the chopped cilantro, lemon juice, and salt.",
+    "Taste and adjust seasoning as needed.",
+    "Serve warm, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "couscous",
+    "lacto-vegetarian",
+    "moroccan",
+    "nuka-pickle",
+    "one-pan",
+    "weeknight",
+    "yuzu-kosho"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tangy-light-moroccan-yuzu-kosho-couscous-royal",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-light-moroccan-yuzu-kosho-couscous-royal",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:55:46Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "yuzu-kosho",
+    "descriptor": "tangy light",
+    "dishForm": "Couscous Royal"
+  }
+}
