@@ -1,0 +1,94 @@
+{
+  "title": "Tangy Juicy Turkish Rice Paper Rolls",
+  "description": "Delight in these energizing Turkish rice paper rolls, filled with crunchy vegetables and zesty spices, perfect for a satvik-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice paper sheets",
+      "amount": "12-15 sheets",
+      "notes": ""
+    },
+    {
+      "name": "minced lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "seed and chop"
+    }
+  ],
+  "instructions": [
+    "Soak the rice paper sheets in warm water for about 5 minutes, until they become pliable and easy to handle.",
+    "Prepare the filling by finely chopping the onion, garlic, carrot, cucumber, and tomato, and saut\u00003e them in a pan with sesame oil until they are tender and lightly browned.",
+    "Add the minced lamb to the pan and cook until it is browned, breaking it up with a spoon as it cooks.",
+    "Add the cumin, black pepper, salt, lemon juice, and honey to the pan and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "To assemble the rolls, lay a rice paper sheet flat on a clean surface and place a tablespoon of the filling in the center of the sheet.",
+    "Fold the bottom edge of the sheet up over the filling, and then fold in the sides and roll the sheet up to form a tight cylinder.",
+    "Repeat with the remaining rice paper sheets and filling.",
+    "Heat the ttukbaegi cooking liquid in the ttukbaegi earthenware pot over medium heat until it is hot and bubbly.",
+    "Add the rolls to the pot and cook for about 5 minutes, until they are lightly browned and crispy.",
+    "Serve the rolls hot, garnished with chopped fresh parsley and mint, and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "party-appetizer",
+    "rice-paper-rolls",
+    "satvik",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "tangy-juicy-turkish-rice-paper-rolls",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-juicy-turkish-rice-paper-rolls",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:40:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "rice paper",
+    "descriptor": "tangy juicy",
+    "dishForm": "Rolls"
+  }
+}
