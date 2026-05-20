@@ -791,6 +791,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-crisp-croatian-fajita-skewers",
+    "title": "Tangy Crisp Croatian Fajita Skewers",
+    "tags": [
+      "croatian",
+      "date-night",
+      "grilled",
+      "high-protein",
+      "one-pan"
+    ],
+    "cuisine": "croatian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-crisp-italian-chicken-salad",
     "title": "Tangy Crisp Italian Chicken Salad",
     "tags": [

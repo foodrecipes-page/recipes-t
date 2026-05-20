@@ -1,0 +1,105 @@
+{
+  "title": "Tangy Crisp Croatian Fajita Skewers",
+  "description": "A flavorful and healthy date-night dish featuring fajita seasoned chicken and shrimp, served with a tangy dashi-based sauce and a side of saut\u00139d vegetables.",
+  "cuisine": "croatian",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces for skewers"
+    },
+    {
+      "name": "Large shrimp, peeled and deveined",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces for skewers"
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "2 tsp",
+      "notes": "Use store-bought or homemade blend"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "2 tsp",
+      "notes": "Use store-bought or homemade dashi extract"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed, or bottled as a substitute"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers during cooking"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "Any color, sliced into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": "Sliced into 1-inch pieces"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced, or 2 cups of fresh cherry tomatoes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400\u00189f.",
+    "Thread chicken, shrimp, bell peppers, onion, zucchini, and tomatoes onto skewers, leaving space between each piece.",
+    "Brush the skewers with olive oil and sprinkle with fajita seasoning.",
+    "Grill skewers for about 8-10 minutes, turning occasionally, or until chicken is cooked through and vegetables are tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "croatian",
+    "date-night",
+    "grilled",
+    "high-protein",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "tangy-crisp-croatian-fajita-skewers",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crisp-croatian-fajita-skewers",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:55:21Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "fajita",
+    "descriptor": "tangy crisp",
+    "dishForm": "skewers"
+  }
+}
