@@ -1,0 +1,137 @@
+{
+  "title": "Berbere Stew",
+  "description": "A tangy and comforting Ethiopian stew featuring dried mint, served in a corn-husk wrap. This stew is a flavorful and healthy option, perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": " peeled and grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Corn-husk wraps",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat. Add the onion and cook until softened, about 5 minutes. Add the garlic and cook for another minute. Add the carrots and zucchini and cook for 5 minutes, stirring occasionally. Add the bell pepper and cook for another 5 minutes. Add the Berbere spice blend and cook for 1 minute, stirring constantly. Add the tomato paste and cook for 1 minute, stirring constantly. Add the vegetable broth and water, and bring to a boil. Reduce the heat to low and simmer, covered, for 20 minutes. Stir in the dried mint and season with salt and black pepper. Serve hot in corn-husk wraps.",
+    "Cook the corn-husk wraps according to the package instructions.",
+    "Prepare all the ingredients according to the package instructions or as needed.",
+    "Heat the oil in a small pan over low heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrots and zucchini and cook for 5 minutes, stirring occasionally.",
+    "Add the bell pepper and cook for another 5 minutes.",
+    "Add the Berbere spice blend and cook for 1 minute, stirring constantly.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and water, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the dried mint and season with salt and black pepper.",
+    "Serve hot in corn-husk wraps."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian",
+    "gluten-free",
+    "herbaceous",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tangy-herbaceous-ethiopian-stew-berbere-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-herbaceous-ethiopian-stew-berbere-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:16:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "stir-fry",
+    "primaryIngredient": "dried mint",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "stew",
+    "descriptor": "Tangy Herbaceous",
+    "dishForm": "Berbere Stew"
+  }
+}

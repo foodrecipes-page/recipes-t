@@ -2332,6 +2332,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-herbaceous-ethiopian-stew-berbere-stew",
+    "title": "Berbere Stew",
+    "tags": [
+      "comfort-food",
+      "ethiopian",
+      "gluten-free",
+      "herbaceous",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-indian-basil-curry",
     "title": "Tangy Indian Basil Curry",
     "tags": [
