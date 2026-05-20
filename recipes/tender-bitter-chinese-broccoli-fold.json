@@ -1,0 +1,108 @@
+{
+  "title": "Tender Bitter Chinese Broccoli Fold",
+  "description": "A keto-friendly, Cantonese-inspired dish featuring tender purple-sprouting-broccoli and a rich, savory sauce.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Purple-Sprouting Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a wok or large skillet over medium-high heat.",
+    "Heat the wok or skillet until the oil is almost smoking.",
+    "Add the grated ginger and minced garlic and stir-fry until fragrant.",
+    "Add the soy sauce, oyster sauce, rice vinegar, and sugar.",
+    "Stir-fry the sauce for 1-2 minutes, or until it has thickened slightly.",
+    "Add the chopped scallions and stir-fry for 1 minute.",
+    "Add the purple-sprouting broccoli and stir-fry until it is tender but still crisp.",
+    "Season with salt and black pepper to taste.",
+    "Serve the broccoli fold hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "paleo",
+    "quick-and-easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "tender-bitter-chinese-broccoli-fold",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-bitter-chinese-broccoli-fold",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:22:03Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "fold",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "keto",
+    "region": "cantonese",
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "Broccoli",
+    "descriptor": "tender bitter",
+    "dishForm": "Fold"
+  }
+}
