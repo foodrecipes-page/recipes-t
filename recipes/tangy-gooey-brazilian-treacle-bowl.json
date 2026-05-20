@@ -1,0 +1,113 @@
+{
+  "title": "Tangy Gooey Brazilian Treacle Bowl",
+  "description": "A light and refreshing Brazilian dish featuring treacle, served in a stone bowl. This dish is perfect for a weeknight dinner or a quick snack.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "treacle",
+      "amount": "1/2 cup",
+      "notes": "Brazilian-style muscovado sugar syrup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "finely grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "stone-ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dolsot stoneware bowl",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Place the treacle, coconut milk, ginger, lime juice, sugar, butter, cilantro, coconut oil, salt, cumin, and black pepper in a blender and blend until smooth.",
+    "Pour the mixture into a dolsot stoneware bowl and place it in the oven.",
+    "Bake for 12 minutes, or until the treacle is bubbly and slightly caramelized.",
+    "Serve the treacle bowl hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "comfort-food",
+    "dolsot",
+    "gluten-free",
+    "one-pan",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "tangy-gooey-brazilian-treacle-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-gooey-brazilian-treacle-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:53Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "treacle",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "treacle",
+    "descriptor": "tangy gooey",
+    "dishForm": "bowl"
+  }
+}
