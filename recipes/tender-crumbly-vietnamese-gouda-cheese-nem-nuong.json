@@ -1,0 +1,113 @@
+{
+  "title": "Tender Crumbly Vietnamese Gouda Cheese Nem Nuong",
+  "description": "A delicious, satvik-friendly, one-pot Vietnamese dish featuring crumbly Gouda cheese, herbs, and a broiled scallop-shell vessel.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh cilantro leaves",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3g",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "3g",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "20g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1g"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "4-6"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Clean and prepare the scallop shells by rinsing them under cold water and drying them with a paper towel.",
+    "Cut the Gouda cheese into small crumbles.",
+    "In a large mixing bowl, combine the chopped herbs, garlic, ginger, salt, and black pepper.",
+    "Add the coconut milk and lime juice to the bowl and mix until well combined.",
+    "Add the crumbled Gouda cheese to the bowl and mix until fully incorporated.",
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Add the herb-coconut cheese mixture to the skillet and stir constantly until the cheese is melted and the mixture is heated through.",
+    "Spoon the mixture into the prepared scallop shells and place them on a baking sheet lined with parchment paper.",
+    "Broil the nem nuong in the preheated oven for 2-3 minutes, or until the cheese is golden brown and the shells are lightly charred.",
+    "Serve the nem nuong hot, garnished with additional fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "healthy",
+    "herbs",
+    "high-protein",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "tender-crumbly-vietnamese-gouda-cheese-nem-nuong",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-crumbly-vietnamese-gouda-cheese-nem-nuong",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:35:28Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "broil",
+    "primaryIngredient": "gouda cheese",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Gouda cheese",
+    "descriptor": "Tender Crumbly",
+    "dishForm": "Nem Nuong"
+  }
+}
