@@ -3590,6 +3590,19 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-solo-uruguayan-chicken-dinner",
+    "title": "tangy solo uruguayan chicken dinner",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-spicy-ethiopian-lamb-stew",
     "title": "Tangy Spicy Ethiopian Lamb Stew",
     "tags": [

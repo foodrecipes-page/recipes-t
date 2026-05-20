@@ -1,0 +1,62 @@
+{
+  "title": "tangy solo uruguayan chicken dinner",
+  "description": "a flavorful and comforting dish from uruguay, featuring tender chicken, an aromatic broth, and a tangy twist.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "chicken bouillon powder",
+      "amount": "2 tsp",
+      "notes": "kosher-friendly"
+    }
+  ],
+  "instructions": [
+    "in a large saucepan, combine chicken breast, chicken bouillon powder, and 2 cups of water.",
+    "bring to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "in a small bowl, whisk together 2 cups of water and 2 tsp of dashi extract.",
+    "stir the dashi mixture into the saucepan and continue to simmer for another 5 minutes.",
+    "season with salt and pepper to taste.",
+    "serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "tangy-solo-uruguayan-chicken-dinner",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-solo-uruguayan-chicken-dinner",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:10:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chicken bouillon powder",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "chicken",
+    "descriptor": "tangy solo",
+    "dishForm": "dinner"
+  }
+}
