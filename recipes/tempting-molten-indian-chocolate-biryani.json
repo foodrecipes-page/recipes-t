@@ -1,0 +1,107 @@
+{
+  "title": "tempting molten indian chocolate biryani",
+  "description": "a quick-fix indian-inspired dish featuring dark chocolate chips, kombu-extract, and crispy onions",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "use short-grain rice for better texture"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    },
+    {
+      "name": "kombu extract",
+      "amount": "2 tsp",
+      "notes": "make sure to use the cold-extract"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter adds flavor"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "thinly sliced for crispy texture"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tsp",
+      "notes": "grate fresh ginger for best flavor"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 tsp",
+      "notes": "ground cardamom adds warmth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/4 cup",
+      "notes": "chopped for texture"
+    }
+  ],
+  "instructions": [
+    "heat ghee in a large wooden-board pan over medium heat",
+    "add sliced onions and cook until crispy, about 3 minutes",
+    "add ginger paste and cook for 1 minute",
+    "add basmati rice and cook for 2-3 minutes, until lightly toasted",
+    "add kombu extract, cinnamon powder, cardamom powder, and salt; stir to combine",
+    "add dark chocolate chips and stir to melt",
+    "add cashews and stir to combine",
+    "transfer the mixture to a serving dish",
+    "serve hot, garnished with additional cashews and onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dessert",
+    "indian-inspired",
+    "molten-chocolate",
+    "o-vegan-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "tempting-molten-indian-chocolate-biryani",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tempting-molten-indian-chocolate-biryani",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:44:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "dark chocolate chips",
+    "diet": "ovo-vegetarian",
+    "region": "bengali",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Tempting Molten",
+    "dishForm": "Biryani"
+  }
+}
