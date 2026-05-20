@@ -1,0 +1,141 @@
+{
+  "title": "Tender Peppery Adventurous British (Cornish) Chestnut Mushroom Shepherd's Pie",
+  "description": "A rich, peppery dish featuring chestnut mushrooms, inspired by traditional British Cornish cuisine. Perfect for a cozy dinner on a chilly evening.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chestnut Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose Flour (gluten-free alternative: rice flour)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Small Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine (gluten-free option: red grape juice)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-free Worcestershire Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs (gluten-free alternative: gluten-free breadcrumbs)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg Yolk",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat. Add the sliced mushrooms and cook until golden brown, about 3-4 minutes. Set aside.",
+    "In the same skillet, add butter and sauté the diced onion until translucent, about 2-3 minutes. Add garlic and cook for an additional minute.",
+    "Add the beef stock and red wine to the skillet, scraping any browned bits from the bottom. Bring the mixture to a simmer and cook for 5 minutes, reducing the liquid by half.",
+    "Stir in the gluten-free Worcestershire sauce, salt, and black pepper. Cook for 1 minute, then add the cooked mushrooms back into the skillet.",
+    "In a separate bowl, whisk together the heavy cream and grated cheddar cheese until smooth. Add the egg yolk and mix until well combined.",
+    "Stir the cream cheese mixture into the mushroom mixture in the skillet. Cook for 2-3 minutes, until the mixture is heated through.",
+    "Transfer the mixture to a greased 9x13-inch baking dish. Top with breadcrumbs, then drizzle with additional olive oil if desired.",
+    "To make the egg wash, whisk together the remaining egg yolk and a pinch of water. Brush the egg wash over the top of the crust.",
+    "Bake the shepherd's pie in the preheated oven for 20-25 minutes, until the crust is golden brown and the filling is hot and bubbly.",
+    "Remove from the oven and let cool for 5 minutes before serving. Garnish with chopped parsley and serve hot.",
+    "Cover and refrigerate leftovers for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish",
+    "gluten-free",
+    "hearty",
+    "mushroom",
+    "shepherd-s-pie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-peppery-adventurous-british-cornish-chestnut-mushroom-shepherd-s-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-peppery-adventurous-british-cornish-chestnut-mushroom-shepherd-s-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:49:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "grill",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "gluten-free",
+    "region": "cornish",
+    "cuisineAdjective": "adventurous british (cornish)",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "tender peppery",
+    "dishForm": "Shepherd's Pie"
+  }
+}
