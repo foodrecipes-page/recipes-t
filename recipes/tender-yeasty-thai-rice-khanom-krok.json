@@ -1,0 +1,95 @@
+{
+  "title": "Tender Yeasty Thai Khanom Krok",
+  "description": "Khanom Krok is a traditional Thai steamed cake dessert. Enjoy with a savory twist by using chinese sesame sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": "warm water for activating yeast"
+    },
+    {
+      "name": "chinese sesame sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing robata grill"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine rice flour, yeast, sugar, and salt.",
+    "Gradually add warm water, stirring with a wooden spoon until a smooth batter forms.",
+    "Cover the bowl with plastic wrap and let the mixture rest in a warm place for 1 hour.",
+    "Stir in chinese sesame sauce and mix well.",
+    "Divide the batter into 6 equal portions and shape each portion into a small cylinder.",
+    "Heat the robata grill over medium heat and grease with vegetable oil.",
+    "Place the cylinders on the grill and cook for 2-3 minutes on each side, or until golden brown.",
+    "Serve warm with your favorite toppings.",
+    "Repeat with remaining batter, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "easy-to-make",
+    "one-pot",
+    "steamed",
+    "traditional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 48,
+    "fat": 4
+  },
+  "slug": "tender-yeasty-thai-rice-khanom-krok",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-yeasty-thai-rice-khanom-krok",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T14:54:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chinese sesame sauce",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "rice",
+    "descriptor": "Tender Yeasty",
+    "dishForm": "Khanom Krok"
+  }
+}
