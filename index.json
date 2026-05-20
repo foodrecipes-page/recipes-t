@@ -9072,6 +9072,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-saudi-arabian-lamb-kebabs",
+    "title": "Saudi Arabian Lamb Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "low-carb",
+      "middle-eastern",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tender-saudi-arabian-lamb-tagine",
     "title": "Tender Saudi Arabian Lamb Tagine",
     "tags": [

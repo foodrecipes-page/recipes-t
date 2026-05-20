@@ -1,0 +1,113 @@
+{
+  "title": "Saudi Arabian Lamb Kebabs",
+  "description": "Winey, tender lamb kebabs featuring lamb loin chops, perfect for a weekend brunch. This dish is low in carbs and high in protein, making it a great choice for a post-workout meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400 degrees Fahrenheit).",
+    "Thread lamb loin chops onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together olive oil, lemon juice, garlic, ginger, salt, black pepper, paprika, and red pepper flakes.",
+    "Brush the mixture evenly onto both sides of the lamb kebabs.",
+    "Place the kebabs on the grill and cook for 4-5 minutes per side, or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Transfer the kebabs to a plate and let them rest for 5 minutes.",
+    "Sprinkle with chopped parsley and sumac before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "low-carb",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 52,
+    "carbs": 5,
+    "fat": 22
+  },
+  "slug": "tender-saudi-arabian-lamb-kebabs",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-saudi-arabian-lamb-kebabs",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:26:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "tender",
+    "dishForm": "Kebabs"
+  }
+}
