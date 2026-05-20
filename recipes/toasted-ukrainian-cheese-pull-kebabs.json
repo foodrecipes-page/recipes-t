@@ -1,0 +1,106 @@
+{
+  "title": "Toasted Ukrainian Cheese Pull Kebabs with Chocolate Swirls",
+  "description": "Indulge in this nutty, sweet, and savory Ukrainian dish featuring gooey cheese pull and rich milk chocolate. Perfect for a cozy evening.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian-style borscht cheese",
+      "amount": "12 oz",
+      "notes": "preferably from a local dairy"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Milk chocolate chips",
+      "amount": "8 oz",
+      "notes": "at least 40% cocoa"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": "whisked for binding"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dusting kebabs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Sliced bread",
+      "amount": "4-6 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium heat (around 375°F/190°C).",
+    "Prepare the cheese mixture by crumbling the borscht cheese into a large bowl.",
+    "Whisk the eggs in a separate bowl and add to the cheese mixture. Mix well until combined.",
+    "Stir in the milk chocolate chips until the cheese mixture is evenly coated.",
+    "Knead the mixture for about 5 minutes until it forms a cohesive dough.",
+    "Cut the dough into 4-6 equal pieces, depending on desired kebab size.",
+    "Thread each piece onto skewers, leaving a small gap between each piece.",
+    "Dust the kebabs with flour, shaking off excess.",
+    "Brush the bread slices with butter on both sides.",
+    "Grill the bread slices until lightly toasted, then set aside.",
+    "Brush the kebabs with a little bit of butter and place on the grill, cook for 2-3 minutes per side or until golden brown.",
+    "Remove the kebabs from the grill and let them cool for 1-2 minutes before serving with toasted bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-option",
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "toasted-ukrainian-cheese-pull-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-ukrainian-cheese-pull-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:49:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "milk chocolate",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Toasted",
+    "dishForm": "Kebabs"
+  }
+}
