@@ -1,0 +1,96 @@
+{
+  "title": "thick Sticky Sweet Thai Frankfurter Satay",
+  "description": "A savory, springy, festive Thai (Isaan) dish featuring Frankfurter, perfect for any meal",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Frankfurter sausage",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "50",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "250",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "20",
+      "notes": ""
+    },
+    {
+      "name": "Copper mug",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat",
+    "Thread the Frankfurter sausage onto skewers",
+    "Grill the Frankfurter for 3-4 minutes on each side, or until cooked through",
+    "Meanwhile, heat the coconut milk and palm sugar in a saucepan over medium heat",
+    "Bring the coconut milk mixture to a simmer and cook for 2-3 minutes, or until thickened",
+    "Remove the Frankfurter from the grill and add to the coconut milk sauce",
+    "Toss to coat the Frankfurter in the sauce",
+    "Garnish with cilantro and serve in copper mugs",
+    "Serve immediately, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "grilled-frankfurter",
+    "isian",
+    "satay",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "thick-sticky-sweet-thai-frankfurter-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-sticky-sweet-thai-frankfurter-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:54:30Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "festive",
+    "technique": "candy",
+    "primaryIngredient": "frankfurter",
+    "diet": "nut-free",
+    "region": "isaan",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "frankfurter",
+    "descriptor": "thick sticky sweet",
+    "dishForm": "Satay"
+  }
+}
