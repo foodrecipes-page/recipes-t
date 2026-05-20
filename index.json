@@ -4978,6 +4978,19 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-indulgent-mincemeat-pilaf",
+    "title": "Tasty Indulgent Mincemeat Pilaf",
+    "tags": [
+      "indulgent-indian",
+      "lacto-vegetarian",
+      "melt-in-your-mouth",
+      "one-pan-dish"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-jamaican-chicken-curry",
     "title": "Tasty Jamaican Chicken Curry",
     "tags": [

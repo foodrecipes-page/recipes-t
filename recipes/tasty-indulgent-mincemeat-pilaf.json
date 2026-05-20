@@ -1,0 +1,84 @@
+{
+  "title": "Tasty Indulgent Mincemeat Pilaf",
+  "description": "A nutty and indulgent Indian-inspired dish featuring mincemeat, mother-sauce-base, and lacto-vegetarian-friendly elements.",
+  "cuisine": "Indian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup mincemeat",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp ghee",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp ground cardamom",
+      "amount": ""
+    },
+    {
+      "name": "1/8 tsp saffron",
+      "amount": ""
+    },
+    {
+      "name": "1 cup basmati rice",
+      "amount": "cup"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "cup"
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": ""
+    },
+    {
+      "name": "Fresh fruit compote (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a pan and add the mincemeat, stirring to coat.",
+    "Stir in cardamom and saffron; cook for about 5 minutes until fragrant.",
+    "Rinse the rice and place it in a medium saucepan with water. Bring to a boil.",
+    "Reduce heat to low, cover, and simmer until all the water is absorbed (about 10-12 minutes).",
+    "Fold the cooked rice into the mincemeat mixture and stir well.",
+    "If desired, serve warm over fresh fruit compote for an extra indulgent touch."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent-indian",
+    "lacto-vegetarian",
+    "melt-in-your-mouth",
+    "one-pan-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "tasty-indulgent-mincemeat-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-indulgent-mincemeat-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-20T22:19:44Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "mincemeat",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Indulgent",
+    "dishForm": "Pilaf"
+  }
+}
