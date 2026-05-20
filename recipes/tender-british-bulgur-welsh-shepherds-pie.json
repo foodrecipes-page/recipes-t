@@ -1,0 +1,123 @@
+{
+  "title": "Tender British Bulgur Welsh Shepherd's Pie",
+  "description": "A rich and comforting dish featuring bulgur wheat, kombu-cold-extract, and a blend of cheeses.",
+  "cuisine": "Welsh",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bulgur wheat",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Kombu-cold-extract",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Finely chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Agave leaf",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mozzarella",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Sauté chopped onion and minced garlic in a saucepan until softened.",
+    "Add ground lamb, smoked paprika, salt, and black pepper. Cook until the lamb is browned, breaking it up into small pieces.",
+    "Add bulgur wheat, kombu-cold-extract, and chopped parsley. Stir to combine and cook for 5 minutes.",
+    "Transfer the mixture to a large bowl and stir in cottage cheese, shredded cheddar cheese, and vegan mozzarella.",
+    "Cut the agave leaf into a pie dish shape and place it in the bottom of a 9x13 inch baking dish.",
+    "Fill the agave leaf with the bulgur mixture and cover with another agave leaf, pressing the edges to seal.",
+    "Bake for 25 minutes, then reduce heat to 350°F (175°C) and bake for an additional 15 minutes.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "vegan-options",
+    "weeknight",
+    "welsh"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 40
+  },
+  "slug": "tender-british-bulgur-welsh-shepherds-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-british-bulgur-welsh-shepherds-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:29:30Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "jain",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "bulgur",
+    "descriptor": "tender",
+    "dishForm": "Welsh Shepherds Pie"
+  }
+}
