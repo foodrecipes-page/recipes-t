@@ -1,0 +1,114 @@
+{
+  "title": "Tangy Creamy American Coriander Salad",
+  "description": "A kid-friendly, flavorful salad made with coriander leaves, a tangy dressing, and crunchy toppings.",
+  "cuisine": "american",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Coriander leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Tadka oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped carrots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the tadka oil over medium heat.",
+    "Add the chopped onions and saut\u00146e until they're translucent.",
+    "Add the chopped bell peppers and carrots, and saut\u00146e for 2-3 minutes more.",
+    "In a large bowl, combine the coriander leaves, rice vinegar, olive oil, ginger paste, and crushed cumin seeds.",
+    "Add the cooked vegetables to the bowl and toss to combine.",
+    "Season with salt to taste, and add water as needed to achieve the desired consistency.",
+    "Serve the salad chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-to-make",
+    "kid-friendly",
+    "quick",
+    "salad",
+    "tamasic",
+    "vegetarian",
+    "vinaigrette"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "tangy-creamy-american-coriander-salad",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-creamy-american-coriander-salad",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:34:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "coriander leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "coriander",
+    "descriptor": "tangy creamy",
+    "dishForm": "salad"
+  }
+}

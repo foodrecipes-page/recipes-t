@@ -584,6 +584,23 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-creamy-american-coriander-salad",
+    "title": "Tangy Creamy American Coriander Salad",
+    "tags": [
+      "ayurvedic",
+      "easy-to-make",
+      "kid-friendly",
+      "quick",
+      "salad",
+      "tamasic",
+      "vegetarian",
+      "vinaigrette"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-creamy-argentinian-tofu-bisque",
     "title": "Tangy Creamy Argentinian Tofu Bisque",
     "tags": [
@@ -8669,6 +8686,21 @@
       "one-pot",
       "travel-friendly",
       "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-moroccan-fish-tagine",
+    "title": "Tender Moroccan Fish Tagine",
+    "tags": [
+      "fish",
+      "gluten-free",
+      "high-protein",
+      "moroccan",
+      "quick-cooking",
+      "tagine"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 45,

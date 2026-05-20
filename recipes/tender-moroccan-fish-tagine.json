@@ -1,0 +1,67 @@
+{
+  "title": "Tender Moroccan Fish Tagine",
+  "description": "A briny, tender Moroccan dish featuring sashimi-cut fish and a unique blend of spices. Serve warm, garnished with fresh cilantro and preserved lemons.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce (ae-kjeot)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a mortar and pestle, grind the cumin, coriander, and cinnamon into a fine powder.",
+    "Heat 2 tablespoons of oil in a Dutch oven over medium heat.",
+    "Add the sliced ginger and cook for 2 minutes, stirring occasionally.",
+    "Add the ground spices and stir to combine."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "quick-cooking",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tender-moroccan-fish-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-moroccan-fish-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:35:04Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fish",
+    "descriptor": "Tender",
+    "dishForm": "Tagine"
+  }
+}
