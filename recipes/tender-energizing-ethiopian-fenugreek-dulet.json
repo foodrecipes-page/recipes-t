@@ -1,0 +1,124 @@
+{
+  "title": "Tender Energizing Ethiopian Fenugreek Dulet",
+  "description": "A traditional Ethiopian fermented dish that's high in protein and fiber, perfect for breakfast or lunch. Fenugreek seeds and lamination puff add a unique flavor and texture.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fenugreek seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lamination puff (or injera)",
+      "amount": "4 pieces",
+      "notes": "Cut into small squares."
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 cup",
+      "notes": "Drained and rinsed."
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Microgreens (optional)",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    }
+  ],
+  "instructions": [
+    "Combine fenugreek seeds and water in a bowl and let it ferment for 24 hours at room temperature.",
+    "Strain the liquid and discard the solids.",
+    "Cut the lamination puff into small squares and soak them in water for 30 minutes.",
+    "Drain the lamination puff and grind them into a fine paste using a blender or food processor.",
+    "Heat oil in a pan over medium heat and sauté the chopped onion until it's translucent.",
+    "Add the minced garlic and grated ginger and sauté for another minute.",
+    "Add the chickpeas, cumin, coriander, turmeric, and salt. Cook for 5 minutes.",
+    "Add the fenugreek liquid and cook for another 10 minutes.",
+    "Add the lamination puff paste and stir well.",
+    "Cook for another 5 minutes and adjust the seasoning as needed.",
+    "Garnish with chopped microgreens if using.",
+    "Serve warm or at room temperature.",
+    "Refrigerate any leftovers for up to 3 days and reheat before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "fermented",
+    "gluten-free",
+    "lunch",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "tender-energizing-ethiopian-fenugreek-dulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-energizing-ethiopian-fenugreek-dulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:14:01Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "lamination-puff",
+    "primaryIngredient": "fenugreek",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "fenugreek",
+    "descriptor": "tender energizing",
+    "dishForm": "Dulet"
+  }
+}
