@@ -1,0 +1,111 @@
+{
+  "title": "Tender Citrusy Ukrainian Lamb Noodles",
+  "description": "A comforting Ukrainian dish featuring brown rice noodles, tangy nuka-pickle, and a dairy-free friendly citrusy cream sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh or refrigerated"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "preferably boneless"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with other neutral oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "dairy-free cream",
+      "amount": "1 cup",
+      "notes": "such as soy or coconut-based"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice noodles according to package instructions and set aside.",
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, pepper, and your desired herbs or spices. Roast in the preheated oven for 2-3 hours, or until tender and easily shredded.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Stir in the nuka-pickle, lemon juice, and dairy-free cream. Bring the mixture to a simmer.",
+    "Add the cooked noodles to the skillet and toss with the sauce until well coated.",
+    "Add the shredded lamb to the skillet and toss to combine.",
+    "Season the dish with salt, pepper, and chopped fresh dill (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 210,
+  "totalTimeMin": 230,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "high-fiber",
+    "one-pan",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 28
+  },
+  "slug": "tender-citrusy-ukrainian-lamb-noodles",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-citrusy-ukrainian-lamb-noodles",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:42:42Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "lamb",
+    "descriptor": "Tender Citrusy",
+    "dishForm": "Noodles"
+  }
+}
