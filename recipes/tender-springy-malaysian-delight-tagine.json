@@ -1,0 +1,60 @@
+{
+  "title": "Tender Springy Malaysian Delight Tagine",
+  "description": "A cozy Malaysian dish featuring cilantro and binchotan-charcoal, perfect for a spring evening. The flavors are winey and rich, yet light and refreshing.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "",
+      "notes": "for heat source"
+    }
+  ],
+  "instructions": [
+    "Heat the binchotan charcoal in a chimney starter until it is fully ignited.",
+    "Transfer the charcoal to the ceramic tagine and light it to a low heat.",
+    "Rinse 1.5 lbs of chicken breast and pat it dry with paper towels.",
+    "Add the chicken to the tagine and cook for 10 minutes on each side, or until it reaches an internal temperature of 165°F."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charcoal-grilled",
+    "easy-weeknight",
+    "malaysian",
+    "spring"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 67,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "tender-springy-malaysian-delight-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-springy-malaysian-delight-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:47:41Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cilantro",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "delight",
+    "descriptor": "Tender Springy",
+    "dishForm": "Tagine"
+  }
+}
