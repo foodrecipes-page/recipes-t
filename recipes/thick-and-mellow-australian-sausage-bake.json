@@ -1,0 +1,105 @@
+{
+  "title": "Thick and Mellow Australian Sausage Bake",
+  "description": "A hearty, comforting dish to cure even the worst hangover. Made with savory sausages, crispy bonito shavings and pillowy mashed potatoes.",
+  "cuisine": "Australian",
+  "diet": [
+    "sattvic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Australian sausages",
+      "amount": "4",
+      "notes": "Choose a sattvic-friendly brand"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "3 large",
+      "notes": ""
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tbsp",
+      "notes": "Adds a malty flavor"
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "Use for garnish"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the sausages in a pan over medium heat until browned, about 5 minutes.",
+    "In a separate pan, cook the garlic and onion until softened, about 3 minutes.",
+    "Add the mashed potatoes to the pan and stir to combine with garlic and onion.",
+    "Transfer the sausage mixture to a baking dish and top with mashed potato mixture.",
+    "Sprinkle bread crumbs on top and drizzle with malt vinegar.",
+    "Bake in the preheated oven for 20 minutes, or until the top is golden brown.",
+    "Garnish with bonito flakes and serve hot.",
+    "Serve with your favorite sides, such as toast or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "thick-and-mellow-australian-sausage-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/thick-and-mellow-australian-sausage-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:07:06Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "hangover-cure",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sausage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Sausage",
+    "descriptor": "Thick and Mellow",
+    "dishForm": "Bake"
+  }
+}
