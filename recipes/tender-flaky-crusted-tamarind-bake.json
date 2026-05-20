@@ -1,0 +1,112 @@
+{
+  "title": "Tender Flaky Crusted Tamarind Bake",
+  "description": "A nutty and flaky Mediterranean dish featuring a tamarind ball, perfect for a comforting meal. This lacto-vegetarian-friendly recipe is a twist on a traditional Mediterranean dessert.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Kamut or spelt flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the all-purpose flour, Kamut or spelt flour, salt, cumin, and cinnamon.",
+    "In a separate bowl, whisk together the melted butter, yogurt, egg, milk, tahini, and honey.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Knead the dough for 5 minutes until smooth.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "Roll out the dough on a lightly floured surface to a thickness of 1/4 inch (6 mm).",
+    "Cut the dough into 4-6 equal pieces, depending on desired size.",
+    "Shape each piece into a ball and press slightly to flatten.",
+    "Place a tamarind ball in the center of each piece of dough.",
+    "Fold the dough over the tamarind to form a ball and press the edges together to seal.",
+    "Place the tamarind bakes on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each bake.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dessert",
+    "gluten-free-options",
+    "mediterranean",
+    "spring-recipe",
+    "vegan-options",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 28,
+    "fat": 10
+  },
+  "slug": "tender-flaky-crusted-tamarind-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-flaky-crusted-tamarind-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:14:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "tamarind ball",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Tender Flaky Crusted",
+    "dishForm": "Bake"
+  }
+}
