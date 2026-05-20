@@ -1,0 +1,111 @@
+{
+  "title": "tangy cheese-pull Ukrainian porcini Bao",
+  "description": "A quick-fix, ayurvedic-rajasic-friendly Ukrainian dish featuring porcini and a tangy cheese pull. Serve in a soft, fluffy bao bun.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "porcini mushrooms",
+      "amount": "8 oz",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 package",
+      "notes": "active dry"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "2 tbsp",
+      "notes": "tangy herb oil"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, sugar, and warm water to activate yeast.",
+    "Add flour to the bowl and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Place the dough in a greased bowl, cover, and let rise for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough and cut into 4-6 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into disks.",
+    "Heat a non-stick skillet over medium heat.",
+    "Cook the bao for 2-3 minutes per side, until golden brown.",
+    "Meanwhile, sauté sliced porcini mushrooms in the skillet with infuse-oil until tender.",
+    "Assemble the bao by placing a spoonful of sautéed porcini on each disk, then top with a spoonful of shredded cheddar cheese.",
+    "Place the bao under the broiler for 30-60 seconds, until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "cheese-pull",
+    "one-pan",
+    "porcini",
+    "quick-fix",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "tangy-cheese-pull-ukrainian-porcini-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-cheese-pull-ukrainian-porcini-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:40:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "porcini",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "porcini",
+    "descriptor": "tangy cheese-pull",
+    "dishForm": "Bao"
+  }
+}
