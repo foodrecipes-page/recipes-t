@@ -1,0 +1,118 @@
+{
+  "title": "Tangy Zesty Russian Cheese Wrap",
+  "description": "A festive dish featuring monterey jack cheese, katsuramuki-cut, served in a low-calorie pandan-leaf wrap. Perfect for a weeknight dinner or lunch on-the-go.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pandan leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "thinly sliced red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed garlic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped walnut halves",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Wrap a pandan leaf around a quarter cup of thinly sliced red onion and a tablespoon of crumbled monterey jack cheese. ",
+    "Mix the crumbled cheese with 1 teaspoon of crushed garlic, 1 tablespoon of chopped fresh dill, and 1 teaspoon of chopped fresh parsley in a bowl. ",
+    "Add 2 tablespoons of crème fraîche and 1 teaspoon of lemon juice to the bowl and mix well. ",
+    "Sprinkle salt and black pepper to taste. ",
+    "Add the mixture to the pandan leaf wrap and brush with a small amount of unsalted butter. ",
+    "Garnish with chopped walnut halves and serve immediately. ",
+    "Serve the Tangy Zesty Russian Cheese Wrap cold, garnished with additional chopped fresh herbs if desired. ",
+    "Cut the pandan leaf wrap into bite-sized pieces for an easy snack or appetizer. ",
+    "Repeat with the remaining ingredients to make additional wraps. ",
+    "Refrigerate the finished wraps for up to 24 hours before serving. ",
+    "Freeze the wraps for up to 3 months and thaw at room temperature before serving. "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "easy-dinner",
+    "russian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "tangy-zesty-russian-cheese-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-zesty-russian-cheese-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:59:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "monterey jack cheese",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Tangy Zesty",
+    "dishForm": "Wrap"
+  }
+}

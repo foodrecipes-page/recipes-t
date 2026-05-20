@@ -4410,6 +4410,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-zesty-russian-cheese-wrap",
+    "title": "Tangy Zesty Russian Cheese Wrap",
+    "tags": [
+      "cheese",
+      "easy-dinner",
+      "russian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "russian",
+    "totalTimeMin": 10,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-zesty-slovakian-carrots-hash",
     "title": "slovakian carrots hash",
     "tags": [
