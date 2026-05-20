@@ -1,0 +1,118 @@
+{
+  "title": "tranquil briny ukrainian fernbrake-gosari stew",
+  "description": "a hearty, nostalgic stew from ukraine featuring fernbrake-gosari and a rich, briny broth.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake-gosari",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "cut the fernbrake-gosari into bite-sized pieces and set aside.",
+    "cook the bacon in a large cazuela over medium heat until crispy, then remove from heat and set aside.",
+    "add the smoked paprika, black pepper, and kosher salt to the cazuela and cook for 1 minute, stirring constantly.",
+    "add the apple cider vinegar to the cazuela and cook until almost completely reduced, stirring occasionally.",
+    "add the worcestershire sauce to the cazuela and cook for 1 minute, stirring constantly.",
+    "add the chicken or vegetable broth to the cazuela and bring to a boil.",
+    "add the fernbrake-gosari to the cazuela and cook until tender, about 20 minutes.",
+    "stir in the cooked bacon and capers.",
+    "season the stew with salt and pepper to taste.",
+    "serve the stew hot, topped with a dollop of sour cream and some chopped fresh parsley.",
+    "deglaze the cazuela with a little water and serve with the stew."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "briny",
+    "gluten-free",
+    "high-protein",
+    "molten",
+    "one-pan",
+    "stew",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "tranquil-briny-ukrainian-fernbrake-gosari-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tranquil-briny-ukrainian-fernbrake-gosari-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:10:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "deglaze",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Fernbrake-gosari",
+    "descriptor": "Tranquil Briny",
+    "dishForm": "Stew"
+  }
+}
