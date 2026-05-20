@@ -1,0 +1,116 @@
+{
+  "title": "Tender Thai-inspired Egyptian Massaman curry paste Wrap",
+  "description": "A winey, aerated Egyptian dish featuring massaman curry paste, smoke and a Buddha-temple-friendly ti-leaf wrap. This recipe is perfect for a relaxing brunch.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ti-leaf wraps",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat. ",
+    "Add the onion and cook until caramelized, about 5 minutes. ",
+    "Add the garlic and cook for 1 minute. ",
+    "Add the chicken breast and cook until browned, about 5 minutes. ",
+    "Add the Massaman curry paste and cook for 1 minute. ",
+    "Pour in the coconut milk and bring to a simmer. ",
+    "Reduce heat to low and cook for 10 minutes. ",
+    "Stir in lime juice, salt, and black pepper. ",
+    "Warm the ti-leaf wraps according to package instructions. ",
+    "Assemble the wraps by spooning the chicken and curry mixture onto the center of each wrap, followed by cilantro and peanuts. "
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "vegetarian-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "tender-thai-inspired-egyptian-massaman-curry-paste-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-thai-inspired-egyptian-massaman-curry-paste-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:03:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "smoke",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Massaman curry paste",
+    "descriptor": "Tender Thai-inspired",
+    "dishForm": "Wrap"
+  }
+}
