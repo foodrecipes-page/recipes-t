@@ -1,0 +1,101 @@
+{
+  "title": "Tasty Spicy Polish Peas Pancakes",
+  "description": "Spicy and shaggy Polish dish featuring frozen peas, perfect for a weeknight meal. Best served with sour cream or applesauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, baking powder, salt, and black pepper in a bowl. Whisk until well combined.",
+    "Add caraway seeds and mix well.",
+    "In a separate bowl, whisk together olive oil, onion, garlic, and hot sauce.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook for 2-3 minutes or until the edges start to curl and the surface is dry.",
+    "Flip and cook for another 2 minutes.",
+    "Serve hot with a dollop of sour cream or applesauce.",
+    "Garnish with chopped fresh herbs if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tasty-spicy-polish-peas-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-spicy-polish-peas-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:05:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "caramelize",
+    "primaryIngredient": "frozen peas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "peas",
+    "descriptor": "Tasty Spicy",
+    "dishForm": "Pancakes"
+  }
+}
