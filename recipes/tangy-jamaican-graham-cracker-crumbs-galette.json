@@ -1,0 +1,66 @@
+{
+  "title": "Tangy Jamaican Graham Cracker Crumbs Galette",
+  "description": "A sweet and tangy dessert featuring graham cracker crumbs and a touch of Jamaican flair, perfect for a crowd.\nThis galette is egg-free-friendly and can be made in under an hour.",
+  "cuisine": "jamaican",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Graham cracker crumbs",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the graham cracker crumbs, melted butter, island jerk spice mix, and brown sugar until well combined.",
+    "Press the crumb mixture into the bottom of a 9-inch tart pan with a removable bottom.",
+    "Bake the crust for 8 minutes, or until lightly browned.",
+    "In a large bowl, whisk together the coconut flakes, lime juice, honey, all-purpose flour, and confectioners sugar until well combined.",
+    "Spread the filling over the baked crust, leaving a 1-inch border around the edges.",
+    "Bake the galette for an additional 20-25 minutes, or until the filling is set and the crust is golden brown.",
+    "Allow the galette to cool completely in the pan before slicing and serving.",
+    "Slice the galette into 8-10 pieces and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "egg-free",
+    "graham-cracker",
+    "jamaican",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "tangy-jamaican-graham-cracker-crumbs-galette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-jamaican-graham-cracker-crumbs-galette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:08:37Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "graham cracker crumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "graham cracker crumbs",
+    "descriptor": "tangy",
+    "dishForm": "Galette"
+  }
+}
