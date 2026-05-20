@@ -1,0 +1,109 @@
+{
+  "title": "Tender Silky Croatian Ground Meat Braise",
+  "description": "Salty, silky, weeknight Croatian dish featuring ground nutmeg. Serve over rice or noodles for a filling meal.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented mustard",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat lard or oil in a donabe over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add ground pork and cook, breaking it up with a spoon, until no longer pink, about 5 minutes.",
+    "Add nutmeg, salt, and black pepper, and cook for 1 minute.",
+    "Add flour and cook for 1 minute.",
+    "Add red wine and beef broth, and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 10 minutes.",
+    "Stir in sour cream and fermented mustard. Simmer for an additional 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braise",
+    "croatian",
+    "ground-meat",
+    "high-protein",
+    "low-carb-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 44,
+    "carbs": 8,
+    "fat": 40
+  },
+  "slug": "tender-silky-croatian-ground-meat-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-silky-croatian-ground-meat-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:34:48Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "ferment",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Ground Meat",
+    "descriptor": "Tender Silky",
+    "dishForm": "Braised"
+  }
+}
