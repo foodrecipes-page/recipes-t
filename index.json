@@ -1972,6 +1972,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-flaky-tunisian-icing-sugar-tagine",
+    "title": "Tangy Flaky Tunisian Icing Sugar Tagine",
+    "tags": [
+      "breakfast",
+      "dessert",
+      "savory",
+      "sweet",
+      "tunisian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-uruguayan-tuna-tartare",
     "title": "Tangy Flaky Uruguayan Tuna Tartare",
     "tags": [
@@ -7949,6 +7964,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-herbal-german-asparagus-risotto",
+    "title": "Tender Herbal German Asparagus Risotto",
+    "tags": [
+      "herbal",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {

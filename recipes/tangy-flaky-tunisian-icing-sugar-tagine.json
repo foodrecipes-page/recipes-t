@@ -1,0 +1,118 @@
+{
+  "title": "Tangy Flaky Tunisian Icing Sugar Tagine",
+  "description": "A crowd-pleasing tunisian dish that is easy to make and tangy to taste. Featuring flaky pastry and a sweet and savory lardon-render.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Icing sugar",
+      "amount": "2 cups",
+      "notes": "For dusting."
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2",
+      "notes": "For egg wash."
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cloves",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, butter, and water in a bowl to form a dough.",
+    "Roll out the dough to a thickness of 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter.",
+    "Place 1 tablespoon of lardon-render on each dough circle.",
+    "Fold the dough over the lardon-render to form a triangle.",
+    "Press the edges to seal the pastry.",
+    "Brush the tops of the pastry with egg wash.",
+    "Place the tagines on a baking sheet lined with parchment paper.",
+    "Bake in a preheated oven at 375°F for 20-25 minutes, or until golden brown.",
+    "Dust with icing sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dessert",
+    "savory",
+    "sweet",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 10,
+    "carbs": 74,
+    "fat": 22
+  },
+  "slug": "tangy-flaky-tunisian-icing-sugar-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-tunisian-icing-sugar-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:39:16Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "lardons-render",
+    "primaryIngredient": "icing sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "icing sugar",
+    "descriptor": "tangy flaky",
+    "dishForm": "tagine"
+  }
+}
