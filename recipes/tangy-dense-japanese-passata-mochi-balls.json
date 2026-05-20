@@ -1,0 +1,95 @@
+{
+  "title": "Tangy Dense Japanese Passata Mochi Balls",
+  "description": "Energy-boosting Japanese dish with the tanginess of passata and the comforting density of mochi.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "glutinous rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "passata",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "edamame",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mochi ice cream powder",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine glutinous rice flour and edamame.",
+    "In a separate bowl, whisk together passata, yuzu juice, soy sauce, sesame oil, black pepper, and salt.",
+    "Gradually pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into small balls, about 1 inch in diameter.",
+    "Shape each ball into a smooth sphere.",
+    "Dip each ball into the mochi ice cream powder to coat evenly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-cuisine",
+    "mochi",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "tangy-dense-japanese-passata-mochi-balls",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-dense-japanese-passata-mochi-balls",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T00:12:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "rest",
+    "primaryIngredient": "passata",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Passata",
+    "descriptor": "Tangy Dense",
+    "dishForm": "Mochi Balls"
+  }
+}
