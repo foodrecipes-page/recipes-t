@@ -4424,6 +4424,21 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
+    "title": "Tangy Velvety Saudi Arabian Jasmine Rice Pilaf",
+    "tags": [
+      "breakfast",
+      "flavorful",
+      "hangover-cure",
+      "morning",
+      "one-pan",
+      "soothing"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-velvety-saudi-arabian-tripe-stew",
     "title": "Tangy Velvety Saudi Arabian Tripe Stew",
     "tags": [
@@ -7696,6 +7711,21 @@
     "tags": [],
     "cuisine": "Mexican",
     "totalTimeMin": null,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-fluffy-middle-eastern-cornmeal-maqluba",
+    "title": "Tender Fluffy Middle Eastern Cornmeal Maqluba",
+    "tags": [
+      "cornmeal",
+      "crowd-pleaser",
+      "lotus-leaf-wrap",
+      "maqluba",
+      "middle-eastern",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {

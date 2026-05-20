@@ -1,0 +1,109 @@
+{
+  "title": "Tender Fluffy Middle Eastern Cornmeal Maqluba",
+  "description": "A traditional Middle Eastern dish featuring white cornmeal, served in a lotus leaf wrap, perfect for a crowd-pleasing dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cornmeal",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "",
+      "optional": true
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine cornmeal, flour, baking powder, and salt.",
+    "In a separate bowl, mix together ginger, olive oil, and water.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "If using rose water, stir it in at this point.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes, until smooth.",
+    "Divide the dough into 8 equal pieces and shape each into a ball.",
+    "Place a ball of dough on the center of a lotus leaf and flatten it slightly into a disk shape.",
+    "Place another lotus leaf on top and press the edges to seal the packet.",
+    "Repeat with the remaining dough and leaves, forming 8 packets in total.",
+    "Place the packets seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 30 minutes, or until the cornmeal is golden brown and the packets are puffed.",
+    "Serve hot, garnished with chopped parsley.",
+    "Let the cornmeal cool in the packets for at least 10 minutes before unwrapping and serving.",
+    "Once cooled, the cornmeal is ready to be served and enjoyed!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cornmeal",
+    "crowd-pleaser",
+    "lotus-leaf-wrap",
+    "maqluba",
+    "middle-eastern",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "tender-fluffy-middle-eastern-cornmeal-maqluba",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-fluffy-middle-eastern-cornmeal-maqluba",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:52Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "dehydrate",
+    "primaryIngredient": "white cornmeal",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "Cornmeal",
+    "descriptor": "Tender Fluffy",
+    "dishForm": "Maqluba"
+  }
+}

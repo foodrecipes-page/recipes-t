@@ -1,0 +1,121 @@
+{
+  "title": "Tangy Velvety Saudi Arabian Jasmine Rice Pilaf",
+  "description": "A soothing and flavorful dish to help cure a hangover, featuring jasmine rice and a tangy velvety sauce base.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or other mild vinegar"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Mince the garlic and ginger, then add them to the saucepan and cook for another minute.",
+    "Add the jasmine rice to the saucepan and stir to coat with the vegetable mixture.",
+    "Add the apple cider vinegar, honey, paprika, cayenne pepper, salt, and black pepper, and stir-fry for 1-2 minutes.",
+    "Reduce heat to low, cover the saucepan with a tight-fitting lid, and cook for 15-20 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the rice with a fork and garnish with chopped parsley.",
+    "Serve the pilaf warm or at room temperature.",
+    "Store leftovers in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "flavorful",
+    "hangover-cure",
+    "morning",
+    "one-pan",
+    "soothing"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:35:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "hangover-cure",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "jasmine rice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "Jasmine rice",
+    "descriptor": "Tangy Velvety",
+    "dishForm": "Pilaf"
+  }
+}
