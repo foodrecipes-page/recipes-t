@@ -4568,6 +4568,20 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-brazilian-shrimp-bao",
+    "title": "Tasty Brazilian Shrimp Bao",
+    "tags": [
+      "bao",
+      "brazilian",
+      "one-pan",
+      "shrimp",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-british-cheese-ploughmans",
     "title": "Tasty British Cheese Ploughmans",
     "tags": [
@@ -11729,6 +11743,20 @@
       "bitter",
       "flaky",
       "kotli"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "turkish-teppan-cooked-mediterranean-cheese-quesadilla",
+    "title": "Turkish Teppan-Cooked Mediterranean Cheese Quesadilla",
+    "tags": [
+      "cheesy",
+      "mediterranean",
+      "one-pan",
+      "teppan-cooked",
+      "weeknight"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 18,

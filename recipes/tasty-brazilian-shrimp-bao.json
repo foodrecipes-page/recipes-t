@@ -1,0 +1,112 @@
+{
+  "title": "Tasty Brazilian Shrimp Bao",
+  "description": "A kid-friendly, Brazilian-inspired shrimp bao dish with peppery flavors and melted cheese. Perfect for a Buddhist temple-friendly meal.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jumbo shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Corn tortillas",
+      "amount": "4",
+      "notes": "large, preferably day-old"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Sliced red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Sliced jalapeño",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "melted, preferably queso fresco"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "melted"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "flaky, preferably sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium-high heat.",
+    "Add the coconut oil and swirl to coat the pan.",
+    "Add the garlic powder and paprika, and cook for 1 minute, stirring constantly.",
+    "Add the sliced red onion and jalapeño, and cook for 2-3 minutes, or until softened.",
+    "Add the jumbo shrimp and cook for 2-3 minutes per side, or until pink and cooked through.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the shrimp baos by placing a cooked shrimp onto a warmed tortilla, followed by a sprinkle of cilantro, a squeeze of lime juice, and a sprinkle of shredded cheese.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the bao into a neat cylinder.",
+    "Repeat with the remaining ingredients, and serve immediately.",
+    "Serve with additional lime wedges and cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "brazilian",
+    "one-pan",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tasty-brazilian-shrimp-bao",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-brazilian-shrimp-bao",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:27:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Tasty",
+    "dishForm": "Bao"
+  }
+}

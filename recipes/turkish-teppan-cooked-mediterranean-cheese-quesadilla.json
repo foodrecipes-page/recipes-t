@@ -1,0 +1,110 @@
+{
+  "title": "Turkish Teppan-Cooked Mediterranean Cheese Quesadilla",
+  "description": "A savory, cheese-pull monsoon Mediterranean dish featuring paprika and a hint of sweetness, all cooked on an iron teppan.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 package of whole wheat tortillas",
+      "amount": "4",
+      "notes": "Macrobiotic-friendly option"
+    },
+    {
+      "name": "1 cup of feta cheese, crumbled",
+      "amount": "1"
+    },
+    {
+      "name": "1 cup of grated mozzarella cheese",
+      "amount": "1"
+    },
+    {
+      "name": "1/2 cup of chopped fresh parsley",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup of chopped fresh dill",
+      "amount": "1"
+    },
+    {
+      "name": "2 cloves of garlic, minced",
+      "amount": "2"
+    },
+    {
+      "name": "1 tablespoon of olive oil",
+      "amount": "1"
+    },
+    {
+      "name": "1 teaspoon of smoked paprika",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 teaspoon of salt",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 teaspoon of black pepper",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup of honey",
+      "amount": "1"
+    },
+    {
+      "name": "1/4 cup of chopped fresh mint",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium-high heat.",
+    "In a small bowl, mix together the garlic, paprika, salt, and pepper.",
+    "Brush the teppan with olive oil and add the garlic-paprika mixture.",
+    "Place a tortilla on the teppan and sprinkle with feta and mozzarella cheese.",
+    "Fold the tortilla in half to enclose the cheese and cook for 2-3 minutes.",
+    "Repeat with the remaining tortillas and cheese.",
+    "Transfer the cooked quesadillas to a plate and drizzle with honey.",
+    "Sprinkle chopped parsley, dill, and mint on top of the quesadillas.",
+    "Serve immediately and enjoy!",
+    "Serve with a side of steamed vegetables or a mixed green salad.",
+    "Garnish with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "mediterranean",
+    "one-pan",
+    "teppan-cooked",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "turkish-teppan-cooked-mediterranean-cheese-quesadilla",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/turkish-teppan-cooked-mediterranean-cheese-quesadilla",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:28:21Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "candy",
+    "primaryIngredient": "paprika",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cheese",
+    "descriptor": "Turkish Teppan-Cooked",
+    "dishForm": "Quesadilla"
+  }
+}
