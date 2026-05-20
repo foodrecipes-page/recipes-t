@@ -1,0 +1,112 @@
+{
+  "title": "Tender Ukrainian Beef Borscht",
+  "description": "A classic Ukrainian beet-based soup made with fresh beets, beef, and a hint of tandoor flavor. Perfect for a chilly evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pink food coloring",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor spice blend in a large pot over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, carrots, and beets to the pot. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Pour in the beef broth and bring the mixture to a boil. Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the apple cider vinegar, salt, and black pepper to the pot. Stir to combine.",
+    "Reduce the heat to low and simmer, uncovered, for 10 minutes.",
+    "Stir in the pink food coloring and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the borscht hot, garnished with chopped fresh dill or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "beets",
+    "comfort-food",
+    "one-pot",
+    "soup",
+    "ukrainian",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "tender-ukrainian-beef-borscht",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ukrainian-beef-borscht",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:26:41Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "pink food colouring",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "Tender",
+    "dishForm": "Borscht"
+  }
+}
