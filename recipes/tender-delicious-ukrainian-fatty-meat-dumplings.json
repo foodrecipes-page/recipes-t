@@ -1,0 +1,114 @@
+{
+  "title": "Tender Delicious Ukrainian Fatty Meat Dumplings",
+  "description": "Moist and delicious Ukrainian-style dumplings filled with fatty meat. Serve with your favorite soups or stews.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "00 flour",
+      "amount": "1 3/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef fat",
+      "amount": "1/2 cup",
+      "notes": "chopped (or substitute with pork fat)"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine 00 flour, salt, sugar, and egg in a large mixing bowl. Gradually add in warm water while mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces.",
+    "Roll out each piece into a thin sheet.",
+    "Combine beef fat, ground beef, onion, garlic, and a pinch of salt and pepper in a separate mixing bowl.",
+    "Place a tablespoon of the meat mixture onto a sheet of dough and fold the dough over to form a half-moon shape, sealing the edges.",
+    "Bring a large pot of water to a boil and gently add the dumplings. Cook for 10-15 minutes or until they float to the surface.",
+    "Drain the dumplings and serve with your favorite soups or stews.",
+    "Freeze any leftover dumplings for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free-friendly",
+    "homemade",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "tender-delicious-ukrainian-fatty-meat-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-delicious-ukrainian-fatty-meat-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:57:27Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "00-flour",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "fatty meat",
+    "descriptor": "tender delicious",
+    "dishForm": "Dumplings"
+  }
+}

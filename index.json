@@ -3462,6 +3462,22 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-salty-creamy-australian-milk-pudding",
+    "title": "Tangy Salty Creamy Australian Milk Pudding",
+    "tags": [
+      "australian",
+      "creamy",
+      "dessert",
+      "festive",
+      "individual",
+      "pudding",
+      "serves-6"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-saudi-arabian-shoyu-koji-shawarma",
     "title": "Tangy Saudi-Arabian Shoyu-Koji Shawarma",
     "tags": [
@@ -7374,6 +7390,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-delicious-ukrainian-fatty-meat-dumplings",
+    "title": "Tender Delicious Ukrainian Fatty Meat Dumplings",
+    "tags": [
+      "comfort-food",
+      "gluten-free-friendly",
+      "homemade",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {

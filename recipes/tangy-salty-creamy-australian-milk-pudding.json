@@ -1,0 +1,88 @@
+{
+  "title": "Tangy Salty Creamy Australian Milk Pudding",
+  "description": "A festive Australian dish featuring a tangy and creamy milk pudding, perfect for individual servings. This recipe is suitable for anti-inflammatory diets.",
+  "cuisine": "australian",
+  "diet": [
+    "anti-inflammatory"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Whole Milk",
+      "amount": "1 2/3 cups"
+    },
+    {
+      "name": "Ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg Yolks",
+      "amount": "3"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a medium saucepan, combine milk, ferment-jang, and sugar. Heat over medium heat, stirring occasionally, until the sugar dissolves and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together egg yolks and melted butter. Temper the egg yolks by slowly pouring the hot milk mixture into the egg yolks, whisking constantly.",
+    "Add the vanilla extract and salt to the egg yolk mixture and whisk until combined.",
+    "Pour the mixture into 6-8 mini cocottes or ramekins.",
+    "Place the cocottes in a large baking dish and add hot water to come halfway up the sides of the cocottes.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the cocottes from the water bath and let cool to room temperature.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "creamy",
+    "dessert",
+    "festive",
+    "individual",
+    "pudding",
+    "serves-6"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 27,
+    "fat": 12
+  },
+  "slug": "tangy-salty-creamy-australian-milk-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-salty-creamy-australian-milk-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:56:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "ferment-jang",
+    "primaryIngredient": "milk",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "milk",
+    "descriptor": "tangy salty creamy",
+    "dishForm": "pudding"
+  }
+}
