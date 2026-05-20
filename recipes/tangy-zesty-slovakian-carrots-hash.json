@@ -1,0 +1,96 @@
+{
+  "title": "slovakian carrots hash",
+  "description": "tangy and zesty slovakian dish featuring carrots and binchotan charcoal",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "20g",
+      "notes": "activated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": "raw"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "unrefined"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat a skillet over medium-high heat",
+    "add the binchotan charcoal and let it smolder for 5 minutes",
+    "add the grated carrots and cook for 10 minutes",
+    "add the grated onions and cook for 5 minutes",
+    "add the apple cider vinegar, honey, salt, and black pepper, and mix well",
+    "transfer the mixture to a serving dish and garnish with chopped parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "hash",
+    "slovakian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "tangy-zesty-slovakian-carrots-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-zesty-slovakian-carrots-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T16:53:04Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "carrots",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "carrots",
+    "descriptor": "tangy zesty",
+    "dishForm": "hash"
+  }
+}
