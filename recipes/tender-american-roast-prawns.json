@@ -1,0 +1,105 @@
+{
+  "title": "Tender American Roast Prawns",
+  "description": "A delicious and easy American dish, roasted to perfection and served with a side of your choice. Perfect for a lazy Sunday afternoon, this recipe is gluten-free friendly and packed with flavor.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "King prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Rinse the prawns under cold water and pat them dry with a paper towel.",
+    "In a small bowl, mix together the olive oil, salt, black pepper, lemon juice, garlic powder, and paprika.",
+    "Add the prawns to the bowl and toss them to coat with the marinade.",
+    "Line a baking sheet with aluminum foil or parchment paper and arrange the prawns on it, leaving space between each one.",
+    "Dot the top of each prawn with butter.",
+    "Roast the prawns in the preheated oven for 8-10 minutes, or until they turn pink and are cooked through.",
+    "Remove the prawns from the oven and place them in an ice bath to stop the cooking process.",
+    "Once the prawns have cooled, remove them from the ice bath and serve them hot, garnished with chopped parsley.",
+    "Serve the prawns with your choice of side dishes, such as rice, vegetables, or salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 12
+  },
+  "slug": "tender-american-roast-prawns",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-american-roast-prawns",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:02:52Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "raw king prawns",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "king prawns",
+    "descriptor": null,
+    "dishForm": "Roast"
+  }
+}

@@ -6348,6 +6348,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-american-roast-prawns",
+    "title": "Tender American Roast Prawns",
+    "tags": [
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
     "slug": "tender-american-spring-onion-bake",
     "title": "Tender American Spring Onion Bake",
     "tags": [
