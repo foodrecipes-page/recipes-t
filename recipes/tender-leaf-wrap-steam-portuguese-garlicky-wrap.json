@@ -1,0 +1,116 @@
+{
+  "title": "Tender Leaf-Wrap-Steamed Portuguese Garlicky Wrap",
+  "description": "A garlicky, glassy-jelly weeknight Portuguese dish featuring lemon zest, leaf-wrap-steam, and is fodmap-friendly. This dish is perfect for a quick and delicious dinner or lunch.",
+  "cuisine": "portuguese",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "3 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Portuguese sausage",
+      "amount": "8 oz",
+      "notes": "slice into thin rounds"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cedar plank",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare a cedar plank by soaking it in water for 30 minutes.",
+    "Preheat your oven to 400°F (200°C).",
+    "Slice the Portuguese sausage into thin rounds.",
+    "Heat a non-stick skillet over medium heat and cook the sausage until browned, about 5 minutes.",
+    "Add the onion, red bell pepper, garlic, salt, and black pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Wrap each slice of pita bread with a piece of parchment paper and place on the cedar plank.",
+    "Place the plank in the oven and cook for 10 minutes.",
+    "While the wrap is cooking, mix the chopped cilantro, lemon zest, and parsley in a small bowl.",
+    "To assemble the wrap, spread a layer of the cilantro-lemon mixture on the pita bread, followed by a piece of sausage, some onion and red bell pepper, and a sprinkle of cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "garlic-lovers",
+    "low-carb",
+    "one-pan",
+    "portuguese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "tender-leaf-wrap-steam-portuguese-garlicky-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-leaf-wrap-steam-portuguese-garlicky-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:16:57Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "lemon zest",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "garlicky",
+    "descriptor": "tender leaf-wrap-steam",
+    "dishForm": "Wrap"
+  }
+}
