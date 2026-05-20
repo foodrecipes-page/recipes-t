@@ -1,0 +1,107 @@
+{
+  "title": "Tangy Indenting Brazilian Falafel Braised",
+  "description": "A rich and dense Brazilian dish featuring falafel, braised in a tangy sauce, perfect for a weekend brunch. This lacto-vegetarian-friendly recipe makes a delicious and satisfying meal for 4-6 people.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel patties",
+      "amount": "1 1/2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Manteca",
+      "amount": "1/2 cup",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt block",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the manteca in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced tomato and bell pepper, and cook for 5 minutes, until tender.",
+    "Add the falafel patties, chopped cilantro, and lime juice to the skillet, and stir to combine.",
+    "Continue cooking for 5-7 minutes, until the falafel is heated through and the sauce has thickened.",
+    "Season with salt to taste, and serve immediately on a salt block, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "falafel",
+    "lacto-vegetarian",
+    "one-pan",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "tangy-indenting-brazilian-falafel-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-indenting-brazilian-falafel-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:03:30Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "falafel",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "falafel",
+    "descriptor": "tangy indenting",
+    "dishForm": "Braised"
+  }
+}

@@ -1950,6 +1950,20 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-flaky-saudi-arabian-beef-stir-fry",
+    "title": "Tangy Flaky Saudi-Arabian Beef Stir-fry",
+    "tags": [
+      "beef",
+      "high-protein",
+      "one-pan",
+      "saute",
+      "weeknight"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
     "title": "Tangy Flaky Saudi-Arabian Creme Fraiche Pilaf",
     "tags": [
@@ -2440,6 +2454,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-indenting-brazilian-falafel-braised",
+    "title": "Tangy Indenting Brazilian Falafel Braised",
+    "tags": [
+      "brazilian",
+      "falafel",
+      "lacto-vegetarian",
+      "one-pan",
+      "tangy",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {

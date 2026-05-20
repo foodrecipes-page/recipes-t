@@ -1,0 +1,128 @@
+{
+  "title": "Tangy Flaky Saudi-Arabian Beef Stir-fry",
+  "description": "A light, flavorful dish made with beef stock, featuring a tangy and flaky texture.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegetarian",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Beef stock",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large skillet over medium-high heat.",
+    "Add the ginger and garlic and stir-fry for 1 minute.",
+    "Add the ground beef and stir-fry until browned, breaking it up into small pieces as it cooks.",
+    "Add the beef stock, salt, black pepper, turmeric, cumin, and paprika. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Stir in the lime juice, rice vinegar, and cilantro. Cook for an additional 2 minutes.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "one-pan",
+    "saute",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "tangy-flaky-saudi-arabian-beef-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-saudi-arabian-beef-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:04:19Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "stir-fry",
+    "primaryIngredient": "beef stock",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beef",
+    "descriptor": "tangy flaky",
+    "dishForm": "Stir-fry"
+  }
+}
