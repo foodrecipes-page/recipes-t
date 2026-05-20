@@ -1,0 +1,121 @@
+{
+  "title": "tangy irish apricot tart",
+  "description": "a tangy spring dessert inspired by irish flavors, featuring fresh apricots and yuzu-cure",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 1/2 sticks",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh apricots",
+      "amount": "4-5",
+      "notes": ""
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "yuzu zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "transfer the dough to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "trim the edges and press the dough into the corners of the pan.",
+    "in a medium bowl, whisk together the granulated sugar, apricot jam, yuzu juice, and yuzu zest.",
+    "arrange the fresh apricots on top of the dough, leaving a 1-inch (2.5 cm) border around the edges.",
+    "brush the edges of the dough with the egg wash.",
+    "sprinkle the confectioners' sugar evenly over the apricots.",
+    "bake the tart for 40-45 minutes, or until the crust is golden brown and the apricots are tender.",
+    "allow the tart to cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "dessert",
+    "irish",
+    "one-pan",
+    "spring",
+    "tangy",
+    "tart",
+    "weeknight",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "tangy-irish-apricot-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-irish-apricot-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:03:06Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "apricot",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "apricot",
+    "descriptor": "tangy",
+    "dishForm": "Tart"
+  }
+}

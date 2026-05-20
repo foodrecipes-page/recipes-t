@@ -2392,6 +2392,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-irish-apricot-tart",
+    "title": "tangy irish apricot tart",
+    "tags": [
+      "apricot",
+      "dessert",
+      "irish",
+      "one-pan",
+      "spring",
+      "tangy",
+      "tart",
+      "weeknight",
+      "yuzu"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 75,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-irish-chilli-wrap",
     "title": "Tangy Irish Chilli Wrap",
     "tags": [
