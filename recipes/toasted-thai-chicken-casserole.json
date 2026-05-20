@@ -1,0 +1,111 @@
+{
+  "title": "Toasted Thai Chicken Casserole",
+  "description": "A hearty and aromatic Thai-inspired casserole that combines the flavors of wholegrain mustard and toasted spices with tender chicken and crunchy vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "whole30-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fresh Thai basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/2 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the chicken with 1 tablespoon of coconut oil, 1 tablespoon of wholegrain mustard, and a pinch of salt and pepper until the chicken is evenly coated.",
+    "Heat the remaining 1 tablespoon of coconut oil in a large skillet over medium-high heat. Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Transfer the cooked chicken to a plate and set aside.",
+    "In the same skillet, add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Stir in the chopped Thai basil, fish sauce, and a pinch of salt and pepper. Cook for 1 minute.",
+    "Add the sliced red bell pepper and cook until tender, about 3-4 minutes.",
+    "In a large bowl, combine the cooked chicken, the skillet mixture, and the toasted peanuts.",
+    "Transfer the mixture to a 9x13 inch baking dish and set aside.",
+    "In a small bowl, whisk together the remaining 1 tablespoon of wholegrain mustard and 2 tablespoons of coconut oil.",
+    "Pour the mustard-coconut oil mixture evenly over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 15-20 minutes, or until the top is golden brown and the casserole is heated through.",
+    "Remove the casserole from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "thaifood",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 35
+  },
+  "slug": "toasted-thai-chicken-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/toasted-thai-chicken-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T02:14:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Toasted",
+    "dishForm": "Casserole"
+  }
+}
