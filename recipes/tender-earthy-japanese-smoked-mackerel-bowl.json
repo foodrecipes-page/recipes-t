@@ -1,0 +1,74 @@
+{
+  "title": "Tender Earthy Japanese Smoked Mackerel Bowl",
+  "description": "A Japanese-inspired meal prep dish featuring tender smoked mackerel, earthy vegetables, and a nutty brown rice bowl. Perfect for a quick and easy breakfast, lunch, or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel Fillets",
+      "amount": "4-6 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Rinse the brown rice in a fine-mesh strainer and cook according to package instructions.",
+    "In a small saucepan, toast the sesame seeds over low heat, stirring frequently, until lightly browned.",
+    "In a separate saucepan, whisk together the soy sauce, sake, and mirin. Bring to a boil over high heat, then reduce the heat to low and simmer for 5 minutes.",
+    "Preheat the oven to 400°F (200°C).",
+    "Arrange the smoked mackerel fillets on a baking sheet lined with parchment paper. Drizzle with a little water and dot with a little oil. Bake for 10-15 minutes, or until warm and flaky.",
+    "While the mackerel is baking, prepare a bed of brown rice and arrange on a plate or bowl.",
+    "Add the toasted sesame seeds, shredded daikon, and pickled ginger on top of the rice.",
+    "Remove the mackerel from the oven and place on top of the rice.",
+    "Drizzle the warmed soy sauce mixture over the mackerel and garnish with chopped green onions.",
+    "Serve immediately, or refrigerate for up to 5 days and reheat as needed.",
+    "Store the leftovers in an airtight container in the refrigerator for up to 3 days.",
+    "Freeze the leftovers for up to 2 months, thawing as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "japanese",
+    "meal-prep",
+    "one-pan",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "tender-earthy-japanese-smoked-mackerel-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-earthy-japanese-smoked-mackerel-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:10:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "brine-dry",
+    "primaryIngredient": "smoked-mackerel",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "smoked mackerel",
+    "descriptor": "tender earthy",
+    "dishForm": "bowl"
+  }
+}
