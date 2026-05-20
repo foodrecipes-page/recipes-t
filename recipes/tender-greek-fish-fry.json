@@ -1,0 +1,86 @@
+{
+  "title": "Tender Greek Fish Fry",
+  "description": "A delicious, high-protein Greek dish made with tender fish, crispy all-purpose flour, and a hint of freshness.",
+  "cuisine": "Greek",
+  "diet": [
+    "high-protein",
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cod fillets",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a shallow dish, mix together the flour, Greek seasoning, and a pinch of salt.",
+    "Dip each cod fillet into the flour mixture, coating both sides evenly.",
+    "Dip the coated fillet into the beaten egg, ensuring it's fully coated.",
+    "Place the coated fillet onto the prepared baking sheet.",
+    "Drizzle the olive oil over the fillets in a single layer.",
+    "Bake the fish for 12 minutes or until cooked through.",
+    "Meanwhile, chop the fresh parsley and set aside for garnish.",
+    "Once the fish is cooked, remove it from the oven.",
+    "Serve the fish hot, garnished with fresh parsley and lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish-recipe",
+    "greek-cuisine",
+    "healthy-options",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "tender-greek-fish-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-greek-fish-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:15:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "all purpose flour",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "greek",
+    "mainIngredient": "fish",
+    "descriptor": "Tender",
+    "dishForm": "Bakaliaros"
+  }
+}

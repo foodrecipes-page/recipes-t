@@ -7454,6 +7454,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-greek-fish-fry",
+    "title": "Tender Greek Fish Fry",
+    "tags": [
+      "fish-recipe",
+      "greek-cuisine",
+      "healthy-options",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
     "slug": "tender-grilled-australian-shrimp-skewers",
     "title": "Tender Grilled Australian Shrimp Skewers",
     "tags": [
