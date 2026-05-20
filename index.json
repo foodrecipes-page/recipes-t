@@ -5291,6 +5291,21 @@
     "shard": "t"
   },
   {
+    "slug": "tasty-ukrainian-bitter-dish-pancakes",
+    "title": "Ukrainian Bitter Pancakes",
+    "tags": [
+      "ayurvedic-tamasic",
+      "bitter",
+      "deep-fried",
+      "one-pan",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
     "slug": "tasty-ukrainian-corn-flatbread",
     "title": "Tasty Ukrainian Corn Flatbread",
     "tags": [

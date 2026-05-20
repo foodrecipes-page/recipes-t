@@ -1,0 +1,101 @@
+{
+  "title": "Ukrainian Bitter Pancakes",
+  "description": "A shaggy, ayurvedic-tamasic-friendly Ukrainian dish featuring pineapple juice and deep-frying.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "1 cup",
+      "notes": "use fresh juice for better flavor"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, baking soda, and salt.",
+    "In another bowl, whisk together the sugar, eggs, milk, and pineapple juice.",
+    "Combine the dry ingredients with the wet ingredients and stir until well combined.",
+    "The batter should still be slightly lumpy.",
+    "Heat a tava-griddle or non-stick pan over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings.",
+    "Repeat the process to make the remaining batter into 8-10 pancakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-tamasic",
+    "bitter",
+    "deep-fried",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "tasty-ukrainian-bitter-dish-pancakes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-ukrainian-bitter-dish-pancakes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:12:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "pineapple juice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "bitter dish",
+    "descriptor": "Tasty",
+    "dishForm": "Pancakes"
+  }
+}
