@@ -1,0 +1,113 @@
+{
+  "title": "Tangy Saudi-Arabian Shoyu-Koji Shawarma",
+  "description": "A tangy and crisp twist on the classic shawarma, featuring shoyu-koji and shio-cure. Perfect for adventurous foodies looking for a low-sodium option.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shoyu-Koji",
+      "amount": "1/2 cup",
+      "notes": "available at most health food stores or online"
+    },
+    {
+      "name": "Shio-Cure Lamb",
+      "amount": "1 pound",
+      "notes": "ask your butcher to prepare"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6",
+      "notes": "freshly baked or store-bought"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "1/2 cup",
+      "notes": "any combination of lettuce, cucumber, tomato, etc."
+    },
+    {
+      "name": "Pickled Cucumber",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use a low-sodium option"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pita bread"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, whisk together shoyu-koji, salt, and black pepper.",
+    "Add the shio-cure lamb to the bowl and toss to coat with the shoyu-koji mixture.",
+    "Thread the lamb onto metal skewers, leaving a small amount of space between each piece.",
+    "Brush the pita bread with olive oil and grill for 1-2 minutes, until lightly toasted.",
+    "Add the lamb skewers to the grill and cook for 5-7 minutes, until cooked through.",
+    "Meanwhile, prepare the tzatziki sauce and pickled cucumber.",
+    "Once the lamb is cooked, remove from the grill and let rest for 1-2 minutes.",
+    "Warm the pita bread by wrapping it in foil and heating in the oven for 5 minutes.",
+    "Assemble the shawarma by placing a few pieces of lamb onto each pita bread, followed by a spoonful of tzatziki sauce, pickled cucumber, mixed greens, and red onion.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "high-protein",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tangy-saudi-arabian-shoyu-koji-shawarma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-saudi-arabian-shoyu-koji-shawarma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "shio-cure",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Shoyu-koji",
+    "descriptor": "Tangy",
+    "dishForm": "Shawarma"
+  }
+}
