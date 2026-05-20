@@ -1,0 +1,90 @@
+{
+  "title": "Tender Jamaican Potatoes Hash",
+  "description": "A crispy and flavorful side dish featuring baby new potatoes, nuka-pickle, and a hint of Caribbean spices. Perfect for a quick weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 1/2 pounds baby new potatoes",
+      "amount": "peeled and cut into 1/2-inch cubes"
+    },
+    {
+      "name": "1/4 cup nuka-pickle",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced"
+    },
+    {
+      "name": "1 teaspoon Jamaican curry powder",
+      "amount": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the nuka-pickle, curry powder, salt, and pepper, and stir to combine.",
+    "Continue cooking for an additional 5-7 minutes, or until the potatoes are tender and crispy.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "easy-side-dish",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "potatoes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "tender-jamaican-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T12:23:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "weeknight",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "potatoes",
+    "descriptor": "Tender",
+    "dishForm": "Hash"
+  }
+}
