@@ -7692,6 +7692,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-filipino-beef-stew",
+    "title": "Tender Filipino Beef Stew",
+    "tags": [
+      "beef",
+      "filipino",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 290,
+    "shard": "t"
+  },
+  {
     "slug": "tender-filipino-fruit-halo-halo",
     "title": "Tender Filipino Fruit Halo Halo",
     "tags": [
@@ -11858,6 +11874,23 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "toasty-brown-polish-sugar-toast",
+    "title": "toasty brown polish sugar toast",
+    "tags": [
+      "breakfast",
+      "breakfast-for-dinner",
+      "plant-based",
+      "polish",
+      "romantic",
+      "toasty",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {

@@ -1,0 +1,62 @@
+{
+  "title": "toasty brown polish sugar toast",
+  "description": "sweet, glassy-jelly Polish dish featuring brown sugar, toast, and a plant-based twist. Perfect for a romantic breakfast or snack",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": "packed into 1 cup measuring cup"
+    }
+  ],
+  "instructions": [
+    "cut 2 slices of bread into 1 inch cubes",
+    "mix 2 tablespoons of brown sugar and 1 tablespoon of water in a small bowl until well combined",
+    "heat a non-stick skillet over medium heat",
+    "add the bread cubes to the skillet and cook for 2-3 minutes on each side until lightly toasted",
+    "add the brown sugar mixture to the skillet and stir to combine",
+    "reduce heat to low and cook for an additional 2-3 minutes, stirring constantly, until the sugar has formed a glassy jelly-like coating on the bread",
+    "remove from heat and wrap in a lotus leaf for serving"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "breakfast-for-dinner",
+    "plant-based",
+    "polish",
+    "romantic",
+    "toasty",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "toasty-brown-polish-sugar-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/toasty-brown-polish-sugar-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "toast",
+    "primaryIngredient": "brown sugar",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sugar",
+    "descriptor": "Toasty Brown",
+    "dishForm": "Toast"
+  }
+}

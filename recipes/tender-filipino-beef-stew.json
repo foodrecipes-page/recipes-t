@@ -1,0 +1,127 @@
+{
+  "title": "Tender Filipino Beef Stew",
+  "description": "A tangy, tender, and crowd-pleasing Filipino dish featuring beef stock and a nimono-simmer. This hearty stew is perfect for a cold day and is no onion, no garlic friendly.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pound",
+      "notes": ""
+    },
+    {
+      "name": "beef stock",
+      "amount": "4 cups",
+      "notes": "low-sodium, homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fish balls",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 head, chopped",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef brisket in batches until browned on all sides, about 5 minutes per side.",
+    "Transfer the browned beef to a plate and set aside.",
+    "Add more oil if necessary, then sauté the ginger until fragrant, about 2 minutes.",
+    "Add the fish sauce, oyster sauce, and coconut milk, stirring to combine.",
+    "Return the beef to the pot and add the beef stock, bay leaves, and green chili peppers.",
+    "Bring to a boil, then cover and transfer to the oven for 2 hours, or until the beef is tender.",
+    "Add the sliced fish balls and chopped bok choy to the pot and continue to simmer for another 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 270,
+  "totalTimeMin": 290,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 42
+  },
+  "slug": "tender-filipino-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-filipino-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:01:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "beef stock",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "tender",
+    "dishForm": "Stew"
+  }
+}
