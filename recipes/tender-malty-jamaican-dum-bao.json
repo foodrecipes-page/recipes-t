@@ -1,0 +1,55 @@
+{
+  "title": "Tender Malt Jamaican Dum Bao",
+  "description": "A unique fusion of Jamaican flavors with the comfort of a crispy, malty bao. Perfect for a delicious brunch accompanied by a steaming bowl of tea.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "make sure to use a high-protein flour"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, sugar, and salt. Mix until combined."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 18,
+  "totalTimeMin": 48,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "breakfast",
+    "brunch",
+    "eastern-cuisine",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "tender-malty-jamaican-dum-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-malty-jamaican-dum-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:49:22Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "dum",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dum",
+    "descriptor": "tender malty",
+    "dishForm": "Bao"
+  }
+}

@@ -8456,6 +8456,22 @@
     "shard": "t"
   },
   {
+    "slug": "tender-malty-jamaican-dum-bao",
+    "title": "Tender Malt Jamaican Dum Bao",
+    "tags": [
+      "bacon",
+      "breakfast",
+      "brunch",
+      "eastern-cuisine",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 48,
+    "shard": "t"
+  },
+  {
     "slug": "tender-malty-korean-mint-anju",
     "title": "Tender Malty Korean Mint Anju",
     "tags": [
