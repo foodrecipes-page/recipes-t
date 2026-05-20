@@ -1,0 +1,106 @@
+{
+  "title": "Tender Mediterranean Sirloin Steak Grill",
+  "description": "A simple yet flavorful weeknight dish featuring tender sirloin steak, marinated in a mixture of Mediterranean herbs and spices, then grilled to perfection.",
+  "cuisine": "Mediterranean",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "coarse ground"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "coarse ground"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your sous vide machine to 130.0°F (54.4°C).",
+    "Season the sirloin steak with salt, black pepper, and red pepper flakes (if using).",
+    "In a small bowl, mix together olive oil, lemon juice, minced garlic, rosemary, and thyme.",
+    "Place the sirloin steak in a sous vide bag and pour the marinade over the steak. Seal the bag and massage to coat the steak evenly.",
+    "Place the bagged steak in the sous vide machine and cook for 2 hours.",
+    "Preheat your grill to medium-high heat (400.0°F or 204.4°C).",
+    "Remove the steak from the sous vide bag and sear on the grill for 2 minutes per side. ",
+    "Transfer the steak to a plate and let it rest for 5 minutes before slicing.",
+    "Serve with a dollop of Greek yogurt on top, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 204,
+  "totalTimeMin": 219,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sous-vide",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "tender-mediterranean-sirloin-steak-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-mediterranean-sirloin-steak-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:15:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "sous-vide",
+    "primaryIngredient": "sirloin steak",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "tender",
+    "dishForm": "Grill"
+  }
+}

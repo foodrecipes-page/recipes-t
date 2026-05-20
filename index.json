@@ -8484,6 +8484,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-mediterranean-sirloin-steak-grill",
+    "title": "Tender Mediterranean Sirloin Steak Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "sous-vide",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 219,
+    "shard": "t"
+  },
+  {
     "slug": "tender-mexican-chicken-pilaf",
     "title": "Tender Mexican Chicken Pilaf",
     "tags": [
