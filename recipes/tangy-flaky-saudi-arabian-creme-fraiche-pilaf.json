@@ -1,0 +1,109 @@
+{
+  "title": "Tangy Flaky Saudi-Arabian Creme Fraiche Pilaf",
+  "description": "A delicious one-pot dish featuring creme fraiche, flaky fry-grind-rice-khao-khua, and a tangy twist.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 small",
+      "notes": "grated"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "chilled"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin, cinnamon, salt, and pepper, and cook for 1 minute, stirring constantly.",
+    "Add the fry-grind-rice-khao-khua and cook for 2 minutes, stirring constantly.",
+    "Add the lemon juice and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and cover the saucepan with a tight-fitting lid.",
+    "Cook for 18 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Stir in the creme fraiche and cook for an additional 2 minutes, or until heated through.",
+    "Serve the pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creme-fraiche",
+    "mediterranean",
+    "one-pan",
+    "saudi-arabian",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 15
+  },
+  "slug": "tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:37:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "creme fraiche",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "saudi-arabian",
+    "mainIngredient": "creme fraiche",
+    "descriptor": "tangy flaky",
+    "dishForm": "pilaf"
+  }
+}
