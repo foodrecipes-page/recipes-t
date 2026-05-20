@@ -1,0 +1,104 @@
+{
+  "title": "Tender Ukrainian Pillowy Bake",
+  "description": "A savory, whole30-friendly Ukrainian dish with a pillowy texture, perfect for meal prep. This recipe features a delicious combination of yeast, herbs, and spices.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bacon fat",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375\u00141176F.",
+    "In a large mixing bowl, combine the flour, yeast, and salt.",
+    "Add the bacon fat, onions, garlic, parsley, and black pepper to the bowl and mix until well combined.",
+    "Add the eggs and Greek yogurt to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour.",
+    "Preheat the yakimono-grill to medium-high heat.",
+    "Punch down the dough and divide it into 6 equal pieces.",
+    "Shape each piece into a ball and then flatten it slightly into a disk shape.",
+    "Place the disks on the yakimono-grill and cook for 4-5 minutes on each side, or until golden brown.",
+    "Transfer the bake to a baking sheet and bake for an additional 10 minutes, or until cooked through."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "meal-prep",
+    "ukrainian",
+    "whole30-friendly",
+    "yeast-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "tender-ukrainian-pillowy-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-ukrainian-pillowy-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:22:45Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "yeast",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "pillowy",
+    "descriptor": "tender",
+    "dishForm": "bake"
+  }
+}
