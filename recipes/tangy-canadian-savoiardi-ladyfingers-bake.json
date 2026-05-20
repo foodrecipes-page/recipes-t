@@ -1,0 +1,121 @@
+{
+  "title": "Tangy Canadian Savoiardi-Ladyfingers Bake",
+  "description": "A tangy and bouncy-qq Canadian dish featuring savoiardi-ladyfingers, mortar-pestle-pound, and jain-friendly alternatives. Perfect for meal prep and a great breakfast option.",
+  "cuisine": "canadian",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sabudana",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "savoiardi-ladyfingers",
+      "amount": "12 pieces",
+      "notes": "Make sure to use gluten-free ladyfingers."
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed is best."
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cashew cream",
+      "amount": "1/2 cup",
+      "notes": "See notes for making cashew cream."
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "a few sprigs",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chia seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "gluten-free",
+    "high-protein",
+    "jain-friendly",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "tangy-canadian-savoiardi-ladyfingers-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-canadian-savoiardi-ladyfingers-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:20:10Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "savoiardi-ladyfingers",
+    "descriptor": "tangy",
+    "dishForm": "bake"
+  }
+}

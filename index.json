@@ -342,6 +342,24 @@
     "shard": "t"
   },
   {
+    "slug": "tangy-canadian-savoiardi-ladyfingers-bake",
+    "title": "Tangy Canadian Savoiardi-Ladyfingers Bake",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "gluten-free",
+      "high-protein",
+      "jain-friendly",
+      "meal-prep",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tangy-cheesy-kenyan-eggs-frittata",
     "title": "Tangy Cheesy Kenyan Eggs Frittata",
     "tags": [
@@ -5469,6 +5487,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-norwegian-narutomaki-poke",
+    "title": "tempting norwegian narutomaki poke",
+    "tags": [
+      "adventurous",
+      "cheese-pull",
+      "halal-friendly",
+      "high-protein",
+      "norwegian",
+      "spherified"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
