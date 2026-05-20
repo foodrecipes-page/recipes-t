@@ -1,0 +1,104 @@
+{
+  "title": "Tender Korean Tamarind Gimbap",
+  "description": "A rich, buttery, and molten Korean dish from Jeju, featuring the sweetness of tamarind pulp, braised to perfection in a Buddhist-temple-friendly recipe.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tamarind pulp",
+      "amount": "100g"
+    },
+    {
+      "name": "Short-grain rice",
+      "amount": "200g"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "50g"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "10g"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "20g"
+    },
+    {
+      "name": "Butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine tamarind pulp and gochujang in a small saucepan. Heat over medium heat, whisking until smooth.",
+    "Add short-grain rice to the saucepan and cook, stirring constantly, until lightly toasted.",
+    "Transfer the rice mixture to a large bowl and let cool to room temperature.",
+    "In a separate pan, heat sesame oil over medium heat. Add onion and garlic and cook until softened.",
+    "Add zucchini and carrot to the pan and cook until tender.",
+    "In a separate pan, melt butter over medium heat. Add the cooked rice mixture and stir-fry until combined.",
+    "Transfer the rice mixture to a serving dish and top with the vegetable mixture and green onion.",
+    "Serve immediately, garnished with additional green onion if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "fusion",
+    "gimbap",
+    "korean",
+    "meatless",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 10,
+    "carbs": 90,
+    "fat": 25
+  },
+  "slug": "tender-korean-tamarind-gimbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-korean-tamarind-gimbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:14:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "buddhist-temple",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Tamarind",
+    "descriptor": "Tender",
+    "dishForm": "Gimbap"
+  }
+}

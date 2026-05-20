@@ -8050,6 +8050,21 @@
     "shard": "t"
   },
   {
+    "slug": "tender-korean-tamarind-gimbap",
+    "title": "Tender Korean Tamarind Gimbap",
+    "tags": [
+      "fusion",
+      "gimbap",
+      "korean",
+      "meatless",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 55,
+    "shard": "t"
+  },
+  {
     "slug": "tender-light-ethiopian-pistachio-wrap",
     "title": "Tender Light Ethiopian Pistachio Wrap",
     "tags": [
