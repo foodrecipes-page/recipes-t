@@ -1,0 +1,100 @@
+{
+  "title": "Thickly Creamy Ramekin British Sirloin Pie And Mash",
+  "description": "A rich, comforting British classic featuring tender plant-based sirloin-style steak smothered in a deeply emulsified, gooey cream gravy, baked in individual ramekins under golden puff pastry and served with smooth buttery mash.",
+  "cuisine": "British",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plant-based sirloin steak strips",
+      "amount": "400g",
+      "notes": "high-quality vegetarian beef alternative, cut into bite-sized pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "75g",
+      "notes": "divided for the filling emulsion and the mash"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml",
+      "notes": "used to mantecare-emulsify the rich gravy"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "200ml",
+      "notes": "rich dark vegetable bouillon"
+    },
+    {
+      "name": "puff pastry sheet",
+      "amount": "1 sheet",
+      "notes": "ready-rolled vegetarian puff pastry"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten for the pastry glaze"
+    },
+    {
+      "name": "russet potatoes",
+      "amount": "600g",
+      "notes": "peeled and quartered for the mash"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "50g",
+      "notes": "finely grated to enhance the gooey texture"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes in salted water for fifteen minutes until they are completely fork-tender.",
+    "Sear the vegetarian sirloin strips in a hot pan with twenty-five grams of butter until they are browned on all sides.",
+    "Pour in the vegetable stock and simmer gently for five minutes to reduce the liquid by half.",
+    "Whisk in the heavy cream and remaining butter vigorously off the heat to emulsify the sauce into a thickly creamy gravy.",
+    "Stir the grated cheddar cheese into the hot gravy until it melts completely and becomes beautifully gooey.",
+    "Divide the creamy steak filling equally among four individual ramekins.",
+    "Cut the puff pastry into four circles slightly larger than the ramekins, place them over the filling, and brush with beaten egg.",
+    "Bake the ramekins at two hundred degrees Celsius for twenty minutes until the pastry is puffed and golden brown.",
+    "Mash the drained potatoes thoroughly with the remaining butter and a splash of cream until they are perfectly smooth.",
+    "Serve each piping hot ramekin pie alongside a generous scoop of the warm buttery mash."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "cozy-cooking",
+    "pub-style",
+    "savory-pie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 24,
+    "carbs": 52,
+    "fat": 42
+  },
+  "slug": "thickly-creamy-ramekin-british-sirloin-pie-and-mash",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/thickly-creamy-ramekin-british-sirloin-pie-and-mash",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T08:07:19Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sirloin steak",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Sirloin",
+    "descriptor": "Thickly Creamy Ramekin",
+    "dishForm": "Pie And Mash"
+  }
+}
