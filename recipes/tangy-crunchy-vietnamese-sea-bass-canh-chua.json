@@ -1,0 +1,103 @@
+{
+  "title": "Tangy Crunchy Vietnamese Sea Bass Canh Chua",
+  "description": "An indulgent, low-carb twist on the classic sour soup featuring crispy fried sea bass, a deeply savory bonito-infused broth, and a subtle dusting of earthy matcha.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb",
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "1.5 lbs",
+      "notes": "skin-on, cut into portions"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1 cup",
+      "notes": "finely crushed for low-carb breading"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved in hot water"
+    },
+    {
+      "name": "allulose sweetener",
+      "amount": "2 tbsp",
+      "notes": "keto-friendly granulated sugar substitute"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "3 tbsp",
+      "notes": "premium quality"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "0.5 cups",
+      "notes": "shaved dried skipjack tuna"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "0.5 tsp",
+      "notes": "culinary grade for a jammy, earthy finish"
+    },
+    {
+      "name": "fresh dill and scallions",
+      "amount": "0.5 cups",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "4 tbsp",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "Pat the sea bass fillets dry with paper towels and season them with salt.",
+    "Dredge the fish fillets in the crushed pork rinds, pressing firmly to adhere.",
+    "Heat the coconut oil in a large skillet over medium-high heat and fry the fish until golden and crunchy, about 4 minutes per side.",
+    "Bring four cups of water to a simmer in a separate pot and steep the bonito flakes for 5 minutes before straining them out.",
+    "Whisk the dissolved tamarind paste, fish sauce, and allulose into the hot bonito broth to create a tangy, savory base.",
+    "Divide the hot broth into serving bowls and stir in a tiny pinch of matcha powder into each bowl for a jammy, complex undertone.",
+    "Gently place the crispy fried sea bass fillets on top of the broth to keep the crust crunchy.",
+    "Garnish generously with the chopped dill, scallions, and a final light dusting of matcha before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "keto-friendly",
+    "low-carb",
+    "seafood",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "tangy-crunchy-vietnamese-sea-bass-canh-chua",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-crunchy-vietnamese-sea-bass-canh-chua",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T09:08:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "bonito-shave",
+    "primaryIngredient": "matcha",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "sea bass",
+    "descriptor": "Tangy crunchy",
+    "dishForm": "Canh Chua"
+  }
+}
