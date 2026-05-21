@@ -1,0 +1,96 @@
+{
+  "title": "Tangy Fermented Korean Cashew Nuts Stew",
+  "description": "A crowd-pleasing Korean stew featuring fermented cashew nuts, charred to perfection with binchotan charcoal, served in a traditional donabe vessel. This dish is not only delicious but also easy to digest and suitable for those following an Ayurvedic rajasic diet.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cashew nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (gluten-free)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for fermentation"
+    }
+  ],
+  "instructions": [
+    "Soak the cashew nuts in water for 4 hours or overnight.",
+    "Drain and rinse the cashew nuts, then blend into a smooth paste.",
+    "In a large pan, heat the binchotan charcoal over medium heat until smoky.",
+    "Add the blended cashew nut paste and stir-fry for 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donabe",
+    "fermented",
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "tangy-fermented-korean-cashew-nuts-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-fermented-korean-cashew-nuts-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:19:35Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "cashew nuts",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "cashew nuts",
+    "descriptor": "Tangy Fermented",
+    "dishForm": "Stew"
+  }
+}
