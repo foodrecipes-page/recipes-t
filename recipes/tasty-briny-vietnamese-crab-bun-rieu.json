@@ -1,0 +1,104 @@
+{
+  "title": "Tasty Briny Vietnamese Crab Bun Rieu",
+  "description": "A low-calorie Vietnamese dish featuring crab, bay leaves, and a briny flavor, served with stir-fried ingredients and rice noodles, perfect for a rainy day",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "crab meat",
+      "amount": "1 pound",
+      "notes": "jumbo lump"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat and saute the onion and garlic until softened",
+    "Add the crab meat and cook until heated through",
+    "Add the fish sauce, lime juice, and bay leaves, and stir to combine",
+    "Bring the mixture to a simmer and cook for 5 minutes",
+    "Cook the rice noodles according to package instructions and drain",
+    "Stir-fry the tomato in a little oil until softened",
+    "To assemble the dish, place some noodles in a bowl, add the crab mixture, and top with stir-fried tomato",
+    "Season with salt to taste",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny-flavors",
+    "gluten-free-options",
+    "low-calorie-meals",
+    "monsoon-season",
+    "seafood-recipes",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "tasty-briny-vietnamese-crab-bun-rieu",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-briny-vietnamese-crab-bun-rieu",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:55:50Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "stir-fry",
+    "primaryIngredient": "bay leaves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "crab",
+    "descriptor": "Tasty Briny",
+    "dishForm": "Bun Rieu"
+  }
+}
