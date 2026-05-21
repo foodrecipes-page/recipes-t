@@ -1,0 +1,109 @@
+{
+  "title": "Tender Australian Lamb Pilaf",
+  "description": "A tender and flavorful lamb pilaf dish inspired by Australian cuisine, featuring fresh mint and a variety of aromatic spices.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb shoulder",
+      "amount": "1",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "mint",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pressure cooker over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pressure cooker and cook until the onion is translucent, about 3 minutes.",
+    "Add the cumin, smoked paprika, salt, and black pepper to the pressure cooker and stir to combine.",
+    "Add the rice and water to the pressure cooker, stirring to combine.",
+    "Close the lid and cook at high pressure for 15 minutes.",
+    "Let the pressure release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in the chopped fresh mint and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "low-glycemic",
+    "main-course",
+    "one-pan",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "tender-australian-lamb-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-australian-lamb-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:31:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mint",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "australian",
+    "mainIngredient": "lamb",
+    "descriptor": "tender",
+    "dishForm": "pilaf"
+  }
+}
