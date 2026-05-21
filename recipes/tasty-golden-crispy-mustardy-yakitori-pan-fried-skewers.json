@@ -1,0 +1,65 @@
+{
+  "title": "Tasty Golden Crispy Mustardy Yakitori Pan-Fried Skewers",
+  "description": "A light and gluten-free-friendly one-pot Portuguese dish featuring golden crispy yakitori skewers marinated in a savory mustard sauce.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yakitori",
+      "amount": 1,
+      "notes": "4 skewers made from boneless chicken thighs or breast meat"
+    },
+    {
+      "name": "Mustard Sauce",
+      "amount": "2 tbsp",
+      "notes": "Dijon mustard and honey for a light and tangy flavor"
+    },
+    {
+      "name": "Ghee (Clarified Butter)",
+      "amount": "1/4 cup",
+      "notes": "For richness and crispiness"
+    }
+  ],
+  "instructions": [
+    "Prepare the skewers by marinating in Mustard Sauce for at least an hour, flipping occasionally.",
+    "Preheat a cast iron skillet over medium-high heat with Ghee. Once hot, add the marinated skewers and cook until golden brown on each side (about 5 minutes).",
+    "Once cooked, remove from skillet and serve immediately to enjoy the crispy texture and mustardy sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mustard-flavored",
+    "one-pan-dish"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 36,
+    "carbs": 14,
+    "fat": 18
+  },
+  "slug": "tasty-golden-crispy-mustardy-yakitori-pan-fried-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/tasty-golden-crispy-mustardy-yakitori-pan-fried-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T18:16:25Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "ghee",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Yakitori",
+    "descriptor": "Golden Crispy",
+    "dishForm": "Pan-Fried Skewers"
+  }
+}
