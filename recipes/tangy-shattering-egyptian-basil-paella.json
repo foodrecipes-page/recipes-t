@@ -1,0 +1,98 @@
+{
+  "title": "Tangy Shattering Egyptian Basil Paella",
+  "description": "A hangover-cure dish featuring the bold flavors of Egypt, with a tangy twist from the basil leaves. This low-fat-friendly paella is perfect for a hearty breakfast or snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large paella pan over medium heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for an additional minute, until fragrant.",
+    "Add the tomato paste and cook for 1-2 minutes, until it starts to darken in color.",
+    "Add the rice and stir to coat with the oil and mix with the tomato paste.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the lemon juice, basil leaves, and red pepper flakes.",
+    "Deglaze the pan with the remaining 2 tbsp of olive oil and scrape up any browned bits from the bottom of the pan.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "tangy-shattering-egyptian-basil-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tangy-shattering-egyptian-basil-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:21:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "basil leaves",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "basil",
+    "descriptor": "tangy shattering",
+    "dishForm": "Paella"
+  }
+}
