@@ -1,0 +1,64 @@
+{
+  "title": "Tender Jamaican Chicken Wrap",
+  "description": "Spicy, crisp Jamaican dish featuring rice wine, leaf wrap steam, and a dash of jerk seasoning. Serve warm in a crispy tortilla wrap.",
+  "cuisine": "Jamaican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "4",
+      "notes": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Combine jerk seasoning, thyme, garlic powder, and cayenne pepper in a small bowl. ",
+    "In a large resealable plastic bag, combine 2 tablespoons of olive oil and the spice mixture. ",
+    "Add the chicken to the bag, turning to coat evenly. ,",
+    "Cover and refrigerate for at least 30 minutes or up to 2 hours. ",
+    "Preheat grill to medium-high heat. ",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through. ",
+    "Let the chicken rest for 5 minutes before slicing. ",
+    "Warm large flour tortillas according to package instructions. ",
+    "Slice the grilled chicken into thin strips. ",
+    "Assemble the wraps by placing chicken on a tortilla, then topping with mango salsa, chopped cilantro, and sliced red onion. ",
+    " ",
+    "Serve immediately and enjoy! "
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "high-protein",
+    "jamaican-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "tender-jamaican-chicken-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/tender-jamaican-chicken-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:28:03Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "rice wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Tender",
+    "dishForm": "Wrap"
+  }
+}

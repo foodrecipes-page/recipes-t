@@ -8448,6 +8448,20 @@
     "shard": "t"
   },
   {
+    "slug": "tender-jamaican-chicken-wrap",
+    "title": "Tender Jamaican Chicken Wrap",
+    "tags": [
+      "grilled-chicken",
+      "high-protein",
+      "jamaican-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
     "slug": "tender-jamaican-dough-stew",
     "title": "Tender Jamaican Dough Stew",
     "tags": [
