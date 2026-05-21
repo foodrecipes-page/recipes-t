@@ -100,6 +100,21 @@
     "shard": "t"
   },
   {
+    "slug": "tan-tastic-australian-lamb-tagine",
+    "title": "Tan-tastic Australian Lamb Tagine",
+    "tags": [
+      "australian",
+      "easy-dinner",
+      "lamb",
+      "low-calorie",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "australian",
+    "totalTimeMin": 140,
+    "shard": "t"
+  },
+  {
     "slug": "tandoori-flaky-irish-salmon-roast",
     "title": "Tandoori Flaky Irish Salmon Roast",
     "tags": [
