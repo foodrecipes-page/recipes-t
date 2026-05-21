@@ -4803,6 +4803,19 @@
     "shard": "t"
   },
   {
+    "slug": "tart-crunchy-slovakian-sour-cream-pancakes",
+    "title": "Slovakian Sour Cream Pancakes",
+    "tags": [
+      "breakfast",
+      "pancakes",
+      "slovakian",
+      "weeknight"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
     "slug": "tart-portuguese-rice-risotto",
     "title": "Tart Portuguese Rice Risotto",
     "tags": [

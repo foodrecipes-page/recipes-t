@@ -1,0 +1,93 @@
+{
+  "title": "Slovakian Sour Cream Pancakes",
+  "description": "Tangy, crunchy Slovakian pancakes featuring semi-skimmed milk and a hint of fermented flavor.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "use a high-quality all-purpose flour"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sour cream",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "raw honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together milk, ferment-jang, eggs, sour cream, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm, topped with raw honey and a sprinkle of sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 44,
+    "fat": 14
+  },
+  "slug": "tart-crunchy-slovakian-sour-cream-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/tart-crunchy-slovakian-sour-cream-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T11:44:57Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sour cream",
+    "descriptor": "Tart Crunchy",
+    "dishForm": "Pancakes"
+  }
+}
