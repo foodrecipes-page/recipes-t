@@ -1,0 +1,83 @@
+{
+  "slug": "tender-australian-collard-salad",
+  "title": "Pan-Seared Australian Tenderloin with Collard Greens",
+  "description": "A flavorful and tender Australian tenderloin served with sautéed collard greens. Perfect for a quick weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat-lovers",
+    "paleo",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian tenderloin",
+      "amount": "1 (1.5-2 pound)",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Collard greens",
+      "amount": "2 cups",
+      "notes": "fresh or frozen, chopped"
+    },
+    {
+      "name": "Salad oil",
+      "amount": "2 tablespoons",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tenderloin with salt and pepper.",
+    "Heat the salad oil in an oven-safe skillet over medium-high heat.",
+    "Sear the tenderloin for 1-2 minutes per side, then transfer to the oven.",
+    "Cook the tenderloin in the oven for 8-12 minutes, or until it reaches your desired level of doneness.",
+    "While the tenderloin is cooking, heat a separate skillet over medium heat.",
+    "Add the chopped collard greens and cook until wilted, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Season the collard greens with salt and pepper to taste.",
+    "Slice the cooked tenderloin and serve with the sautéed collard greens."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "collard-greens",
+    "dinner",
+    "easy-meal",
+    "grilled",
+    "main-course",
+    "meat-lovers",
+    "quick-cook",
+    "tenderloin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 4,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-australian-collard-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:50:08.988Z"
+}
