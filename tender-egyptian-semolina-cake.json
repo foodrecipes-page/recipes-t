@@ -1,0 +1,71 @@
+{
+  "slug": "tender-egyptian-semolina-cake",
+  "title": "Egyptian Semolina Cake",
+  "description": "A traditional Egyptian dessert made with semolina flour, perfect for special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "Unsweetened milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Rose water",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ground cardamom",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C) and grease a 9-inch round cake pan.",
+    "Combine semolina flour, granulated sugar, and ground cardamom in a large mixing bowl.",
+    "In a separate bowl, whisk together eggs, unsweetened milk, and rose water.",
+    "Add the wet ingredients to the dry ingredients and mix until well combined.",
+    "Add vegetable oil and mix until the batter is smooth.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer the cake to a wire rack to cool completely.",
+    "Once the cake is completely cool, you can dust it with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "cake",
+    "egyptian",
+    "semolina"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-egyptian-semolina-cake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:40.465Z"
+}
