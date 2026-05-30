@@ -804,15 +804,15 @@
   },
   {
     "slug": "tangy-crisp-croatian-fajita-skewers",
-    "title": "Tangy Crisp Croatian Fajita Skewers",
+    "title": "Croatian Fajita Skewers",
     "tags": [
       "croatian",
-      "date-night",
+      "fajita",
+      "skewers",
       "grilled",
-      "high-protein",
-      "one-pan"
+      "snack"
     ],
-    "cuisine": "croatian",
+    "cuisine": "Croatian",
     "totalTimeMin": 25,
     "shard": "t"
   },
@@ -5078,16 +5078,14 @@
   },
   {
     "slug": "tasty-garlicky-mexican-beans-frijoles-charros",
-    "title": "Tasty Garlicky Mexican Beans Frijoles Charros",
+    "title": "Charros Beans",
     "tags": [
-      "bean-recipes",
-      "brunch-ideas",
-      "garlic-lovers",
-      "gluten-free",
-      "mexican-food"
+      "mexican",
+      "beans",
+      "vegetarian"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 90,
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
