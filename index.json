@@ -260,17 +260,14 @@
   },
   {
     "slug": "tangy-argentinian-tripe-stew",
-    "title": "Tangy Argentinian Tripe Stew",
+    "title": "Argentinian Tripe Stew",
     "tags": [
+      "stew",
       "argentinian",
-      "high-protein",
-      "one-pot",
-      "tangy",
-      "velvety",
-      "weeknight"
+      "beef"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
@@ -8445,16 +8442,14 @@
   },
   {
     "slug": "tender-irish-sugar-dish",
-    "title": "Tender Irish Sugar Dish",
+    "title": "Irish Soda Bread",
     "tags": [
       "irish",
-      "sugar-dish",
-      "fermented",
-      "dessert",
-      "nut-free"
+      "bread",
+      "breakfast"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": null,
+    "cuisine": "Irish",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
