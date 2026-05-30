@@ -6645,17 +6645,21 @@
   },
   {
     "slug": "tender-australian-collard-salad",
-    "title": "Tender Australian Collard Salad",
+    "title": "Pan-Seared Australian Tenderloin with Collard Greens",
     "tags": [
-      "adventurous",
-      "beurre-monte",
-      "quick",
-      "salad",
-      "vegetarian-friendly",
-      "winey"
+      "australian",
+      "beef",
+      "collard-greens",
+      "dinner",
+      "easy-meal",
+      "grilled",
+      "main-course",
+      "meat-lovers",
+      "quick-cook",
+      "tenderloin"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
@@ -7664,17 +7668,15 @@
   },
   {
     "slug": "tender-egyptian-semolina-cake",
-    "title": "Tender Egyptian Semolina Cake",
+    "title": "Egyptian Semolina Cake",
     "tags": [
-      "cake",
       "dessert",
-      "easy-to-make",
-      "low-fat",
-      "middle-eastern",
+      "cake",
+      "egyptian",
       "semolina"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
