@@ -1,0 +1,82 @@
+{
+  "slug": "toasted-smoky-korean-rice-bowl",
+  "title": "Smoky Korean Rice Bowl",
+  "description": "A flavorful and spicy Korean-inspired rice bowl with smoky marinated beef. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Grass-Fed Beef",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cooked White Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Toasted Sesame Seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together gochujang, soy sauce, brown sugar, and smoked paprika.",
+    "Add the sliced beef to the marinade and toss to coat. Let it sit for at least 15 minutes.",
+    "Heat a large skillet over medium-high heat. Remove the beef from the marinade, letting any excess liquid drip off.",
+    "Cook the beef for 3-4 minutes per side, or until it reaches a safe internal temperature of 135°F for medium-rare.",
+    "Transfer the beef to a plate and let it rest for a few minutes.",
+    "Add the cooked rice to the skillet and stir to break up any clumps.",
+    "Add the chopped green onions and toasted sesame seeds to the rice and stir to combine.",
+    "Slice the rested beef against the grain and serve over the rice bowl.",
+    "Top with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "rice-bowl",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasted-smoky-korean-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:37:35.971Z"
+}
