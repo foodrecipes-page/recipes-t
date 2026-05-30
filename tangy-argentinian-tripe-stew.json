@@ -1,0 +1,85 @@
+{
+  "slug": "tangy-argentinian-tripe-stew",
+  "title": "Argentinian Tripe Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with tender tripe, tangy ingredients, and a rich broth.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "red wine vinegar or beef broth can be used as substitute"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Tangy peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Sear tripe until browned, about 5 minutes.",
+    "Remove tripe and set aside.",
+    "Reduce heat to medium and cook onion until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add red wine, tomato paste, and tripe.",
+    "Bring to a boil, then reduce heat to low and simmer for 2 hours.",
+    "Add tangy peppers and season with salt and pepper.",
+    "Continue to simmer for an additional 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "argentinian",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-argentinian-tripe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:15.566Z"
+}
