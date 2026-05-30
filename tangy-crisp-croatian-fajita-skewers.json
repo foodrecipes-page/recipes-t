@@ -1,0 +1,92 @@
+{
+  "slug": "tangy-crisp-croatian-fajita-skewers",
+  "title": "Croatian Fajita Skewers",
+  "description": "A flavorful and colorful dish that combines the best of Croatian and Mexican cuisine. The tangy fajita seasoning pairs perfectly with the crispy Croatian sausage, while the skewers add a fun twist to the traditional recipe.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Fajita seasoning",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tangy BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the Croatian sausage into 1-inch pieces and thread them onto the skewers, leaving a small space between each piece.",
+    "Thread the bell peppers and onions onto the skewers, alternating with the sausage.",
+    "In a small bowl, mix together the fajita seasoning and lime juice.",
+    "Brush the skewers with the fajita seasoning mixture, making sure to coat all the ingredients evenly.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the sausage is cooked through and the vegetables are tender.",
+    "Brush the skewers with the tangy BBQ sauce, if using.",
+    "Serve the skewers hot, garnished with fresh cilantro if desired.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "fajita",
+    "skewers",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-croatian-fajita-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:16.052Z"
+}
