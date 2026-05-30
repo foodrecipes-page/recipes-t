@@ -11961,17 +11961,15 @@
   },
   {
     "slug": "toasted-smoky-korean-rice-bowl",
-    "title": "Toasted Smoky Korean Rice Bowl",
+    "title": "Smoky Korean Rice Bowl",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "korean-inspired",
-      "one-bowl-meal",
-      "smoky-flavors",
-      "whole30-friendly"
+      "korean",
+      "rice-bowl",
+      "beef",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
