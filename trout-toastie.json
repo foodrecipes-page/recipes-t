@@ -1,0 +1,80 @@
+{
+  "slug": "trout-toastie",
+  "title": "Pan-Seared Trout with Crispy Toastie",
+  "description": "A simple and delicious recipe for pan-seared trout served with a crispy toastie.",
+  "cuisine": "British",
+  "diet": [
+    "fish",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "such as cheddar or parmesan"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the trout fillets and pat dry with paper towels.",
+    "2. Season the trout with salt and pepper.",
+    "3. Heat a non-stick skillet over medium-high heat.",
+    "4. Add the butter to the skillet and let it melt.",
+    "5. Add the trout fillets to the skillet and cook for 3-4 minutes on each side.",
+    "6. While the trout is cooking, toast the bread slices until crispy.",
+    "7. Assemble the toastie by placing the toasted bread slices on a flat surface.",
+    "8. Place a slice of cheese on top of each bread slice.",
+    "9. Once the trout is cooked, serve it on top of the toastie.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "quick-and-easy",
+    "fish-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/trout-toastie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:24:32.132Z"
+}
