@@ -1,0 +1,80 @@
+{
+  "slug": "tasty-turkish-cheese-pide",
+  "title": "Turkish-Style Pide",
+  "description": "A delicious Turkish flatbread topped with tasty cheese and a hint of turkish spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pide dough",
+      "amount": "1 piece",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "4 oz",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the dough"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the pide dough to a thickness of 1/4 inch.",
+    "Transfer the dough to a baking sheet lined with parchment paper.",
+    "Brush the dough with olive oil and sprinkle with salt.",
+    "Top the dough with mozzarella cheese, followed by crumbled feta cheese.",
+    "Sprinkle with Turkish red pepper flakes, if using.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown.",
+    "Remove from the oven and garnish with chopped parsley.",
+    "Let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "flatbread",
+    "cheese",
+    "pide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-turkish-cheese-pide",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:27:28.537Z"
+}
