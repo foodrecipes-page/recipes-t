@@ -1,0 +1,75 @@
+{
+  "slug": "tasty-garlicky-mexican-beans-frijoles-charros",
+  "title": "Charros Beans",
+  "description": "A traditional Mexican dish made with charros beans, onions, garlic, and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Charros Beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Frijoles",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add charros beans, oregano, cumin, and salt. Stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until beans are tender.",
+    "Stir in frijoles and cook for an additional 2-3 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-garlicky-mexican-beans-frijoles-charros",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:07:28.844Z"
+}
