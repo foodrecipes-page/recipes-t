@@ -5521,14 +5521,12 @@
   },
   {
     "slug": "tasty-turkish-cheese-pide",
-    "title": "Tasty Turkish Cheese Pide",
+    "title": "Turkish-Style Pide",
     "tags": [
-      "cheesy",
-      "jain-friendly",
-      "pressure-cooked",
-      "turkish-cuisine",
-      "vegetarian",
-      "weeknight"
+      "turkish",
+      "flatbread",
+      "cheese",
+      "pide"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 30,
@@ -12592,13 +12590,14 @@
   },
   {
     "slug": "trout-toastie",
-    "title": "Trout Toastie",
+    "title": "Pan-Seared Trout with Crispy Toastie",
     "tags": [
-      "trout-toastie",
-      "fresh-crispy-vietnamese-dish"
+      "healthy",
+      "quick-and-easy",
+      "fish-dinner"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "cuisine": "British",
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
