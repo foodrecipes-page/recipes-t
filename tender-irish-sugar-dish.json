@@ -1,0 +1,65 @@
+{
+  "slug": "tender-irish-sugar-dish",
+  "title": "Irish Soda Bread",
+  "description": "A classic Irish bread recipe that is easy to make and delicious to eat. Perfect for serving with butter or jam.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together the flour, baking soda, and salt.",
+    "3. Add the sugar, butter, and warm water to the dry ingredients. Mix until a dough forms.",
+    "4. Turn the dough out onto a floured surface and knead for 5-10 minutes.",
+    "5. Shape the dough into a round loaf and place it on a baking sheet.",
+    "6. Cut a cross in the top of the loaf and bake for 35-40 minutes, or until the bread is golden brown.",
+    "7. Remove the bread from the oven and let it cool on a wire rack for 10-15 minutes before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "bread",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-irish-sugar-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:46:07.394Z"
+}
