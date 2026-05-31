@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-fluffy-ukrainian-aubergine-pancakes",
+  "title": "Tangy Ukrainian Aebleskiver Pancakes",
+  "description": "A twist on traditional Ukrainian pancakes, these tangy aebleskiver pancakes feature aubergine and a hint of sweetness.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fluffy all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Tangy buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Grated aubergine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Pancakes",
+      "amount": "1 cup ukrainian pancake mix (or substitute)",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or aebleskiver pan over medium heat.",
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "In a separate bowl, whisk together buttermilk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Add the grated aubergine and stir to combine.",
+    "If using pancake mix, stir to combine.",
+    "Using a 1/4 cup measuring cup, scoop batter into the pan.",
+    "Cook for 2-3 minutes, until the edges are set and the surface is dry.",
+    "Flip and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aebleskiver",
+    "ukrainian",
+    "pancakes",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-ukrainian-aubergine-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:29:01.701Z"
+}
