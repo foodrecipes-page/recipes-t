@@ -4179,18 +4179,15 @@
   },
   {
     "slug": "tangy-toasted-canadian-cream-cheese-flatbread",
-    "title": "Tangy Toasted Canadian Cream Cheese Flatbread",
+    "title": "Canadian Cheese Flatbread",
     "tags": [
-      "bento-box",
-      "canadian-cuisine",
-      "cream-cheese",
+      "canadian",
+      "cheese",
       "flatbread",
-      "garlicky",
-      "low-sodium",
-      "molten"
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "canadian",
+    "totalTimeMin": 17,
     "shard": "t"
   },
   {
