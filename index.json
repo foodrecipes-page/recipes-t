@@ -2500,16 +2500,13 @@
     "slug": "tangy-herbaceous-ethiopian-stew-berbere-stew",
     "title": "Berbere Stew",
     "tags": [
-      "comfort-food",
       "ethiopian",
-      "gluten-free",
-      "herbaceous",
-      "one-pan",
       "stew",
-      "weeknight"
+      "berbere",
+      "spicy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 75,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -9849,13 +9846,12 @@
   },
   {
     "slug": "tender-smoked-moroccan-lamb-spit-roasted-mechoui",
-    "title": "Tender Smoked Moroccan Lamb Spit-Roasted Mechoui",
+    "title": "Traditional Moroccan Mechoui",
     "tags": [
-      "high-protein",
+      "lamb",
       "moroccan",
-      "one-pan",
-      "smoked",
-      "weeknight"
+      "slow-cooked",
+      "oven-roasted"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 165,
