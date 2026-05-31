@@ -1,0 +1,96 @@
+{
+  "slug": "tasty-toasted-greek-bulgur-wheat-tiropita",
+  "title": "Greek Tiropita with Bulgur Salad",
+  "description": "A classic Greek dish featuring a crispy tiropita pastry wrapped around a tangy spinach and feta filling, served with a hearty bulgur salad.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tasty wheat pastry dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "toasted greek olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "wheat bulgur",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tiropita cheese mixture",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "spinach",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry dough to a thickness of 1/8 inch.",
+    "Spread tiropita cheese mixture evenly, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the filling, pressing gently to seal.",
+    "Brush pastry with olive oil and bake for 25-30 minutes, or until golden brown.",
+    "While the tiropita is baking, cook bulgur according to package instructions.",
+    "In a large bowl, combine cooked bulgur, spinach, feta cheese, red onion, and lemon juice.",
+    "Toss to combine and season with salt to taste.",
+    "Serve tiropita with a side of bulgur salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "tiropita",
+    "bulgur",
+    "salad",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-greek-bulgur-wheat-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:24:09.788Z"
+}
