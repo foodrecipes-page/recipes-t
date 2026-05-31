@@ -1,0 +1,66 @@
+{
+  "slug": "tender-sweet-vietnamese-elderflower-spring-rolls",
+  "title": "Spring Rolls with Sweet Elderflower Dipping Sauce",
+  "description": "A delicious and refreshing Vietnamese-inspired dish, perfect for spring. Sweet elderflower dipping sauce complements the crunch of spring rolls.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spring rolls",
+      "amount": "12 pieces",
+      "notes": null
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Prepare the dipping sauce by whisking together elderflower syrup, sugar, and water until sugar dissolves.",
+    "Taste and adjust sweetness as needed.",
+    "Dip spring rolls in the sweet elderflower sauce and serve immediately.",
+    "Garnish with chopped fresh mint."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spring",
+    "rolls",
+    "sweet",
+    "elderflower",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sweet-vietnamese-elderflower-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T02:04:31.899Z"
+}
