@@ -1,0 +1,62 @@
+{
+  "slug": "toasty-german-avocado-flatbread",
+  "title": "Avocado Toasty Flatbread",
+  "description": "A delicious and easy-to-make flatbread topped with creamy avocado, crispy toasty, and a hint of german flair.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 piece",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "mashed"
+    },
+    {
+      "name": "toasty",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your toaster or toaster oven to 350°F (180°C).",
+    " Toast the flatbread for 2-3 minutes or until lightly browned.",
+    "Mash the avocado in a bowl until smooth.",
+    "Spread the mashed avocado on top of the toasted flatbread.",
+    "Sprinkle crushed toasty on top of the avocado.",
+    "Season with salt to taste, if desired.",
+    "Cut into halves or quarters and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "snack",
+    "german",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-german-avocado-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:43:05.467Z"
+}
