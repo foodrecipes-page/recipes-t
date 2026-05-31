@@ -5405,16 +5405,16 @@
   },
   {
     "slug": "tasty-toasted-greek-bulgur-wheat-tiropita",
-    "title": "Tasty Toasted Greek Bulgur Wheat Tiropita",
+    "title": "Greek Tiropita with Bulgur Salad",
     "tags": [
-      "gluten-free",
-      "greek-food",
-      "healthy-snack",
-      "kid-friendly",
-      "vegetarian"
+      "greek",
+      "tiropita",
+      "bulgur",
+      "salad",
+      "pastry"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -12050,17 +12050,15 @@
   },
   {
     "slug": "toasty-german-avocado-flatbread",
-    "title": "Toasty German Avocado Flatbread",
+    "title": "Avocado Toasty Flatbread",
     "tags": [
-      "avocado-recipes",
-      "flatbread-recipes",
-      "german-cuisine",
-      "gluten-free-snacks",
-      "vegetarian-snacks",
-      "wood-fired-recipes"
+      "easy",
+      "snack",
+      "german",
+      "avocado"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 27,
+    "cuisine": "german",
+    "totalTimeMin": 8,
     "shard": "t"
   },
   {
