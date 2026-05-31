@@ -7386,17 +7386,16 @@
   },
   {
     "slug": "tender-croatian-walnut-pasta",
-    "title": "Tender Croatian Walnut Pasta",
+    "title": "Walnut Pesto Pasta with Croatian Sausage",
     "tags": [
-      "date-night",
-      "flexitarian",
-      "italian-inspired",
-      "nutty",
-      "pasta-lovers",
-      "special-occasion"
+      "italian",
+      "pasta",
+      "sausage",
+      "walnut",
+      "pesto"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12800,6 +12799,31 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 80,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-irish-sugar-dish--french",
+    "title": "Tender Irish Dish",
+    "tags": [
+      "french",
+      "dinner",
+      "beef"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-irish-sugar-dish--gluten-free",
+    "title": "Irish Tenderloin with Caramelized Sugar",
+    "tags": [
+      "gluten-free",
+      "irish-food",
+      "steak",
+      "dinner"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 27,
     "shard": "t"
   }
 ]
