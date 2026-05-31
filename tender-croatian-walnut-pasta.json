@@ -1,0 +1,87 @@
+{
+  "slug": "tender-croatian-walnut-pasta",
+  "title": "Walnut Pesto Pasta with Croatian Sausage",
+  "description": "A hearty and flavorful pasta dish featuring Croatian sausage, walnuts, and a rich pesto sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "croatian sausage",
+      "amount": "280g",
+      "notes": "casings removed"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "linguine"
+    },
+    {
+      "name": "walnut",
+      "amount": "60g",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "120g",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "60ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the Croatian sausage and cook, breaking it up with a spoon, until browned and cooked through.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chopped walnuts and cook for 2 minutes.",
+    "Stir in the parmesan cheese and cook until melted.",
+    "Reserve 1 cup of pasta water and then drain the pasta.",
+    "Add the cooked pasta to the skillet with the sausage mixture and toss to combine.",
+    "If the pasta seems dry, add a bit of the reserved pasta water.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "sausage",
+    "walnut",
+    "pesto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-croatian-walnut-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:03:42.017Z"
+}
