@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-light-ukrainian-herbal-bowl",
+  "title": "Ukrainian Herbal Chicken Soup",
+  "description": "A soothing, flavorful soup originating from Ukraine, made with fresh herbs and tender chicken.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "bowls",
+      "amount": "4-6",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Add the carrots, celery, parsley, and dill. Pour in enough chicken broth to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the soup hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "soup",
+    "chicken",
+    "herbal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-ukrainian-herbal-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:18.109Z"
+}
