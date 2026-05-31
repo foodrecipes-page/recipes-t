@@ -1,0 +1,97 @@
+{
+  "slug": "tender-tunisian-lamb-kebabs",
+  "title": "Tunisian Lamb Kebabs",
+  "description": "A flavorful and aromatic North African-inspired dish featuring tender lamb, rich spices, and a hint of sweetness.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Tunisian spice blend (available at most Middle Eastern markets or online)",
+      "amount": "2 tsp",
+      "notes": "Can substitute with a combination of ground cumin, coriander, cinnamon, and cayenne pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, extra-virgin olive oil"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 large",
+      "notes": "Can use red or yellow onion"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Can use fresh cilantro as a substitute"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Can substitute with maple syrup or agave nectar"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed is best"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher or sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground pepper"
+    },
+    {
+      "name": "Pita bread or crusty bread",
+      "amount": "4-6 slices",
+      "notes": "Optional, but recommended for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "In a large bowl, whisk together Tunisian spice blend, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 8-10 minutes, turning occasionally, or until cooked to desired level of doneness.",
+    "While the lamb is cooking, toast the pita bread or crusty bread slices on the grill or in a toaster.",
+    "Once the lamb is cooked, brush with honey and lemon juice.",
+    "Serve the lamb kebabs on toasted bread with a sprinkle of chopped parsley and a side of your favorite accompaniments.",
+    "Note: If using wooden skewers, make sure to soak them in water for at least 30 minutes before grilling to prevent them from catching fire."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "north-african",
+    "grill",
+    "summer",
+    "outdoor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tunisian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:45:49.390Z"
+}
