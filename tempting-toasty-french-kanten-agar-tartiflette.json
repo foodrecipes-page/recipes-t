@@ -1,0 +1,80 @@
+{
+  "slug": "tempting-toasty-french-kanten-agar-tartiflette",
+  "title": "Tempting Tartiflette",
+  "description": "A French-inspired tartiflette recipe featuring a rich, savory tartiflette topped with toasted bread and tempting cheese. Serve as a satisfying dinner or snack.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tartiflette",
+      "amount": "250g",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": "gluten-free if necessary"
+    },
+    {
+      "name": "Tempting cheese",
+      "amount": "150g",
+      "notes": "such as vegan mozzarella or soy cheese"
+    },
+    {
+      "name": "Agar",
+      "amount": "2g",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "Kanten",
+      "amount": "2g",
+      "notes": "optional, for added texture"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2tbsp",
+      "notes": "for brushing bread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Slice the French bread into 1cm thick slices.",
+    "3. Brush each bread slice with olive oil.",
+    "4. Bake the bread in the oven for 5-7 minutes, or until toasted and golden brown.",
+    "5. Meanwhile, prepare the tartiflette according to package instructions.",
+    "6. Assemble the tartiflette by spreading a layer of tartiflette on each bread slice.",
+    "7. Top with tempting cheese and sprinkle with salt to taste.",
+    "8. Bake in the oven for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegan",
+    "gluten-free",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-toasty-french-kanten-agar-tartiflette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:36:56.198Z"
+}
