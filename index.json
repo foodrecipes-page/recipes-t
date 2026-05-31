@@ -6178,17 +6178,15 @@
   },
   {
     "slug": "tempting-toasty-french-kanten-agar-tartiflette",
-    "title": "Toasty French Kanten Agar Tartiflette",
+    "title": "Tempting Tartiflette",
     "tags": [
-      "french-cuisine",
+      "french",
+      "vegan",
       "gluten-free",
-      "one-pan",
-      "vegan-friendly",
-      "vegetarian-dish",
-      "weeknight-meal"
+      "snack"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
