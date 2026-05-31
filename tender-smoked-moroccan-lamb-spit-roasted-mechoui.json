@@ -1,0 +1,79 @@
+{
+  "slug": "tender-smoked-moroccan-lamb-spit-roasted-mechoui",
+  "title": "Traditional Moroccan Mechoui",
+  "description": "A slow-cooked lamb dish originating from Morocco, traditionally cooked in a pit or oven.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (2 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for rubbing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Rub the lamb shoulder with olive oil, then season with salt and black pepper.",
+    "Heat the Moroccan spice blend in a pan over medium heat, until fragrant.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Place the lamb shoulder in a large Dutch oven or oven-safe pot.",
+    "Pour the spice mixture over the lamb, then cover the pot with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the pot from the oven and let it rest for 10 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "slow-cooked",
+    "oven-roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 0,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoked-moroccan-lamb-spit-roasted-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:19:54.100Z"
+}
