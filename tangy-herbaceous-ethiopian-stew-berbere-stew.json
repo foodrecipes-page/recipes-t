@@ -1,0 +1,91 @@
+{
+  "slug": "tangy-herbaceous-ethiopian-stew-berbere-stew",
+  "title": "Berbere Stew",
+  "description": "A flavorful and spicy stew inspired by Ethiopian cuisine. Berbere is a staple spice blend in Ethiopian cooking.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Berbere spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, peeled and chopped",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 large, peeled and chopped",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Stew tomatoes (or 2 cups chopped fresh tomatoes)",
+      "amount": "1 can"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large pot over medium heat.",
+    "2. Add onion and cook until softened, about 5 minutes.",
+    "3. Add garlic and cook for 1 minute.",
+    "4. Stir in Berbere spice blend and cook for 1 minute.",
+    "5. Add carrots and potato, and cook for 5 minutes.",
+    "6. Add tomato paste, stew tomatoes, vegetable broth, water, salt, and black pepper.",
+    "7. Bring the stew to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "8. Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "berbere",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-herbaceous-ethiopian-stew-berbere-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:50.748Z"
+}
