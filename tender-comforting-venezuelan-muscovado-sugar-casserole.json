@@ -1,0 +1,81 @@
+{
+  "slug": "tender-comforting-venezuelan-muscovado-sugar-casserole",
+  "title": "Hearty Venezuelan Casserole",
+  "description": "A warm, comforting Venezuelan-inspired casserole featuring tender beef and sweet muscovado sugar.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "red-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Muscovado sugar",
+      "amount": "2 tbsp",
+      "notes": "Brown sugar substitute"
+    },
+    {
+      "name": "Tender onions",
+      "amount": "1 cup",
+      "notes": "Chopped, caramelized"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 (6 oz) package",
+      "notes": "Venezuelan-style casserole dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brown ground beef in a large skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add olive oil, salt, and black pepper to the skillet, and cook until the onions are caramelized.",
+    "In a separate bowl, combine muscovado sugar and casserole package contents.",
+    "Add the cooked beef mixture to the casserole mixture, and stir until well combined.",
+    "Transfer the mixture to the casserole dish, and top with chopped cilantro.",
+    "Bake for 25-30 minutes, or until the casserole is hot and bubbly.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    " venezuelan",
+    " comfort-food",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-comforting-venezuelan-muscovado-sugar-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:37:30.041Z"
+}
