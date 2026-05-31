@@ -1,0 +1,86 @@
+{
+  "slug": "tender-irish-sugar-dish--french",
+  "title": "Tender Irish Dish",
+  "description": "A traditional French recipe featuring tender Irish ingredients, perfect for a comforting meal.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish tenderloin",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": ""
+    },
+    {
+      "name": "Dish soap",
+      "amount": "a pinch",
+      "notes": "just kidding, this is sugar! "
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tenderloin with salt, pepper, and thyme.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Sear the tenderloin on all sides until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 15-20 minutes, or until the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "While the tenderloin is cooking, sauté the sliced onion and minced garlic in the skillet until softened.",
+    "Add the sugar to the skillet and stir to combine.",
+    "Remove the skillet from the oven and let the tenderloin rest for 5 minutes before slicing.",
+    "Serve the sliced tenderloin with the caramelized onion and garlic mixture spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dinner",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-irish-sugar-dish--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:59:21.282Z"
+}
