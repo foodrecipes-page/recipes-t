@@ -1,0 +1,58 @@
+{
+  "slug": "tender-irish-sugar-dish--gluten-free",
+  "title": "Irish Tenderloin with Caramelized Sugar",
+  "description": "A gluten-free dish featuring tenderloin steak, caramelized sugar, and a hint of Irish charm.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tenderloin steak",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "caramelized"
+    },
+    {
+      "name": "dish",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tenderloin steak with salt and pepper.",
+    "Heat a skillet over medium-high heat. Sear the tenderloin steak for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "Remove the skillet from the oven and let the tenderloin rest for 5 minutes.",
+    "Caramelize the sugar in a small saucepan over medium heat, stirring constantly.",
+    "Serve the tenderloin steak with caramelized sugar and your choice of sides.",
+    "Transfer the remaining sauce to a serving dish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish-food",
+    "steak",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-irish-sugar-dish--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:00:02.913Z"
+}
