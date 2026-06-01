@@ -1,0 +1,92 @@
+{
+  "slug": "tender-british-beef-sunday-roast",
+  "title": "Traditional British Sunday Roast",
+  "description": "A classic British dish featuring slow-cooked beef and roasted vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender British Beef",
+      "amount": "1.5 lbs",
+      "notes": "Chuck roast or prime rib"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for browning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the beef with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the beef until browned on all sides, about 2-3 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the chopped onions to the pot and cook until they're softened and lightly browned, about 5-7 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the carrots and potatoes to the pot, and cook for 5 minutes, until they start to soften.",
+    "Add the beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot, and add the rosemary sprigs.",
+    "Cover the pot with a lid, and transfer it to the preheated oven.",
+    "Roast the beef and vegetables for 2 1/2 to 3 hours, until the beef is tender and the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "Remove the pot from the oven, and let it rest for 15-20 minutes before slicing the beef and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "british",
+    "roast",
+    "sunday roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-british-beef-sunday-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:41:04.916Z"
+}
