@@ -1788,17 +1788,15 @@
   },
   {
     "slug": "tangy-filipino-flour-bowl",
-    "title": "Tangy Filipino Flour Bowl",
+    "title": "Filipino-Style Fried Chicken",
     "tags": [
-      "egg-free",
-      "flour-based",
-      "quick",
-      "stone-pot",
-      "tangy",
-      "vegetarian"
+      "chicken",
+      "fried",
+      "filipino",
+      "tangy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -12809,6 +12807,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-smoky-korean-rice-bowl--vegetarian",
+    "title": "Smoky Korean Rice Bowl",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "rice-bowl",
+      "tofu",
+      "sesame-oil"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
