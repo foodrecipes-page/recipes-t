@@ -1187,16 +1187,15 @@
   },
   {
     "slug": "tangy-crumbly-ethiopian-squash-tibs",
-    "title": "Tangy Crumbly Ethiopian Squash Tibs",
+    "title": "Ethiopian Squash Tibs Stir Fry",
     "tags": [
       "ethiopian",
+      "stir-fry",
       "squash",
-      "pickled",
-      "vegan",
-      "gluten-free"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -12818,6 +12817,32 @@
     ],
     "cuisine": "korean",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-egyptian-semolina-cake--mexican",
+    "title": "Tender Mexican Cake Bread",
+    "tags": [
+      "mexican",
+      "cake",
+      "bread",
+      "dessert"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-light-ukrainian-herbal-bowl--thai",
+    "title": "Thai Herbal Chicken Bowl",
+    "tags": [
+      "thaifood",
+      "chicken",
+      "herbal",
+      "bowl"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "t"
   }
 ]
