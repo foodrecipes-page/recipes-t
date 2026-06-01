@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-light-ukrainian-herbal-bowl--thai",
+  "title": "Thai Herbal Chicken Bowl",
+  "description": "A flavorful and nutritious Thai-inspired bowl dish made with herbal notes and a hint of tanginess.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": "boneless"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks, bruised",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches, sliced",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup, cooked",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat. Add chicken and cook until browned, about 5 minutes.",
+    "Add lemongrass and ginger to the skillet and cook for 1 minute.",
+    "Pour in chicken broth and bring to a boil. Scrape up any browned bits from the bottom of the skillet.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in coconut milk, fish sauce, and brown sugar. Cook for an additional 2 minutes.",
+    "Cooked rice should be prepared according to package instructions.",
+    "To assemble the bowls, place a scoop of cooked rice in the bottom of a bowl.",
+    "Add chicken and sauce on top of the rice.",
+    "Garnish with chopped Thai basil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "chicken",
+    "herbal",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-ukrainian-herbal-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:14:51.899Z"
+}
