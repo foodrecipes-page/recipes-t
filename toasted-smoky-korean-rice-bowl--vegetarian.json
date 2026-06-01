@@ -1,0 +1,86 @@
+{
+  "slug": "toasted-smoky-korean-rice-bowl--vegetarian",
+  "title": "Smoky Korean Rice Bowl",
+  "description": "A flavorful vegetarian bowl filled with the taste of Korea, featuring smoky tofu and crispy rice.",
+  "cuisine": "korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "toasted sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for drizzling"
+    },
+    {
+      "name": "smoked tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Cook the brown rice according to package instructions.",
+    "2. In a small bowl, whisk together soy sauce, toasted sesame oil, and korean chili flakes.",
+    "3. Add cubed smoked tofu to the marinade and toss to coat.",
+    "4. In a large skillet or wok, heat 1 tablespoon of toasted sesame oil over medium-high heat.",
+    "5. Add the marinated tofu and cook until golden brown, about 5-7 minutes.",
+    "6. In a separate pan, toast the sesame seeds over low heat, stirring frequently, until fragrant.",
+    "7. To assemble the bowls, place a scoop of cooked brown rice on the bottom.",
+    "8. Add the cooked tofu on top of the rice.",
+    "9. Sprinkle toasted sesame seeds, green onions, and a pinch of salt over the tofu.",
+    "10. Drizzle the remaining toasted sesame oil and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "rice-bowl",
+    "tofu",
+    "sesame-oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 64,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasted-smoky-korean-rice-bowl--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:28:36.369Z"
+}
