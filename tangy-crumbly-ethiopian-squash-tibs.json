@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-crumbly-ethiopian-squash-tibs",
+  "title": "Ethiopian Squash Tibs Stir Fry",
+  "description": "A flavorful and nutritious Ethiopian-inspired stir fry made with roasted squash, tangy spices, and a hint of crumbly texture. Serve as a main dish or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Squash (acorn or butternut)",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tibs spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly feta cheese",
+      "amount": "1/4 cup crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast squash in the oven for 30 minutes, or until tender.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add tibs spice blend and cook for 1 minute.",
+    "Add roasted squash and stir to combine.",
+    "Crumble feta cheese on top and stir to combine.",
+    "Serve hot garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "squash",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-ethiopian-squash-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:48:35.088Z"
+}
