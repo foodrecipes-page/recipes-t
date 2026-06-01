@@ -1,0 +1,82 @@
+{
+  "slug": "tsmoky-grilled-sumac-syrian-quesadilla",
+  "title": "Syrian Quesadilla",
+  "description": "A fusion of Syrian and Mexican flavors in a crispy quesadilla. The smoky lamb and grilled onions add a depth of flavor that complements the sumac perfectly.",
+  "cuisine": "Middle Eastern Mexican",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "250g",
+      "notes": "Boneless and finely chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Grilled"
+    },
+    {
+      "name": "Sumac",
+      "amount": "1 tsp",
+      "notes": "Dried, powdered"
+    },
+    {
+      "name": "Quesadilla",
+      "amount": "2 large",
+      "notes": "Tortillas"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "100g",
+      "notes": "Crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan to medium heat.",
+    "Brush the quesadillas with olive oil on both sides.",
+    "Season the lamb with salt and cook in the pan until browned.",
+    "Add the grilled onions to the pan and cook for another minute.",
+    "Sprinkle the sumac over the lamb and onions.",
+    "Place a quesadilla in the pan, topped with lamb, onions, and feta cheese.",
+    "Fold the quesadilla in half and cook until crispy and golden brown.",
+    "Flip the quesadilla and cook the other side until crispy.",
+    "Repeat with the remaining ingredients.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "quesadilla",
+    "lamb",
+    "sumac",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tsmoky-grilled-sumac-syrian-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:22:41.053Z"
+}
