@@ -1,0 +1,92 @@
+{
+  "slug": "tender-egyptian-semolina-cake--mexican",
+  "title": "Tender Mexican Cake Bread",
+  "description": "A Mexican inspired dessert made with tender cake and semolina, perfect for sweet treats.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egyptian semolina",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "tender cake",
+      "amount": "1 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Mix semolina, sugar, and cinnamon in a large bowl.",
+    "In a separate bowl, whisk together milk, eggs, butter, vanilla extract, and almond extract.",
+    "Add wet ingredients to dry ingredients and mix until well combined.",
+    "Fold in crumbled tender cake.",
+    "Pour mixture into a greased 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Dust with powdered sugar before serving.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "cake",
+    "bread",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-egyptian-semolina-cake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:04:13.090Z"
+}
