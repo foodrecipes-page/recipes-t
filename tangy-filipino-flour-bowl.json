@@ -1,0 +1,69 @@
+{
+  "slug": "tangy-filipino-flour-bowl",
+  "title": "Filipino-Style Fried Chicken",
+  "description": "A classic Filipino-inspired fried chicken recipe with a tangy twist.",
+  "cuisine": "Filipino",
+  "diet": [
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken pieces",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "vinegar",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bowl",
+      "amount": "",
+      "notes": "large bowl for marinating"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, egg, vinegar, and water to create the marinade.",
+    "Add the chicken pieces to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Heat about 2-3 inches of oil in a deep frying pan over medium-high heat.",
+    "Once the oil is hot, remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Fry the chicken in batches until golden brown and cooked through, about 5-7 minutes per batch.",
+    "Drain the fried chicken on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "fried",
+    "filipino",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 30,
+    "fat": 52
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-filipino-flour-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:18:26.836Z"
+}
