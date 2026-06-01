@@ -1,0 +1,87 @@
+{
+  "slug": "tremendously-smoky-argentine-corn-casserole",
+  "title": "Smoky Argentine Corn Casserole",
+  "description": "A hearty and flavorful casserole made with smoky corn, argentine spices, and a hint of smokiness. Perfect for a family dinner or a casual gathering.",
+  "cuisine": "argentine",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Argentine Spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grated Cheddar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the onion and garlic until softened.",
+    "Add the corn, Argentine spices, and smoky paprika. Cook for 2-3 minutes.",
+    "In a separate saucepan, melt the butter and whisk in the milk.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes.",
+    "Stir in the grated cheddar until melted and smooth.",
+    "Add the cooked corn mixture to the cheese sauce and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentine",
+    "smoky",
+    "corn",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tremendously-smoky-argentine-corn-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:54:42.642Z"
+}
