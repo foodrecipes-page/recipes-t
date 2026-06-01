@@ -1,0 +1,71 @@
+{
+  "slug": "tender-sour-almond-peruvian-crumble",
+  "title": "Peruvian Crumble Dessert",
+  "description": "A sweet and tangy crumble dessert infused with the flavors of Peru.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tender Apricots",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sour Cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian Quinoa Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the almond, tender apricots, sour cherries, quinoa flour, sugar, and brown sugar.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, mix together the crumble topping ingredients.",
+    "Spread the crumble topping evenly over the fruit mixture.",
+    "Bake for 40-45 minutes, or until the topping is golden brown and the fruit is tender.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "crumble",
+    "fruit",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sour-almond-peruvian-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:17:05.731Z"
+}
