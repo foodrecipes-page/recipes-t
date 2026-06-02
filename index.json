@@ -12837,5 +12837,18 @@
     "cuisine": "Thai",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tender-irish-sugar-dish--indian",
+    "title": "Tender Irish Chicken Curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "indian",
+      "lunch"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
