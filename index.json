@@ -11511,17 +11511,15 @@
   },
   {
     "slug": "tenderly-smoked-ukrainian-beetroot-stew",
-    "title": "Tenderly Smoked Ukrainian Beetroot Stew",
+    "title": "Smoked Beetroot Stew",
     "tags": [
-      "claypot-cooking",
-      "date-night",
-      "gluten-free",
-      "smoked-dishes",
-      "ukrainian-cuisine",
-      "whole30-friendly"
+      "beef",
+      "stew",
+      "comfort-food",
+      "ukrainian-cuisine"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 120,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
