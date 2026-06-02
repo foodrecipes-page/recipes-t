@@ -1,0 +1,95 @@
+{
+  "slug": "tender-irish-sugar-dish--indian",
+  "title": "Tender Irish Chicken Curry",
+  "description": "A flavorful and spicy Indian-inspired dish made with tender chicken, Irish ingredients, and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of irish butter in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the chicken to the pan and cook until browned, about 5-7 minutes.",
+    "Add the garam masala, cumin powder, coriander powder, and cayenne pepper to the pan and cook for 1 minute.",
+    "Add the tomato paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the coconut milk to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired.",
+    "Serve with basmati rice or naan bread, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "indian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-irish-sugar-dish--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:20:05.221Z"
+}
