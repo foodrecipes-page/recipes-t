@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-spicy-polish-buckwheat-crumble",
+  "title": "Tangy Buckwheat Crumble",
+  "description": "A hearty and flavorful buckwheat crumble with a tangy twist.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "polish dark rye flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tangy feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "spicy apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together buckwheat groats, polish dark rye flour, and crumble topping in a large bowl.",
+    "In a separate bowl, whisk together tangy feta cheese, spicy apple cider vinegar, olive oil, and honey.",
+    "Pour the wet ingredients over the dry ingredients and stir until combined.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "Bake for 35-40 minutes, or until the top is golden brown and the filling is set.",
+    "Serve warm, topped with additional crumble topping if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "buckwheat",
+    "polish",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-spicy-polish-buckwheat-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:39:50.908Z"
+}
