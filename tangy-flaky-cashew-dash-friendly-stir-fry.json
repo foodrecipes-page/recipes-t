@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-flaky-cashew-dash-friendly-stir-fry",
+  "title": "Cashew Crusted Fish",
+  "description": "A simple yet flavorful dish that combines the crunch of cashews with the tender flakiness of fish. Perfect for a weeknight dinner.",
+  "cuisine": "american",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets",
+      "amount": "4",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Cashews",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Flaky Coating Mix (e.g. panko breadcrumbs)",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tangy Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Friendly Seasoning",
+      "amount": "1 tsp",
+      "notes": "Salt-free"
+    },
+    {
+      "name": "Dash of Lemon Juice",
+      "amount": "1 tsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the cashew crust by mixing together cashews and flaky coating mix (if using).",
+    "Season the fish fillets with friendly seasoning.",
+    "Dip each fish fillet into the cashew crust, pressing gently to adhere.",
+    "Place the coated fish on a baking sheet lined with parchment paper.",
+    "Drizzle with a dash of lemon juice.",
+    "Bake for 12-15 minutes, or until cooked through.",
+    "Serve with tangy mayonnaise on top.",
+    "Stir-fry some vegetables (e.g. asparagus, bell peppers) as a side dish, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "healthy",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-cashew-dash-friendly-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T18:52:01.056Z"
+}
