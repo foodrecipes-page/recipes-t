@@ -5334,17 +5334,15 @@
   },
   {
     "slug": "tasty-thick-korean-vegetables-dosirak",
-    "title": "Tasty Thick Korean Vegetables Dosirak",
+    "title": "Spicy Korean-Style Vegetable Dosirak",
     "tags": [
-      "cataplana-recipes",
-      "fermented-foods",
-      "flexitarian",
-      "korean-cuisine",
-      "lunch-ideas",
-      "vegetarian-friendly"
+      "korean",
+      "vegetarian",
+      "veggie",
+      "rice-bowl"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -11053,17 +11051,16 @@
   },
   {
     "slug": "tender-turkish-style-croatian-turkey-skillet",
-    "title": "Tender Turkish Style Croatian Turkey Skillet",
+    "title": "Turkish-Style Croatian Turkey Skillet",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "turkish-inspired",
-      "weeknight"
+      "turkish",
+      "croatian",
+      "skillet",
+      "dinner",
+      "turkey"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "turkish",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
