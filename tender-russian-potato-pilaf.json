@@ -1,0 +1,68 @@
+{
+  "slug": "tender-russian-potato-pilaf",
+  "title": "Tender Pilaf with Russian Potatoes",
+  "description": "A hearty and flavorful dish that combines the tender meat of pilaf with the richness of Russian potatoes. This recipe is perfect for a comforting meal.",
+  "cuisine": "russian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "preferably cooked beforehand"
+    },
+    {
+      "name": "russian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tender",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the pilaf and cooked tender to the pan, stirring to combine.",
+    "Season with salt and pepper to taste.",
+    "Continue cooking for another 5-7 minutes, or until the mixture is heated through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "russian-cuisine",
+    "pilaf-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 55,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-russian-potato-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:08:05.996Z"
+}
