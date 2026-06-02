@@ -3893,19 +3893,15 @@
   },
   {
     "slug": "tangy-spicy-polish-buckwheat-crumble",
-    "title": "Tangy Spicy Polish Buckwheat Crumble",
+    "title": "Tangy Buckwheat Crumble",
     "tags": [
-      "vegan",
-      "gluten-free",
-      "quick",
-      "easy",
-      "crunchy",
+      "breakfast",
       "buckwheat",
-      "spicy",
-      "tangy"
+      "polish",
+      "crumble"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "polish",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -9539,17 +9535,14 @@
   },
   {
     "slug": "tender-russian-potato-pilaf",
-    "title": "Tender Russian Potato Pilaf",
+    "title": "Tender Pilaf with Russian Potatoes",
     "tags": [
       "comfort-food",
-      "hearty",
-      "homestyle",
-      "one-pan",
-      "potato-based",
-      "weeknight"
+      "russian-cuisine",
+      "pilaf-recipes"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 70,
+    "cuisine": "russian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
