@@ -1,0 +1,82 @@
+{
+  "slug": "trout-toastie--italian",
+  "title": "Italian Trout Toastie",
+  "description": "A simple, yet flavorful Italian-inspired trout toastie recipe.",
+  "cuisine": "italian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "ciabatta bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the trout fillets with salt, pepper, and garlic.",
+    "Add olive oil to the skillet and sear the trout for 3-4 minutes per side.",
+    "Meanwhile, toast the ciabatta bread.",
+    "Assemble the toastie by placing a trout fillet on each toasted bread slice.",
+    "Garnish with fresh parsley and a squeeze of lemon juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "fish",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/trout-toastie--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:29:20.137Z"
+}
