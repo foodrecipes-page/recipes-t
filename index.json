@@ -12844,5 +12844,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tender-russian-potato-pilaf--french",
+    "title": "French-Style Russian Beef Pilaf",
+    "tags": [
+      "beef",
+      "pilaf",
+      "potato",
+      "french",
+      "russian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
