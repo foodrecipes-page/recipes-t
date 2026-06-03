@@ -12862,5 +12862,18 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "t"
+  },
+  {
+    "slug": "tender-roast-argentinian-persian-cucumber-roast--italian",
+    "title": "Classic Italian-Style Beef Roast",
+    "tags": [
+      "italian",
+      "beef",
+      "roast",
+      "slow-cooked"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 200,
+    "shard": "t"
   }
 ]
