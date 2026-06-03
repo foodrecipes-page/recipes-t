@@ -1,0 +1,55 @@
+{
+  "slug": "tasty-smoky-italian-spinach-flatbread",
+  "title": "Smoky Spinach Flatbread",
+  "description": "A delicious flatbread topped with smoky spinach, perfect for a light meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "smoky spinach",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flatbread and place on a baking sheet.",
+    "Spread the smoky spinach evenly over the flatbread.",
+    "Sprinkle italian seasoning on top of the spinach.",
+    "Bake for 10-12 minutes or until the bread is crispy and the spinach is heated through.",
+    "Remove from oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-smoky-italian-spinach-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:31:24.544Z"
+}
