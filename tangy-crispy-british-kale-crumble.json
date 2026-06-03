@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-crispy-british-kale-crumble",
+  "title": "British Kale Crumble",
+  "description": "A hearty and comforting British-inspired dish featuring crispy kale and a tangy crumble topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "1 bunch",
+      "notes": "Curly-leaf or lacinato work well"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Crumble Topping",
+      "amount": "1 cup",
+      "notes": "See below for crumble topping ingredients"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Chop the onion and mince the garlic.",
+    "In a large skillet, sauté the chopped onion and minced garlic in butter until softened.",
+    "Add the chopped kale to the skillet and cook until wilted.",
+    "Season the kale mixture with salt and pepper to taste.",
+    "In a separate bowl, mix together the flour and crumble topping ingredients.",
+    "Transfer the kale mixture to a baking dish and top with the crumble topping.",
+    "Bake in the preheated oven for 20-25 minutes, or until the topping is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "kale",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-british-kale-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:15:45.926Z"
+}
