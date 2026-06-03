@@ -5216,17 +5216,14 @@
   },
   {
     "slug": "tasty-smoky-italian-spinach-flatbread",
-    "title": "Tasty Smoky Italian Spinach Flatbread",
+    "title": "Smoky Spinach Flatbread",
     "tags": [
-      "easy-meals",
-      "flatbread-recipes",
-      "italian-food",
-      "smoky-flavors",
-      "snack-ideas",
-      "spinach-recipes"
+      "italian",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 17,
     "shard": "t"
   },
   {
@@ -12857,6 +12854,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "trout-toastie--italian",
+    "title": "Italian Trout Toastie",
+    "tags": [
+      "italian",
+      "fish",
+      "quick"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "t"
   }
 ]
