@@ -1,0 +1,63 @@
+{
+  "slug": "tender-roast-argentinian-persian-cucumber-roast",
+  "title": "Grilled Roast Beef with Cucumber Salad",
+  "description": "A simple and flavorful recipe featuring grilled roast beef paired with a refreshing cucumber salad.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat-lovers",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "1 kg",
+      "notes": "preferably argentinian style roast"
+    },
+    {
+      "name": "Argentinian Roast",
+      "amount": "300g",
+      "notes": "optional, for added flavor"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tender",
+      "amount": "2 sprigs",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the roast with salt, pepper, and argentinian roast (if using).",
+    "Grill the roast for 5-7 minutes per side, or until it reaches an internal temperature of 63°C.",
+    "Let the roast rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, slice the cucumber into thin rounds.",
+    "In a small bowl, whisk together a vinaigrette of your choice.",
+    "To assemble the salad, arrange the sliced cucumber on a plate, top with sliced roast, and garnish with tender (if using).",
+    "Drizzle the vinaigrette over the salad and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-beef",
+    "cucumber-salad",
+    "argentinian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roast-argentinian-persian-cucumber-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:49:55.282Z"
+}
