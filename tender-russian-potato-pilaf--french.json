@@ -1,0 +1,93 @@
+{
+  "slug": "tender-russian-potato-pilaf--french",
+  "title": "French-Style Russian Beef Pilaf",
+  "description": "A hearty French-inspired dish featuring tender beef, pilaf, and a hint of Russian spices.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "grain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (tender)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Russian pilaf",
+      "amount": "1 cup",
+      "notes": "Dried pilaf mix"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the beef cubes and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the diced onion and minced garlic and cook until the onion is translucent.",
+    "Add the diced potatoes, pilaf mix, thyme, salt, and pepper to the skillet.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the water to the skillet and bring to a boil.",
+    "Return the beef to the skillet and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the potatoes are tender.",
+    "Serve hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pilaf",
+    "potato",
+    "french",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-russian-potato-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:11:27.691Z"
+}
