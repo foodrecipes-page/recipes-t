@@ -1,0 +1,98 @@
+{
+  "slug": "tender-roast-argentinian-persian-cucumber-roast--italian",
+  "title": "Classic Italian-Style Beef Roast",
+  "description": "A traditional Italian beef roast recipe, slow-cooked to perfection. The result is a tender and flavorful dish that's perfect for a special occasion.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "1.5",
+      "notes": "about 2 pounds"
+    },
+    {
+      "name": "tender persian argentinian roast",
+      "amount": "2",
+      "notes": "about 1 pound, thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "about 1 medium, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 325°F (165°C).",
+    "2. Season the beef roast with salt, black pepper, and dried oregano.",
+    "3. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the beef roast until browned on all sides, about 2-3 minutes per side.",
+    "5. Remove the beef from the pot and set it aside.",
+    "6. Add the sliced beef to the pot and cook until browned, about 2-3 minutes.",
+    "7. Add the garlic, red wine, and beef broth to the pot.",
+    "8. Return the beef roast to the pot and bring the liquid to a simmer.",
+    "9. Cover the pot with a lid and transfer it to the preheated oven.",
+    "10. Braise the beef for 2-3 hours, or until it reaches your desired level of tenderness.",
+    "11. Remove the pot from the oven and let it cool slightly.",
+    "12. Slice the beef against the grain and serve with the juices from the pot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "roast",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roast-argentinian-persian-cucumber-roast--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:28:09.524Z"
+}
