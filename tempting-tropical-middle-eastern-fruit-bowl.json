@@ -1,0 +1,63 @@
+{
+  "slug": "tempting-tropical-middle-eastern-fruit-bowl",
+  "title": "Tempting Tropical Fruit Bowl",
+  "description": "A refreshing and healthy dessert or snack made with a mix of exotic fruits, perfect for warm weather.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert/snack",
+  "ingredients": [
+    {
+      "name": "Tempting Tropical Fruit Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wash the fruits thoroughly and pat them dry.",
+    "Cut the fruit mix into bite-sized chunks.",
+    "In a large bowl, mix together the coconut milk and honey (if using).",
+    "Add the chopped pistachios to the bowl.",
+    "Arrange the fruit chunks on top of the coconut milk mixture.",
+    "Garnish with additional chopped pistachios and a sprinkle of honey (if using).",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes before serving.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tropical",
+    "dessert",
+    "fruit",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-tropical-middle-eastern-fruit-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:25:23.786Z"
+}
