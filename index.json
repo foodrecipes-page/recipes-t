@@ -12926,5 +12926,18 @@
     "cuisine": "eastern",
     "totalTimeMin": 15,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-roasted-slovakian-tofu-casserole--italian",
+    "title": "Tofu Casserole",
+    "tags": [
+      "italian",
+      "tofu",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
