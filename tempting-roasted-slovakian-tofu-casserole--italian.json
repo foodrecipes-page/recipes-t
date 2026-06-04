@@ -1,0 +1,76 @@
+{
+  "slug": "tempting-roasted-slovakian-tofu-casserole--italian",
+  "title": "Tofu Casserole",
+  "description": "A tasty Italian-inspired casserole made with roasted tofu and Slovakian flavors.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block, drained and cubed",
+      "notes": ""
+    },
+    {
+      "name": "tempting tomatoes",
+      "amount": "1 can, diced",
+      "notes": ""
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "casserole",
+      "amount": "1, 9x13 inch dish",
+      "notes": "non-stick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Saute the roasted garlic and olive oil in a pan until fragrant.",
+    "Add the cubed tofu and cook until golden brown.",
+    "In a separate bowl, mix together the diced tomatoes, Slovakian paprika, and italian seasoning.",
+    "Add the tomato mixture to the tofu and mix well.",
+    "Pour the mixture into the casserole dish and top with additional paprika.",
+    "Bake for 25-30 minutes or until the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tofu",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-roasted-slovakian-tofu-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:56:18.708Z"
+}
