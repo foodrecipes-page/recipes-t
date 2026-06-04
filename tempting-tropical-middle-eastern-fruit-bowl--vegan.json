@@ -1,0 +1,69 @@
+{
+  "slug": "tempting-tropical-middle-eastern-fruit-bowl--vegan",
+  "title": "Tropical Fruit Bowl",
+  "description": "A refreshing and healthy vegan dessert, perfect for hot summer days. This tropical fruit bowl is filled with a variety of colorful fruits and a touch of sweetness.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tempting tropical fruit mix (e.g. pineapple, mango, papaya)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eastern-style granola",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Middle eastern spice blend (e.g. cinnamon, cardamom, ginger)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the tropical fruit mix, granola, coconut flakes, and middle eastern spice blend.",
+    "2. Squeeze the lime juice over the fruit mixture and toss to coat.",
+    "3. Drizzle the maple syrup over the fruit mixture and toss to coat.",
+    "4. Sprinkle the fresh mint leaves over the top of the fruit mixture.",
+    "5. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "6. Serve the tropical fruit bowl chilled, garnished with additional fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "dessert",
+    "fruit",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-tropical-middle-eastern-fruit-bowl--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:00:25.215Z"
+}
