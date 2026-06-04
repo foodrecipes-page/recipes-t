@@ -12934,5 +12934,18 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tasty-smoky-italian-spinach-flatbread--japanese",
+    "title": "Spicy Smoked Spinach Flatbread",
+    "tags": [
+      "japanesefood",
+      "vegetarian",
+      "snack",
+      "italianflatbread"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "t"
   }
 ]
