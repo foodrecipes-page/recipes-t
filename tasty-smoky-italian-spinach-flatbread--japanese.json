@@ -1,0 +1,67 @@
+{
+  "slug": "tasty-smoky-italian-spinach-flatbread--japanese",
+  "title": "Spicy Smoked Spinach Flatbread",
+  "description": "A fusion of Japanese and Italian flavors, this flatbread is topped with smoky spinach, crunchy flatbread, and a sprinkle of tasty spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "flatbread",
+      "amount": "6 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "chili flakes"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "tasty",
+      "amount": "1 tsp",
+      "notes": "garlic powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toast flatbread slices for 2-3 minutes.",
+    "Wilt chopped spinach in a pan with a little water until soft.",
+    "Mix smoky, italian, and tasty spices together.",
+    "Sprinkle spice mix over wilted spinach.",
+    "Assemble flatbread slices with spinach mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanesefood",
+    "vegetarian",
+    "snack",
+    "italianflatbread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-smoky-italian-spinach-flatbread--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:58:44.490Z"
+}
