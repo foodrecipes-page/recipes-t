@@ -1,0 +1,80 @@
+{
+  "slug": "tender-sour-almond-peruvian-crumble--mexican",
+  "title": "Crispy Peruvian-Style Chicken",
+  "description": "A twist on traditional Mexican cuisine, this recipe combines the bold flavors of Peruvian cuisine with the crunch of a Mexican-inspired crust.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tender spices (cumin, chili powder, etc.)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "peruvian aji amarillo powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crumble (crushed tortilla chips)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together almond flour, sour cream, tender spices, and peruvian aji amarillo powder.",
+    "Add the chicken breast to the bowl and coat with the mixture.",
+    "Dip the coated chicken in the crumble mixture to coat.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the coated chicken to the skillet and cook until browned, about 5 minutes on each side.",
+    "Transfer the chicken to a baking sheet and bake for 20-25 minutes, or until cooked through.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional crumble and a side of your favorite Mexican dishes.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "peruvian",
+    "chicken",
+    "crunchy",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sour-almond-peruvian-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:04:28.226Z"
+}
