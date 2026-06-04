@@ -5984,17 +5984,15 @@
   },
   {
     "slug": "tempting-silky-uruguayan-yogurt-pudding",
-    "title": "Tempting Silky Uruguayan Yogurt Pudding",
+    "title": "Uruguayan Pudding Dessert",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "salt-block-cooking",
-      "silky-pudding",
-      "uruguayan-desserts",
-      "vegetarian"
+      "uruguayan",
+      "pudding",
+      "dessert",
+      "easy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -8256,16 +8254,16 @@
   },
   {
     "slug": "tender-herbal-british-chicken-trifle",
-    "title": "Tender Herbal British Chicken Trifle",
+    "title": "Herbal Chicken Trifle",
     "tags": [
-      "british-cuisine",
-      "chicken-recipe",
+      "british",
+      "dessert",
       "herbal",
-      "low-carb",
-      "weeknight"
+      "trifle",
+      "easy-to-make"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -12632,15 +12630,15 @@
   },
   {
     "slug": "turkey-neck-fiesta",
-    "title": "Turkey Neck Fiesta",
+    "title": "Turkey Fiesta Wrap",
     "tags": [
-      "turkey neck",
-      "brazilian",
-      "whole30",
-      "sour dish"
+      "mexican",
+      "turkey",
+      "wrap",
+      "easy"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 85,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
