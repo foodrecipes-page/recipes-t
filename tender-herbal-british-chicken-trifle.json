@@ -1,0 +1,88 @@
+{
+  "slug": "tender-herbal-british-chicken-trifle",
+  "title": "Herbal Chicken Trifle",
+  "description": "A traditional British trifle dessert with a twist of herbal flavors from fresh herbs.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tender sponge cake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Herbal jelly",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Cut the sponge cake into small pieces and set aside.",
+    "In a medium saucepan, combine the herbal jelly, chicken broth, and sugar.",
+    "Heat over low heat, stirring until the jelly dissolves.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Stir in the heavy cream and cook for an additional 2 minutes.",
+    "Strain the mixture into a clean bowl and let cool to room temperature.",
+    "In a separate bowl, whisk together the egg yolks and lemon zest.",
+    "Add the egg yolk mixture to the cooled jelly mixture and whisk until smooth.",
+    "Fold in the chopped fresh herbs.",
+    "To assemble the trifle, place a layer of sponge cake in the bottom of a large bowl.",
+    "Pour half of the herbal jelly mixture over the cake.",
+    "Repeat the layers, ending with a layer of cake on top.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "herbal",
+    "trifle",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-herbal-british-chicken-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T08:06:58.928Z"
+}
