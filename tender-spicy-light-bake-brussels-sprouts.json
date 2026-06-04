@@ -1,0 +1,69 @@
+{
+  "slug": "tender-spicy-light-bake-brussels-sprouts",
+  "title": "Brussels Sprouts Bake",
+  "description": "A simple and flavorful side dish featuring roasted Brussels sprouts in a spicy sauce.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tender garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy hot sauce",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Bake seasoning",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss Brussels sprouts with olive oil, garlic, hot sauce, salt, and bake seasoning (if using) in a bowl until they are evenly coated.",
+    "Spread the Brussels sprouts in a single layer on a baking sheet.",
+    "Roast in the preheated oven for 20-25 minutes, or until tender and caramelized.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-spicy-light-bake-brussels-sprouts",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:50:15.163Z"
+}
