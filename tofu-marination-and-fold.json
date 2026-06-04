@@ -1,0 +1,60 @@
+{
+  "slug": "tofu-marination-and-fold",
+  "title": "Pan-Seared Tofu with Asian-Style Sauce",
+  "description": "A simple and flavorful dish featuring pan-seared tofu in a sweet and savory Asian-style sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "marination",
+      "amount": "1/2 cup (125ml)",
+      "notes": "Make sure to use a store-bought or homemade marination sauce suitable for Asian-style dishes."
+    },
+    {
+      "name": "fold",
+      "amount": "2",
+      "notes": "Assuming you are using lettuce leaves as the fold for serving."
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into small cubes and set aside.",
+    "2. In a shallow dish, whisk together the marination and 2 tablespoons of water.",
+    "3. Add the tofu to the marinade and mix well to coat.",
+    "4. Let the tofu marinate for at least 15 minutes, flipping halfway through.",
+    "5. Heat 1 tablespoon of oil in a non-stick skillet over medium-high heat.",
+    "6. Remove the tofu from the marinade, allowing any excess to drip off.",
+    "7. Add the tofu to the skillet and cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "8. Serve the tofu in the center of a lettuce leaf, garnished with your favorite toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "tofu",
+    "vegan",
+    "gluten-free",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tofu-marination-and-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:55:41.865Z"
+}
