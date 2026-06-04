@@ -1,0 +1,67 @@
+{
+  "slug": "tropical-brazilian-sugar-snap-peas-tagine",
+  "title": "Brazilian Snap Pea Stir Fry",
+  "description": "A quick and flavorful stir fry inspired by Brazilian cuisine, featuring snap peas and a hint of tropical sweetness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snap Peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tropical Fruit (e.g. pineapple, mango)",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the snap peas and cook for 2-3 minutes, or until tender but still crisp.",
+    "Add the diced tropical fruit and cook for an additional 1-2 minutes.",
+    "Sprinkle the sugar over the top and stir to combine.",
+    "Cook for a final 1 minute, stirring constantly.",
+    "Season with salt to taste.",
+    "Transfer the stir fry to a serving dish and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stirfry",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-brazilian-sugar-snap-peas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:04:51.623Z"
+}
