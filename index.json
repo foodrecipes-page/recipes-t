@@ -12873,5 +12873,33 @@
     "cuisine": "italian",
     "totalTimeMin": 200,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-silky-uruguayan-yogurt-pudding--vegetarian",
+    "title": "Silky Uruguayan Pudding Dessert",
+    "tags": [
+      "uruguayan",
+      "pudding",
+      "dessert",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-silky-uruguayan-yogurt-pudding--japanese",
+    "title": "Japanese Tempting Pudding Parfait",
+    "tags": [
+      "parfait",
+      "dessert",
+      "pudding",
+      "yogurt",
+      "uruguayan"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 10,
+    "shard": "t"
   }
 ]
