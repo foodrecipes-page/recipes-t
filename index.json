@@ -10293,15 +10293,13 @@
   },
   {
     "slug": "tender-spicy-light-bake-brussels-sprouts",
-    "title": "Tender Spicy Light Bake Brussels Sprouts",
+    "title": "Brussels Sprouts Bake",
     "tags": [
       "brussels-sprouts",
-      "jamaican-influenced",
-      "spicy-light",
-      "dish"
+      "side-dish"
     ],
-    "cuisine": "Jamaican-Inspired",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -12404,17 +12402,14 @@
   },
   {
     "slug": "tropical-brazilian-sugar-snap-peas-tagine",
-    "title": "Tropical Brazilian Sugar Snap Peas Tagine",
+    "title": "Brazilian Snap Pea Stir Fry",
     "tags": [
-      "brazilian-cuisine",
-      "dairy-free",
-      "one-pot",
-      "stone-bowl",
-      "tajine-clay",
-      "vegetarian"
+      "stirfry",
+      "vegetarian",
+      "dinner"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
