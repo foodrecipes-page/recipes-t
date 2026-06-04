@@ -12129,14 +12129,16 @@
   },
   {
     "slug": "tofu-marination-and-fold",
-    "title": "Spicy Silky Post-Workout Tofu Marination and Fold",
+    "title": "Pan-Seared Tofu with Asian-Style Sauce",
     "tags": [
+      "asian",
       "tofu",
-      "marinated",
-      "jamaican"
+      "vegan",
+      "gluten-free",
+      "quick-dinner"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 15,
+    "cuisine": "Asian",
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -12912,6 +12914,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-tropical-middle-eastern-fruit-bowl--vegan",
+    "title": "Tropical Fruit Bowl",
+    "tags": [
+      "vegan",
+      "dessert",
+      "fruit",
+      "breakfast"
+    ],
+    "cuisine": "eastern",
+    "totalTimeMin": 15,
     "shard": "t"
   }
 ]
