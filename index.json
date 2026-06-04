@@ -6262,17 +6262,15 @@
   },
   {
     "slug": "tempting-tropical-middle-eastern-fruit-bowl",
-    "title": "Tempting Tropical Middle Eastern Fruit Bowl",
+    "title": "Tempting Tropical Fruit Bowl",
     "tags": [
-      "fruit-bowl",
-      "hangover-cure",
-      "healthy-snack",
-      "mediterranean-friendly",
-      "middle-eastern",
-      "tropical"
+      "tropical",
+      "dessert",
+      "fruit",
+      "vegan"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -12900,6 +12898,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 10,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-sour-almond-peruvian-crumble--mexican",
+    "title": "Crispy Peruvian-Style Chicken",
+    "tags": [
+      "mexican",
+      "peruvian",
+      "chicken",
+      "crunchy",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
     "shard": "t"
   }
 ]
