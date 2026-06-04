@@ -1,0 +1,81 @@
+{
+  "slug": "turkey-neck-fiesta",
+  "title": "Turkey Fiesta Wrap",
+  "description": "A flavorful and easy wrap recipe using leftover turkey and fiesta seasonings. Serve with your favorite toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Leftover Roasted Turkey",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "Fiesta Tortilla Wrap",
+      "amount": "4"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fiesta Seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1, juiced"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sliced Avocado",
+      "amount": "1"
+    },
+    {
+      "name": "Sliced Red Onion",
+      "amount": "1/2"
+    },
+    {
+      "name": "Fiesta Salsa",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the fiesta seasoning and cook for 1 minute, until fragrant.",
+    "3. Add the shredded turkey and cook until heated through.",
+    "4. Warm the tortilla wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the wraps by spooning the turkey mixture onto the tortilla, followed by the cheese, cilantro, lime juice, sour cream, avocado, and red onion.",
+    "6. Top with fiesta salsa and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "turkey",
+    "wrap",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkey-neck-fiesta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:20:20.532Z"
+}
