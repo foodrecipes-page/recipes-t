@@ -1,0 +1,63 @@
+{
+  "slug": "tempting-silky-uruguayan-yogurt-pudding--japanese",
+  "title": "Japanese Tempting Pudding Parfait",
+  "description": "A unique Japanese-inspired dessert featuring silky pudding, tempting yogurt, and a touch of Uruguay flair.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain whole-milk yogurt"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "vanilla pudding mix"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 tsp",
+      "notes": "uruguayan vanilla extract"
+    },
+    {
+      "name": "tempting",
+      "amount": "1 cup",
+      "notes": "tempting syrup or honey"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together pudding mix and Uruguayan vanilla extract.",
+    "In a separate bowl, mix together yogurt and tempting syrup or honey until well combined.",
+    "Spoon a layer of pudding mixture into a parfait glass or tall clear cup.",
+    "Follow with a layer of yogurt mixture.",
+    "Repeat steps 3-4 until all ingredients are used.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "parfait",
+    "dessert",
+    "pudding",
+    "yogurt",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-silky-uruguayan-yogurt-pudding--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:31:39.816Z"
+}
