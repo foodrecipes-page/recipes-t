@@ -1,0 +1,94 @@
+{
+  "slug": "tempting-yeasty-french-beef-pot-au-feu",
+  "title": "Beef Bourguignon",
+  "description": "A classic French dish made with tender beef and vegetables in a rich, flavorful broth.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French beef stew meat",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "8 oz",
+      "notes": "fresh"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Add onion, carrot, and pot to the pot and cook until the vegetables are tender, about 10 minutes.",
+    "Add mushroom and cook until tender, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add red wine and beef broth to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2.5 hours, or until the beef is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 160,
+  "totalTimeMin": 205,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "french",
+    "stew",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-yeasty-french-beef-pot-au-feu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:45:24.436Z"
+}
