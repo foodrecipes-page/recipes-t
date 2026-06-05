@@ -1,0 +1,79 @@
+{
+  "slug": "tasty-roasted-russian-kidney-bean-casserole",
+  "title": "Russian Kidney Bean Casserole",
+  "description": "A hearty, comforting casserole featuring roasted kidney beans and a delicious, creamy sauce.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted kidney beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Tasty ground casserole (beef/pork)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Russian-style sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Sauté the onion and garlic in a pan until softened.",
+    "Add the roasted kidney beans, ground casserole (if using), diced tomatoes, and beef broth. Stir to combine.",
+    "Bring the mixture to a simmer and let cook for 10 minutes.",
+    "Stir in the Russian-style sour cream and cook for an additional 2-3 minutes.",
+    "Transfer the mixture to a baking dish and top with shredded cheddar cheese.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kidney-beans",
+    "casserole",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-roasted-russian-kidney-bean-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:36.454Z"
+}
