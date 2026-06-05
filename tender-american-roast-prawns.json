@@ -1,0 +1,84 @@
+{
+  "slug": "tender-american-roast-prawns",
+  "title": "Roasted Prawns with American Glaze",
+  "description": "A simple yet flavorful dish that combines succulent prawns with a tangy American glaze.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns (400g)",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Tender American Roast (200g)",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Roast Garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Rinse the prawns and pat them dry with paper towels.",
+    "In a small bowl, mix together the olive oil, honey, lemon juice, salt, and pepper.",
+    "Add the diced American roast to the bowl and toss to coat.",
+    "Place the prawns on a baking sheet lined with parchment paper.",
+    "Drizzle the American glaze over the prawns and roast in the oven for 8-10 minutes, or until cooked through.",
+    "Remove the prawns from the oven and garnish with chopped fresh parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "american",
+    "glaze",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "30g",
+    "carbs": "10g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-roast-prawns",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:16:18.825Z"
+}
