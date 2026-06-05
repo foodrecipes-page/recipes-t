@@ -1,0 +1,84 @@
+{
+  "slug": "tender-yeasty-thai-rice-khanom-krok",
+  "title": "Thai-Style Khanom Krok",
+  "description": "A traditional Thai coconut and rice pancake dessert, crispy on the outside and fluffy on the inside.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "khanom krok batter",
+      "amount": "1 cup",
+      "notes": "made with rice flour, coconut milk, and sugar"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "grated coconut",
+      "amount": "1/4 cup",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp",
+      "notes": "granulated sugar"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "kosher salt"
+    },
+    {
+      "name": "tender coconut water",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine khanom krok batter, coconut milk, and sugar.",
+    "2. Add yeast, rice flour, and salt. Mix until well combined.",
+    "3. Cover the bowl with plastic wrap and let the mixture rest for 30 minutes.",
+    "4. Heat a non-stick pan or a cast-iron skillet over medium heat.",
+    "5. Brush the pan with tender coconut water.",
+    "6. Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "7. Cook the pancake for 2-3 minutes on each side, until golden brown and crispy.",
+    "8. Serve warm with a drizzle of coconut milk and a sprinkle of grated coconut."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "dessert",
+    "coconut",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-yeasty-thai-rice-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:10:39.397Z"
+}
