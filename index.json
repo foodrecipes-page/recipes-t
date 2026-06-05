@@ -4534,17 +4534,15 @@
   },
   {
     "slug": "tangy-velvety-tunisian-peppers-stir-fry",
-    "title": "Tangy Velvety Tunisian Peppers Stir-fry",
+    "title": "Tunisian Pepper Stir Fry",
     "tags": [
-      "tangy",
-      "velvety",
-      "hangover-cure",
       "tunisian",
-      "peppercorns",
-      "dumplings"
+      "stir-fry",
+      "peppers",
+      "tahini"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "tunisian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
