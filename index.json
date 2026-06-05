@@ -12951,5 +12951,17 @@
     "cuisine": "thai",
     "totalTimeMin": 22,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-dutch-chickpea-pancakes--german",
+    "title": "Dutch Pancake with Chickpea Topping",
+    "tags": [
+      "german",
+      "breakfast",
+      "pancakes"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
