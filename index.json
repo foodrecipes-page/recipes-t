@@ -12956,5 +12956,31 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tender-tandoor-irish-lamb-kebabs--mexican",
+    "title": "Tandoori Lamb Kebabs with Irish Mash",
+    "tags": [
+      "lamb",
+      "mexican",
+      "grill",
+      "kebabs",
+      "mash"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-irish-sugar-dish--mexican",
+    "title": "Irish Beef Fajitas",
+    "tags": [
+      "beef",
+      "mexican",
+      "fajitas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
