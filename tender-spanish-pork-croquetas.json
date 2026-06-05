@@ -1,0 +1,83 @@
+{
+  "slug": "tender-spanish-pork-croquetas",
+  "title": "Spanish Pork Croquetas",
+  "description": "A classic Spanish tapas dish made with tender pork and crispy breadcrumbs.",
+  "cuisine": "Spanish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "tender pork"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "preferably Spanish"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "In a large bowl, combine the ground pork, breadcrumbs, onion, garlic, salt, and black pepper. Mix well.",
+    "Add the egg to the pork mixture and mix until just combined.",
+    "Using your hands, shape the mixture into small oval shapes, about 1 1/2 inches (3.8 cm) long.",
+    "Carefully place the croquetas in the hot oil, being careful not to overcrowd the pan.",
+    "Fry the croquetas for 3-4 minutes on each side, until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the croquetas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the croquetas hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "tapas",
+    "croquetas",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-spanish-pork-croquetas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:44.755Z"
+}
