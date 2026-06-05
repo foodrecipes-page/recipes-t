@@ -13,14 +13,14 @@
   },
   {
     "slug": "taco-shell-sticks",
-    "title": "Salty and Crispy Taco Shell Sticks",
+    "title": "Taco Shells",
     "tags": [
       "taco",
-      "shell",
-      "crispy",
-      "kidfriendly"
+      "mexican",
+      "snack",
+      "homemade"
     ],
-    "cuisine": "Tunisia",
+    "cuisine": "mexican",
     "totalTimeMin": 15,
     "shard": "t"
   },
@@ -5199,16 +5199,14 @@
   },
   {
     "slug": "tasty-roasted-russian-kidney-bean-casserole",
-    "title": "Tasty Roasted Russian Kidney Bean Casserole",
+    "title": "Russian Kidney Bean Casserole",
     "tags": [
-      "comfort-food",
-      "kid-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kidney-beans",
+      "casserole",
+      "russian-cuisine"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -9401,16 +9399,14 @@
   },
   {
     "slug": "tender-rich-thai-fish-paong",
-    "title": "Thai Fish Paong",
+    "title": "Paong Fish Curry",
     "tags": [
-      "fish",
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "thai-curry",
+      "fish-recipe",
+      "paong-fish"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "cuisine": "thai",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -9763,16 +9759,16 @@
   },
   {
     "slug": "tender-smoked-algerian-chicken-tagine",
-    "title": "Tender Smoked Algerian Chicken Tagine",
+    "title": "Smoked Chicken Tagine",
     "tags": [
-      "algerian",
-      "high-protein",
-      "one-pan",
-      "spring",
-      "weeknight"
+      "smoked-chicken",
+      "tagine",
+      "north-african",
+      "lunch",
+      "gluten-free"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -10165,17 +10161,15 @@
   },
   {
     "slug": "tender-spanish-pork-croquetas",
-    "title": "Tender Spanish Pork Croquetas",
+    "title": "Spanish Pork Croquetas",
     "tags": [
+      "spanish",
+      "tapas",
       "croquetas",
-      "keto-friendly",
-      "midnight-cravings",
-      "pork-recipes",
-      "spanish-cuisine",
-      "tandoor-inspired"
+      "pork"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -10540,16 +10534,15 @@
   },
   {
     "slug": "tender-tandoor-irish-lamb-kebabs",
-    "title": "Tender Tandoor Irish Lamb Kebabs",
+    "title": "Irish Tandoor Lamb Kebabs",
     "tags": [
-      "date-night",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "weeknight"
+      "irish",
+      "lamb",
+      "kebabs",
+      "indian"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 33,
     "shard": "t"
   },
   {
