@@ -1495,15 +1495,15 @@
   },
   {
     "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry",
-    "title": "Tangy Dense Comforting Norwegian Pineapple Stir-fry",
+    "title": "Norwegian Pineapple Stir Fry",
     "tags": [
-      "pineapple",
-      "stir-fry",
+      "comforting",
       "norwegian",
-      "paleo-friendly"
+      "pineapple",
+      "stir-fry"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -11229,18 +11229,15 @@
   },
   {
     "slug": "tender-yeasty-thai-rice-khanom-krok",
-    "title": "Tender Yeasty Thai Khanom Krok",
+    "title": "Thai-Style Khanom Krok",
     "tags": [
-      "breakfast",
+      "thaifood",
       "dessert",
-      "easy-to-make",
-      "one-pot",
-      "steamed",
-      "traditional",
-      "weeknight"
+      "coconut",
+      "rice"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 32,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
