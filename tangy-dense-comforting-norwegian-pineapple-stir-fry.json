@@ -1,0 +1,84 @@
+{
+  "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry",
+  "title": "Norwegian Pineapple Stir Fry",
+  "description": "A comforting Norwegian inspired dish with a tangy twist, featuring pineapple and a stir fry method.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Tangy stir fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dense Norwegian dark rye bread",
+      "amount": "2 slices",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the cubed rye bread and cook until toasted, about 2-3 minutes.",
+    "Remove the bread from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Add the sliced onion and bell pepper and cook until tender, about 5 minutes.",
+    "Add the pineapple chunks and stir-fry sauce to the skillet and cook for an additional 2-3 minutes.",
+    "Return the toasted rye bread to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "norwegian",
+    "pineapple",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-comforting-norwegian-pineapple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:04:45.015Z"
+}
