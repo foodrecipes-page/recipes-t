@@ -1,0 +1,93 @@
+{
+  "slug": "tender-tandoor-irish-lamb-kebabs--mexican",
+  "title": "Tandoori Lamb Kebabs with Irish Mash",
+  "description": "Tender lamb skewers marinated in tandoori spices, served with a side of creamy Irish mashed potatoes.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "tandoori spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "irish butter",
+      "amount": "4 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together tandoori spice blend, yogurt, lime juice, garlic, and ginger. Add lamb and mix until coated.",
+    "Thread lamb onto skewers and grill for 8-10 minutes, or until cooked through.",
+    "Meanwhile, boil potatoes in a large pot of salted water until tender. Drain and mash with irish butter, salt, and black pepper.",
+    "Serve lamb kebabs with a side of Irish mash.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "grill",
+    "kebabs",
+    "mash"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tandoor-irish-lamb-kebabs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:28:50.513Z"
+}
