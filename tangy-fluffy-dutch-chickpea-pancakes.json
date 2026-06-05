@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-fluffy-dutch-chickpea-pancakes",
+  "title": "Fluffy Dutch Chickpea Pancakes",
+  "description": "A tasty twist on traditional pancakes with a tangy surprise in the middle.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fluffy",
+      "amount": "1/2 cup",
+      "notes": "soda water"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/4 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "dutch sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chickpea flour, fluffy, tangy, dutch sugar, and salt.",
+    "Gradually add non-dairy milk and mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan and pour in the batter.",
+    "Cook for 2-3 minutes until bubbles appear on the surface.",
+    "Flip the pancake and cook for another 1-2 minutes.",
+    "Repeat with the remaining batter.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "pancakes",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-dutch-chickpea-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:33:57.169Z"
+}
