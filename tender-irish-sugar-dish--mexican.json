@@ -1,0 +1,72 @@
+{
+  "slug": "tender-irish-sugar-dish--mexican",
+  "title": "Irish Beef Fajitas",
+  "description": "A flavorful Mexican-inspired dish featuring tender Irish beef, sautéed with spices and served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish beef strips",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "tender onions",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "tender bell peppers",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "flour tortillas",
+      "amount": "4-6",
+      "notes": "warm them before serving"
+    }
+  ],
+  "instructions": [
+    "1. Slice the Irish beef into thin strips and season with fajita seasoning.",
+    "2. Heat a large skillet over medium-high heat and cook the beef for 3-4 minutes.",
+    "3. Add the sliced onions and bell peppers to the skillet and cook for another 4-5 minutes.",
+    "4. Add a pinch of sugar to balance the flavors and cook for 1 more minute.",
+    "5. Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the fajitas by placing the beef and vegetable mixture onto the tortillas.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "fajitas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-irish-sugar-dish--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:50:52.652Z"
+}
