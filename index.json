@@ -6503,16 +6503,15 @@
   },
   {
     "slug": "tender-american-roast-prawns",
-    "title": "Tender American Roast Prawns",
+    "title": "Roasted Prawns with American Glaze",
     "tags": [
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "prawns",
+      "american",
+      "glaze",
+      "roast"
     ],
     "cuisine": "American",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
