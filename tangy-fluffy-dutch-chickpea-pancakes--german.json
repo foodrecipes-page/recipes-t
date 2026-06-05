@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-fluffy-dutch-chickpea-pancakes--german",
+  "title": "Dutch Pancake with Chickpea Topping",
+  "description": "A German-inspired twist on traditional pancakes, topped with a tangy chickpea mixture.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dutch-process cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chickpeas, drained",
+      "amount": "1 can"
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup, finely chopped"
+    },
+    {
+      "name": "tangy mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fluffy sour cream",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, eggs, milk, melted butter, sugar, and cocoa powder.",
+    "Heat a non-stick pan over medium heat. Pour in batter and cook until bubbles appear.",
+    "Flip and cook until golden brown.",
+    "In a separate bowl, mix together chickpeas, chopped onion, tangy mustard, and fluffy sour cream.",
+    "Top cooked pancakes with chickpea mixture and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-dutch-chickpea-pancakes--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:28:17.625Z"
+}
