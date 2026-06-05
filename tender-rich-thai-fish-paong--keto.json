@@ -1,0 +1,76 @@
+{
+  "slug": "tender-rich-thai-fish-paong--keto",
+  "title": "Pan-Seared Fish with Thai Basil and Chilies",
+  "description": "A keto-friendly dish featuring tender fish, rich Thai basil, and a spicy kick. This recipe is quick to make and packed with flavor.",
+  "cuisine": "thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillets (4)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Chilies",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat coconut oil in a pan over medium heat.",
+    "2. Add garlic and sauté for 1 minute.",
+    "3. Add fish fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "4. Add Thai basil and chilies to the pan and stir-fry for 1 minute.",
+    "5. Season with salt and black pepper to taste.",
+    "6. Serve fish immediately, garnished with additional Thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "fish",
+    "thai",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-rich-thai-fish-paong--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:43:00.152Z"
+}
