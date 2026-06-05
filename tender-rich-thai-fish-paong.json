@@ -1,0 +1,89 @@
+{
+  "slug": "tender-rich-thai-fish-paong",
+  "title": "Paong Fish Curry",
+  "description": "A flavorful Thai-inspired dish featuring tender paong fish in a rich and aromatic curry sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paong fish (2 fillets)",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add onion and sauté until softened, about 3-4 minutes.",
+    "Add Thai red curry paste and sauté for 1 minute.",
+    "Add fish sauce, brown sugar, and lime juice. Stir to combine.",
+    "Add paong fish fillets and cook for 3-4 minutes on each side.",
+    "Transfer the pan to the preheated oven and bake at 375°F (190°C) for 8-10 minutes.",
+    "Garnish with Thai basil and serve hot.",
+    "Season with salt to taste.",
+    "Serve immediately.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "fish-recipe",
+    "paong-fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-rich-thai-fish-paong",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:38.778Z"
+}
