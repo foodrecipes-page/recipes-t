@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-velvety-tunisian-peppers-stir-fry",
+  "title": "Tunisian Pepper Stir Fry",
+  "description": "A quick and flavorful stir fry featuring tunisian peppers and your choice of protein. Serve over rice or with some crusty bread.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tunisian peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "tangy tahini",
+      "amount": "2 tbsp",
+      "notes": "or substitute with hummus"
+    },
+    {
+      "name": "velvety olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "1 tbsp",
+      "notes": "or make your own with soy sauce and rice vinegar"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "protein of your choice (chicken, beef, tofu)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the velvety olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the thinly sliced onion and cook for 3-4 minutes.",
+    "Add the tunisian peppers and cook for an additional 2-3 minutes.",
+    "Add the protein of your choice and cook until browned and cooked through.",
+    "Stir in the tangy tahini and stir-fry sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve over rice or with some crusty bread.",
+    " Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "stir-fry",
+    "peppers",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-tunisian-peppers-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T03:20:29.777Z"
+}
