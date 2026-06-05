@@ -6386,17 +6386,15 @@
   },
   {
     "slug": "tempting-yeasty-french-beef-pot-au-feu",
-    "title": "Tempting Yeasty French Beef Pot Au Feu",
+    "title": "Beef Bourguignon",
     "tags": [
-      "beef-short-ribs",
-      "french-cuisine",
-      "hearty-stew",
-      "mediterranean-friendly",
-      "special-occasion",
-      "yeasty-flavor"
+      "beef",
+      "french",
+      "stew",
+      "red-wine"
     ],
     "cuisine": "French",
-    "totalTimeMin": 180,
+    "totalTimeMin": 205,
     "shard": "t"
   },
   {
