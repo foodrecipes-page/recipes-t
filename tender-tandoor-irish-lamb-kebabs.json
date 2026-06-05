@@ -1,0 +1,85 @@
+{
+  "slug": "tender-tandoor-irish-lamb-kebabs",
+  "title": "Irish Tandoor Lamb Kebabs",
+  "description": "A unique fusion of Irish and Indian flavors, these lamb kebabs are marinated in a spicy tandoor-inspired blend and grilled to perfection. Serve with a side of creamy sour cream.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Irish Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Tandoor Spice Blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine tandoor spice blend, lime juice, ginger, garlic, salt, and black pepper. Blend until smooth.",
+    "Add the softened Irish butter to the blender and blend until well combined.",
+    "Add the lamb cubes to the marinade and mix until they are evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a little space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Serve the lamb kebabs hot, garnished with chopped fresh cilantro and a dollop of sour cream on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "kebabs",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tandoor-irish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:23:48.711Z"
+}
