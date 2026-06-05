@@ -12938,5 +12938,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 15,
     "shard": "t"
+  },
+  {
+    "slug": "tender-rich-thai-fish-paong--keto",
+    "title": "Pan-Seared Fish with Thai Basil and Chilies",
+    "tags": [
+      "keto",
+      "fish",
+      "thai",
+      "basil"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "t"
   }
 ]
