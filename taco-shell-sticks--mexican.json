@@ -1,0 +1,73 @@
+{
+  "slug": "taco-shell-sticks--mexican",
+  "title": "Taco Sticks",
+  "description": "A twist on the classic taco, using sticks as the base.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taco meat",
+      "amount": "1 pound",
+      "notes": "Seasoned ground beef"
+    },
+    {
+      "name": "Shell",
+      "amount": "1 dozen",
+      "notes": "For serving"
+    },
+    {
+      "name": "Sticks",
+      "amount": "1 package",
+      "notes": "Taco stick shells"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook taco meat according to package instructions.",
+    "Prepare sticks according to package instructions.",
+    "Assemble tacos by placing cooked meat onto sticks.",
+    "Top with shredded cheese, salsa, and cilantro if desired.",
+    "Serve immediately with lime wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/taco-shell-sticks--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:00:37.769Z"
+}
