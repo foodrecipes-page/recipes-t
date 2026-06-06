@@ -13030,5 +13030,18 @@
     "cuisine": "Mexican",
     "totalTimeMin": 15,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry--french",
+    "title": "Baked Cod with Pineapple Chutney",
+    "tags": [
+      "fish",
+      "france",
+      "comfort-food",
+      "pineapple"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
+    "shard": "t"
   }
 ]
