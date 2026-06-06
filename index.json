@@ -12852,16 +12852,15 @@
   },
   {
     "slug": "tempting-silky-uruguayan-yogurt-pudding--vegetarian",
-    "title": "Silky Uruguayan Pudding Dessert",
+    "title": "Tempting Silky Pudding",
     "tags": [
-      "uruguayan",
-      "pudding",
       "dessert",
       "vegetarian",
-      "easy"
+      "pudding",
+      "yogurt"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 30,
+    "cuisine": "Vegetarian Dessert",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -12992,6 +12991,44 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-roasted-russian-kidney-bean-casserole--chinese",
+    "title": "Chinese Kidney Bean Casserole",
+    "tags": [
+      "chinese-cuisine",
+      "kidney-beans",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "taco-shell-sticks--mexican",
+    "title": "Taco Sticks",
+    "tags": [
+      "mexican",
+      "tacos",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "taco-shell-sticks--vegetarian",
+    "title": "Veggie Taco Sticks",
+    "tags": [
+      "mexican",
+      "snack",
+      "vegetarian",
+      "tacos"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 15,
     "shard": "t"
   }
 ]
