@@ -1,0 +1,76 @@
+{
+  "slug": "taco-shell-sticks--vegetarian",
+  "title": "Veggie Taco Sticks",
+  "description": "A delicious vegetarian twist on traditional tacos, served with crunchy sticks.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Taco",
+      "amount": "1 package",
+      "notes": "Pre-cooked and seasoned"
+    },
+    {
+      "name": "Shell",
+      "amount": "6-8",
+      "notes": "Crunchy taco shells"
+    },
+    {
+      "name": "Vegetable sticks",
+      "amount": "1 bunch",
+      "notes": "Carrot, celery, or cucumber sticks"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh cilantro"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake taco shells for 5-7 minutes, or until crispy.",
+    " Arrange taco sticks on a serving platter.",
+    "Spoon pre-cooked taco meat onto the sticks.",
+    "Top with shredded cheese, salsa, and chopped cilantro.",
+    "Serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "snack",
+    "vegetarian",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/taco-shell-sticks--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:00:47.154Z"
+}
