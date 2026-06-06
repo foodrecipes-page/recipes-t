@@ -12981,5 +12981,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "taco-shell-sticks--thai",
+    "title": "Thai Taco Shrimp",
+    "tags": [
+      "thai",
+      "seafood",
+      "tacos"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "t"
   }
 ]
