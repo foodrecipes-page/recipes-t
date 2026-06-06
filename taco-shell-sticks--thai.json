@@ -1,0 +1,88 @@
+{
+  "slug": "taco-shell-sticks--thai",
+  "title": "Thai Taco Shrimp",
+  "description": "A twist on traditional tacos, with a Thai-inspired shrimp filling.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Taco Shells",
+      "amount": "8-10 shells",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of oil to the skillet.",
+    "Add the Thai Red Curry Paste and cook for 1-2 minutes, until fragrant.",
+    "Add the Fish Sauce, Brown Sugar, and Soy Sauce, and stir to combine.",
+    "Return the shrimp to the skillet and stir to coat with the curry sauce.",
+    "Stir in the Lime Juice and Thai Basil.",
+    "Season with salt to taste.",
+    "Warm the taco shells according to the package instructions.",
+    "Fill the taco shells with the shrimp mixture and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "seafood",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/taco-shell-sticks--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:35:56.195Z"
+}
