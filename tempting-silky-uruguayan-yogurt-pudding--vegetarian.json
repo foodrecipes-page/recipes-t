@@ -1,63 +1,62 @@
 {
   "slug": "tempting-silky-uruguayan-yogurt-pudding--vegetarian",
-  "title": "Silky Uruguayan Pudding Dessert",
-  "description": "A rich and creamy dessert inspired by Uruguayan cuisine, made with silky ingredients and no meat.",
-  "cuisine": "Uruguayan",
+  "title": "Tempting Silky Pudding",
+  "description": "A creamy and delicious dessert made with silky pudding and topped with a layer of tempting yogurt.",
+  "cuisine": "Vegetarian Dessert",
   "diet": [
     "vegetarian"
   ],
   "meal": "dessert",
   "ingredients": [
     {
-      "name": "Uruguayan pudding",
+      "name": "Silky Pudding",
       "amount": "1 cup"
     },
     {
-      "name": "yogurt",
-      "amount": "1/2 cup"
+      "name": "Tempting Yogurt",
+      "amount": "1 cup"
     },
     {
-      "name": "tempting",
-      "amount": "1/4 cup"
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp"
     },
     {
-      "name": "silk",
-      "amount": "2 tablespoons"
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
     },
     {
-      "name": "vanilla extract",
-      "amount": "1 teaspoon",
-      "notes": "optional"
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp"
     }
   ],
   "instructions": [
-    "Combine Uruguayan pudding and yogurt in a bowl.",
-    "Add tempting and silk, mix until smooth.",
-    "If using vanilla extract, add and mix well.",
-    "Pour into individual serving cups.",
-    "Refrigerate for at least 30 minutes.",
-    "Serve chilled, garnished with additional silk if desired."
+    "In a medium saucepan, combine the silky pudding mix and granulated sugar. Whisk until well combined.",
+    "Add in the vanilla extract and whisk until smooth.",
+    "Cook over medium heat, whisking constantly, until the mixture comes to a boil.",
+    "Remove from heat and stir in the unsalted butter until melted.",
+    "Pour the pudding mixture into individual serving cups or a large serving dish.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Just before serving, top with tempting yogurt and serve chilled."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 0,
-  "totalTimeMin": 30,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "uruguayan",
-    "pudding",
     "dessert",
     "vegetarian",
-    "easy"
+    "pudding",
+    "yogurt"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 5,
-    "carbs": 30,
-    "fat": 5
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/tempting-silky-uruguayan-yogurt-pudding--vegetarian",
   "providerUsed": "groq",
-  "createdAt": "2026-06-01T09:30:35.512Z"
+  "createdAt": "2026-06-02T14:43:04.562Z"
 }
