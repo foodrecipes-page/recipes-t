@@ -1,0 +1,83 @@
+{
+  "slug": "tempting-umami-british-black-pudding-eton-mess",
+  "title": "Black Pudding Eton Mess",
+  "description": "A British dessert twist on the classic Eton Mess, featuring black pudding and a variety of sweet and savory flavors.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black Pudding",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup (120g)",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Mint Leaves",
+      "amount": "1/4 cup (15g)",
+      "notes": ""
+    },
+    {
+      "name": "Crisp Muffins (Eton Mess style)",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the black pudding into small pieces and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "In a large bowl, whip the heavy cream until soft peaks form.",
+    "Add the granulated sugar and whip until stiff peaks form.",
+    "Fold in the toasted black pudding and chopped mint leaves.",
+    "In a separate bowl, crush the crisp muffins into small pieces.",
+    "Add the crushed muffins to the cream mixture and fold until well combined.",
+    "Spoon the Eton Mess mixture into individual serving dishes.",
+    "Top with additional whipped cream and a sprinkle of brown sugar, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "eton-mess",
+    "british-desserts",
+    "black-pudding",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-umami-british-black-pudding-eton-mess",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:16:02.131Z"
+}
