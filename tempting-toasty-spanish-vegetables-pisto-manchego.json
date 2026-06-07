@@ -1,0 +1,70 @@
+{
+  "slug": "tempting-toasty-spanish-vegetables-pisto-manchego",
+  "title": "Spanish Vegetable Tart",
+  "description": "A delicious and easy-to-make tart filled with sautéed vegetables and manchego cheese, perfect for a snack or light meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "toasty",
+      "amount": "1 sheet",
+      "notes": "thawed puff pastry"
+    },
+    {
+      "name": "pisto",
+      "amount": "1/2 cup",
+      "notes": "roasted red pepper sauce"
+    },
+    {
+      "name": "manchego",
+      "amount": "1/2 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "vegetables",
+      "amount": "1 cup",
+      "notes": "mixed sautéed vegetables (e.g., bell peppers, onions, mushrooms)"
+    },
+    {
+      "name": "spanish",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together the pisto and grated manchego cheese.",
+    "Spread the pisto-cheese mixture evenly over the pastry, leaving a 1-inch border around the edges.",
+    "Top the pisto-cheese mixture with the sautéed vegetables.",
+    "Drizzle the olive oil over the vegetables.",
+    "Fold the edges of the pastry up over the filling to form a crust.",
+    "Bake the tart for 25-30 minutes, or until the pastry is golden brown and the filling is heated through.",
+    "Remove the tart from the oven and let it cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "tart",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-toasty-spanish-vegetables-pisto-manchego",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:40:12.103Z"
+}
