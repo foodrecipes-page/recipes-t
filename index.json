@@ -7041,18 +7041,14 @@
   },
   {
     "slug": "tender-charred-french-duck-casserole",
-    "title": "Tender Charred French Duck Casserole",
+    "title": "Charred Duck Casserole",
     "tags": [
-      "casserole",
       "duck",
-      "french",
-      "low-carb",
-      "normandy",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 195,
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -9570,17 +9566,16 @@
   },
   {
     "slug": "tender-saudi-arabian-vegetable-wrap",
-    "title": "Tender Saudi Arabian Vegetable Wrap",
+    "title": "Saudi Arabian Vegetable Wrap",
     "tags": [
-      "easy-to-make",
-      "healthy",
-      "leaf-wraps",
-      "middle-eastern",
+      "veggies",
+      "saudi-arabian",
+      "wrap",
       "snack",
-      "vegetarian"
+      "light-meal"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 5,
     "shard": "t"
   },
   {
@@ -11310,17 +11305,14 @@
   },
   {
     "slug": "tenderly-charred-irish-lamb-tagine",
-    "title": "Tenderly Charred Irish Lamb Tagine",
+    "title": "Tender Lamb Tagine",
     "tags": [
-      "gluten-free",
-      "irish-cuisine",
-      "lamb-recipes",
-      "pressure-cooker-alternative",
-      "special-occasion",
-      "sugar-free"
+      "lamb",
+      "tagine",
+      "north-african"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
