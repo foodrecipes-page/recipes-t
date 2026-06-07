@@ -3766,17 +3766,15 @@
   },
   {
     "slug": "tangy-smoky-mexican-rigatoni-pozole",
-    "title": "Tangy Smoky Mexican Rigatoni Pozole",
+    "title": "Smoky Pozole Rigatoni Bowl",
     "tags": [
-      "gluten-free",
       "mexican",
-      "one-pan",
-      "pandan",
-      "smoky",
-      "vegetarian"
+      "pasta",
+      "vegan",
+      "comfort-food"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -6200,17 +6198,16 @@
   },
   {
     "slug": "tempting-traditional-russian-cherry-puff",
-    "title": "Tempting Traditional Russian Cherry Puff",
+    "title": "Russian Cherry Puff Pancakes",
     "tags": [
-      "cherry-filled",
-      "dense-pastry",
-      "high-protein",
-      "laminated-pastry",
-      "russian-dessert",
-      "traditional"
+      "breakfast",
+      "russian",
+      "cherry",
+      "puff-pastry",
+      "pancakes"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 55,
+    "cuisine": "russian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -8968,17 +8965,15 @@
   },
   {
     "slug": "tender-mexican-chicken-pilaf",
-    "title": "Tender Mexican Chicken Pilaf",
+    "title": "Mexican Chicken Pilaf",
     "tags": [
-      "chicken",
-      "gluten-free",
       "mexican",
-      "one-pot",
-      "rice",
-      "weeknight"
+      "chicken",
+      "pilaf",
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -11182,17 +11177,14 @@
   },
   {
     "slug": "tender-wood-fired-australian-lamb-bake",
-    "title": "Tender Wood-Fired Australian Lamb Bake",
+    "title": "Australian-Style Lamb Roast",
     "tags": [
       "australian",
-      "gluten-free",
-      "grain-free",
-      "one-pot",
-      "special-occasion",
-      "wood-fired"
+      "lamb",
+      "roast"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 360,
+    "cuisine": "Australian",
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
