@@ -1,0 +1,77 @@
+{
+  "slug": "tender-nostalgic-japanese-garlic-stir-fry",
+  "title": "Japanese Stir Fry",
+  "description": "A classic Japanese dish made with tender beef, garlic, and a variety of vegetables, cooked to perfection in a savory stir-fry sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced bell peppers and cook for 2-3 minutes, until tender.",
+    "Add the sliced snow peas and cook for 1 minute, until tender.",
+    "Return the beef to the skillet and stir in the soy sauce and oyster sauce (if using).",
+    "Cook for an additional 1-2 minutes, until the beef is coated in the sauce.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-nostalgic-japanese-garlic-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:06:48.979Z"
+}
