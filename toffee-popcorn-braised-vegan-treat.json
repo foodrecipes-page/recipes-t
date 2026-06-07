@@ -1,0 +1,66 @@
+{
+  "slug": "toffee-popcorn-braised-vegan-treat",
+  "title": "Toffee Popcorn Treat",
+  "description": "A sweet vegan treat made with toffee and popcorn, perfect for a quick snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toffee",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Popcorn",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegan chocolate chips",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Optional: Chopped nuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Pop the popcorn kernels in a large pot or a popcorn popper.",
+    "2. Melt the coconut oil in a saucepan over low heat.",
+    "3. Add the toffee and melted chocolate to the saucepan, stirring constantly.",
+    "4. Pour the toffee mixture over the popped popcorn and stir until well combined.",
+    "5. Sprinkle salt and chopped nuts (if using) over the popcorn mixture.",
+    "6. Let the mixture cool until the chocolate has set.",
+    "7. Break the toffee popcorn into clusters and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "toffee",
+    "popcorn",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toffee-popcorn-braised-vegan-treat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:49:10.237Z"
+}
