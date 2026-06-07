@@ -1,0 +1,61 @@
+{
+  "slug": "tangy-cheesy-kenyan-eggs-frittata",
+  "title": "Kenyan-Style Frittata",
+  "description": "A flavorful twist on the classic Italian dish, this Kenyan-Style Frittata combines the rich taste of eggs with the tangy flavors of a traditional Kenyan dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/4 cup of chopped fresh cilantro"
+    },
+    {
+      "name": "cheesy",
+      "amount": "1 cup of shredded cheddar cheese"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tablespoon of Kenyan spice blend"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of oil over medium heat. Add the chopped cilantro and cook for 1 minute.",
+    "In a large bowl, whisk together the eggs, Kenyan spice blend, and a pinch of salt and pepper.",
+    "Pour the egg mixture over the cooked cilantro in the skillet.",
+    "Sprinkle the shredded cheese over the top of the egg mixture.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are set and the cheese is melted and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the frittata from the skillet.",
+    "Slide the frittata out of the skillet onto a plate and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "kenyan",
+    "frittata",
+    "eggs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-cheesy-kenyan-eggs-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:01:59.372Z"
+}
