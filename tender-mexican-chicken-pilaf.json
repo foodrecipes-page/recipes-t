@@ -1,0 +1,71 @@
+{
+  "slug": "tender-mexican-chicken-pilaf",
+  "title": "Mexican Chicken Pilaf",
+  "description": "A flavorful and spicy Mexican-inspired dish made with chicken, pilaf, and tender Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Mexican pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "tender Mexican seasoning",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Add the Mexican pilaf to the skillet and stir to combine with the chicken.",
+    "Sprinkle the Mexican seasoning over the top of the pilaf and chicken, and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the pilaf is heated through.",
+    "Serve hot, garnished with lime wedges if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "pilaf",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-mexican-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:09:17.137Z"
+}
