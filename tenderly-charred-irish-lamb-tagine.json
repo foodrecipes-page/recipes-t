@@ -1,0 +1,79 @@
+{
+  "slug": "tenderly-charred-irish-lamb-tagine",
+  "title": "Tender Lamb Tagine",
+  "description": "A traditional North African stew originating from Morocco. This dish is slow-cooked to perfection with tender lamb and flavorful spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Irish lamb broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 large",
+      "notes": "Charred for added flavor"
+    },
+    {
+      "name": "Chopped garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned, then set aside.",
+    "Char the onion and garlic in the pot for added flavor.",
+    "Add the ginger, cumin, and paprika to the pot and cook for 1 minute.",
+    "Add the lamb broth to the pot and bring to a boil.",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Transfer the pot to the oven and braise for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-charred-irish-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:13:15.079Z"
+}
