@@ -389,20 +389,16 @@
   },
   {
     "slug": "tangy-cheesy-kenyan-eggs-frittata",
-    "title": "Tangy Cheesy Kenyan Eggs Frittata",
+    "title": "Kenyan-Style Frittata",
     "tags": [
-      "low-carb",
-      "quick",
       "breakfast",
+      "brunch",
       "kenyan",
       "frittata",
-      "cheesy",
-      "tangy",
-      "shortening",
-      "saute"
+      "eggs"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -10870,17 +10866,15 @@
   },
   {
     "slug": "tender-tropical-brazilian-kabanos-stew",
-    "title": "Tender Tropical Brazilian Kabanos Stew",
+    "title": "Kabanos Stew",
     "tags": [
+      "beef",
+      "sausage",
       "brazilian",
-      "comfort-food",
-      "kosher",
-      "one-pot",
-      "polish",
-      "tropical"
+      "stew"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
