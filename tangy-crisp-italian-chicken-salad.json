@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-crisp-italian-chicken-salad",
+  "title": "Italian Chicken Salad",
+  "description": "A refreshing Italian-inspired salad with crispy chicken, tangy dressing, and crunchy vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "italian salad dressing",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tangy lettuce",
+      "amount": "4 cups",
+      "notes": "mixed greens or romaine"
+    },
+    {
+      "name": "crisp red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "croutons (gluten-free)",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the mixed greens, diced chicken, cherry tomatoes, and red onion.",
+    "2. In a small bowl, whisk together the Italian salad dressing and a pinch of salt.",
+    "3. Pour the dressing over the salad and toss to combine.",
+    "4. Sprinkle the croutons over the top of the salad.",
+    "5. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "salad",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-italian-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:33:10.221Z"
+}
