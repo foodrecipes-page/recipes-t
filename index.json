@@ -3657,14 +3657,15 @@
   },
   {
     "slug": "tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
-    "title": "Tangy Silky Indulgent Venezuelan Barramundi Stir-fry",
+    "title": "Pan-Seared Barramundi with Venezuelan Stir Fry Sauce",
     "tags": [
       "barramundi",
-      "vietnamese-style",
-      "indulgent"
+      "venezuelan",
+      "stir-fry",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -6183,17 +6184,15 @@
   },
   {
     "slug": "tempting-toasty-spanish-vegetables-pisto-manchego",
-    "title": "Toasty Spanish Vegetables Pisto Manchego",
+    "title": "Spanish Vegetable Tart",
     "tags": [
-      "healthy",
-      "macrobiotic",
-      "one-pan",
       "spanish",
       "vegetarian",
-      "weeknight"
+      "tart",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -12053,15 +12052,15 @@
   },
   {
     "slug": "toffee-popcorn-braised-vegan-treat",
-    "title": "Toffee Popcorn Braised Vegan Treat",
+    "title": "Toffee Popcorn Treat",
     "tags": [
       "vegan",
-      "canadian",
-      "toffee-popcorn",
-      "braised-treat"
+      "toffee",
+      "popcorn",
+      "snack"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -12149,15 +12148,14 @@
   },
   {
     "slug": "toor-kebab-with-pili-peri-sauce",
-    "title": "Toor Kebab with Pili Peri Sauce",
+    "title": "Spicy Pili Chicken",
     "tags": [
-      "toor dal",
-      "pili peri sauce",
-      "portuguese",
-      "vegan"
+      "spicy",
+      "chicken",
+      "indian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
