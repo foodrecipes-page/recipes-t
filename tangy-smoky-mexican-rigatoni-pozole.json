@@ -1,0 +1,70 @@
+{
+  "slug": "tangy-smoky-mexican-rigatoni-pozole",
+  "title": "Smoky Pozole Rigatoni Bowl",
+  "description": "A twist on traditional rigatoni, this smoky pozole bowl combines the comforting flavors of Mexico with a hearty pasta-based meal.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "1 pound"
+    },
+    {
+      "name": "smoky pozole sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "roasted tangy vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, bell peppers, and zucchini"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the rigatoni in a large pot of boiling salted water until al dente.",
+    "While the rigatoni cooks, heat the smoky pozole sauce in a large skillet over medium-low heat.",
+    "Add the roasted tangy vegetables to the skillet and stir to combine.",
+    "Drain the cooked rigatoni and add it to the skillet with the pozole sauce and vegetables.",
+    "Stir to combine and season with salt and black pepper to taste.",
+    "Serve the rigatoni mixture hot, topped with chopped cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "pasta",
+    "vegan",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoky-mexican-rigatoni-pozole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:46:44.160Z"
+}
