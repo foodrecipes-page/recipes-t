@@ -1,0 +1,80 @@
+{
+  "slug": "tender-saudi-arabian-vegetable-wrap",
+  "title": "Saudi Arabian Vegetable Wrap",
+  "description": "A flavorful and healthy wrap filled with tender vegetables, inspired by Saudi Arabian cuisine. Serve as a snack or light meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tender Vegetable Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Lay the tender wrap flat on a clean surface.",
+    "2. Spread the tahini evenly over the center of the wrap, leaving a 1-inch border around the edges.",
+    "3. Top the tahini with sliced cucumber, diced tomato, and thinly sliced red onion.",
+    "4. Drizzle the lemon juice over the vegetables and sprinkle with salt and black pepper.",
+    "5. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "6. Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "veggies",
+    "saudi-arabian",
+    "wrap",
+    "snack",
+    "light-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-saudi-arabian-vegetable-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:13:38.079Z"
+}
