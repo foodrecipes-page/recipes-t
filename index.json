@@ -814,21 +814,16 @@
   },
   {
     "slug": "tangy-crisp-italian-chicken-salad",
-    "title": "Tangy Crisp Italian Chicken Salad",
+    "title": "Italian Chicken Salad",
     "tags": [
       "italian",
       "chicken",
       "salad",
-      "weeknight",
-      "high-protein",
-      "low-carb",
-      "saskatoon-berry",
-      "pickles",
-      "tangy",
-      "gluten-free"
+      "gluten-free",
+      "low-carb"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -7968,16 +7963,16 @@
   },
   {
     "slug": "tender-french-lemon-crepe",
-    "title": "Tender French Lemon Crepe",
+    "title": "Lemon Crepes with French Buttercream",
     "tags": [
-      "french",
-      "crepe",
       "lemon",
-      "plant-based",
-      "date-night"
+      "crepes",
+      "french",
+      "buttercream",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 30,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
