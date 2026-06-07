@@ -1,0 +1,77 @@
+{
+  "slug": "tender-tropical-brazilian-kabanos-stew",
+  "title": "Kabanos Stew",
+  "description": "A hearty Brazilian-inspired stew made with kabanos sausage and tender vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kabanos sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tender beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tropical fruit",
+      "amount": "1 cup",
+      "notes": "diced and chopped (such as pineapple, mango, or papaya)"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the kabanos sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the pot and set aside.",
+    "Add the beef to the pot and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the tropical fruit and cook for an additional 2 minutes.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the kabanos sausage to the pot and reduce heat to low.",
+    "Simmer the stew for 1 1/2 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "sausage",
+    "brazilian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tropical-brazilian-kabanos-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:07:11.501Z"
+}
