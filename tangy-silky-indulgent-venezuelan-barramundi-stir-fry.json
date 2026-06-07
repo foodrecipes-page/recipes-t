@@ -1,0 +1,92 @@
+{
+  "slug": "tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
+  "title": "Pan-Seared Barramundi with Venezuelan Stir Fry Sauce",
+  "description": "A delicious and flavorful dish that combines the freshness of barramundi with the spices of Venezuela. The tangy stir fry sauce adds a nice balance to the silky texture of the fish.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Season the barramundi fillets with salt and pepper.",
+    "Add the barramundi to the pan and sear for 3-4 minutes on each side.",
+    "Remove the barramundi from the pan and set aside.",
+    "In the same pan, add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cumin, coriander, and chili flakes and cook for 1 minute.",
+    "Stir in the lemon juice and honey.",
+    "Return the barramundi to the pan and spoon some of the stir fry sauce over the top.",
+    "Cook for an additional 2-3 minutes or until the sauce is bubbly.",
+    "Serve the barramundi hot with additional sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barramundi",
+    "venezuelan",
+    "stir-fry",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-silky-indulgent-venezuelan-barramundi-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:44:26.867Z"
+}
