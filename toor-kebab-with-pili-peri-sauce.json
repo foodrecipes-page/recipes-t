@@ -1,0 +1,75 @@
+{
+  "slug": "toor-kebab-with-pili-peri-sauce",
+  "title": "Spicy Pili Chicken",
+  "description": "A flavorful and spicy dish made with marinated chicken, pili, and peri sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "Pili",
+      "amount": "2g"
+    },
+    {
+      "name": "Peri sauce",
+      "amount": "250g"
+    },
+    {
+      "name": "Toor",
+      "amount": "200g"
+    },
+    {
+      "name": "Kebab",
+      "amount": "4"
+    },
+    {
+      "name": "With",
+      "amount": "salt and pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine pili, peri sauce, toor, and garlic. Blend until smooth.",
+    "In a large bowl, mix together olive oil, salt, and pepper.",
+    "Add the blended mixture to the bowl and mix well.",
+    "Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-6 minutes per side, or until cooked through.",
+    "Serve the chicken with kebab and with sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "chicken",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toor-kebab-with-pili-peri-sauce",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:53:14.322Z"
+}
