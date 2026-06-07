@@ -1,0 +1,84 @@
+{
+  "slug": "tender-wood-fired-australian-lamb-bake",
+  "title": "Australian-Style Lamb Roast",
+  "description": "A hearty lamb roast with a sweet and tangy glaze, inspired by traditional Australian cuisine.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and black pepper.",
+    "In a small bowl, mix together the honey, lemon juice, and minced garlic.",
+    "Rub the honey-lemon mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Place the lamb shoulder in a large Dutch oven or a heavy roasting pan.",
+    "Add the rosemary sprigs and olive oil to the pan.",
+    "Cover the pan with a lid or foil and transfer it to the preheated oven.",
+    "Roast the lamb for 2 1/2 hours, or until it reaches an internal temperature of 145°F (63°C).",
+    "Remove the lamb from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lamb",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-wood-fired-australian-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:44:53.792Z"
+}
