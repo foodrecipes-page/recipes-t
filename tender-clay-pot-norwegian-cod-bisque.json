@@ -1,0 +1,86 @@
+{
+  "slug": "tender-clay-pot-norwegian-cod-bisque",
+  "title": "Cod in Norwegian-Style Bisque",
+  "description": "A hearty and flavorful cod dish in a creamy Norwegian-style bisque, perfect for a cold evening.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod",
+      "amount": "1 pound",
+      "notes": "Fresh, skin removed"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Norwegian beer",
+      "amount": "1 cup",
+      "notes": "Any light-colored lager"
+    },
+    {
+      "name": "Fish stock",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot or Dutch oven, melt the butter over medium heat.",
+    "2. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the minced garlic and cook for an additional minute.",
+    "4. Add the cod and cook until browned on both sides, about 3-4 minutes per side.",
+    "5. Add the Norwegian beer and fish stock, bringing the mixture to a simmer.",
+    "6. Reduce heat to low and let simmer for 10-12 minutes, or until the cod is cooked through.",
+    "7. If desired, stir in the heavy cream and cook for an additional 2-3 minutes.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve the cod in bowls and spoon the bisque over the top.",
+    "10. Garnish with chopped parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cod",
+    "bisque",
+    "norwegian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-clay-pot-norwegian-cod-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:46:45.459Z"
+}
