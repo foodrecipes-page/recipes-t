@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
+  "title": "Chivito Sandwiches",
+  "description": "A classic Uruguayan sandwich filled with steak, ham, cheese, and vegetables, served with a side of fries.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Churrasco steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Swiss cheese",
+      "amount": "4 slices",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "Green pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the steak with salt, pepper, and your favorite spices.",
+    "3. Grill the steak for 3-4 minutes per side, or until it reaches your desired level of doneness.",
+    "4. Meanwhile, toast the bread by grilling it for 1-2 minutes per side.",
+    "5. Assemble the sandwiches by spreading mayonnaise on the bottom slice of bread, then adding a slice of steak, a slice of ham, a slice of cheese, a few slices of green pepper, a few slices of onion, and a few slices of tomato.",
+    "6. Top with the top slice of bread.",
+    "7. Cut the sandwiches in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "sandwiches",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:04:26.889Z"
+}
