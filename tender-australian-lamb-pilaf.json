@@ -1,0 +1,84 @@
+{
+  "slug": "tender-australian-lamb-pilaf",
+  "title": "Lamb Pilaf",
+  "description": "A flavorful and aromatic pilaf dish made with lamb and australian ingredients. Serve hot and enjoy!",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Tender pilaf",
+      "amount": "250g",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Oil",
+      "amount": "2tbsp",
+      "notes": "olive or vegetable oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it's translucent.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lamb cubes and cook until they're browned.",
+    "Add the pilaf and stir to combine with the lamb and onion mixture.",
+    "Add salt and black pepper to taste.",
+    "Reduce heat to low, cover the saucepan and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and garnish with chopped parsley (if using).",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "middle-eastern",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-australian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:14:05.846Z"
+}
