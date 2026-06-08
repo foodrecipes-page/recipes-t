@@ -2787,17 +2787,15 @@
   },
   {
     "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry",
-    "title": "Tangy Juicy Comforting Uruguayan Green Pepper Stir-fry",
+    "title": "Chivito Sandwiches",
     "tags": [
-      "tangy",
-      "juicy",
-      "comforting",
       "uruguayan",
-      "stir-fry",
-      "vegetarian"
+      "beef",
+      "sandwiches",
+      "grilled"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -5578,15 +5576,15 @@
   },
   {
     "slug": "tasty-wholesome-wagyu-zanzibari-pilaf",
-    "title": "Tasty Wholesome Wagyu Zanzibari Pilaf",
+    "title": "Pan-Seared Wagyu Steak with Zanzibari Pilaf",
     "tags": [
-      "kid-friendly",
-      "luxurious",
-      "one-pan",
-      "satvik"
+      "wagyu",
+      "zanzibari",
+      "pilaf",
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 60,
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
