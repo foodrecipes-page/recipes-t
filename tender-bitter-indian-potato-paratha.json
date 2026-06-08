@@ -1,0 +1,80 @@
+{
+  "slug": "tender-bitter-indian-potato-paratha",
+  "title": "Bitter Potato Paratha",
+  "description": "A unique Indian-inspired flatbread filled with cooked potatoes and bitter greens.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "tender bitter greens",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "paratha",
+      "amount": "4-6 sheets",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing paratha"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tbsp of ghee or oil over medium heat.",
+    "2. Add the chopped bitter greens and cook until wilted.",
+    "3. Add the diced potatoes and cook until they are tender.",
+    "4. Season with salt, red chili powder, and garam masala to taste.",
+    "5. Meanwhile, brush the paratha sheets with the remaining 1 tbsp of ghee or oil.",
+    "6. Place a paratha sheet on a flat surface and spoon some of the potato-bitter green mixture onto one half of the paratha.",
+    "7. Fold the other half of the paratha over the filling to form a half-moon shape.",
+    "8. Brush the edges of the paratha with a little water and press the edges together to seal the paratha.",
+    "9. Heat a non-stick pan or griddle over medium heat and cook the paratha for 1-2 minutes on each side, until golden brown and crispy.",
+    "10. Repeat with the remaining paratha sheets and filling."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "flatbread",
+    "potato",
+    "bitter greens"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-bitter-indian-potato-paratha",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:13:51.658Z"
+}
