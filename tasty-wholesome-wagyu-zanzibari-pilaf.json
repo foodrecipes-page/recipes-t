@@ -1,0 +1,73 @@
+{
+  "slug": "tasty-wholesome-wagyu-zanzibari-pilaf",
+  "title": "Pan-Seared Wagyu Steak with Zanzibari Pilaf",
+  "description": "A flavorful and nutritious dish featuring pan-seared wagyu steak served with zanzibari pilaf. This recipe combines the rich taste of wagyu with the aromatic flavor of zanzibari spices.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu Steak",
+      "amount": "500g",
+      "notes": "1.5 inches thick"
+    },
+    {
+      "name": "Zanzibari Spice Blend",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "Tasty Pilaf",
+      "amount": "200g",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "Wholesome Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the wagyu steak with salt and black pepper.",
+    "Heat the olive oil in a skillet over high heat.",
+    "Sear the wagyu steak for 2-3 minutes per side, or until a nice crust forms.",
+    "Transfer the skillet to the preheated oven and cook to desired doneness.",
+    "While the steak is cooking, heat the zanzibari pilaf according to package instructions.",
+    "Serve the wagyu steak with the zanzibari pilaf.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wagyu",
+    "zanzibari",
+    "pilaf",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 10,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-wholesome-wagyu-zanzibari-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:10:45.846Z"
+}
