@@ -1,0 +1,74 @@
+{
+  "slug": "tangy-molten-british-chicken-fried-rice",
+  "title": "British Fried Chicken Bites with Spicy Tangy Rice",
+  "description": "Crispy fried chicken bites paired with a flavorful spicy rice dish inspired by British cuisine.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "British chicken breast",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "tangy rice",
+      "amount": "2 cups",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "fried rice seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "molten oil",
+      "amount": "1 cup",
+      "notes": "For deep frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together chicken pieces, salt, and pepper.",
+    "2. Heat the molten oil in a deep frying pan to 180°C.",
+    "3. Fry the chicken pieces in batches until golden brown and cooked through.",
+    "4. Drain the fried chicken on paper towels.",
+    "5. Cook the tangy rice according to package instructions.",
+    "6. In a separate pan, heat the fried rice seasoning over low heat.",
+    "7. Add the cooked rice to the pan and stir-fry until combined.",
+    "8. Serve the fried chicken bites with the spicy tangy rice.",
+    "9. Garnish with chopped fresh herbs, if desired.",
+    "10. Enjoy your delicious British Fried Chicken Bites with Spicy Tangy Rice!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "chicken",
+    "fried",
+    "spicy",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-molten-british-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:03:52.285Z"
+}
