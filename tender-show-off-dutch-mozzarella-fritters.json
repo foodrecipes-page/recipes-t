@@ -1,0 +1,77 @@
+{
+  "slug": "tender-show-off-dutch-mozzarella-fritters",
+  "title": "Dutch-Style Pan-Fried Mozzarella Fritters",
+  "description": "A crispy and savory Dutch-inspired fritter recipe filled with melted mozzarella cheese.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dutch cheese",
+      "amount": "1 cup",
+      "notes": "or other firm cheese"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 box",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan with a small amount of oil over medium heat.",
+    "2. In a bowl, mix the Dutch cheese, mozzarella cheese, eggs, flour, salt, and pepper.",
+    "3. Add the fritters to the bowl and mix until well combined.",
+    "4. Using a spoon, drop small balls of the cheese mixture into the pan.",
+    "5. Flatten each ball slightly with a spatula.",
+    "6. Cook for 2-3 minutes or until golden brown on the bottom.",
+    "7. Flip and cook for another 2 minutes or until golden brown.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "cheese",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-show-off-dutch-mozzarella-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:50:31.878Z"
+}
