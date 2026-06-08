@@ -6603,16 +6603,14 @@
   },
   {
     "slug": "tender-australian-lamb-pilaf",
-    "title": "Tender Australian Lamb Pilaf",
+    "title": "Lamb Pilaf",
     "tags": [
-      "australian",
-      "gluten-free",
-      "low-glycemic",
-      "main-course",
-      "one-pan",
-      "pressure-cooker"
+      "lamb",
+      "pilaf",
+      "middle-eastern",
+      "dinner"
     ],
-    "cuisine": "australian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -6677,17 +6675,15 @@
   },
   {
     "slug": "tender-bitter-indian-potato-paratha",
-    "title": "Tender Bitter Indian Potato Paratha",
+    "title": "Bitter Potato Paratha",
     "tags": [
-      "ayurvedic",
-      "brunch",
-      "indian-food",
-      "paratha",
-      "sattvic",
-      "vegetarian"
+      "indian",
+      "flatbread",
+      "potato",
+      "bitter greens"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
