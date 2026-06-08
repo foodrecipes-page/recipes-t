@@ -3300,17 +3300,16 @@
   },
   {
     "slug": "tangy-molten-british-chicken-fried-rice",
-    "title": "Tangy Molten British Chicken Fried Rice",
+    "title": "British Fried Chicken Bites with Spicy Tangy Rice",
     "tags": [
-      "british-cuisine",
-      "chicken-recipes",
-      "fried-rice",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "british",
+      "chicken",
+      "fried",
+      "spicy",
+      "rice"
     ],
     "cuisine": "British",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -4213,17 +4212,16 @@
   },
   {
     "slug": "tangy-toasted-mexican-casabe-tacos",
-    "title": "Tangy Toasted Mexican Casabe Tacos",
+    "title": "Tacos de Casabe",
     "tags": [
+      "mexican",
+      "tacos",
+      "casabe",
       "gluten-free",
-      "low-carb",
-      "mexican-inspired",
-      "spherified",
-      "toasted",
-      "traditional"
+      "easy"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -9578,19 +9576,14 @@
   },
   {
     "slug": "tender-show-off-dutch-mozzarella-fritters",
-    "title": "tender show-off dutch mozzarella fritters",
+    "title": "Dutch-Style Pan-Fried Mozzarella Fritters",
     "tags": [
-      "breakfast",
-      "brunch",
-      "dutch",
-      "easy-to-make",
-      "fritters",
-      "mozzarella",
       "snack",
-      "weeknight"
+      "cheese",
+      "dutch"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 55,
+    "cuisine": "Dutch",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
