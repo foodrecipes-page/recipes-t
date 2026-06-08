@@ -9614,17 +9614,14 @@
   },
   {
     "slug": "tender-silky-filipino-chicken-adobo",
-    "title": "Tender Silky Filipino Chicken Adobo",
+    "title": "Filipino Chicken Adobo",
     "tags": [
-      "filipino",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "weeknight",
-      "whole30-friendly"
+      "chicken",
+      "adobo",
+      "filipino"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 45,
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
