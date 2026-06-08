@@ -1,0 +1,78 @@
+{
+  "slug": "tender-silky-filipino-chicken-adobo",
+  "title": "Filipino Chicken Adobo",
+  "description": "A classic Filipino dish made with marinated chicken cooked in vinegar, soy sauce, and garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pork-free",
+    "beef-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "adobo seasoning",
+      "amount": "2 teaspoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vinegar, soy sauce, garlic, black pepper, and adobo seasoning.",
+    "Add the chicken to the marinade and mix until coated. Refrigerate for at least 30 minutes or up to 2 hours.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off. Add the chicken to the skillet and cook until browned on both sides, about 5-7 minutes.",
+    "Add the bay leaves and salt to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 15-20 minutes.",
+    "Remove the chicken from the skillet and let rest for 5 minutes before slicing.",
+    "Serve the chicken with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "adobo",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 15,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-silky-filipino-chicken-adobo",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:39:26.409Z"
+}
