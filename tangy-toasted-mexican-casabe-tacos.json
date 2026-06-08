@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-toasted-mexican-casabe-tacos",
+  "title": "Tacos de Casabe",
+  "description": "A crispy casabe taco filled with spicy meats and fresh toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casabe",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tangy tomatillo salsa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tacos (store-bought or homemade)",
+      "amount": "6-8"
+    },
+    {
+      "name": "toasted tortilla strips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the ground beef and cook until browned, breaking it into small pieces.",
+    "3. Add the diced onion and cook until softened.",
+    "4. Stir in the tangy tomatillo salsa and cook for 1-2 minutes.",
+    "5. Warm the casabe pieces by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the tacos by placing a spoonful of the beef mixture onto each casabe piece.",
+    "7. Top with shredded cheese, chopped cilantro, and a dollop of sour cream.",
+    "8. Serve immediately and garnish with toasted tortilla strips and sliced avocado.",
+    "9. Optional: Add diced tomatoes, shredded lettuce, or diced jalapenos for extra flavor and texture.",
+    "10. Enjoy your delicious tacos de casabe!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "casabe",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "25g",
+    "carbs": "30g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-toasted-mexican-casabe-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:00:42.653Z"
+}
