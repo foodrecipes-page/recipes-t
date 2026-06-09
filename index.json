@@ -1310,17 +1310,14 @@
   },
   {
     "slug": "tangy-crumbly-syrian-sausage-soup",
-    "title": "Tangy Crumbly Syrian Sausage Soup",
+    "title": "Syrian Sausage Soup",
     "tags": [
       "soup",
-      "low-fat",
-      "sour",
-      "syrian",
-      "german-sausage",
-      "quick"
+      "sausage",
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 25,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -1879,15 +1876,15 @@
   },
   {
     "slug": "tangy-flaky-greek-palm-sugar-crumble",
-    "title": "Tangy Flaky Greek Palm Sugar Crumble",
+    "title": "Greek Crumble Palm Pie",
     "tags": [
-      "tangy-flaky-greek",
-      "meal-prep-dish",
-      "vegan-friendly",
-      "greek-palm-sugar-crumble"
+      "greek",
+      "pie",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "cuisine": "greek",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
