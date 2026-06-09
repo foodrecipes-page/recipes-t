@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-crumbly-paprika-crumble",
+  "title": "Tangy Crumble Bites",
+  "description": "A sweet and tangy crumble topping on a crumbly biscuit base, perfect for a snack or dessert.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Self-raising flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy crumble topping",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together the butter, caster sugar, and self-raising flour.",
+    "Press the mixture into the bottom of a 9x9 inch baking dish.",
+    "Spoon the tangy crumble topping over the biscuit base.",
+    "Dust with paprika.",
+    "Bake for 20-25 minutes or until the topping is golden brown.",
+    "Sprinkle crumble over the top.",
+    "Drizzle with lemon juice.",
+    "Bake for an additional 5-7 minutes.",
+    "Let cool before cutting into bite-sized pieces."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 9,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "tangy",
+    "biscuit",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-paprika-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:34:56.579Z"
+}
