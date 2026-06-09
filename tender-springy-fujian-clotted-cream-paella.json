@@ -1,0 +1,90 @@
+{
+  "slug": "tender-springy-fujian-clotted-cream-paella",
+  "title": "Creamy Paella Fritters",
+  "description": "Crunchy outside and creamy inside, these paella fritters are a delightful twist on a classic Spanish dish. Perfect as a snack or appetizer.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fujian rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Paella",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Springy onions",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Tender parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the rice, clotted cream, paella, springy onions, tender parsley, egg, salt, and black pepper.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop small balls of the rice mixture into the hot oil and flatten slightly.",
+    "Cook the fritters for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Remove the fritters from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the fritters hot with your favorite dipping sauce.",
+    "Optional: garnish with additional tender parsley and serve with a side of spicy aioli."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "finger-food",
+    "party-appetizer",
+    "creamy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-springy-fujian-clotted-cream-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:17:41.116Z"
+}
