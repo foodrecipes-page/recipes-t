@@ -1,0 +1,61 @@
+{
+  "slug": "tender-american-black-bean-skewers",
+  "title": "Grilled Black Bean and American Cheese Skewers",
+  "description": "A simple and flavorful recipe featuring black bean and american cheese skewers, perfect for a quick snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "American cheese",
+      "amount": "8 slices",
+      "notes": "Cut into quarters"
+    },
+    {
+      "name": "Black beans, canned",
+      "amount": "1 (15 ounce) can, drained and rinsed"
+    },
+    {
+      "name": "Tender",
+      "amount": "1 package",
+      "notes": "Pre-cooked"
+    },
+    {
+      "name": "Black skewers",
+      "amount": "1 package",
+      "notes": "Soak in water for 30 minutes before grilling"
+    }
+  ],
+  "instructions": [
+    "Soak the black skewers in water for 30 minutes.",
+    "Thread an American cheese quarter, 2-3 black beans, and 1 tender onto each skewer.",
+    "Preheat grill to medium-high heat.",
+    "Grill skewers for 2-3 minutes per side, or until the cheese is melted and the tenders are heated through.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skewers",
+    "grilled",
+    "black-beans",
+    "american-cheese",
+    "quick-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-black-bean-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T22:12:37.593Z"
+}
