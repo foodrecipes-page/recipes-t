@@ -1,0 +1,84 @@
+{
+  "slug": "tempting-toasted-japanese-bananas-takoyaki",
+  "title": "Takoyaki Banana Bites",
+  "description": "A unique dessert inspired by Japanese street food, combining crispy takoyaki with caramelized bananas. Perfect for a sweet snack or dessert.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "white"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "sugar for dusting",
+      "amount": "2 tbsp",
+      "notes": "granulated"
+    },
+    {
+      "name": "tempting (optional)",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan with 2 tbsp oil over medium heat.",
+    "In a bowl, mix together flour, sugar, and cinnamon powder.",
+    "Add eggs, milk, and mix well until combined.",
+    "Add the mixture to the hot pan and spread evenly.",
+    "When the edges start to set, add sliced bananas on top.",
+    "Once the bananas are caramelized, use a cookie cutter to cut out shapes.",
+    "Dust with sugar and serve immediately.",
+    "If desired, drizzle with tempting (vanilla extract) before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "snack",
+    "bananas",
+    "takoyaki",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-toasted-japanese-bananas-takoyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:34:34.481Z"
+}
