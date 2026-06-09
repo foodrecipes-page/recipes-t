@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-creamy-salmon-stir-fry",
+  "title": "Salmon Stir Fry",
+  "description": "A quick and easy stir-fry recipe with salmon, perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "4",
+      "notes": "Fresh salmon fillet, skin removed"
+    },
+    {
+      "name": "Tangy stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1",
+      "notes": "Any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Creamy soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onions and cook until they are translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bell peppers and cook until they are tender, about 4-5 minutes.",
+    "Add the salmon fillet and cook for 2-3 minutes per side, until cooked through.",
+    "In a small bowl, whisk together the tangy stir-fry sauce and creamy soy sauce.",
+    "Pour the sauce over the salmon and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "stir-fry",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-salmon-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:00:33.342Z"
+}
