@@ -1,0 +1,91 @@
+{
+  "slug": "tasting-smoky-irish-salmon-broth",
+  "title": "Smoked Salmon Chowder",
+  "description": "A creamy, smoky chowder made with smoked salmon, Irish ingredients, and a touch of sweetness.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon",
+      "amount": "6 oz",
+      "notes": "flaked"
+    },
+    {
+      "name": "Tasting Broth",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "Irish Cream (heavy cream)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add diced potato and cook for 5 minutes.",
+    "Pour in tasting broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in heavy cream and flaked smoked salmon.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "chowder",
+    "irish",
+    "smoked-salmon",
+    "comfort-food",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasting-smoky-irish-salmon-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:33:26.710Z"
+}
