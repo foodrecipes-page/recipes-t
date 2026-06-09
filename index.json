@@ -4793,17 +4793,17 @@
   },
   {
     "slug": "tasting-smoky-irish-salmon-broth",
-    "title": "Tasting Smoky Irish Salmon Broth",
+    "title": "Smoked Salmon Chowder",
     "tags": [
-      "comfort-food",
-      "creamy",
-      "high-protein",
+      "salmon",
+      "chowder",
       "irish",
-      "quick-dinner",
-      "smoky"
+      "smoked-salmon",
+      "comfort-food",
+      "winter-recipe"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -12579,18 +12579,15 @@
   },
   {
     "slug": "turkish-glassy-jelly-beef-brisket-papillote",
-    "title": "Turkish Glassy-Jelly Beef Brisket Papillote",
+    "title": "Beef Brisket Papillote",
     "tags": [
       "beef",
-      "high-protein",
-      "one-pan",
-      "paleo",
-      "turkish",
-      "weeknight",
-      "whole30"
+      "brisket",
+      "papillote",
+      "jelly"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 60,
+    "cuisine": "Turkish",
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
