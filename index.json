@@ -1790,18 +1790,15 @@
   },
   {
     "slug": "tangy-flaky-algerian-fish-tagine",
-    "title": "Tangy Flaky Algerian Fish Tagine",
+    "title": "Algerian Fish Tagine",
     "tags": [
-      "festive",
-      "fish-recipe",
-      "flaky",
-      "no-onion-no-garlic",
-      "north-african",
-      "pescatarian-friendly",
-      "tangy"
+      "algerian",
+      "fish",
+      "tagine",
+      "lunch"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -6439,17 +6436,16 @@
   },
   {
     "slug": "tender-american-black-bean-skewers",
-    "title": "Tender American Black Bean Skewers",
+    "title": "Grilled Black Bean and American Cheese Skewers",
     "tags": [
-      "american-cuisine",
+      "skewers",
+      "grilled",
       "black-beans",
-      "comfort-food",
-      "kosher-friendly",
-      "robata-grill",
-      "skewers"
+      "american-cheese",
+      "quick-recipe"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 32,
+    "cuisine": null,
+    "totalTimeMin": 16,
     "shard": "t"
   },
   {
@@ -10263,18 +10259,16 @@
   },
   {
     "slug": "tender-springy-fujian-clotted-cream-paella",
-    "title": "Tender Springy Fujian Clotted-Cream Paella",
+    "title": "Creamy Paella Fritters",
     "tags": [
-      "clotted-cream",
-      "date-night",
-      "fujian",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "spanish",
+      "finger-food",
+      "party-appetizer",
+      "creamy",
+      "crunchy"
     ],
-    "cuisine": "Fujian",
-    "totalTimeMin": 40,
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
