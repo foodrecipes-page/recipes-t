@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-flaky-greek-palm-sugar-crumble",
+  "title": "Greek Crumble Palm Pie",
+  "description": "A tangy and flaky pie made with greek yogurt, palm sugar, and crumble topping.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "tangy lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry dough and place in a pie dish.",
+    "In a separate bowl, mix together the greek yogurt, palm sugar, and tangy lemon juice.",
+    "Pour the yogurt mixture into the pie crust.",
+    "Top the pie with the crumble topping.",
+    "Dot the top of the pie with unsalted butter.",
+    "Bake for 40-45 minutes, or until the crust is golden brown.",
+    "Let the pie cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pie",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-greek-palm-sugar-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:43:58.016Z"
+}
