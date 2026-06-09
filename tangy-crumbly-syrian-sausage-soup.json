@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-crumbly-syrian-sausage-soup",
+  "title": "Syrian Sausage Soup",
+  "description": "A hearty soup made with syrian sausage and a tangy twist. Perfect for a cold winter day.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian sausage",
+      "amount": "1 pound",
+      "notes": "Slice into 1/2-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Tangy crumbly bread",
+      "amount": "4 slices",
+      "notes": "Crumble into small pieces"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add sausage and cook until browned, about 5 minutes.",
+    "Add onion, garlic, carrots, and potatoes. Cook until vegetables are tender, about 10 minutes.",
+    "Add canned diced tomatoes and chicken broth. Bring to a boil, then reduce heat to medium-low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with crumbled tangy crumbly bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "sausage",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-syrian-sausage-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:36:34.857Z"
+}
