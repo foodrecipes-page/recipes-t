@@ -12059,15 +12059,14 @@
   },
   {
     "slug": "tofupopper-bliss",
-    "title": "TofuPopper Bliss",
+    "title": "Blissful Tofu Poppers",
     "tags": [
+      "snack",
       "tofu",
-      "popcorn",
-      "creme-fraiche",
-      "tadka"
+      "bliss"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 80,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
