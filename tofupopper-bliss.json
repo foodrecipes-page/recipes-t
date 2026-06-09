@@ -1,0 +1,86 @@
+{
+  "slug": "tofupopper-bliss",
+  "title": "Blissful Tofu Poppers",
+  "description": "A crispy and flavorful snack made with tofu poppers, bliss, and a hint of spice.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu popper",
+      "amount": "1 package",
+      "notes": "about 20-25 poppers"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "for flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (175°C).",
+    "Dust the tofu poppers with cornstarch.",
+    "In a separate bowl, mix together soy sauce, garlic powder, salt, and pepper.",
+    "Marinate the tofu poppers in the soy sauce mixture for at least 10 minutes.",
+    "Remove the tofu poppers from the marinade and fry them in batches until golden brown.",
+    "Remove the fried tofu poppers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "In a separate pan, heat the olive oil over medium heat.",
+    "Add the chopped bliss and sauté until fragrant.",
+    "Add the fried tofu poppers to the pan with the bliss and stir-fry for 1-2 minutes.",
+    "Serve the Blissful Tofu Poppers hot and enjoy!",
+    "Optional: Garnish with chopped green onions or sesame seeds for added flavor and texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "tofu",
+    "bliss"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tofupopper-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T04:51:04.633Z"
+}
