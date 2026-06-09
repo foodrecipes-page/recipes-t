@@ -1,0 +1,74 @@
+{
+  "slug": "turkish-glassy-jelly-beef-brisket-papillote",
+  "title": "Beef Brisket Papillote",
+  "description": "A flavorful and tender beef brisket dish cooked in a papillote with a sweet and tangy jelly sauce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "1 1/2 pounds",
+      "notes": "preferably with a thick layer of fat"
+    },
+    {
+      "name": "Jelly",
+      "amount": "1/4 cup",
+      "notes": "any flavor, such as apricot or quince"
+    },
+    {
+      "name": "Turkish Glassy Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "or any other mild oil"
+    },
+    {
+      "name": "Papillote",
+      "amount": "4 large sheets",
+      "notes": "usually made of parchment paper"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef brisket with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium heat. Sear the beef brisket until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef brisket to a papillote sheet, leaving a 1-inch border around it.",
+    "Brush the jelly over the beef brisket, making sure to stay within the borders.",
+    "Place another papillote sheet on top and crimp the edges to seal the packet.",
+    "Place the papillote on a baking sheet and bake for 2 1/2 hours, or until the beef is tender and falls apart easily.",
+    "Let the beef rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brisket",
+    "papillote",
+    "jelly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkish-glassy-jelly-beef-brisket-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:12:16.652Z"
+}
