@@ -1,0 +1,58 @@
+{
+  "slug": "tangy-tender-irish-semolina-rimacinata-hash",
+  "title": "Tender Irish Hash",
+  "description": "A hearty side dish made with tender Irish beef, tangy ingredients, and crispy hash browns.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tender Irish Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tangy Cheddar Cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "Semolina Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rimacinata Pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Dice the tender Irish beef into 1-inch pieces and season with salt and pepper.",
+    "In a large bowl, mix together the hash browns, semolina flour, and rimacinata pepper.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the diced beef and cook until browned on all sides, about 5 minutes.",
+    "Add the hash brown mixture to the skillet and cook until golden brown, about 5 minutes.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the top is crispy.",
+    "Remove the skillet from the oven and sprinkle with tangy cheddar cheese. Return to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "irish",
+    "beef",
+    "hash"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-irish-semolina-rimacinata-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:15:06.779Z"
+}
