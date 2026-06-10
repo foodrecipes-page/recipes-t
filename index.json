@@ -5938,16 +5938,14 @@
   },
   {
     "slug": "tempting-silky-american-epoisses-dumplings",
-    "title": "Tempting Silky American Epoisses Dumplings",
+    "title": "Pan-Seared Dumplings with Epissois Sauce",
     "tags": [
-      "american-cuisine",
-      "deep-fried",
       "dumplings",
-      "epoisses-cheese",
-      "shojin-friendly",
-      "vegetarian"
+      "epoisses",
+      "french-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "American",
+    "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -11808,17 +11806,15 @@
   },
   {
     "slug": "toasted-smoky-italian-mozzarella-pizza",
-    "title": "Toasted Smoky Italian Mozzarella Pizza",
+    "title": "Smoky Italian Pizza",
     "tags": [
-      "italian-food",
-      "kosher-friendly",
-      "lombard-cuisine",
-      "miso-marinate",
-      "mozzarella-cheese",
-      "smoky-flavor"
+      "italian",
+      "pizza",
+      "vegetarian",
+      "quick-meal"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
