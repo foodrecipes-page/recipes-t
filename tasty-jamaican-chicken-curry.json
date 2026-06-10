@@ -1,0 +1,94 @@
+{
+  "slug": "tasty-jamaican-chicken-curry",
+  "title": "Tasty Jamaican Chicken Curry",
+  "description": "A flavorful and spicy Jamaican-inspired chicken curry recipe that's perfect for a weeknight dinner.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tasty curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in the curry powder, allspice, and thyme. Cook for 1 minute.",
+    "Add the coconut milk, salt, and the browned chicken back to the skillet.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the chicken is cooked through.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "curry",
+    "chicken",
+    "dinner",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:07:39.081Z"
+}
