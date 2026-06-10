@@ -1,0 +1,75 @@
+{
+  "slug": "tempting-silky-american-epoisses-dumplings",
+  "title": "Pan-Seared Dumplings with Epissois Sauce",
+  "description": "A rich and savory dish featuring pan-seared dumplings served in a creamy Epissois cheese sauce.",
+  "cuisine": "french",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dumplings",
+      "amount": "12 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Epoisses cheese",
+      "amount": "100g",
+      "notes": "Strong, pungent cheese"
+    },
+    {
+      "name": "Butter",
+      "amount": "60g",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/2 cup",
+      "notes": "For sauce"
+    }
+  ],
+  "instructions": [
+    "In a large skillet, melt 2 tbsp of butter over medium heat.",
+    "Dust the dumplings with flour and add them to the skillet.",
+    "Pan-fry the dumplings until golden brown on both sides.",
+    "Transfer the dumplings to a plate and set aside.",
+    "In the same skillet, add the remaining 2 tbsp of butter.",
+    "Once melted, add the Epoisses cheese and stir until melted and smooth.",
+    "Pour in the chicken broth and heavy cream, whisking continuously.",
+    "Bring the mixture to a simmer and cook until heated through.",
+    "Return the dumplings to the skillet and toss to coat in the Epissois sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "epoisses",
+    "french-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-silky-american-epoisses-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:31:15.687Z"
+}
