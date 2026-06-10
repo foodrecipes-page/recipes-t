@@ -5103,15 +5103,14 @@
     "slug": "tasty-jamaican-chicken-curry",
     "title": "Tasty Jamaican Chicken Curry",
     "tags": [
-      "chicken-dishes",
-      "comfort-food",
+      "jamaican",
       "curry",
-      "fodmap-friendly",
-      "gluten-free",
-      "jamaican-cuisine"
+      "chicken",
+      "dinner",
+      "spicy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -9474,17 +9473,15 @@
   },
   {
     "slug": "tender-russian-rice-pilaf",
-    "title": "Tender Russian Rice Pilaf",
+    "title": "Tender Russian Pilaf",
     "tags": [
-      "comfort-food",
-      "easy-leftovers",
-      "fluffy-rice",
-      "homestyle",
-      "one-dish-meal",
-      "sick-day"
+      "russian",
+      "beef",
+      "pilaf",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
