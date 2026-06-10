@@ -1,0 +1,85 @@
+{
+  "slug": "tender-russian-rice-pilaf",
+  "title": "Tender Russian Pilaf",
+  "description": "A flavorful and comforting pilaf dish inspired by Russian cuisine, made with tender beef and fluffy rice.",
+  "cuisine": "russian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "rice pilaf seasoning",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion and garlic to skillet and cook until softened, about 3-4 minutes.",
+    "Add rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add pilaf seasoning, salt, and pepper. Stir to combine.",
+    "Add beef back into the skillet and stir to combine with the rice mixture.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "beef",
+    "pilaf",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-russian-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T06:52:38.794Z"
+}
