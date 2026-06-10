@@ -1,0 +1,71 @@
+{
+  "slug": "tangy-yeast-kissed-middle-eastern-cheese-warak-enab",
+  "title": "Warak Enab Stuffed with Eastern Cheese",
+  "description": "A Middle Eastern dish where stuffed grape leaves are filled with a tangy cheese blend and served as a snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Warak Enab",
+      "amount": "12-15 leaves",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "Eastern Cheese",
+      "amount": "1 cup",
+      "notes": "crumbly feta or goat cheese works well"
+    },
+    {
+      "name": "Tangy Cheese",
+      "amount": "1/2 cup",
+      "notes": "mix of feta and parmesan"
+    },
+    {
+      "name": "Middle Eastern Spice Blend",
+      "amount": "1 tsp",
+      "notes": "dried oregano, thyme, and sumac"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing grape leaves"
+    }
+  ],
+  "instructions": [
+    "Rinse the grape leaves and remove stems.",
+    "In a bowl, mix together Eastern cheese and Tangy cheese.",
+    "Add Middle Eastern Spice Blend to the cheese mixture and stir to combine.",
+    "Place a grape leaf on a flat surface, vein side up.",
+    "Place a tablespoon of the cheese mixture in the center of the grape leaf.",
+    "Fold the stem end over the filling, then fold in the sides and roll the leaf into a neat package.",
+    "Repeat with remaining grape leaves and filling.",
+    "Heat a large skillet over medium heat and brush with Olive Oil.",
+    "Add the stuffed grape leaves to the skillet, seam side down.",
+    "Cook for 5-7 minutes, or until the grape leaves are tender and the filling is heated through.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "snack",
+    "cheese",
+    "grape-leaves"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-yeast-kissed-middle-eastern-cheese-warak-enab",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:11:11.335Z"
+}
