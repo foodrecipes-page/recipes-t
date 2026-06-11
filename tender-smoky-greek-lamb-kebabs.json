@@ -1,0 +1,86 @@
+{
+  "slug": "tender-smoky-greek-lamb-kebabs",
+  "title": "Tender Smoky Lamb Kebabs",
+  "description": "A classic Greek-inspired dish featuring tender lamb kebabs with a smoky flavor.",
+  "cuisine": "Greek",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "for marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "add smoky flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "2 sprigs",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, olive oil, smoked paprika, garlic, salt, and pepper.",
+    "Add lamb cubes to the marinade and mix until coated. Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat. Thread marinated lamb onto skewers.",
+    "Grill kebabs for 8-10 minutes per side, or until lamb reaches an internal temperature of 145°F (63°C).",
+    "Transfer kebabs to a serving platter. Garnish with fresh oregano and serve with lemon wedges.",
+    "Let kebabs rest for 5 minutes before serving. Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "kebabs",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 4,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-greek-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:06:59.929Z"
+}
