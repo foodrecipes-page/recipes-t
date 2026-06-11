@@ -1999,16 +1999,14 @@
   },
   {
     "slug": "tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
-    "title": "Tangy Flaky Saudi-Arabian Creme Fraiche Pilaf",
+    "title": "Saudi Arabian Chicken and Pilaf Bowl",
     "tags": [
-      "creme-fraiche",
-      "mediterranean",
-      "one-pan",
-      "saudi-arabian",
-      "tangy"
+      "chicken",
+      "pilaf",
+      "saudi arabian"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 30,
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -9613,17 +9611,15 @@
   },
   {
     "slug": "tender-slovakian-chinese-cabbage-dumplings",
-    "title": "Slovakian Chinese Cabbage Dumplings",
+    "title": "Slovakian Cabbage Dumplings",
     "tags": [
-      "chinese-cabbage",
+      "cabbage",
       "dumplings",
-      "homemade",
       "slovakian",
-      "traditional",
-      "vegetarian"
+      "homemade"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -10677,16 +10673,15 @@
   },
   {
     "slug": "tender-toasted-german-yeast-pancakes",
-    "title": "Tender Toasted German Yeast Pancakes",
+    "title": "German Toast Pancakes",
     "tags": [
-      "breakfast-inspired",
-      "german-cuisine",
-      "lacto-vegetarian",
-      "post-workout",
-      "sweet-treats"
+      "german",
+      "breakfast",
+      "pancakes",
+      "toast"
     ],
     "cuisine": "German",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
