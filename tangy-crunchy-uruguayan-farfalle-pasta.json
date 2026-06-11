@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-crunchy-uruguayan-farfalle-pasta",
+  "title": "Uruguayan Pasta Salad",
+  "description": "A quick and easy salad combining tangy Uruguayan flavors with crunchy pasta.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "Gluten-free alternative"
+    },
+    {
+      "name": "Tangy Uruguayan sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crunchy chopped vegetables",
+      "amount": "1 cup",
+      "notes": "Bell peppers, carrots, and onions"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "For dressing"
+    }
+  ],
+  "instructions": [
+    "Cook farfalle pasta according to package instructions. Drain and set aside.",
+    "Chop the crunchy vegetables and set aside.",
+    "In a medium bowl, whisk together the tangy Uruguayan sauce and red wine vinegar (if using).",
+    "Add the chopped vegetables, cooked pasta, and chopped cilantro to the bowl.",
+    "Drizzle the olive oil over the top and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "salad",
+    "uruguayan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-uruguayan-farfalle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:13:56.640Z"
+}
