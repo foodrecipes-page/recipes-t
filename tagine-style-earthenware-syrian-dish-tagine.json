@@ -1,0 +1,92 @@
+{
+  "slug": "tagine-style-earthenware-syrian-dish-tagine",
+  "title": "Syrian Chicken Tagine",
+  "description": "A traditional Syrian dish made with chicken, spices, and apricots, cooked in a flavorful tagine. The result is a rich, aromatic stew that's perfect for a cold evening.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken Thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Apricots",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the cumin and cayenne pepper and cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5 minutes.",
+    "Add the apricots, chicken broth, and salt.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "chicken",
+    "tagine",
+    "stew",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tagine-style-earthenware-syrian-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:59:08.941Z"
+}
