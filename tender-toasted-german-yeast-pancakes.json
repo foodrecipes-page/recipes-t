@@ -1,0 +1,81 @@
+{
+  "slug": "tender-toasted-german-yeast-pancakes",
+  "title": "German Toast Pancakes",
+  "description": "A twist on traditional pancakes, these German toast pancakes are a delicious breakfast option. With toasted German bread and topped with a sweet pancake, this dish is sure to please.",
+  "cuisine": "German",
+  "diet": [
+    "breakfast",
+    "brunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "German bread",
+      "amount": "1 loaf",
+      "notes": "Toasted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and yeast.",
+    "Gradually add the milk and mix until a smooth batter forms.",
+    "Add the eggs, one at a time, and mix well after each addition.",
+    "Add the melted butter and mix until fully incorporated.",
+    "Add the sugar and mix until combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan and cook for 2-3 minutes, or until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, or until golden brown.",
+    "To assemble the German toast pancakes, toast the German bread and top with a pancake.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "pancakes",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-toasted-german-yeast-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:12:45.809Z"
+}
