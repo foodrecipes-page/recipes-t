@@ -1,0 +1,82 @@
+{
+  "slug": "tender-smoky-chinese-pork-baozi",
+  "title": "Smoky Pork Baozi",
+  "description": "A delicious and authentic Chinese dish featuring tender pork and smoky flavors wrapped in soft baozi.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Baozi dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "For thickening"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the shredded pork, soy sauce, sugar, and cornstarch. Mix well.",
+    "Cut the baozi dough into small pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of the pork mixture onto the center of each dough circle.",
+    "Brush the edges with sesame oil and fold the dough over to form a bun.",
+    "Place the baozi on a baking sheet lined with parchment paper.",
+    "Brush the tops with sesame oil and bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with chopped scallions and a drizzle of soy sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "baozi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-chinese-pork-baozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:53:59.851Z"
+}
