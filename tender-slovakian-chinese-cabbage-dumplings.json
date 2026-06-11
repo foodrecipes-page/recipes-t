@@ -1,0 +1,75 @@
+{
+  "slug": "tender-slovakian-chinese-cabbage-dumplings",
+  "title": "Slovakian Cabbage Dumplings",
+  "description": "A traditional Slovakian dish, these cabbage dumplings are a hearty and flavorful meal. Serve with your favorite toppings or in a delicious soup.",
+  "cuisine": "slovakian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian Dumplings",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Tender Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the Slovakian dumplings to the boiling water and cook according to package instructions.",
+    "While the dumplings are cooking, sauté the chopped onion and cabbage in butter until softened.",
+    "Once the dumplings are done, drain them and add them to the skillet with the cabbage and onion.",
+    "Add milk to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the cabbage and dumplings hot, topped with additional butter and milk if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cabbage",
+    "dumplings",
+    "slovakian",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slovakian-chinese-cabbage-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:01:40.780Z"
+}
