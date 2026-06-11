@@ -1,0 +1,80 @@
+{
+  "slug": "tender-katsuramuki-algerian-cornmeal-tagine",
+  "title": "Cornmeal Tagine Cakes with Algerian Spice",
+  "description": "A twist on traditional tagine, these crispy cornmeal cakes are infused with the warm spices of Algeria. Perfect as a snack or side dish.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "algerian spice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "tender",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together cornmeal, Algerian spice, salt, and flour.",
+    "In a separate bowl, whisk together eggs, water, and olive oil.",
+    "Add the egg mixture to the dry ingredients and stir until just combined.",
+    "Fold in the chopped tagine and tender.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "cornmeal",
+    "tagine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-katsuramuki-algerian-cornmeal-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:01:45.173Z"
+}
