@@ -1,0 +1,70 @@
+{
+  "slug": "tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
+  "title": "Saudi Arabian Chicken and Pilaf Bowl",
+  "description": "A flavorful and aromatic dish inspired by the cuisine of Saudi Arabia, featuring chicken, pilaf, and a tangy sauce.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "saudi pilaf mix",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "tangy sauce (mix of creme fraiche and lemon juice)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "flaky salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together the creme fraiche and lemon juice to make the tangy sauce.",
+    "2. Add the chicken breast to the bowl and marinate for at least 30 minutes.",
+    "3. Preheat the oven to 400°F (200°C).",
+    "4. In a large saucepan, heat 2 tablespoons of oil over medium-high heat.",
+    "5. Add the chicken breast to the saucepan and cook until browned on both sides, about 5-6 minutes.",
+    "6. Transfer the chicken to the oven and bake for 15-20 minutes, or until cooked through.",
+    "7. While the chicken is cooking, prepare the pilaf according to the package instructions.",
+    "8. To assemble the bowls, place a scoop of the pilaf on the bottom, followed by a piece of the cooked chicken.",
+    "9. Drizzle the tangy sauce over the top and sprinkle with flaky salt.",
+    "10. Garnish with chopped parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pilaf",
+    "saudi arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-saudi-arabian-creme-fraiche-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:41:43.084Z"
+}
