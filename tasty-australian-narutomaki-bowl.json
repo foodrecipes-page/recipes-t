@@ -1,0 +1,82 @@
+{
+  "slug": "tasty-australian-narutomaki-bowl",
+  "title": "Australian Narutomaki Tasty Bowl",
+  "description": "A fusion dish featuring Australian beef, Narutomaki noodles, and a twist of Japanese flavors, served in a tasty bowl.",
+  "cuisine": "Australian-Japanese fusion",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian beef sirloin",
+      "amount": "500g",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Narutomaki noodles",
+      "amount": "200g",
+      "notes": "Boil according to package instructions"
+    },
+    {
+      "name": "Tasty stir-fry sauce",
+      "amount": "100ml",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "Low-sodium option recommended"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the beef sirloin with salt and pepper.",
+    "Grill the beef for 3-4 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, cook the Narutomaki noodles according to package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat.",
+    "Add the tasty stir-fry sauce and cook for 1-2 minutes, stirring constantly.",
+    "Add the cooked beef and noodles to the pan, and stir-fry for an additional 2-3 minutes.",
+    "Season with soy sauce to taste.",
+    "Garnish with chopped green onions and sesame seeds, if desired.",
+    "Serve hot in a tasty bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "noodles",
+    "beef",
+    "stir-fry",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-australian-narutomaki-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:41:33.464Z"
+}
