@@ -1,0 +1,64 @@
+{
+  "slug": "tangy-crunchy-japanese-date-pilaf",
+  "title": "Crunchy Japanese Pilaf Bowl",
+  "description": "A tasty and refreshing side dish that combines crunchy sesame seeds with savory Japanese pilaf. Perfect for accompanying your favorite Asian-inspired meals.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "crunchy"
+    },
+    {
+      "name": "date",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a medium bowl, mix together cooked pilaf, chopped date, and green onion.",
+    "2. Add toasted sesame seeds and mix until well combined.",
+    "3. If desired, drizzle with soy sauce for added flavor.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "crunchy",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-japanese-date-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:17:57.456Z"
+}
