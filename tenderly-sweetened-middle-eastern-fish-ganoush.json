@@ -1,0 +1,85 @@
+{
+  "slug": "tenderly-sweetened-middle-eastern-fish-ganoush",
+  "title": "Sweet Middle Eastern Fish Ganoush",
+  "description": "A flavorful and healthy Middle Eastern-inspired dish featuring tender fish with a sweet and creamy ganoush sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (cod or tilapia)",
+      "amount": "4 fillets",
+      "notes": null
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tahini",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish with salt and pepper. Place on a baking sheet lined with parchment paper.",
+    "Drizzle the fish with olive oil and bake for 12-15 minutes, or until cooked through.",
+    "While the fish is baking, prepare the ganoush sauce. In a blender or food processor, combine the sweet potatoes, tahini, lemon juice, garlic, and salt and pepper to taste.",
+    "Blend until smooth and creamy. Taste and adjust the seasoning as needed.",
+    "Once the fish is done, remove it from the oven and top each fillet with a spoonful of the ganoush sauce.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "fish",
+    "sweet-potatoes",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-sweetened-middle-eastern-fish-ganoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T18:24:07.428Z"
+}
