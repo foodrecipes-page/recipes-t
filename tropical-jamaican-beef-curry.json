@@ -1,0 +1,105 @@
+{
+  "slug": "tropical-jamaican-beef-curry",
+  "title": "Jamaican Beef Curry",
+  "description": "A flavorful and aromatic curry dish with tender beef and the warmth of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (boneless chuck)",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tropical curry sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat coconut oil in a large Dutch oven over medium-high heat.",
+    "2. Add beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "3. Add onion, garlic, and ginger to the pot and cook until the onion is translucent, about 5 minutes.",
+    "4. Add curry powder and cook for 1-2 minutes, until fragrant.",
+    "5. Stir in tomato paste and cook for 1-2 minutes.",
+    "6. Add chicken broth, browned beef, and scotch bonnet peppers (if using). Bring to a boil, then cover and transfer to oven.",
+    "7. Braise beef in preheated oven at 300°F (150°C) for 2 1/2 hours, or until tender.",
+    "8. Serve hot, garnished with fresh cilantro and accompanied by steamed rice or roti.",
+    "9. Taste and adjust seasoning as needed.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef",
+    "curry",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-jamaican-beef-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:08:49.212Z"
+}
