@@ -1,0 +1,92 @@
+{
+  "slug": "tangy-light-algerian-lentil-tagine",
+  "title": "Algerian Lentil Tagine",
+  "description": "A hearty and flavorful North African stew made with red lentils and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tangy preserved lemon",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and potatoes and cook for 5 minutes.",
+    "Add lentils, spice blend, and tomato paste. Stir to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30 minutes.",
+    "Stir in preserved lemon and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "tagine",
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-algerian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T01:10:05.000Z"
+}
