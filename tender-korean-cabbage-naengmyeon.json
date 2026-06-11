@@ -1,0 +1,64 @@
+{
+  "slug": "tender-korean-cabbage-naengmyeon",
+  "title": "Spicy Korean Naengmyeon Noodle Salad",
+  "description": "A refreshing summer salad made with Korean naengmyeon noodles, spicy Korean chili flakes, and crisp cabbage. Perfect for a spicy kick on a hot day.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean naengmyeon noodles",
+      "amount": "200g",
+      "notes": "soy sauce-flavored"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 head, thinly sliced",
+      "notes": "green"
+    },
+    {
+      "name": "Tender",
+      "amount": "1/2 cup, diced",
+      "notes": " Korean chili flakes"
+    },
+    {
+      "name": "Naengmyeon",
+      "amount": "1 tsp",
+      "notes": " Korean chili flakes"
+    }
+  ],
+  "instructions": [
+    "Cook the Korean naengmyeon noodles according to the package instructions. Drain and set aside.",
+    "In a large bowl, combine the thinly sliced cabbage and diced tender.",
+    "In a small bowl, whisk together the gochujang, soy sauce, and rice vinegar.",
+    "Add the cooked noodles to the bowl with the cabbage mixture and pour the dressing over the top.",
+    "Toss everything together to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and garnish with toasted sesame seeds and chopped green onions if desired.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with toasted sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "spicy",
+    "salad",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-korean-cabbage-naengmyeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:42:40.623Z"
+}
