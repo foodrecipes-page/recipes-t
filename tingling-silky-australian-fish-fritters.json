@@ -1,0 +1,83 @@
+{
+  "slug": "tingling-silky-australian-fish-fritters",
+  "title": "Australian Fish Fritters",
+  "description": "Crispy and flavorful fritters filled with fresh fish, perfect for a quick lunch or dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "500g fish (Australian cod or snapper)",
+      "amount": "1 piece",
+      "notes": "Diced"
+    },
+    {
+      "name": "1 cup silky flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "1/2 cup australian beer",
+      "amount": "1/2 cup",
+      "notes": "Battered fish"
+    },
+    {
+      "name": "1/4 cup tingling batter mix",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Seasoning"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for frying",
+      "notes": "For frying fritters"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flour, beer, and batter mix. Mix well.",
+    "2. Add the diced fish to the bowl and mix until just combined.",
+    "3. Add the beaten egg and mix until the mixture is smooth.",
+    "4. Season with salt and pepper to taste.",
+    "5. Heat a large non-stick pan over medium heat with a small amount of vegetable oil.",
+    "6. Using a 1/4 cup measuring cup, scoop the fritter mixture into the pan.",
+    "7. Flatten the fritter mixture slightly with a spatula.",
+    "8. Cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "9. Serve hot with your favorite dipping sauce.",
+    "10. Enjoy your crispy and delicious Australian fish fritters!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "fish",
+    "fritters",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tingling-silky-australian-fish-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:27:19.155Z"
+}
