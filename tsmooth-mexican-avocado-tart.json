@@ -1,0 +1,57 @@
+{
+  "slug": "tsmooth-mexican-avocado-tart",
+  "title": "Tart Avocado Tostada",
+  "description": "A refreshing twist on traditional tostadas, featuring a tangy tart filling, creamy avocado, and a sprinkle of tsmooth cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tart",
+      "amount": "1 pie"
+    },
+    {
+      "name": "avocado",
+      "amount": "2"
+    },
+    {
+      "name": "tsmooth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "mexican",
+      "amount": "1/4 cup, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the tart pie crust and place on a baking sheet.",
+    "Bake the tart crust for 15 minutes, or until lightly golden.",
+    "Mash the avocado in a bowl and mix with a squeeze of lime juice.",
+    "Spread the mashed avocado over the baked tart crust.",
+    "Sprinkle the crumbled tsmooth cheese and mexican cheese over the avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "mexican",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tsmooth-mexican-avocado-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:40:48.147Z"
+}
