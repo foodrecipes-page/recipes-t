@@ -63,15 +63,16 @@
   },
   {
     "slug": "tagine-style-earthenware-syrian-dish-tagine",
-    "title": "Syrian Tagine with Chicken and Vegetables",
+    "title": "Syrian Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "hearty",
-      "one-pan",
-      "syrian"
+      "syrian",
+      "chicken",
+      "tagine",
+      "stew",
+      "middle-eastern"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -1408,17 +1409,16 @@
   },
   {
     "slug": "tangy-crunchy-uruguayan-farfalle-pasta",
-    "title": "Tangy Crunchy Uruguayan Farfalle Pasta",
+    "title": "Uruguayan Pasta Salad",
     "tags": [
-      "simmer-dish",
       "pasta",
-      "low-sodium",
-      "vegetarian",
-      "crunchy",
-      "tangy"
+      "salad",
+      "uruguayan",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -8621,17 +8621,14 @@
   },
   {
     "slug": "tender-katsuramuki-algerian-cornmeal-tagine",
-    "title": "Tender Katsuramuki Algerian Cornmeal Tagine",
+    "title": "Cornmeal Tagine Cakes with Algerian Spice",
     "tags": [
-      "algerian",
+      "north-african",
       "cornmeal",
-      "donabe",
-      "easy-dinner",
-      "gluten-free",
-      "vegetarian",
-      "vegetarian-dinner"
+      "tagine",
+      "snack"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -9807,18 +9804,14 @@
   },
   {
     "slug": "tender-smoky-chinese-pork-baozi",
-    "title": "Tender Smoky Chinese Pork Baozi",
+    "title": "Smoky Pork Baozi",
     "tags": [
-      "baozi",
-      "chinese-food",
-      "date-night",
-      "herbal-notes",
-      "low-calorie",
-      "pork-recipes",
-      "smoky-flavors"
+      "chinese",
+      "pork",
+      "baozi"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -11416,16 +11409,16 @@
   },
   {
     "slug": "tenderly-sweetened-middle-eastern-fish-ganoush",
-    "title": "sweetened-middle-eastern-fish-ganouesh",
+    "title": "Sweet Middle Eastern Fish Ganoush",
     "tags": [
-      "easy-to-make",
-      "fish-free-vegan",
-      "high-protein",
       "middle-eastern",
-      "romantic"
+      "fish",
+      "sweet-potatoes",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 45,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
