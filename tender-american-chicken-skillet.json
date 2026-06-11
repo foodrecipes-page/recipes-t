@@ -1,0 +1,95 @@
+{
+  "slug": "tender-american-chicken-skillet",
+  "title": "Tender Chicken Skillet",
+  "description": "Quick and easy skillet dish made with tender chicken and a hint of American flavor.",
+  "cuisine": null,
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breast",
+      "amount": "1",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "For coating the chicken"
+    },
+    {
+      "name": "1 tsp paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp garlic powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 cup mixed bell peppers",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet.",
+    "Add the sliced onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the sliced bell peppers to the skillet and cook for an additional 2-3 minutes.",
+    "Return the chicken to the skillet and add the paprika, garlic powder, salt, and pepper. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "skillet",
+    "american",
+    "tender"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T19:47:45.129Z"
+}
