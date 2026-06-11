@@ -2977,18 +2977,16 @@
   },
   {
     "slug": "tangy-light-algerian-lentil-tagine",
-    "title": "Tangy Light Algerian Lentil Tagine",
+    "title": "Algerian Lentil Tagine",
     "tags": [
-      "algerian",
       "lentil",
       "tagine",
-      "diabetic-friendly",
-      "low-calorie",
+      "north-african",
       "vegetarian",
-      "steamed"
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -12369,16 +12367,15 @@
   },
   {
     "slug": "tropical-jamaican-beef-curry",
-    "title": "Tropical Jamaican Beef Curry",
+    "title": "Jamaican Beef Curry",
     "tags": [
-      "beef-recipes",
-      "brunch-ideas",
-      "coconut-milk-recipes",
-      "curry-dishes",
-      "jamaican-cuisine"
+      "jamaican",
+      "beef",
+      "curry",
+      "caribbean"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
