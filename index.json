@@ -1361,15 +1361,15 @@
   },
   {
     "slug": "tangy-crunchy-japanese-date-pilaf",
-    "title": "Tangy Crunchy Japanese Date Pilaf",
+    "title": "Crunchy Japanese Pilaf Bowl",
     "tags": [
-      "japanese-date-pilaf",
-      "crunchy-rice-dish",
-      "date-night-dessert",
-      "vegan-friendly"
+      "japanese",
+      "crunchy",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -9856,17 +9856,15 @@
   },
   {
     "slug": "tender-smoky-greek-lamb-kebabs",
-    "title": "Tender Smoky Greek Lamb Kebabs",
+    "title": "Tender Smoky Lamb Kebabs",
     "tags": [
-      "greek-cuisine",
-      "grilled-meat",
-      "lamb-recipes",
-      "smoky-flavors",
-      "summer-dishes",
-      "weeknight-meals"
+      "greek",
+      "lamb",
+      "kebabs",
+      "smoky"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "t"
   },
   {
@@ -11700,18 +11698,16 @@
   },
   {
     "slug": "tingling-silky-australian-fish-fritters",
-    "title": "Tingling Silky Australian Fish Fritters",
+    "title": "Australian Fish Fritters",
     "tags": [
-      "deep-fry",
+      "australian",
       "fish",
-      "monsoon",
-      "no-garlic",
-      "no-onion",
-      "silky",
-      "smoky"
+      "fritters",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -12495,16 +12491,14 @@
   },
   {
     "slug": "tsmooth-mexican-avocado-tart",
-    "title": "Tsmooth Mexican Avocado Tart",
+    "title": "Tart Avocado Tostada",
     "tags": [
-      "crab-night",
-      "dessert",
-      "minimal-waste",
-      "quick-cook",
-      "vegan-friendly"
+      "avocado",
+      "mexican",
+      "tart"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
