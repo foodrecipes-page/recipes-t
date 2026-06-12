@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-fluffy-american-broccoli-casserole",
+  "title": "American Broccoli Casserole",
+  "description": "A classic American side dish that combines steamed broccoli with a creamy, cheesy casserole.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "3 cups, cut into florets",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy American Biscuit Mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Cheddar Cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup Milk",
+      "amount": "",
+      "notes": "adjust to achieve desired consistency"
+    },
+    {
+      "name": "2 tablespoons Butter",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Steam broccoli florets until tender.",
+    "In a separate bowl, combine biscuit mix, shredded cheese, milk, and melted butter.",
+    "Mix well until a smooth batter forms.",
+    "Grease a 9x13-inch baking dish with butter.",
+    "Arrange steamed broccoli in the prepared baking dish.",
+    "Pour the biscuit-cheddar mixture evenly over the broccoli.",
+    "Season with salt and pepper to taste.",
+    "Bake in preheated oven for 25-30 minutes, or until golden brown.",
+    "Serve hot, garnished with additional shredded cheese if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "vegetarian",
+    "casserole",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-american-broccoli-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:20:07.737Z"
+}
