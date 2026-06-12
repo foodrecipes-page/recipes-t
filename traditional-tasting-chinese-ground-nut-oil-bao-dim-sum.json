@@ -1,0 +1,91 @@
+{
+  "slug": "traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
+  "title": "Pan-Fried Bao with Dim Sum Filling",
+  "description": "A delicious twist on traditional bao, filled with a savory dim sum-style filling.",
+  "cuisine": "chinese",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bao",
+      "amount": "4",
+      "notes": "Traditional Chinese buns"
+    },
+    {
+      "name": "Dim Sum Filling",
+      "amount": "1/2 cup",
+      "notes": "A mix of ground pork, vegetables, and spices"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying the bao"
+    },
+    {
+      "name": "Ground Pork",
+      "amount": "1/4 cup",
+      "notes": "For the dim sum filling"
+    },
+    {
+      "name": "Shredded Carrots",
+      "amount": "1/4 cup",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "For added flavor and texture"
+    },
+    {
+      "name": "Pantry Soy Sauce",
+      "amount": "1 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Pantry Sesame Oil",
+      "amount": "1/4 teaspoon",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or wok over medium heat.",
+    "Add 1 tablespoon of vegetable oil to the pan and swirl to coat.",
+    "Place the bao in the pan and cook for 2-3 minutes on each side, or until golden brown.",
+    "While the bao is cooking, prepare the dim sum filling by mixing together the ground pork, shredded carrots, green onions, soy sauce, sesame oil, salt, and black pepper.",
+    "Once the bao is cooked, split it in half and fill with the dim sum filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "bao",
+    "dim-sum",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:58:00.005Z"
+}
