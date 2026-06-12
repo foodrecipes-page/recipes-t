@@ -479,17 +479,14 @@
   },
   {
     "slug": "tangy-chewy-portuguese-vegetable-stew",
-    "title": "Tangy Chewy Portuguese Vegetable Stew",
+    "title": "Portuguese Vegetable Stew",
     "tags": [
       "portuguese",
-      "cajun",
-      "vegetarian",
-      "fermented",
       "stew",
-      "comfort-food"
+      "vegetarian"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -1374,10 +1371,16 @@
   },
   {
     "slug": "tangy-crunchy-peruvian-beef-crumble",
-    "title": "Tangy Crunchy Peruvian Beef Crumble",
-    "tags": [],
+    "title": "Peruvian Beef Crumble",
+    "tags": [
+      "beef",
+      "peruvian",
+      "crumble",
+      "tangy",
+      "crunchy"
+    ],
     "cuisine": "Peruvian",
-    "totalTimeMin": null,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -11263,18 +11266,15 @@
   },
   {
     "slug": "tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
-    "title": "Tenderly Crispy Middle Eastern Savoy Cabbage Labneh",
+    "title": "Eastern-Style Stuffed Cabbage Rolls",
     "tags": [
-      "crispy",
-      "date-night",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "umami",
-      "vegetarian"
+      "middle eastern",
+      "vegetarian",
+      "stuffed cabbage",
+      "labneh"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 32,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -11606,16 +11606,14 @@
   },
   {
     "slug": "thickly-creamy-ramekin-british-sirloin-pie-and-mash",
-    "title": "Thickly Creamy Ramekin British Sirloin Pie And Mash",
+    "title": "British Sirloin Pie",
     "tags": [
       "british",
-      "comfort-food",
-      "cozy-cooking",
-      "pub-style",
-      "savory-pie",
-      "vegetarian"
+      "beef",
+      "mashed-potatoes",
+      "comfort-food"
     ],
-    "cuisine": "British",
+    "cuisine": "british",
     "totalTimeMin": 45,
     "shard": "t"
   },
