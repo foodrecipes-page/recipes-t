@@ -1,0 +1,98 @@
+{
+  "slug": "tangy-fluffy-cod-stir-fry",
+  "title": "Pan-Seared Cod with Stir-Fry Vegetables",
+  "description": "A simple and flavorful dish that combines the delicate taste of cod with the crunch of stir-fry vegetables. This recipe is perfect for a quick weeknight dinner.",
+  "cuisine": "Seafood",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tangy stir-fry sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Fluffy rice",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Season the cod fillets with salt and pepper.",
+    "Add the seasoned cod to the skillet and cook for 3-4 minutes per side, or until cooked through.",
+    "Remove the cod from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the sliced carrots, bell peppers, and onions to the skillet.",
+    "Cook the vegetables for 4-5 minutes, or until they start to soften.",
+    "Add the tangy stir-fry sauce to the skillet and stir to combine.",
+    "Return the cooked cod to the skillet and toss with the vegetables and sauce.",
+    "Serve the cod and vegetables over fluffy rice, garnished with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cod",
+    "stir-fry",
+    "seafood",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-cod-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:34:15.464Z"
+}
