@@ -1,0 +1,74 @@
+{
+  "slug": "tender-smoky-roasted-irish-spring-onions-gratin",
+  "title": "Roasted Spring Onion Gratin",
+  "description": "A rich and savory side dish featuring spring onions in a creamy gratin.",
+  "cuisine": "irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "spring onions",
+      "amount": "3 large"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "gruyère cheese",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    " Slice the spring onions into 1-inch pieces, leaving the roots intact.",
+    "In a large skillet, sauté the spring onions in 1 tablespoon of butter until softened.",
+    "Add roasted garlic and cook for an additional minute.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "In a separate saucepan, combine heavy cream and grated Gruyère cheese. Stir over low heat until the cheese is melted and smooth.",
+    "Pour the cream mixture over the spring onion mixture in the baking dish.",
+    "Dot the top with remaining butter.",
+    "Season with salt and pepper to taste.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the gratin is heated through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spring",
+    "onion",
+    "gratin",
+    "sides",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-roasted-irish-spring-onions-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:53:36.100Z"
+}
