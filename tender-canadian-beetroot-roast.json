@@ -1,0 +1,80 @@
+{
+  "slug": "tender-canadian-beetroot-roast",
+  "title": "Roasted Beetroot and Tenderloin",
+  "description": "A classic dish combining the sweet flavors of beetroot with the savory taste of tenderloin. Perfect for a special occasion or dinner party.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tenderloin Steak (1.5 lbs)",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Beetroot (2-3 medium)",
+      "amount": "2-3 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Roast Garlic (2 cloves)",
+      "amount": "2 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    },
+    {
+      "name": "Canadian Bacon (1/4 cup diced)",
+      "amount": "1 piece",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tenderloin steak with salt and pepper.",
+    "In a large bowl, toss the beetroot with olive oil, roast garlic, and thyme until they are evenly coated.",
+    "Spread the beetroot mixture on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "Meanwhile, sear the tenderloin steak in a hot skillet over medium-high heat for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for an additional 10-12 minutes, or until the tenderloin reaches your desired level of doneness.",
+    "Remove the tenderloin from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the sliced tenderloin with the roasted beetroot and top with diced Canadian bacon.",
+    "Optional: Garnish with fresh thyme and serve with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "tenderloin",
+    "roast-garlic",
+    "canadian-bacon"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "24g",
+    "fat": "31g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-canadian-beetroot-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T13:39:18.123Z"
+}
