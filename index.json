@@ -3489,18 +3489,15 @@
   },
   {
     "slug": "tangy-saudi-chicken-stew",
-    "title": "Tangy Saudi Chicken Stew",
+    "title": "Spicy Saudi Chicken Stew",
     "tags": [
-      "citrusy",
-      "comforting",
-      "fodmap-friendly",
-      "one-pot",
-      "quick",
-      "saudi-arabian",
+      "chicken",
+      "stew",
+      "saudi",
       "spicy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "cuisine": "Saudi",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
