@@ -1,0 +1,66 @@
+{
+  "slug": "tangy-juicy-moroccan-fromage-blanc-bissara",
+  "title": "Tangy Moroccan Frittata",
+  "description": "A flavorful and nutritious breakfast dish inspired by Moroccan cuisine, combining the tanginess of frittata with the richness of fromage blanc.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "juicy bissara",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 large eggs",
+      "notes": "cracked"
+    },
+    {
+      "name": "moroccan fromage blanc",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "a few grinds"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, cook the bissara over medium heat until fragrant.",
+    "In a separate bowl, whisk the eggs and season with salt and black pepper.",
+    "Pour the egg mixture over the cooked bissara and cook until the eggs start to set.",
+    "Stir in the fromage blanc and cook for another minute.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes, or until the frittata is set and golden brown.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to loosen the edges of the frittata and carefully slide it onto a plate.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "moroccan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-moroccan-fromage-blanc-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:18:37.915Z"
+}
