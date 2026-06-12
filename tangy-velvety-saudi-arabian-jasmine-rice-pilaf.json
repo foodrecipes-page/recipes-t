@@ -1,0 +1,86 @@
+{
+  "slug": "tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
+  "title": "Tangy Jasmine Rice Pilaf",
+  "description": "A flavorful and aromatic Middle Eastern-inspired rice pilaf with the added twist of tangy jasmine rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup",
+      "notes": "preferably unscented"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "preferably saudi brand"
+    },
+    {
+      "name": "Tangy rice seasoning",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and sauté until translucent.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the jasmine rice and pilaf to the skillet.",
+    "Stir in the tangy rice seasoning.",
+    "Cook for 2-3 minutes, stirring constantly.",
+    "Add 2 cups of water to the skillet.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes, or until the liquid has been absorbed.",
+    "Fluff the rice mixture with a fork and season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "rice",
+    "pilaf",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:30:40.510Z"
+}
