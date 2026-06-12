@@ -1,0 +1,84 @@
+{
+  "slug": "thickly-creamy-ramekin-british-sirloin-pie-and-mash",
+  "title": "British Sirloin Pie",
+  "description": "A hearty British-inspired dish featuring a tender sirloin steak topped with a creamy mashed potato crust.",
+  "cuisine": "british",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 (1.5-2 pound)",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "thickly sliced onions",
+      "amount": "1 large",
+      "notes": "about 2 cups sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "or gluten-free equivalent"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "or heavy cream for a richer flavor"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2-3 large",
+      "notes": "about 2 cups mashed"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the sirloin steak with salt and pepper.",
+    "In a large skillet over medium-high heat, sear the sirloin steak for 2-3 minutes per side, or until browned. Transfer to a plate and set aside.",
+    "In the same skillet, add the sliced onions and cook until they're softened and lightly browned.",
+    "Add the flour to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Gradually add the milk to the skillet, whisking continuously. Bring the mixture to a simmer and cook until thickened.",
+    "Remove the skillet from the heat and stir in the butter until melted.",
+    "Transfer the sirloin steak to a ramekin or small baking dish.",
+    "Top the sirloin steak with the onion and milk mixture.",
+    "Top the onion mixture with the mashed potatoes.",
+    "If using cheese, sprinkle on top of the mashed potatoes.",
+    "Transfer the ramekin to the preheated oven and bake for 20-25 minutes, or until the potatoes are golden brown and the filling is hot and bubbly.",
+    "Remove from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "beef",
+    "mashed-potatoes",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thickly-creamy-ramekin-british-sirloin-pie-and-mash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:59:20.894Z"
+}
