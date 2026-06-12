@@ -1,0 +1,77 @@
+{
+  "slug": "truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
+  "title": "Saudi Arabian Truffle Celeriac Stew",
+  "description": "A hearty and aromatic stew from the Middle East, featuring truffle, celeriac, and fragrant spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Celeriac",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fragrant rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the cumin and cook for 1 minute, until fragrant.",
+    "Add the celeriac and cook for 5 minutes, until tender.",
+    "Add the rice and truffle oil, and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "celeriac",
+    "truffle",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:29:33.237Z"
+}
