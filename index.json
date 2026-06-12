@@ -2393,16 +2393,14 @@
   },
   {
     "slug": "tangy-gooey-quick-fix-croatian-puff-pastry-stir-fry",
-    "title": "Tangy Gooey Quick-Fix Croatian Puff Pastry Stir-fry",
+    "title": "Croatian Puff Pastry",
     "tags": [
-      "quick-fix",
-      "tangy",
-      "gooey",
       "croatian",
-      "diabetic-friendly"
+      "pastry",
+      "dessert"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -2788,17 +2786,15 @@
   },
   {
     "slug": "tangy-juicy-energizing-almond-pilaf",
-    "title": "Tangy Juicy Energizing Almond Pilaf",
+    "title": "Delicious Almond Pilaf",
     "tags": [
-      "tangy",
-      "juicy",
-      "energizing",
-      "portuguese",
-      "almond",
-      "halal-friendly"
+      "side dish",
+      "almonds",
+      "pilaf",
+      "vegetarian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -5149,17 +5145,16 @@
   },
   {
     "slug": "tasty-pungent-greek-gouda-cheese-lasagna",
-    "title": "Tasty Pungent Greek Gouda Cheese Lasagna",
+    "title": "Greek Gouda Lasagna",
     "tags": [
+      "lasagna",
+      "greek",
+      "gouda",
       "cheesy",
-      "comfort-food",
-      "greek-cuisine",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "italian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 75,
+    "totalTimeMin": 65,
     "shard": "t"
   },
   {
