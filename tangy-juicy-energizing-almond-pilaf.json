@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-juicy-energizing-almond-pilaf",
+  "title": "Delicious Almond Pilaf",
+  "description": "A tasty and healthy side dish, made with the goodness of almonds and pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup, sliced",
+      "notes": "unsalted"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small, chopped",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tablespoon, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a medium skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add sliced almonds and cook until lightly toasted, about 2-3 minutes.",
+    "Stir in cooked pilaf, salt, and pepper.",
+    "Cook for an additional 2-3 minutes, until well combined.",
+    "Garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "side dish",
+    "almonds",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-energizing-almond-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:40:03.681Z"
+}
