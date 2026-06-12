@@ -1,0 +1,89 @@
+{
+  "slug": "tangy-crunchy-peruvian-beef-crumble",
+  "title": "Peruvian Beef Crumble",
+  "description": "A hearty beef crumble dish with a tangy twist, inspired by Peruvian flavors.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy Corn Flakes",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Peruvian Aji Amarillo Pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Crusty Bread",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion, minced garlic, and diced aji amarillo pepper to the pan and cook until the onion is translucent.",
+    "Stir in the tangy tomato paste and cook for 1-2 minutes.",
+    "In a large bowl, combine the cooked ground beef mixture, crushed corn flakes, crushed crusty bread, shredded cheddar cheese, and beaten egg. Mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional crushed corn flakes and shredded cheese.",
+    "Bake for 25-30 minutes or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "peruvian",
+    "crumble",
+    "tangy",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-peruvian-beef-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:55:58.365Z"
+}
