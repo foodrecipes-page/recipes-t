@@ -1,0 +1,89 @@
+{
+  "slug": "tasty-pungent-greek-gouda-cheese-lasagna",
+  "title": "Greek Gouda Lasagna",
+  "description": "A creamy and savory twist on the classic Italian dish, featuring greek flavors and melted gouda cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Tasty gouda cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Pungent ricotta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Greek kalamata olives",
+      "amount": "1/4 cup, sliced",
+      "notes": "pitted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna noodles according to package instructions.",
+    "In a medium bowl, combine ricotta cheese, greek kalamata olives, salt, and black pepper.",
+    "In a separate bowl, mix gouda cheese and olive oil.",
+    "Spread a layer of marinara sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Top with half of the gouda cheese mixture.",
+    "Repeat the layers, starting with the noodles, then the sauce, the ricotta cheese mixture, and finally the gouda cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "greek",
+    "gouda",
+    "cheesy",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-pungent-greek-gouda-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:00:48.306Z"
+}
