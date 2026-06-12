@@ -1,0 +1,93 @@
+{
+  "slug": "tangy-dense-slovakian-turkey-ham-dumplings",
+  "title": "Slovakian-Style Turkey and Ham Dumplings",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring turkey, ham, and homemade dumplings.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey Breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Slovakian Ham",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Dumpling Ingredients",
+      "amount": "1 package Slovakian Dumpling Mix",
+      "notes": "homemade dumpling dough"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté chopped onion and minced garlic until softened.",
+    "Add sliced Slovakian ham and cook until lightly browned.",
+    "Add diced turkey breast and cook until browned on all sides and cooked through.",
+    "In a large bowl, combine dumpling mix, beaten eggs, melted butter, salt, and black pepper. Mix until a dough forms.",
+    "Roll out dough to a thickness of about 1/4 inch (6 mm).",
+    "Cut into desired dumpling shapes.",
+    "Bring a large pot of salted water to a boil. Add dumplings and cook for 5-7 minutes, or until they float to the surface.",
+    "Remove dumplings from water with a slotted spoon and add to the skillet with the turkey and ham mixture.",
+    "Simmer for an additional 2-3 minutes, or until the dumplings are well coated with the sauce.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "turkey",
+    "ham",
+    "dumplings",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-slovakian-turkey-ham-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:47:20.728Z"
+}
