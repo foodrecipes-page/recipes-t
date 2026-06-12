@@ -1,0 +1,102 @@
+{
+  "slug": "tender-flaky-mexican-pork-carnitas",
+  "title": "Carnitas Tacos",
+  "description": "A traditional Mexican dish of slow-cooked pork, shredded and fried until crispy, served in a taco shell with your favorite toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1 (2 lbs)",
+      "notes": "You can also use pork belly or pork jowl for a different flavor."
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "You can also use bacon drippings for added flavor."
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "You can add more onions if you like a stronger flavor."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "You can add more garlic if you like a stronger flavor."
+    },
+    {
+      "name": "Orange, juiced",
+      "amount": "2 tablespoons",
+      "notes": "You can use lime juice as a substitute if you prefer."
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "You can add more cumin if you like a stronger flavor."
+    },
+    {
+      "name": "Taco shells",
+      "amount": "8-10",
+      "notes": "You can use store-bought or homemade taco shells."
+    },
+    {
+      "name": "Shredded cheese, optional",
+      "amount": "1 cup",
+      "notes": "You can use cheddar, Monterey Jack, or your favorite cheese."
+    },
+    {
+      "name": "Salsa, optional",
+      "amount": "1 cup",
+      "notes": "You can use store-bought or homemade salsa."
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "You can use parsley as a substitute if you prefer."
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4",
+      "notes": "You can use lemon wedges as a substitute if you prefer."
+    }
+  ],
+  "instructions": [
+    "1. Heat the lard or oil in a large Dutch oven over medium heat.",
+    "2. Add the onion and cook until it's translucent, about 5 minutes.",
+    "3. Add the garlic and cook for 1 minute.",
+    "4. Add the pork shoulder and cook until it's browned on all sides, about 5 minutes.",
+    "5. Add the orange juice, cumin, and 1 cup of water to the pot. Cover the pot and bring the mixture to a boil.",
+    "6. Reduce the heat to low and simmer the pork for 2-1/2 to 3 hours, or until it's tender and easily shreds with a fork.",
+    "7. Remove the pork from the pot and shred it with two forks. Strain the cooking liquid and discard the solids.",
+    "8. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "9. Add the shredded pork to the skillet and cook until it's crispy and golden brown, about 5 minutes.",
+    "10. Warm the taco shells according to the package instructions.",
+    "11. Assemble the tacos by spooning the carnitas onto a warmed taco shell, followed by your desired toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "carnitas",
+    "tacos",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-flaky-mexican-pork-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:05:27.198Z"
+}
