@@ -6886,17 +6886,15 @@
   },
   {
     "slug": "tender-canadian-beetroot-roast",
-    "title": "Tender Canadian Beetroot Roast",
+    "title": "Roasted Beetroot and Tenderloin",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "family-dinner",
-      "gluten-free",
-      "kid-friendly",
-      "one-pan"
+      "beetroot",
+      "tenderloin",
+      "roast-garlic",
+      "canadian-bacon"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 240,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -7770,17 +7768,15 @@
   },
   {
     "slug": "tender-flaky-mexican-pork-carnitas",
-    "title": "Tender Flaky Mexican Pork Carnitas",
+    "title": "Carnitas Tacos",
     "tags": [
-      "brunch-ideas",
-      "dairy-free",
-      "gluten-free",
-      "mexican-food",
-      "pork-recipes",
-      "slow-cooker"
+      "mexican",
+      "carnitas",
+      "tacos",
+      "pork"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 180,
+    "totalTimeMin": 225,
     "shard": "t"
   },
   {
