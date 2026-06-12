@@ -1,0 +1,105 @@
+{
+  "slug": "tender-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A classic North African stew made with tender lamb and aromatic spices, perfect for a cold winter's night.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tunisian spices",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tender olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the Tunisian spices, ground ginger, diced tomatoes, chicken broth, pitted olives, salt, and black pepper.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the lamb is tender.",
+    "Stir in the chopped cilantro and serve hot over couscous or rice.",
+    "Serve with crusty bread or over mashed potatoes.",
+    "Garnish with additional cilantro, if desired.",
+    "Serve with a side of pickled vegetables or a green salad.",
+    "Reheat leftovers the next day for a delicious and comforting meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "stew",
+    "couscous",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:33:03.234Z"
+}
