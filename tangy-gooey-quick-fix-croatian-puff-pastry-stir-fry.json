@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-gooey-quick-fix-croatian-puff-pastry-stir-fry",
+  "title": "Croatian Puff Pastry",
+  "description": "A traditional Croatian pastry filled with tangy filling and baked to perfection.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Croatian Filling (see notes for ingredients)",
+      "amount": "1 cup",
+      "notes": "see notes for ingredients"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out puff pastry to 1/4 inch thickness.",
+    "Cut out squares of 6 inches each.",
+    "Mix together eggs, milk, and sugar for the egg wash.",
+    "Place a spoonful of Croatian filling in the center of each square.",
+    "Brush the edges of the pastry with egg wash and fold in half to form a triangle.",
+    "Place the triangles on a baking sheet lined with parchment paper.",
+    "Brush the tops with egg wash and bake for 25 minutes.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-quick-fix-croatian-puff-pastry-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:22:17.647Z"
+}
