@@ -2080,18 +2080,16 @@
   },
   {
     "slug": "tangy-fluffy-cod-stir-fry",
-    "title": "Tangy Fluffy Cod Stir-fry",
+    "title": "Pan-Seared Cod with Stir-Fry Vegetables",
     "tags": [
-      "tangy",
-      "fluffy",
-      "festive",
-      "australian",
       "cod",
       "stir-fry",
-      "keto-friendly"
+      "seafood",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "Seafood",
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
@@ -9816,18 +9814,15 @@
   },
   {
     "slug": "tender-smoky-flaky-thai-grilled-cherries-khanom-krok",
-    "title": "Smoky Flaky Thai Grilled Cherries Khanom Krok",
+    "title": "Khanom Krok with Cherries",
     "tags": [
-      "cherryjam",
+      "thai",
       "dessert",
-      "flaky",
-      "grilled",
-      "khanomkrok",
-      "smoky",
-      "thaifood"
+      "khanom-krok",
+      "sweet"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 21,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12099,16 +12094,15 @@
   },
   {
     "slug": "traditional-tasting-chinese-ground-nut-oil-bao-dim-sum",
-    "title": "Traditional Tasting Chinese Ground Nut Oil Bao-Dim-Sum",
+    "title": "Pan-Fried Bao with Dim Sum Filling",
     "tags": [
       "chinese",
-      "comfort-food",
+      "bao",
       "dim-sum",
-      "lacto-vegetarian",
-      "weeknight"
+      "breakfast"
     ],
     "cuisine": "chinese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -12421,15 +12415,15 @@
   },
   {
     "slug": "truffle-fragrant-fermented-saudi-arabian-celeriac-stew",
-    "title": "Truffle Fragrant Fermented Saudi-Arabian Celeriac Stew",
+    "title": "Saudi Arabian Truffle Celeriac Stew",
     "tags": [
-      "fermented",
-      "one-pot",
-      "pescatarian",
-      "saudi-arabian"
+      "stew",
+      "celeriac",
+      "truffle",
+      "middle-eastern"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
