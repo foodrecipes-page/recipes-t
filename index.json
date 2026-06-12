@@ -6279,16 +6279,15 @@
   },
   {
     "slug": "tempting-twice-german-chicken-skewers",
-    "title": "Tempting Twice German Chicken Skewers",
+    "title": "German Chicken Skewers",
     "tags": [
-      "german-cuisine",
-      "gluten-free",
-      "high-protein",
-      "paleo-friendly",
-      "whole30"
+      "german",
+      "chicken",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 33,
     "shard": "t"
   },
   {
@@ -10809,17 +10808,16 @@
   },
   {
     "slug": "tender-tunisian-lamb-tagine",
-    "title": "Tender Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "comal-cooking",
-      "lamb-recipes",
-      "low-sodium",
+      "lamb",
+      "tagine",
       "north-african",
-      "slow-cooked",
-      "spicy",
-      "tunisian-cuisine"
+      "stew",
+      "couscous",
+      "rice"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 140,
     "shard": "t"
   },
