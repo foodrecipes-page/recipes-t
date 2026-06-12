@@ -1,0 +1,85 @@
+{
+  "slug": "tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
+  "title": "Eastern-Style Stuffed Cabbage Rolls",
+  "description": "A delicious and healthy twist on traditional stuffed cabbage rolls, featuring tender labneh and crunchy savoy cabbage.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 head",
+      "notes": "large leaves for wrapping"
+    },
+    {
+      "name": "labneh",
+      "amount": "1 cup",
+      "notes": "Middle Eastern yogurt cheese"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Blanch the cabbage leaves in boiling water for 30 seconds to make them pliable.",
+    "2. In a mixing bowl, combine the labneh, onion, garlic, cumin, paprika, salt, and black pepper.",
+    "3. Lay a cabbage leaf flat and place a tablespoon of the labneh mixture in the center.",
+    "4. Fold the stem end over the filling, then fold in the sides and roll into a tight cylinder.",
+    "5. Repeat with the remaining cabbage leaves and filling.",
+    "6. In a large skillet, heat 2 tablespoons of oil over medium heat.",
+    "7. Add the stuffed cabbage rolls seam-side down and cook for 5 minutes.",
+    "8. Flip the rolls and cook for an additional 5 minutes, until lightly browned.",
+    "9. Serve hot with your favorite Eastern-style sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "stuffed cabbage",
+    "labneh"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-crispy-middle-eastern-savoy-cabbage-labneh",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:16:52.273Z"
+}
