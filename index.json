@@ -2052,17 +2052,15 @@
   },
   {
     "slug": "tangy-fluffy-american-broccoli-casserole",
-    "title": "Tangy Fluffy American Broccoli Casserole",
+    "title": "American Broccoli Casserole",
     "tags": [
-      "paleo",
-      "one-pot",
-      "fluffy",
-      "tangy",
-      "broccoli",
-      "american"
+      "american",
+      "vegetarian",
+      "casserole",
+      "side-dish"
     ],
     "cuisine": "American",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -9973,18 +9971,16 @@
   },
   {
     "slug": "tender-smoky-roasted-irish-spring-onions-gratin",
-    "title": "Tender Smoky Roasted Irish Spring Onions Gratin",
+    "title": "Roasted Spring Onion Gratin",
     "tags": [
-      "comfort-food",
-      "fall-dinner",
-      "high-protein",
-      "irish-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "spring",
+      "onion",
+      "gratin",
+      "sides",
+      "vegetarian"
     ],
     "cuisine": "irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
