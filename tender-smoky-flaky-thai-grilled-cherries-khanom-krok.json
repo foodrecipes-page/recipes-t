@@ -1,0 +1,73 @@
+{
+  "slug": "tender-smoky-flaky-thai-grilled-cherries-khanom-krok",
+  "title": "Khanom Krok with Cherries",
+  "description": "A sweet Thai dessert featuring crispy khanom krok pancakes with a cherry compote.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tender eggs",
+      "amount": "2"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rice flour and sugar.",
+    "Gradually add in coconut milk and water, whisking until smooth.",
+    "Crack in tender eggs and whisk until well combined.",
+    "Heat a non-stick pan or khanom krok pan over medium heat.",
+    "Pour in batter and cook until edges start to curl.",
+    "Flip and cook for another 1-2 minutes.",
+    "Meanwhile, prepare cherry compote by cooking cherries in a saucepan over low heat.",
+    "Add flaky salt to taste.",
+    "Serve warm khanom krok with cherry compote."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "khanom-krok",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-flaky-thai-grilled-cherries-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T06:48:04.847Z"
+}
