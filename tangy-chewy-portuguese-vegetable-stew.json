@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-chewy-portuguese-vegetable-stew",
+  "title": "Portuguese Vegetable Stew",
+  "description": "A hearty and flavorful stew made with tender vegetables in a rich, tangy broth. Perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese stew meat",
+      "amount": "1 pound",
+      "notes": "such as beef or pork"
+    },
+    {
+      "name": "Chewy bread",
+      "amount": "2 cups, cubed",
+      "notes": "for serving"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Brown the stew meat in a large pot over medium-high heat.",
+    "Add the sliced red bell pepper and cook until tender.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the tomato paste and cook for 1 minute.",
+    "Add the dried oregano and stir to combine.",
+    "Add the cubed bread and stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-portuguese-vegetable-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:23:15.805Z"
+}
