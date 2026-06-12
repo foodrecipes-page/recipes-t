@@ -2851,16 +2851,15 @@
   },
   {
     "slug": "tangy-juicy-moroccan-fromage-blanc-bissara",
-    "title": "Tangy Juicy Moroccan Fromage Blanc Bissara",
+    "title": "Tangy Moroccan Frittata",
     "tags": [
-      "gluten-free",
-      "healthy-snack",
-      "moroccan-cuisine",
-      "tangy-dish",
-      "vegetarian-friendly"
+      "breakfast",
+      "moroccan",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -4470,16 +4469,15 @@
   },
   {
     "slug": "tangy-velvety-saudi-arabian-jasmine-rice-pilaf",
-    "title": "Tangy Velvety Saudi Arabian Jasmine Rice Pilaf",
+    "title": "Tangy Jasmine Rice Pilaf",
     "tags": [
-      "breakfast",
-      "flavorful",
-      "hangover-cure",
-      "morning",
-      "one-pan",
-      "soothing"
+      "middle-eastern",
+      "rice",
+      "pilaf",
+      "vegetarian",
+      "lunch"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
     "shard": "t"
   },
