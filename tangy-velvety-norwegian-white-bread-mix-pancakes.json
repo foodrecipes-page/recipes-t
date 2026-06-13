@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-velvety-norwegian-white-bread-mix-pancakes",
+  "title": "Norwegian Pancake Delight",
+  "description": "A delicious and sweet pancake recipe inspired by Norwegian cuisine, perfect for a family breakfast or brunch.",
+  "cuisine": "norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy buttermilk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "norwegian mix",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "velvety sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bread, torn into pieces",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, norwegian mix, and sugar.",
+    "Add eggs and melted butter to the dry ingredients and stir until just combined.",
+    "Gradually add the buttermilk, stirring until the batter is smooth.",
+    "Add torn bread pieces and stir until they are evenly distributed throughout the batter.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with your favorite toppings, such as syrup, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "norwegian",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-norwegian-white-bread-mix-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:04:47.399Z"
+}
