@@ -1,0 +1,52 @@
+{
+  "slug": "tasty-ukrainian-corn-flatbread",
+  "title": "Ukrainian Corn Flatbread",
+  "description": "A simple and delicious flatbread recipe from Ukraine, topped with fresh corn and spices.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Corn",
+      "amount": "1 cup, kernels removed"
+    },
+    {
+      "name": "Tasty",
+      "amount": "1/2 teaspoon, dried parsley"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brush flatbread with olive oil on both sides.",
+    "Sprinkle parsley over flatbread.",
+    "Top flatbread with corn kernels.",
+    "Bake for 10-12 minutes, or until flatbread is crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian-food",
+    "corn-flatbread",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-ukrainian-corn-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:08:42.692Z"
+}
