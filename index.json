@@ -6518,16 +6518,14 @@
   },
   {
     "slug": "tender-argentinian-beef-stew",
-    "title": "Tender Argentinian Beef Stew",
+    "title": "Argentinian Beef Stew",
     "tags": [
-      "argentinian",
-      "beef-stew",
-      "gluten-free",
-      "kid-friendly",
-      "comfort-food"
+      "beef",
+      "stew",
+      "south-american"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 210,
+    "totalTimeMin": 140,
     "shard": "t"
   },
   {
@@ -8019,17 +8017,14 @@
   },
   {
     "slug": "tender-glazed-norwegian-rice-risotto",
-    "title": "Tender Glazed Norwegian Rice Risotto",
+    "title": "Norwegian Glazed Risotto",
     "tags": [
-      "creamy",
-      "date-night",
-      "fodmap-friendly",
       "norwegian",
-      "one-pot",
+      "glazed-salmon",
       "risotto"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
