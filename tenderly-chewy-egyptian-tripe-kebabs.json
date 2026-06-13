@@ -1,0 +1,98 @@
+{
+  "slug": "tenderly-chewy-egyptian-tripe-kebabs",
+  "title": "Egyptian Tripe Kebabs",
+  "description": "A flavorful and exotic dish from Egypt, featuring tender tripe and a blend of Middle Eastern spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, combine lamb, onion, garlic, paprika, cumin, coriander, salt, and black pepper. Mix well.",
+    "3. Add the tripe to the bowl and mix until coated with the spice mixture.",
+    "4. Thread the lamb and tripe mixture onto skewers.",
+    "5. Brush the olive oil onto the skewers.",
+    "6. Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked through and the tripe is tender.",
+    "7. Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "middle-eastern",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-chewy-egyptian-tripe-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:02:51.750Z"
+}
