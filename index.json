@@ -7714,18 +7714,15 @@
   },
   {
     "slug": "tender-filipino-beef-stew",
-    "title": "Tender Filipino Beef Stew",
+    "title": "Filipino Beef Stew",
     "tags": [
-      "beef",
       "filipino",
-      "high-protein",
-      "low-carb",
-      "one-pan",
+      "beef",
       "stew",
-      "weeknight"
+      "slow-cooked"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 290,
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
@@ -11486,16 +11483,15 @@
   },
   {
     "slug": "thick-and-mellow-australian-sausage-bake",
-    "title": "Thick and Mellow Australian Sausage Bake",
+    "title": "Australian Sausage Bake",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "australian",
+      "sausage",
+      "bake",
+      "comfort-food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
