@@ -1,0 +1,84 @@
+{
+  "slug": "tangy-fermented-american-corn-tacos",
+  "title": "Corn Tacos with American Twist",
+  "description": "A fusion of traditional Mexican tacos with the flavors of America. Grilled corn and a tangy slaw make for a delicious and refreshing meal.",
+  "cuisine": "american",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Red Cabbage",
+      "amount": "1/4 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tangy American BBQ Sauce",
+      "amount": "2 tbsp",
+      "notes": "see notes"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a grill or grill pan to medium-high heat.",
+    "Brush the corn with olive oil and grill for 5-7 minutes on each side, or until slightly charred.",
+    "In a large bowl, combine the shredded cabbage, tangy BBQ sauce, lime juice, and chopped cilantro.",
+    "Toss to combine and season with salt and pepper to taste.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble the tacos by placing a portion of the slaw onto a shell, followed by a piece of grilled corn.",
+    "Serve immediately and enjoy!",
+    "Note: If using frozen corn, thaw according to package instructions before grilling."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "tacos",
+    "american",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fermented-american-corn-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:17:08.921Z"
+}
