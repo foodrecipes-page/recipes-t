@@ -10510,17 +10510,14 @@
   },
   {
     "slug": "tender-thai-beef-curry",
-    "title": "Tender Thai Beef Curry",
+    "title": "Thai Beef Curry",
     "tags": [
-      "beef-recipes",
-      "curry-dishes",
-      "kazan-cooking",
-      "low-fat-meals",
-      "one-pot-meals",
-      "thai-cuisine"
+      "thaicurry",
+      "beefcurry",
+      "thaifood"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -11192,17 +11189,15 @@
   },
   {
     "slug": "tenderly-chewy-egyptian-tripe-kebabs",
-    "title": "Tenderly Chewy Egyptian Tripe Kebabs",
+    "title": "Egyptian Tripe Kebabs",
     "tags": [
-      "adventurous",
       "egyptian",
-      "gluten-free",
-      "high-protein",
+      "middle-eastern",
       "kebabs",
-      "weeknight"
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
