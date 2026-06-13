@@ -2993,14 +2993,14 @@
   },
   {
     "slug": "tangy-light-cozy-russian-beef-stir-fry",
-    "title": "Tangy Light Cozy Russian Beef Stir-fry",
+    "title": "Beef Stroganoff",
     "tags": [
       "beef",
-      "stir-fry",
-      "keto-friendly"
+      "stroganoff",
+      "russian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
