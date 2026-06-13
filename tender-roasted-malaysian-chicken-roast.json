@@ -1,0 +1,100 @@
+{
+  "slug": "tender-roasted-malaysian-chicken-roast",
+  "title": "Malaysian Roasted Chicken",
+  "description": "A delicious and aromatic chicken dish inspired by Malaysian flavors, featuring tender roasted chicken with a blend of spices and herbs.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (3 lbs)",
+      "notes": "preferably bone-in and skin-on for better flavor"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "for roasting the chicken"
+    },
+    {
+      "name": "tender",
+      "amount": "2 stalks",
+      "notes": "tender shoots for added flavor and aroma"
+    },
+    {
+      "name": "roast spices",
+      "amount": "2 tsp",
+      "notes": "a mix of turmeric, cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "for added flavor and aroma"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the roast spices, garam masala, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken, making sure to get some under the skin as well.",
+    "Heat the coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken on all sides until browned, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 30 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is roasting, prepare the lemongrass and galangal by bruising them with the back of a knife to release their oils.",
+    "Add the bruised lemongrass and galangal to the skillet with the chicken and continue roasting for another 15-20 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the oven and let it rest for 10-15 minutes before carving and serving.",
+    "Strain the pan juices and serve them alongside the chicken.",
+    "Garnish with tender shoots and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "roasted",
+    "chicken",
+    "coconut-oil",
+    "lemongrass",
+    "galangal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 6,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roasted-malaysian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:39:15.089Z"
+}
