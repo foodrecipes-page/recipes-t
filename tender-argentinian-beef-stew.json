@@ -1,0 +1,100 @@
+{
+  "slug": "tender-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty beef stew from Argentina, cooked with tender beef and rich flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat (1 pound)",
+      "amount": "",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "tender argentinian chimichurri sauce (1 cup)",
+      "amount": "",
+      "notes": "see notes"
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper (1 medium)",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "red wine (1 cup)",
+      "amount": "",
+      "notes": "or beef broth"
+    },
+    {
+      "name": "beef broth (2 cups)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes (1 can, 14.5 oz)",
+      "amount": "",
+      "notes": "or 2 large tomatoes, diced"
+    },
+    {
+      "name": "paprika (2 teaspoons)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt (1 teaspoon)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper (1/2 teaspoon)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a large Dutch oven over medium-high heat.",
+    "Brown the beef cubes on all sides, in batches if necessary, then transfer them to a plate and set aside.",
+    "Reduce heat to medium and add more oil if necessary. Add the onion, garlic, and red bell pepper, cooking until the vegetables are softened.",
+    "Add the paprika and cook for 1 minute.",
+    "Add the red wine or beef broth, scraping the bottom of the pot to release the browned bits.",
+    "Bring the mixture to a boil, then add the beef broth and diced tomatoes. Return the browned beef to the pot.",
+    "Bring to a boil, then cover and transfer to the oven to cook at 300°F for 2-3 hours, or until the beef is tender.",
+    "About 30 minutes before serving, stir in the argentinian chimichurri sauce.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:27:36.943Z"
+}
