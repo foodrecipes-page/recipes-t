@@ -1,0 +1,87 @@
+{
+  "slug": "tender-slovakian-brown-rice-noodle-noodles",
+  "title": "Slovakian Noodle Soup",
+  "description": "A hearty and comforting Slovakian noodle soup made with tender beef, noodles, and vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "tender beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "slovakian noodle",
+      "amount": "8 ounces",
+      "notes": "dried or fresh"
+    },
+    {
+      "name": "brown onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring the beef broth to a boil in a large pot over high heat.",
+    "Add the chopped onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the tender beef to the pot and cook until browned.",
+    "Add the Slovakian noodle to the pot and cook according to the package instructions.",
+    "Stir in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "noodle-soup",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slovakian-brown-rice-noodle-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:20:59.451Z"
+}
