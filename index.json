@@ -9368,17 +9368,17 @@
   },
   {
     "slug": "tender-roasted-malaysian-chicken-roast",
-    "title": "Tender Roasted Malaysian Chicken Roast",
+    "title": "Malaysian Roasted Chicken",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "malaysian-cuisine",
-      "one-pan",
-      "roasted-meals",
-      "umami-flavors"
+      "malaysian",
+      "roasted",
+      "chicken",
+      "coconut-oil",
+      "lemongrass",
+      "galangal"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 70,
+    "cuisine": "malaysian",
+    "totalTimeMin": 65,
     "shard": "t"
   },
   {
@@ -9574,18 +9574,14 @@
   },
   {
     "slug": "tender-slovakian-brown-rice-noodle-noodles",
-    "title": "Tender Slovakian Brown Rice Noodle Noodles",
+    "title": "Slovakian Noodle Soup",
     "tags": [
-      "brown-rice-noodles",
-      "deglaze",
-      "herb-infused",
-      "kid-friendly",
-      "one-pan",
       "slovakian",
-      "vegetarian"
+      "noodle-soup",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
