@@ -1,0 +1,94 @@
+{
+  "slug": "tender-filipino-beef-stew",
+  "title": "Filipino Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef, inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Patis (fish sauce or soy sauce)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot or Dutch oven over medium-high heat.",
+    "Brown the beef in batches, about 5 minutes per batch, then set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, patis, and brown sugar, and cook for 1 minute.",
+    "Add the browned beef back into the pot, along with the bay leaves and black pepper.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Season with salt to taste, then serve hot over rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "beef",
+    "stew",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "30g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-filipino-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:34:43.710Z"
+}
