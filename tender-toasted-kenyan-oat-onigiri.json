@@ -1,0 +1,67 @@
+{
+  "slug": "tender-toasted-kenyan-oat-onigiri",
+  "title": "Kenyan Onigiri",
+  "description": "A unique twist on traditional Japanese onigiri, inspired by Kenyan flavors and ingredients.",
+  "cuisine": "kenyan-japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Onigiri",
+      "amount": "4-6 pieces",
+      "notes": "Japanese rice balls"
+    },
+    {
+      "name": "Tender Kenyan",
+      "amount": "1/2 cup",
+      "notes": "Sesame seeds, toasted"
+    },
+    {
+      "name": "Kenyan",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Oat",
+      "amount": "2 tbsp",
+      "notes": "Rolled oats"
+    },
+    {
+      "name": "Toasted Oat",
+      "amount": "1 tsp",
+      "notes": "Toasted rolled oats"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together cumin and sesame seeds.",
+    "2. Grill or toast the onigiri until lightly browned.",
+    "3. Mix together oats and toasted oats in a separate bowl.",
+    "4. Apply the oat mixture to the onigiri, spreading evenly.",
+    "5. Sprinkle the cumin and sesame seed mixture on top of the oat mixture.",
+    "6. Serve immediately and enjoy!",
+    "7. Optional: serve with a side of spicy Kenyan sauce for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "kenyan",
+    "japanese",
+    "onigiri"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-toasted-kenyan-oat-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T01:08:33.280Z"
+}
