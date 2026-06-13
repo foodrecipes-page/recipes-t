@@ -1,0 +1,67 @@
+{
+  "slug": "tenderly-sauteed-jamaican-cheese-bowl",
+  "title": "Jamaican Cheese Bowl",
+  "description": "A flavorful and comforting bowl filled with sautéed Jamaican spices and melted cheese, perfect for a cozy night in.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tenderly cooked rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sauteed onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large serving bowl"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "In a large pan, sauté the onions until they're translucent and fragrant.",
+    "Add the Jamaican seasoning to the pan and stir well.",
+    "Combine the cooked rice and sautéed onions in a large serving bowl.",
+    "Top the rice mixture with shredded cheese.",
+    "Place the bowl under the broiler until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-meal",
+    "jamaican-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-sauteed-jamaican-cheese-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:12:34.857Z"
+}
