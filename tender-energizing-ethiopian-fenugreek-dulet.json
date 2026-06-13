@@ -1,0 +1,88 @@
+{
+  "slug": "tender-energizing-ethiopian-fenugreek-dulet",
+  "title": "Ethiopian-Style Tibs with Fenugreek and Dulet",
+  "description": "A traditional Ethiopian dish made with sautéed dulet, fenugreek, and spices. Serve with injera or rice.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dulet (Ethiopian sausages)",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fenugreek leaves",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the dulet and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3 minutes.",
+    "Add the fenugreek leaves and cook until wilted, about 2 minutes.",
+    "Add the berbere spice, salt, and black pepper, and stir to combine.",
+    "Serve hot with injera or rice.",
+    "Note: If using fresh fenugreek, cook for an additional 2-3 minutes to allow the leaves to wilt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "sausage",
+    "fenugreek"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-energizing-ethiopian-fenugreek-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:05:00.614Z"
+}
