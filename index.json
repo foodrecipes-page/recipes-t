@@ -5321,18 +5321,14 @@
   },
   {
     "slug": "tasty-toasted-canadian-shrimp-skewers",
-    "title": "Tasty Toasted Canadian Shrimp Skewers",
+    "title": "Canadian Shrimp Skewers",
     "tags": [
-      "canadian-cuisine",
-      "crunchy",
-      "gluten-free",
-      "low-glycemic",
-      "nutty",
-      "seafood",
-      "special-occasion"
+      "canadian",
+      "shrimp",
+      "skewers"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -10644,17 +10640,15 @@
   },
   {
     "slug": "tender-toasted-kenyan-oat-onigiri",
-    "title": "Tender Toasted Kenyan Oat Onigiri",
+    "title": "Kenyan Onigiri",
     "tags": [
-      "donabe-recipes",
-      "indulgent-treats",
-      "kenyan-cuisine",
-      "lacto-vegetarian",
-      "oat-based",
-      "snack-ideas"
+      "snack",
+      "kenyan",
+      "japanese",
+      "onigiri"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan-japanese",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
