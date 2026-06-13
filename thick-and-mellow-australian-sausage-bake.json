@@ -1,0 +1,73 @@
+{
+  "slug": "thick-and-mellow-australian-sausage-bake",
+  "title": "Australian Sausage Bake",
+  "description": "A hearty and flavorful sausage bake from down under, perfect for a cold evening. Enjoy!",
+  "cuisine": "australian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian sausage",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Thick sliced potatoes",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Mellow onions",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Bake",
+      "amount": "2 tablespoons, olive oil",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the potatoes and onions.",
+    "In a large bowl, toss potatoes and onions with olive oil, salt, and pepper until well coated.",
+    "In a separate pan, cook Australian sausage over medium heat until browned, about 5 minutes.",
+    "Place the cooked sausage in a baking dish and top with the potato and onion mixture.",
+    "Bake in the preheated oven for 25-30 minutes, or until the potatoes are golden brown.",
+    "Serve hot and enjoy!",
+    "Note: Cooking time may vary depending on your oven and the thickness of the potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "sausage",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thick-and-mellow-australian-sausage-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:22:28.893Z"
+}
