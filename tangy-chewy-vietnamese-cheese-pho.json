@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-chewy-vietnamese-cheese-pho",
+  "title": "Vietnamese Pho with Chewy Noodles and Tangy Broth",
+  "description": "A traditional Vietnamese noodle soup made with a flavorful and tangy broth, served with chewy rice noodles and topped with cheese.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice noodles (chewy)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Pho broth mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Cheese (shredded)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions.",
+    "In a large pot, combine the pho broth mix, vegetable broth, soy sauce, and fish sauce.",
+    "Bring the mixture to a boil, then reduce the heat to a simmer.",
+    "Add the lime juice and stir to combine.",
+    "Cook for 10-15 minutes, or until the broth is flavorful and hot.",
+    "Serve the broth over the cooked noodles, topped with shredded cheese.",
+    "Garnish with additional lime wedges and chopped herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pho",
+    "noodle-soup",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-vietnamese-cheese-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:38:32.801Z"
+}
