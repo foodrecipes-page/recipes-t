@@ -1,0 +1,89 @@
+{
+  "slug": "tart-portuguese-rice-risotto",
+  "title": "Portuguese Tart Risotto",
+  "description": "A creamy risotto infused with the flavors of Portugal, topped with a flaky tart crust.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Tart Crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Risotto Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1 cup",
+      "notes": "freshly shredded"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Portuguese Tart Crust and place in a tart pan.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Sauté the chopped onion and minced garlic until softened.",
+    "Add the risotto rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until absorbed, stirring constantly.",
+    "Add 1 cup of chicken broth and cook until absorbed, stirring constantly.",
+    "Repeat the process of adding broth and cooking until the rice is tender.",
+    "Stir in the grated Parmesan cheese and chopped parsley.",
+    "Pour the risotto mixture into the prepared tart crust.",
+    "Bake for 15-20 minutes or until the tart crust is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "risotto",
+    "tart",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tart-portuguese-rice-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:23:55.797Z"
+}
