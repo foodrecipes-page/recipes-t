@@ -1628,13 +1628,12 @@
     "title": "Slovakian-Style Turkey and Ham Dumplings",
     "tags": [
       "slovakian",
-      "turkey",
-      "ham",
       "dumplings",
-      "comfort-food"
+      "turkey",
+      "ham"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -5832,17 +5831,16 @@
   },
   {
     "slug": "tempting-pungent-malaysian-rigatoni-pasta",
-    "title": "Tempting Pungent Malaysian Rigatoni Pasta",
+    "title": "Spicy Rigatoni Pasta",
     "tags": [
-      "gluten-free",
-      "malaysian-cuisine",
-      "one-pot",
-      "pungent-flavors",
-      "spherification",
-      "vegetarian-friendly"
+      "malaysian",
+      "spicy",
+      "pasta",
+      "veggie",
+      "gluten-free"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
