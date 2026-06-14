@@ -6716,16 +6716,15 @@
   },
   {
     "slug": "tender-briny-egyptian-snapper-fish-stir-fry",
-    "title": "Tender Briny Egyptian Snapper Fish Stir fry",
+    "title": "Pan-Seared Snapper with Egyptian Flair",
     "tags": [
-      "egyptian-cuisine",
-      "fish-recipe",
-      "high-protein",
-      "low-carb",
-      "stir-fry",
-      "sugar-free"
+      "mediterranean",
+      "fish",
+      "seafood",
+      "snapper",
+      "egyptian"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "Mediterranean",
     "totalTimeMin": 27,
     "shard": "t"
   },
@@ -6815,16 +6814,15 @@
   },
   {
     "slug": "tender-british-lamb-skewers",
-    "title": "Tender British Lamb Skewers",
+    "title": "Tender Lamb Skewers",
     "tags": [
+      "grill",
       "lamb",
-      "british",
-      "date-night",
-      "halal-friendly",
-      "napa-cabbage"
+      "skewers",
+      "british"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 32,
+    "cuisine": "british",
+    "totalTimeMin": 36,
     "shard": "t"
   },
   {
