@@ -560,16 +560,16 @@
   },
   {
     "slug": "tangy-chewy-vietnamese-cheese-pho",
-    "title": "Tangy Chewy Vietnamese Cheese Pho",
+    "title": "Vietnamese Pho with Chewy Noodles and Tangy Broth",
     "tags": [
-      "vegan",
+      "vietnamese",
       "pho",
-      "cheese",
-      "tangy",
-      "quick"
+      "noodle-soup",
+      "vegetarian",
+      "cheese"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -4332,16 +4332,15 @@
   },
   {
     "slug": "tangy-velvety-argentinian-pork-stir-fry",
-    "title": "Tangy Velvety Argentinian Pork Stir-fry",
+    "title": "Argentinian Pork Stir Fry",
     "tags": [
-      "tangy",
-      "velvety",
       "argentinian",
-      "meal-prep",
-      "digestive-biscuits",
-      "gluten-free-friendly"
+      "pork",
+      "stir-fry",
+      "tangy-sauce",
+      "velvety-sauce"
     ],
-    "cuisine": "Argentinean",
+    "cuisine": "Argentinian",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -4650,13 +4649,14 @@
     "slug": "tantalizing-greek-eggplant-casserole",
     "title": "Tantalizing Greek Eggplant Casserole",
     "tags": [
-      "low-sodium",
-      "mediterranean",
-      "pressure-cooker",
-      "weeknight"
+      "greek",
+      "eggplant",
+      "casserole",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "totalTimeMin": 65,
     "shard": "t"
   },
   {
@@ -6266,12 +6266,12 @@
     "title": "German Chicken Skewers",
     "tags": [
       "german",
-      "chicken",
+      "grilled",
       "skewers",
-      "grilled"
+      "chicken"
     ],
     "cuisine": "german",
-    "totalTimeMin": 33,
+    "totalTimeMin": 32,
     "shard": "t"
   },
   {
