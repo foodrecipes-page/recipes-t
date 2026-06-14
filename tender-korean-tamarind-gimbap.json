@@ -1,0 +1,96 @@
+{
+  "slug": "tender-korean-tamarind-gimbap",
+  "title": "Tender Korean Gimbap",
+  "description": "A simple Korean-inspired rice bowl dish with tender beef, gimbap rice, and tangy tamarind sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (tender)",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Gimbap rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the gimbap rice according to package instructions.",
+    "In a large pan, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Add the tamarind paste, chili flakes, soy sauce, brown sugar, and rice vinegar to the pan.",
+    "Stir to combine and cook for 1-2 minutes.",
+    "Add the cooked gimbap rice to the pan and stir-fry for 2-3 minutes.",
+    "Season with salt to taste.",
+    "Transfer the rice mixture to a serving bowl.",
+    "Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "rice-bowl",
+    "beef",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-korean-tamarind-gimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:05:06.838Z"
+}
