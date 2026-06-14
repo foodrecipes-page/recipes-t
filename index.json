@@ -934,17 +934,16 @@
   },
   {
     "slug": "tangy-crispy-german-applesauce-toast",
-    "title": "Tangy Crispy German Applesauce Toast",
+    "title": "Crispy German Apple Toast",
     "tags": [
       "german",
+      "breakfast",
       "brunch",
-      "applesauce",
-      "crispy",
-      "tangy",
-      "vegetarian"
+      "dessert",
+      "easy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 22,
+    "cuisine": "german",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -4745,12 +4744,10 @@
   },
   {
     "slug": "tart-portuguese-rice-risotto",
-    "title": "Tart Portuguese Rice Risotto",
+    "title": "Portuguese Tart Risotto",
     "tags": [
-      "breakfast",
-      "egg-free",
       "portuguese",
-      "rice",
+      "risotto",
       "tart",
       "vegetarian"
     ],
