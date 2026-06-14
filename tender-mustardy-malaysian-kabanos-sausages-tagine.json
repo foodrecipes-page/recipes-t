@@ -1,0 +1,86 @@
+{
+  "slug": "tender-mustardy-malaysian-kabanos-sausages-tagine",
+  "title": "Tagine-Style Sausage and Kabanos Skewers",
+  "description": "A flavorful and spicy twist on traditional kebabs, featuring tender sausages and crispy kabanos. Inspired by the bold flavors of Malaysia.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausages",
+      "amount": "4",
+      "notes": "preferably malaysian-style"
+    },
+    {
+      "name": "Kabanos",
+      "amount": "1 pack",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mustardy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tender onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Malaysian chilies",
+      "amount": "2-3",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together peanut oil, tagine spice blend, and salt.",
+    "Thread sausages, kabanos, tender onions, and Malaysian chilies onto skewers.",
+    "Brush skewers with peanut oil mixture.",
+    "Grill skewers for 8-10 minutes per side, or until sausages are cooked through.",
+    "Brush with mustardy sauce during the last 2 minutes of grilling.",
+    "Serve hot, garnished with chopped cilantro if desired.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "malaysian",
+    "spicy",
+    "kebabs",
+    "sausages"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-mustardy-malaysian-kabanos-sausages-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:44:28.774Z"
+}
