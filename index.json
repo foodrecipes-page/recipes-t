@@ -3557,18 +3557,16 @@
   },
   {
     "slug": "tangy-silky-canadian-lime-bisquettes",
-    "title": "Tangy Silky Canadian Lime Bisquettes",
+    "title": "Pan-Seared Canadian Salmon with Canadian Glaze",
     "tags": [
-      "broiler",
+      "salmon",
       "canadian",
-      "one-pan",
-      "shojin-friendly",
-      "vegan-friendly",
-      "vegetarian",
-      "weeknight"
+      "glaze",
+      "bbq",
+      "fish"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 25,
+    "cuisine": "Canadian",
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
@@ -8647,17 +8645,15 @@
   },
   {
     "slug": "tender-korean-tamarind-gimbap",
-    "title": "Tender Korean Tamarind Gimbap",
+    "title": "Tender Korean Gimbap",
     "tags": [
-      "fusion",
-      "gimbap",
       "korean",
-      "meatless",
-      "one-pan",
-      "weeknight"
+      "rice-bowl",
+      "beef",
+      "tamarind"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
