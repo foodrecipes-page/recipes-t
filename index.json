@@ -5018,14 +5018,15 @@
   },
   {
     "slug": "tasty-golden-crispy-mustardy-yakitori-pan-fried-skewers",
-    "title": "Tasty Golden Crispy Mustardy Yakitori Pan-Fried Skewers",
+    "title": "Yakitori-Style Chicken Skewers",
     "tags": [
-      "gluten-free",
-      "mustard-flavored",
-      "one-pan-dish"
+      "chicken",
+      "grilled",
+      "skewers",
+      "japanese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
