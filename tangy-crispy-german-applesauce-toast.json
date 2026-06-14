@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-crispy-german-applesauce-toast",
+  "title": "Crispy German Apple Toast",
+  "description": "A sweet and crunchy dessert inspired by German cuisine, featuring crispy bread, tangy applesauce, and a hint of German charm.",
+  "cuisine": "german",
+  "diet": [
+    "dessert",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Crispy Bread (German-Style)",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Tangy Marmalade",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup, softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler.",
+    "Butter the German-style crispy bread slices on both sides.",
+    "Place the bread slices on a baking sheet.",
+    "Broil for 2-3 minutes, or until golden brown.",
+    "Spread 1-2 tablespoons of tangy marmalade on each toasted bread slice.",
+    "Top with a spoonful of applesauce.",
+    "Dust with granulated sugar.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "brunch",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-german-applesauce-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:44:07.527Z"
+}
