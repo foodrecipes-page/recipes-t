@@ -38,15 +38,15 @@
   },
   {
     "slug": "tadka-greek-yogurt-crumble",
-    "title": "Tadka Greek Yogurt Crumble",
+    "title": "Greek Yogurt Crumble Tadka",
     "tags": [
-      "greek-yogurt",
-      "tadka-spices",
-      "sweetened-condensed-milk",
-      "keto-friendly"
+      "dessert",
+      "indian",
+      "yogurt",
+      "crumble"
     ],
-    "cuisine": "Indian/Greek Fusion",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -12520,14 +12520,14 @@
   },
   {
     "slug": "turnip-tadka-crunch",
-    "title": "Turnip Tadka Crunch",
+    "title": "Roasted Turnip with Crunchy Tadka",
     "tags": [
+      "roasted",
       "turnip",
       "tadka",
-      "jain-friendly",
-      "norwegian"
+      "side-dish"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "t"
   },
