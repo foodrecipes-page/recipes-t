@@ -1,0 +1,97 @@
+{
+  "slug": "tempting-pungent-malaysian-rigatoni-pasta",
+  "title": "Spicy Rigatoni Pasta",
+  "description": "A spicy Malaysian-inspired pasta dish made with rigatoni and pungent flavors.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni",
+      "amount": "12 oz",
+      "notes": "penne or other tubular pasta can be substituted"
+    },
+    {
+      "name": "malaysian chili paste",
+      "amount": "2 tsp",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tempting",
+      "amount": "2 cups",
+      "notes": "chopped fresh cilantro for garnish"
+    },
+    {
+      "name": "pasta",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh mint for garnish"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp",
+      "notes": "optional for creaminess"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rigatoni according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the malaysian chili paste and cook for 1-2 minutes.",
+    "Add the cooked rigatoni to the skillet and toss with the spice mixture.",
+    "Stir in the chopped tempting (cilantro and mint).",
+    "If desired, add the coconut milk to add creaminess.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional tempting if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "spicy",
+    "pasta",
+    "veggie",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-pungent-malaysian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:58:42.080Z"
+}
