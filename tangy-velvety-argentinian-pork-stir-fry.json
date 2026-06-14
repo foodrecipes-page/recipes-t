@@ -1,0 +1,96 @@
+{
+  "slug": "tangy-velvety-argentinian-pork-stir-fry",
+  "title": "Argentinian Pork Stir Fry",
+  "description": "A flavorful stir fry dish from Argentina, featuring tender pork and a tangy sauce.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Velvety sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the pork into thin strips and season with salt.",
+    "2. In a large skillet, heat the vegetable oil over medium-high heat.",
+    "3. Add the pork and cook until browned, about 3-4 minutes.",
+    "4. Add the onion and bell pepper to the skillet and cook until tender.",
+    "5. Add the garlic, soy sauce, sugar, and tangy sauce to the skillet and stir to combine.",
+    "6. Add the velvety sauce to the skillet and stir to combine.",
+    "7. Reduce heat to medium-low and simmer for 10-15 minutes.",
+    "8. Serve hot over rice or noodles.",
+    "9. Garnish with chopped scallions, if desired.",
+    "10. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "pork",
+    "stir-fry",
+    "tangy-sauce",
+    "velvety-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-argentinian-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:12:59.663Z"
+}
