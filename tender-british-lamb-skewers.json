@@ -1,0 +1,87 @@
+{
+  "slug": "tender-british-lamb-skewers",
+  "title": "Tender Lamb Skewers",
+  "description": "Delicious lamb skewers marinated in a blend of herbs and spices, grilled to perfection. Serve with your favorite sides for a satisfying meal.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "marinade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic powder, dried oregano, salt, and black pepper.",
+    "Add lamb cubes to marinade and mix until coated.",
+    "Thread lamb, onion, and bell pepper onto skewers.",
+    "Brush skewers with remaining marinade.",
+    "Grill skewers for 8-10 minutes per side, or until lamb reaches 145°F (63°C) internally.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "lamb",
+    "skewers",
+    "british"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-british-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:33:16.973Z"
+}
