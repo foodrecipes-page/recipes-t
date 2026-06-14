@@ -1,0 +1,79 @@
+{
+  "slug": "tasty-golden-crispy-mustardy-yakitori-pan-fried-skewers",
+  "title": "Yakitori-Style Chicken Skewers",
+  "description": "Grilled chicken skewers with a sweet and savory yakitori glaze, inspired by Japanese street food.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yakitori glaze",
+      "amount": "1/4 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for marinade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic powder, and black pepper.",
+    "Add the chicken pieces to the marinade and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto the skewers, leaving a small space between each piece.",
+    "Brush the yakitori glaze onto the chicken.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through and slightly charred.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-golden-crispy-mustardy-yakitori-pan-fried-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:29:50.834Z"
+}
