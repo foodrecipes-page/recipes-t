@@ -1,0 +1,86 @@
+{
+  "slug": "tadka-greek-yogurt-crumble",
+  "title": "Greek Yogurt Crumble Tadka",
+  "description": "A unique Indian-inspired dessert combining the flavors of Greek yogurt, tadka spices, and a crunchy oat crumble.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tadka spice mix",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rolled oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crumble mix",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the flour, sugar, and tadka spice mix.",
+    "Add the unsalted butter to the dry ingredients and mix until the mixture resembles coarse crumbs.",
+    "Press half of the mixture into the bottom of a 9x9-inch baking dish.",
+    "In a separate bowl, whisk together the Greek yogurt and a pinch of salt.",
+    "Pour the yogurt mixture over the crust.",
+    "Top with the remaining crumb mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indian",
+    "yogurt",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tadka-greek-yogurt-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:55:20.473Z"
+}
