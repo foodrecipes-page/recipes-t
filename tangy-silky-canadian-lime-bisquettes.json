@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-silky-canadian-lime-bisquettes",
+  "title": "Pan-Seared Canadian Salmon with Canadian Glaze",
+  "description": "A flavorful and moist Canadian salmon dish, pan-seared to perfection and served with a sweet and tangy Canadian glaze.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian salmon fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tangy BBQ sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "silky olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "bisquettes",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with salt and pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the salmon for 2-3 minutes per side, then transfer to the oven.",
+    "Bake for 8-10 minutes or until cooked through.",
+    "In a small saucepan, combine the maple syrup, lime juice, and BBQ sauce.",
+    "Bring to a simmer over medium heat and cook until reduced by half.",
+    "Brush the glaze over the salmon during the last 2 minutes of cooking.",
+    "Serve the salmon hot with bisquettes on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "canadian",
+    "glaze",
+    "bbq",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-silky-canadian-lime-bisquettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:01:29.493Z"
+}
