@@ -1,0 +1,91 @@
+{
+  "slug": "tender-croatian-pineapple-paella",
+  "title": "Paella with Grilled Pineapple and Croatian Sausage",
+  "description": "A twist on the classic Spanish paella dish, featuring grilled pineapple and Croatian sausage.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tender chicken",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Paella rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": "grilled, chunks"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill pineapple chunks until caramelized, about 5 minutes per side.",
+    "In a large paella pan, heat olive oil over medium-high heat.",
+    "Add sliced Croatian sausage and cook until browned, about 5 minutes.",
+    "Add boneless, skinless chicken and cook until browned, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add smoked paprika and cook for 1 minute.",
+    "Add uncooked paella rice and stir to combine.",
+    "Add grilled pineapple chunks and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Simmer paella over low heat for 20 minutes, or until rice is cooked.",
+    "Serve hot, garnished with grilled pineapple chunks."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "grilled-pineapple",
+    "croatian-sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-croatian-pineapple-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-29T23:04:38.631Z"
+}
