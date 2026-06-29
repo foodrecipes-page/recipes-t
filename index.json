@@ -7210,17 +7210,14 @@
   },
   {
     "slug": "tender-croatian-pineapple-paella",
-    "title": "tender croatian pineapple paella",
+    "title": "Paella with Grilled Pineapple and Croatian Sausage",
     "tags": [
-      "gluten-free",
-      "one-pan",
       "paella",
-      "prune",
-      "spring",
-      "vegan"
+      "grilled-pineapple",
+      "croatian-sausage"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 45,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
