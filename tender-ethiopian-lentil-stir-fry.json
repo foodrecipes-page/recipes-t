@@ -1,0 +1,87 @@
+{
+  "slug": "tender-ethiopian-lentil-stir-fry",
+  "title": "Ethiopian Lentil Stew",
+  "description": "A flavorful and nutritious Ethiopian-inspired lentil stew, perfect for a weeknight dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils, brown",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "tender, ethiopian spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "stir, fry oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for 1 minute.",
+    "Add lentils, spices, tomato paste, broth, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "lentil",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-lentil-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:21:36.562Z"
+}
