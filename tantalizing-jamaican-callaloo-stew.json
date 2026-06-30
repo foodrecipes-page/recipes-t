@@ -1,0 +1,92 @@
+{
+  "slug": "tantalizing-jamaican-callaloo-stew",
+  "title": "Jamaican Stew",
+  "description": "A flavorful and spicy Jamaican stew made with tantalizing meat and callaloo.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "callaloo",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tantalizing spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most Caribbean markets"
+    },
+    {
+      "name": "stew seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional, use gloves when handling"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion, garlic, scotch bonnet peppers, and tantalizing spice blend to pot.",
+    "Cook until onion is translucent, about 3-4 minutes.",
+    "Add callaloo, stew seasoning, and flour to pot.",
+    "Cook for 1-2 minutes, stirring constantly.",
+    "Gradually add chicken broth to pot, whisking continuously.",
+    "Bring mixture to a boil, then reduce heat to low and simmer for 1 1/2 hours.",
+    "Return beef to pot and cook until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scotch bonnet peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "beef",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tantalizing-jamaican-callaloo-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:10:01.847Z"
+}
