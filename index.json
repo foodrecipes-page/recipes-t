@@ -8854,16 +8854,14 @@
   },
   {
     "slug": "tender-mediterranean-sirloin-steak-grill",
-    "title": "Tender Mediterranean Sirloin Steak Grill",
+    "title": "Grilled Sirloin Steak with Mediterranean Rub",
     "tags": [
       "grilled",
-      "high-protein",
-      "one-pan",
-      "sous-vide",
-      "weeknight"
+      "steak",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 219,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
