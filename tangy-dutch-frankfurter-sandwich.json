@@ -1,0 +1,59 @@
+{
+  "slug": "tangy-dutch-frankfurter-sandwich",
+  "title": "Dutch Frankfurter Sandwich",
+  "description": "A simple yet savory sandwich featuring Dutch mustard and a classic frankfurter.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Frankfurter",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "White bread",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Dutch mustard",
+      "amount": "2 tsp",
+      "notes": "tangy"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 leaf",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Grill or toast the bread until lightly browned.",
+    "2. Place the frankfurter on each toasted bread slice.",
+    "3. Spread 1 tsp of Dutch mustard on top of each frankfurter.",
+    "4. Place a lettuce leaf on top of the mustard.",
+    "5. Assemble the sandwich by placing the two slices together."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "sandwiches",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dutch-frankfurter-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:02:43.466Z"
+}
