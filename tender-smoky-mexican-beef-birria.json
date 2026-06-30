@@ -1,0 +1,91 @@
+{
+  "slug": "tender-smoky-mexican-beef-birria",
+  "title": "Smoky Beef Birria",
+  "description": "A hearty and flavorful Mexican stew made with tender beef and a rich, smoky broth.",
+  "cuisine": "Mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat. Sear the beef brisket until browned on all sides, about 5 minutes. Remove the beef from the pot and set aside.",
+    "3. Add the onion to the pot and cook until softened, about 5 minutes.",
+    "4. Add the garlic, cumin, paprika, and salt to the pot and cook for 1 minute.",
+    "5. Add the chipotle peppers in adobo sauce to the pot and cook for 1 minute.",
+    "6. Add the chicken broth to the pot and bring to a boil.",
+    "7. Return the beef brisket to the pot and transfer to the preheated oven.",
+    "8. Braise the beef in the oven for 2 1/2 hours, or until tender.",
+    "9. Remove the pot from the oven and let the beef rest for 10 minutes.",
+    "10. Shred the beef with two forks and return it to the pot.",
+    "11. Stir in the chopped cilantro and lime juice.",
+    "12. Serve the birria hot, garnished with additional cilantro and lime wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "mexican",
+    "stew",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-mexican-beef-birria",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:46:42.592Z"
+}
