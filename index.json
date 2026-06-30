@@ -3746,10 +3746,17 @@
   },
   {
     "slug": "tangy-smoky-middle-eastern-lamb-pasta",
-    "title": "Tangy Smoky Middle Eastern Lamb Pasta",
-    "tags": [],
-    "cuisine": "middle-eastern",
-    "totalTimeMin": null,
+    "title": "Smoky Eastern Lamb Pasta",
+    "tags": [
+      "lamb",
+      "pasta",
+      "middle-eastern",
+      "smoked-paprika",
+      "cumin",
+      "coriander"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
