@@ -1,0 +1,63 @@
+{
+  "slug": "tender-leaf-wrap-steam-portuguese-garlicky-wrap",
+  "title": "Steamed Portuguese-Style Garlicky Greens Wrap",
+  "description": "A delicious and healthy wrap filled with steamed garlicky greens wrapped in a tender leaf wrap.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese-Style Wrap",
+      "amount": "1",
+      "notes": "tender and soft"
+    },
+    {
+      "name": "Garlicky Greens",
+      "amount": "200g",
+      "notes": "steamed to perfection"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Leaf",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the steamer basket with boiling water.",
+    "2. Add the garlicky greens to the steamer basket and steam for 5 minutes.",
+    "3. In a pan, heat some oil and sauté the minced garlic until fragrant.",
+    "4. Add the steamed garlicky greens to the pan and toss with garlic.",
+    "5. Warm the Portuguese-Style Wrap in the microwave for 10 seconds.",
+    "6. Assemble the wrap by placing the garlicky greens on the wrap.",
+    "7. Serve the wrap with a side of leaf for garnish."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "easy",
+    "lunch",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-leaf-wrap-steam-portuguese-garlicky-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:05:41.055Z"
+}
