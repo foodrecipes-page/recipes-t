@@ -1,0 +1,87 @@
+{
+  "slug": "tangy-tender-canadian-udon-casserole",
+  "title": "Canadian Udon Casserole",
+  "description": "A hearty Canadian-inspired casserole featuring tender udon noodles and a tangy sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 package, 12 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Udon noodles",
+      "amount": "1 package, 8 oz",
+      "notes": "Dried"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the dish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can, 14 oz",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook udon noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the Canadian bacon and cook until browned, about 2-3 minutes per side. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the canned diced tomatoes and cook for 2-3 minutes.",
+    "Add the cooked udon noodles, tangy sauce, and cooked Canadian bacon to the skillet. Stir to combine.",
+    "Transfer the mixture to a greased 9x13-inch baking dish.",
+    "If using, sprinkle grated cheddar cheese on top of the casserole.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "udon",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-canadian-udon-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:46:01.834Z"
+}
