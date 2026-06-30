@@ -3928,16 +3928,12 @@
   },
   {
     "slug": "tangy-tender-canadian-udon-casserole",
-    "title": "Tangy Tender Canadian Udon Casserole",
+    "title": "Canadian Udon Casserole",
     "tags": [
-      "dairy-free",
-      "vegan",
-      "comfort-food",
-      "baked",
+      "canadian",
+      "casserole",
       "udon",
-      "tangy",
-      "indulgent",
-      "canadian"
+      "vegetarian"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 40,
@@ -5944,17 +5940,15 @@
   },
   {
     "slug": "tempting-smoky-ethiopian-soybean-sprouts-doro-wot",
-    "title": "Tempting Smoky Ethiopian Soybean Sprouts Doro Wot",
+    "title": "Tempting Ethiopian Wot",
     "tags": [
-      "buddhist-friendly",
-      "clay-pot",
       "ethiopian",
-      "romantic",
-      "smoky",
-      "vegetarian"
+      "spicy",
+      "tempeh",
+      "vegan"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -7601,16 +7595,15 @@
   },
   {
     "slug": "tender-ethiopian-lentil-stir-fry",
-    "title": "Tender Ethiopian Lentil Stir-fry",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
       "ethiopian",
       "lentil",
-      "stir-fry",
-      "sugar-free",
-      "peppery"
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 20,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
