@@ -1,0 +1,90 @@
+{
+  "slug": "tender-light-vietnamese-chicken-banh-mi",
+  "title": "Vietnamese Chicken Banh Mi",
+  "description": "A delicious Vietnamese sandwich made with crispy pickled carrots, cilantro, and grilled chicken.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Banh mi bread",
+      "amount": "4-6 inches long"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced and pickled"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Pickle relish",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sriracha sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the chicken breast with salt and pepper.",
+    "3. Grill the chicken breast for 5-6 minutes per side, or until it reaches an internal temperature of 165°F.",
+    "4. Meanwhile, toast the banh mi bread by grilling it for 1-2 minutes or until it is lightly browned.",
+    "5. Spread mayonnaise, pickle relish, and sriracha sauce on the toasted bread.",
+    "6. Add the grilled chicken breast on top of the sauce.",
+    "7. Top with cucumber, carrots, and cilantro.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "chicken",
+    "sandwich",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-light-vietnamese-chicken-banh-mi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:51:31.637Z"
+}
