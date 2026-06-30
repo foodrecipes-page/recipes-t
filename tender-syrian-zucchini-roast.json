@@ -1,0 +1,97 @@
+{
+  "slug": "tender-syrian-zucchini-roast",
+  "title": "Roast Chicken with Zucchini and Syrian Olives",
+  "description": "A flavorful and easy-to-make dish that combines the juiciness of roast chicken with the crunch of zucchini and the savory taste of Syrian olives.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs",
+      "amount": "1.5 lbs",
+      "notes": "Bone-in and skin-on"
+    },
+    {
+      "name": "Syrian olives",
+      "amount": "1/4 cup",
+      "notes": "Pitted and sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "Roast vegetables",
+      "amount": "1 cup",
+      "notes": "Chopped carrots, potatoes, and onions"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing chicken and vegetables"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning chicken and vegetables"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "For seasoning chicken and vegetables"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "For seasoning chicken and vegetables"
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, black pepper, and garlic powder.",
+    "Heat 1 tablespoon of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 5-7 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, toss the zucchini and roast vegetables with the remaining 1 tablespoon of olive oil, salt, and black pepper.",
+    "Spread the vegetables in a single layer on a baking sheet and roast in the oven for 15-20 minutes, or until tender and lightly browned.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the chicken with the roasted vegetables and a sprinkle of Syrian olives.",
+    "Drizzle with lemon juice and garnish with fresh rosemary, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mediterranean",
+    "roast-vegetables",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-syrian-zucchini-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:36:35.788Z"
+}
