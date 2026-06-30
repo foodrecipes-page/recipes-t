@@ -1,0 +1,89 @@
+{
+  "slug": "tender-crispy-argentinian-beef-empanadas",
+  "title": "Crispy Beef Empanadas",
+  "description": "A classic Argentinian dish, these crispy pastry pockets are filled with tender beef and perfect for a snack or light meal.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": "for pastry dough"
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Onion, finely chopped",
+      "amount": "1",
+      "notes": "for filling"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour and cold butter. Use a pastry blender or your fingers to work the butter into the flour until the mixture resembles coarse crumbs.",
+    "Gradually add cold water to the flour mixture, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it becomes smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces. Roll each piece into a ball and flatten slightly into a disk.",
+    "In a small pan, cook the ground beef over medium-high heat, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Add chopped onion to the cooked ground beef and cook until the onion is translucent.",
+    "Season the beef mixture with salt and black pepper to taste.",
+    "Place a tablespoon or two of the beef mixture onto one half of each dough disk. Brush the edges with the beaten egg and fold the other half of the dough over the filling, pressing the edges together to seal.",
+    "Use a fork to crimp the edges and create a decorative border.",
+    "Brush the tops of the empanadas with the beaten egg and cut a few slits in the top of each pastry to allow steam to escape.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crispy-argentinian-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:01:49.346Z"
+}
