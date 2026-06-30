@@ -1,0 +1,90 @@
+{
+  "slug": "tender-smoky-american-chicken-skillet",
+  "title": "Smoky American Chicken Skillet",
+  "description": "A flavorful and spicy skillet dish made with tender chicken, smoky bacon, and a blend of spices.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound boneless, skinless chicken breasts",
+      "amount": "",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "6 slices of smoky bacon",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "",
+      "notes": "diced"
+    },
+    {
+      "name": "3 cloves of garlic",
+      "amount": "",
+      "notes": "minced"
+    },
+    {
+      "name": "1 teaspoon chili powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the chicken with salt, pepper, and cayenne pepper.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced bacon and cook until crispy, about 5 minutes.",
+    "Remove the bacon from the skillet with a slotted spoon and set aside.",
+    "Add the diced onion to the skillet and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the cooked bacon back into the skillet and stir to combine.",
+    "Sprinkle the chili powder, cumin, and a pinch of salt and pepper over the top of the chicken and stir to combine.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "skillet",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:22:55.621Z"
+}
