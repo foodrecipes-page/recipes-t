@@ -8649,17 +8649,15 @@
   },
   {
     "slug": "tender-leaf-wrap-steam-portuguese-garlicky-wrap",
-    "title": "Tender Leaf-Wrap-Steamed Portuguese Garlicky Wrap",
+    "title": "Steamed Portuguese-Style Garlicky Greens Wrap",
     "tags": [
-      "fodmap-friendly",
-      "garlic-lovers",
-      "low-carb",
-      "one-pan",
-      "portuguese",
-      "weeknight"
+      "healthy",
+      "easy",
+      "lunch",
+      "portuguese"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Portuguese",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -8693,18 +8691,15 @@
   },
   {
     "slug": "tender-light-vietnamese-chicken-banh-mi",
-    "title": "Tender Light Vietnamese Chicken Banh Mi",
+    "title": "Vietnamese Chicken Banh Mi",
     "tags": [
-      "ayurvedic",
-      "banh-mi",
+      "vietnamese",
       "chicken",
-      "easy-lunch",
-      "light-meal",
-      "sattvic",
-      "vietnamese"
+      "sandwich",
+      "lunch"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
@@ -10348,17 +10343,15 @@
   },
   {
     "slug": "tender-syrian-zucchini-roast",
-    "title": "Tender Syrian Zucchini Roast",
+    "title": "Roast Chicken with Zucchini and Syrian Olives",
     "tags": [
-      "healthy",
-      "low-calorie",
+      "chicken",
       "mediterranean",
-      "one-pan",
-      "quick-and-easy",
-      "vegetarian"
+      "roast-vegetables",
+      "easy-dinner"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
