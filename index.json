@@ -2808,14 +2808,15 @@
   },
   {
     "slug": "tangy-juicy-indulgent-walnut-stir-fry",
-    "title": "Tangy Juicy Indulgent Walnut Stir-fry",
+    "title": "Walnut Walnut Stir Fry",
     "tags": [
-      "walnut-stir-fry",
-      "diabetic-friendly",
-      "tangy-juicy"
+      "chinese",
+      "stir-fry",
+      "walnuts",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -4726,15 +4727,15 @@
   },
   {
     "slug": "tart-crunchy-slovakian-sour-cream-pancakes",
-    "title": "Slovakian Sour Cream Pancakes",
+    "title": "Slovakian Pancake Tart",
     "tags": [
-      "breakfast",
-      "pancakes",
       "slovakian",
-      "weeknight"
+      "pancakes",
+      "tart",
+      "dessert"
     ],
     "cuisine": "slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -9691,17 +9692,14 @@
   },
   {
     "slug": "tender-smoky-american-chicken-skillet",
-    "title": "Tender Smoky American Chicken Skillet",
+    "title": "Smoky American Chicken Skillet",
     "tags": [
-      "american-cuisine",
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "smoky",
-      "weeknight"
+      "chicken",
+      "skillet",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
