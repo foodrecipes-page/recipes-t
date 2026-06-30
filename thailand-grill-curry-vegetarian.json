@@ -1,0 +1,85 @@
+{
+  "slug": "thailand-grill-curry-vegetarian",
+  "title": "Thai Grilled Vegetable Curry",
+  "description": "A flavorful and spicy curry made with grilled vegetables and served with steamed rice. This dish is a perfect representation of Thai cuisine, with its bold and aromatic flavors.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce (vegetarian substitute)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Grill the bell peppers, zucchini, and onion for 5-7 minutes on each side, or until tender.",
+    "In a blender or food processor, combine the curry paste, coconut milk, fish sauce (vegetarian substitute), brown sugar, and rice vinegar. Blend until smooth.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium heat. Pour in the curry sauce and stir to combine.",
+    "Add the grilled vegetables and mushrooms to the skillet. Stir to combine and cook for an additional 2-3 minutes.",
+    "Serve the curry over steamed rice and garnish with chopped cilantro or basil, if desired.",
+    "Cook the rice according to the package instructions.",
+    "Slice the grilled vegetables and add them to the curry sauce.",
+    "Simmer the curry sauce for an additional 5-7 minutes to allow the flavors to meld together.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the Thai Grilled Vegetable Curry hot, garnished with chopped cilantro or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-curry",
+    "grilled-vegetables",
+    "vegetarian-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thailand-grill-curry-vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:51:08.818Z"
+}
