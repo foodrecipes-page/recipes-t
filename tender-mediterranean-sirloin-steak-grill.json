@@ -1,0 +1,83 @@
+{
+  "slug": "tender-mediterranean-sirloin-steak-grill",
+  "title": "Grilled Sirloin Steak with Mediterranean Rub",
+  "description": "A flavorful and juicy sirloin steak seasoned with a Mediterranean-style rub, perfect for a quick and delicious dinner.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender sirloin steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "mediterranean rub",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemons",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "preheated to medium-high heat"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F - 450°F).",
+    "Season the sirloin steak with salt, black pepper, and Mediterranean rub, making sure to coat evenly.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Sear the steak for 3-4 minutes per side, or until a nice crust forms.",
+    "Transfer the steak to a cutting board and let it rest for 5-7 minutes.",
+    "Meanwhile, mix lemon juice and minced garlic in a small bowl.",
+    "Brush the lemon-garlic mixture onto the steak during the last minute of resting.",
+    "Slice the steak against the grain and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-mediterranean-sirloin-steak-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:42:27.783Z"
+}
