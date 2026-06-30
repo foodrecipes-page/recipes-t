@@ -1,0 +1,80 @@
+{
+  "slug": "tender-adventurous-garlic-slovakian-stir-fry",
+  "title": "Slovakian Garlic Pork Tenderloin",
+  "description": "A flavorful and savory dish inspired by Slovakian cuisine, featuring garlic and tender pork. Perfect for a weekend dinner.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "1 (1 pound)",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork tenderloin with salt, black pepper, and Slovakian paprika.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork tenderloin until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork to a baking sheet and bake for 15-20 minutes, or until cooked through.",
+    "While the pork is cooking, mince the garlic and sauté it in the skillet until fragrant.",
+    "Remove the pork from the oven and let it rest for 5 minutes before slicing.",
+    "Serve the pork with the garlic sauce spooned over the top, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "garlic",
+    "slovakian",
+    "dinner",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-adventurous-garlic-slovakian-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:57:34.575Z"
+}
