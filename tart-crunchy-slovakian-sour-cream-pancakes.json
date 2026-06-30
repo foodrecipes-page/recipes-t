@@ -1,0 +1,80 @@
+{
+  "slug": "tart-crunchy-slovakian-sour-cream-pancakes",
+  "title": "Slovakian Pancake Tart",
+  "description": "A sweet and crunchy dessert combining the best of Slovakian pancakes and a flaky tart crust.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tart crust",
+      "amount": "1 package",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tart crust and place in a 9-inch tart pan.",
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "Add cold butter and use a pastry blender or fingers to work into flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together sour cream and eggs.",
+    "Add vanilla extract and whisk until combined.",
+    "Pour sour cream mixture into flour mixture and stir until just combined.",
+    "Pour batter into tart crust.",
+    "Bake for 35-40 minutes or until a toothpick comes out clean.",
+    "Allow to cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pancakes",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tart-crunchy-slovakian-sour-cream-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:25:51.903Z"
+}
