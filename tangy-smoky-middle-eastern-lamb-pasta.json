@@ -1,0 +1,105 @@
+{
+  "slug": "tangy-smoky-middle-eastern-lamb-pasta",
+  "title": "Smoky Eastern Lamb Pasta",
+  "description": "A flavorful and aromatic pasta dish that combines the spices of the Middle East with the smokiness of lamb.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat-containing"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "eastern spice"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "eastern spice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the lamb shoulder with salt, black pepper, cumin, and coriander.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, then transfer to the oven.",
+    "Roast the lamb in the oven for 20 minutes, or until cooked through.",
+    "While the lamb is cooking, cook the pasta according to the package instructions.",
+    "In a large pan, heat a couple of tablespoons of olive oil over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the diced tomato and cook for 2-3 minutes, until the tomato starts to break down.",
+    "Add the cooked pasta to the pan, tossing to combine with the tomato mixture.",
+    "Shred the cooked lamb and add it to the pasta, tossing to combine.",
+    "Season with smoked paprika and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pasta",
+    "middle-eastern",
+    "smoked-paprika",
+    "cumin",
+    "coriander"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoky-middle-eastern-lamb-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:50:41.144Z"
+}
