@@ -4675,18 +4675,15 @@
   },
   {
     "slug": "tantalizing-jamaican-callaloo-stew",
-    "title": "Tantalizing Jamaican Callaloo Stew",
+    "title": "Jamaican Stew",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "jamaican-cuisine",
-      "one-pan",
-      "raw-friendly",
-      "vegan-friendly",
-      "weeknight"
+      "jamaican",
+      "stew",
+      "beef",
+      "caribbean"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
@@ -7133,18 +7130,15 @@
   },
   {
     "slug": "tender-crispy-argentinian-beef-empanadas",
-    "title": "Tender Crispy Argentinian Beef Empanadas",
+    "title": "Crispy Beef Empanadas",
     "tags": [
-      "argentinian-cuisine",
-      "beef-recipes",
-      "empanada-recipes",
-      "fried-foods",
-      "latin-american-food",
-      "meat-pies",
-      "snack-ideas"
+      "beef",
+      "argentinian",
+      "empanadas",
+      "snack"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
