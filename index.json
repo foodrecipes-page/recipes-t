@@ -1652,17 +1652,14 @@
   },
   {
     "slug": "tangy-dutch-frankfurter-sandwich",
-    "title": "Tangy Dutch Frankfurter Sandwich",
+    "title": "Dutch Frankfurter Sandwich",
     "tags": [
-      "keto",
       "dutch",
-      "lunch",
-      "sandwich",
-      "tangy",
-      "frankfurter"
+      "sandwiches",
+      "lunch"
     ],
-    "cuisine": "dutch",
-    "totalTimeMin": 10,
+    "cuisine": "Dutch",
+    "totalTimeMin": 7,
     "shard": "t"
   },
   {
