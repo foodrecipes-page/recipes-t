@@ -6323,16 +6323,16 @@
   },
   {
     "slug": "tender-adventurous-garlic-slovakian-stir-fry",
-    "title": "Tender Adventurous Garlic Slovakian Stir-fry",
+    "title": "Slovakian Garlic Pork Tenderloin",
     "tags": [
-      "garlicky",
-      "tender",
-      "adventurous",
+      "pork",
+      "garlic",
       "slovakian",
-      "gluten-free"
+      "dinner",
+      "main-course"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -9841,18 +9841,15 @@
   },
   {
     "slug": "tender-smoky-mexican-beef-birria",
-    "title": "Tender Smoky Mexican Beef Birria",
+    "title": "Smoky Beef Birria",
     "tags": [
       "beef",
-      "cheesy",
-      "comfort-food",
-      "crowd-pleaser",
       "mexican",
-      "one-pot",
-      "smoky"
+      "stew",
+      "lunch"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
@@ -11382,13 +11379,11 @@
   },
   {
     "slug": "thai-mustardy-quick-thai-curry-paella",
-    "title": "Thai Mustardy Quick Thai Curry Paella",
+    "title": "Thai Curry Chicken",
     "tags": [
-      "curry",
-      "one-pan",
-      "thai",
-      "weeknight",
-      "whole30"
+      "thaicurry",
+      "chicken",
+      "coconutmilk"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
@@ -11429,14 +11424,13 @@
   },
   {
     "slug": "thailand-grill-curry-vegetarian",
-    "title": "Thailand Grill Curry Vegetarian",
+    "title": "Thai Grilled Vegetable Curry",
     "tags": [
       "thai-curry",
-      "vegetarian-friendly",
-      "quick-fix",
-      "juicy"
+      "grilled-vegetables",
+      "vegetarian-curry"
     ],
-    "cuisine": "Thai",
+    "cuisine": "thai",
     "totalTimeMin": 35,
     "shard": "t"
   },
