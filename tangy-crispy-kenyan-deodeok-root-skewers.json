@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-crispy-kenyan-deodeok-root-skewers",
+  "title": "Kenyan Deodeok Skewers",
+  "description": "A flavorful and healthy Kenyan-inspired snack with deodeok root, marinated in a tangy and spicy sauce, served on crispy skewers.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Deodeok root",
+      "amount": "1 large",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tbsp",
+      "notes": "see notes for recipe"
+    },
+    {
+      "name": "Crispy skewers",
+      "amount": "10-12",
+      "notes": "made from plant-based materials"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 tsp",
+      "notes": "a blend of turmeric, cumin, coriander, and chili powder"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for brushing skewers"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together tangy sauce, kenyan spices, and lime juice.",
+    "3. Add the deodeok root pieces to the bowl and toss to coat.",
+    "4. Thread 3-4 pieces of deodeok root onto each skewer.",
+    "5. Brush the skewers with olive oil.",
+    "6. Place the skewers on a baking sheet lined with parchment paper.",
+    "7. Bake for 12-15 minutes, or until the deodeok is tender and lightly caramelized.",
+    "8. Serve hot with additional tangy sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "snack",
+    "vegan",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": "2g",
+    "carbs": "25g",
+    "fat": "2g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-kenyan-deodeok-root-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:33:27.821Z"
+}
