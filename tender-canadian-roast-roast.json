@@ -1,0 +1,88 @@
+{
+  "slug": "tender-canadian-roast-roast",
+  "title": "Roast Beef Tenderloin with Roasted Vegetables",
+  "description": "A simple and flavorful dish featuring a tender roast beef tenderloin roasted to perfection with a variety of colorful vegetables.",
+  "cuisine": "Canadian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef tenderloin roast (1.5 lbs)",
+      "amount": "1",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 lb",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef tenderloin with salt, pepper, and garlic.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the beef tenderloin for 2-3 minutes on each side, then transfer it to the oven.",
+    "Roast the beef in the preheated oven for 15-20 minutes, or until it reaches your desired level of doneness.",
+    "While the beef is roasting, toss the chopped vegetables in a bowl with olive oil, salt, and pepper.",
+    "Spread the vegetables out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until tender and lightly browned.",
+    "Remove the beef from the oven and let it rest for 5-10 minutes before slicing.",
+    "Serve the sliced beef with the roasted vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "roast",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-canadian-roast-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:47:44.430Z"
+}
