@@ -5666,16 +5666,14 @@
   },
   {
     "slug": "tempting-garlicky-portuguese-lamb-stew",
-    "title": "Tempting Garlicky Portuguese Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lamb-based",
-      "one-pot",
-      "portuguese-cuisine"
+      "lamb",
+      "stew",
+      "portuguese"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 120,
+    "totalTimeMin": 140,
     "shard": "t"
   },
   {
