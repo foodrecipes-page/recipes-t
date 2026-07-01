@@ -6911,16 +6911,14 @@
   },
   {
     "slug": "tender-canadian-roast-roast",
-    "title": "Tender Canadian Roast",
+    "title": "Roast Beef Tenderloin with Roasted Vegetables",
     "tags": [
-      "canadian",
+      "beef",
       "roast",
-      "whole30",
-      "sweet",
-      "tender"
+      "canadian"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Canadian",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -8997,17 +8995,16 @@
   },
   {
     "slug": "tender-moroccan-chicken-tagine",
-    "title": "Tender Moroccan Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "dairy-free",
-      "high-protein",
       "moroccan",
-      "one-pot",
-      "travel-friendly",
-      "weeknight"
+      "chicken",
+      "tagine",
+      "dinner",
+      "slow-cooker"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 65,
     "shard": "t"
   },
   {
