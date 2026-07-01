@@ -4206,17 +4206,14 @@
   },
   {
     "slug": "tangy-turkish-bananas-kuru-fasulye",
-    "title": "Tangy Turkish Bananas Kuru Fasulye",
+    "title": "Turkish Kuru Fasulye Smoothie",
     "tags": [
-      "chocolate-dessert",
-      "fried-bananas",
-      "low-calorie",
-      "turkish-dish",
-      "unique-recipe",
-      "vegetarian-friendly"
+      "smoothie",
+      "breakfast",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 5,
     "shard": "t"
   },
   {
@@ -4436,20 +4433,14 @@
   },
   {
     "slug": "tangy-velvety-portuguese-spaghetti-toast",
-    "title": "Tangy Velvety Portuguese Spaghetti Toast",
+    "title": "Portuguese Toast",
     "tags": [
-      "breakfast",
-      "quick",
       "portuguese",
-      "spaghetti",
-      "toast",
-      "raw-friendly",
-      "tangy",
-      "velvety",
-      "cheese"
+      "breakfast",
+      "eggs"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
