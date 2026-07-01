@@ -1,0 +1,54 @@
+{
+  "slug": "tangy-turkish-bananas-kuru-fasulye",
+  "title": "Turkish Kuru Fasulye Smoothie",
+  "description": "A refreshing twist on traditional Turkish cuisine, blending kuru fasulye with sweet bananas and a tangy kick.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Turkish kuru fasulye (white beans)",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "Bananas",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "Tangy yogurt (e.g., lemon or orange flavored)",
+      "amount": "1/2 cup",
+      "notes": "plain or flavored"
+    }
+  ],
+  "instructions": [
+    "Combine cooked white beans, bananas, and tangy yogurt in a blender.",
+    "Blend until smooth and creamy, stopping to scrape down the sides as needed.",
+    "Taste and adjust sweetness or tanginess to your liking.",
+    "Pour into a glass and serve immediately.",
+    "Garnish with a sprinkle of cinnamon or a few chopped nuts, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "smoothie",
+    "breakfast",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-turkish-bananas-kuru-fasulye",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:17:26.253Z"
+}
