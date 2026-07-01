@@ -591,19 +591,16 @@
   },
   {
     "slug": "tangy-creamy-american-coriander-salad",
-    "title": "Tangy Creamy American Coriander Salad",
+    "title": "Creamy American Salad",
     "tags": [
-      "ayurvedic",
-      "easy-to-make",
-      "kid-friendly",
-      "quick",
       "salad",
-      "tamasic",
-      "vegetarian",
-      "vinaigrette"
+      "lunch",
+      "easy",
+      "american",
+      "creamy"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
