@@ -1018,17 +1018,14 @@
   },
   {
     "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble",
-    "title": "Tangy Crispy Portuguese Sweet Potatoes Crumble",
+    "title": "Portuguese Sweet Potato Crumble",
     "tags": [
-      "tangy",
-      "crispy",
-      "portuguese",
-      "meal-prep",
-      "sweet-potatoes",
-      "dum"
+      "sweet",
+      "dessert",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "cuisine": "portuguese",
+    "totalTimeMin": 75,
     "shard": "t"
   },
   {
@@ -7759,15 +7756,14 @@
   },
   {
     "slug": "tender-floral-energizing-argentinian-callaloo-stir-fry",
-    "title": "Tender Floral Energizing Argentinian Callaloo Stir-fry",
+    "title": "Argentinian Callaloo Stir Fry",
     "tags": [
+      "argentinian",
       "callaloo",
-      "floral",
-      "energizing",
-      "argentine"
+      "stir-fry"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 15,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -9736,18 +9732,15 @@
   },
   {
     "slug": "tender-smoky-festive-australian-oxtail-stir-fry",
-    "title": "Tender Smoky Festive Australian Oxtail Stir-fry",
+    "title": "Smoked Oxtail Stew",
     "tags": [
-      "smoky",
-      "tender",
-      "festival",
       "australian",
-      "oxtail",
-      "stir-fry",
-      "gluten-free"
+      "beef",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 75,
+    "cuisine": "australian",
+    "totalTimeMin": 210,
     "shard": "t"
   },
   {
