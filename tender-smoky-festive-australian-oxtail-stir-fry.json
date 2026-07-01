@@ -1,0 +1,84 @@
+{
+  "slug": "tender-smoky-festive-australian-oxtail-stir-fry",
+  "title": "Smoked Oxtail Stew",
+  "description": "A hearty, slow-cooked stew originating from Australia, made with tender oxtail and a rich, smoky flavor.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "smoky barbecue sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the oxtail with salt and pepper.",
+    "Heat some oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 5 minutes.",
+    "Remove the oxtail from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened.",
+    "Add the red wine and beef broth to the pot, scraping up any browned bits.",
+    "Return the oxtail to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the oxtail for 2 1/2 to 3 hours, or until tender.",
+    "Stir in the barbecue sauce and cook for an additional 10 minutes.",
+    "Serve the oxtail hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "beef",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-festive-australian-oxtail-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:21:52.071Z"
+}
