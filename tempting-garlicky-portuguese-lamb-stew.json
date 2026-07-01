@@ -1,0 +1,85 @@
+{
+  "slug": "tempting-garlicky-portuguese-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty, flavorful stew from Portugal that's perfect for a chilly evening. Made with tender lamb and a rich, garlicky broth.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tempting olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the minced garlic to the pot and cook until fragrant, about 1 minute.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned lamb, red wine, and chicken broth to the pot.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Bake the stew at 300°F for 2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-garlicky-portuguese-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:33:58.943Z"
+}
