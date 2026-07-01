@@ -1,0 +1,80 @@
+{
+  "slug": "tender-floral-energizing-argentinian-callaloo-stir-fry",
+  "title": "Argentinian Callaloo Stir Fry",
+  "description": "A flavorful stir fry using callaloo and inspired by Argentinian cuisine, perfect for a quick dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "1 bunch",
+      "notes": "Trimmed and cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Argentinian chimichurri",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add garlic and cook for 1 minute, until fragrant.",
+    "Add callaloo and cook for 5 minutes, until wilted.",
+    "Add red onion and cook for an additional 2-3 minutes, until tender.",
+    "Season with salt and black pepper to taste.",
+    "Stir in argentinian chimichurri and floral honey (if using).",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "callaloo",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-floral-energizing-argentinian-callaloo-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:21:57.073Z"
+}
