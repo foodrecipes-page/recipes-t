@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-velvety-portuguese-spaghetti-toast",
+  "title": "Portuguese Toast",
+  "description": "A traditional Portuguese-inspired toast dish made with velvety eggs and tangy cheese.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "velvety"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "Portuguese"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "tangy"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Toast the bread until lightly browned.",
+    "3. Butter the toasted bread.",
+    "4. In a bowl, whisk together eggs, salt, and black pepper.",
+    "5. Add minced garlic to the egg mixture.",
+    "6. Pour the egg mixture over the toasted bread.",
+    "7. Sprinkle cheddar cheese over the top.",
+    "8. Bake in the oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "9. Remove from the oven and let cool for a few minutes.",
+    "10. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "breakfast",
+    "eggs"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-portuguese-spaghetti-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:19:53.152Z"
+}
