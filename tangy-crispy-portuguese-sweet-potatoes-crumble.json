@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble",
+  "title": "Portuguese Sweet Potato Crumble",
+  "description": "A delicious and easy-to-make dessert that combines the sweetness of sweet potatoes with the crunch of a crumble topping.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "tangy butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "portuguese crumble",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweet brown sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Poke some holes in the sweet potatoes with a fork and bake them in the oven for about 45 minutes, or until tender.",
+    "In a pan, melt the tangy butter over medium heat.",
+    "Add the crispy breadcrumbs and cook until lightly toasted.",
+    "In a separate bowl, mix together the portuguese crumble and sweet brown sugar.",
+    "Add the flour and cold unsalted butter to the bowl and mix until crumbly.",
+    "Remove the sweet potatoes from the oven and top each one with the crumble mixture.",
+    "Return the sweet potatoes to the oven and bake for an additional 15-20 minutes, or until the topping is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "dessert",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-portuguese-sweet-potatoes-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:40:28.184Z"
+}
