@@ -1,0 +1,66 @@
+{
+  "slug": "tangy-creamy-american-coriander-salad",
+  "title": "Creamy American Salad",
+  "description": "A refreshing salad featuring creamy dressing, tangy ingredients, and a hint of coriander. Perfect for a light lunch or dinner.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed greens (lettuce, spinach, arugula)",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tangy cherry tomatoes",
+      "amount": "1 pint",
+      "notes": ""
+    },
+    {
+      "name": "Creamy ranch dressing",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "American cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh coriander",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine mixed greens, cherry tomatoes, and chopped coriander.",
+    "2. Drizzle creamy ranch dressing over the salad and toss to coat.",
+    "3. Sprinkle shredded cheddar cheese over the top of the salad.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "lunch",
+    "easy",
+    "american",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-american-coriander-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:19:29.865Z"
+}
