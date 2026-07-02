@@ -1,0 +1,71 @@
+{
+  "slug": "tender-fluffy-middle-eastern-cornmeal-maqluba",
+  "title": "Traditional Middle Eastern Cornmeal Pancakes (Maqluba)",
+  "description": "A traditional Middle Eastern dish made with cornmeal, tender and fluffy, perfect as a snack or light meal. Maqluba is a popular dish in the Middle East and is often served with a variety of toppings.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eastern flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Tender eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Fluffy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Maqluba spice mix",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together cornmeal, flour, eggs, milk, salt, and maqluba spice mix.",
+    "2. Heat oil in a non-stick pan over medium heat.",
+    "3. Using a 1/4 cup measuring cup, scoop the batter into the pan.",
+    "4. Cook for 2-3 minutes, until the edges start to set.",
+    "5. Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "6. Serve warm with your choice of toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "pancakes",
+    "breakfast",
+    "snack",
+    "cornmeal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-fluffy-middle-eastern-cornmeal-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:46:47.911Z"
+}
