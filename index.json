@@ -3418,13 +3418,12 @@
   },
   {
     "slug": "tangy-pungent-chinese-chicken-breast-ma-la-tang",
-    "title": "Tangy Pungent Chinese Chicken Breast Ma La Tang",
+    "title": "Tangy Chinese Chicken Breast",
     "tags": [
-      "asian-inspired",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "chinese",
+      "chicken",
+      "easy-dinner",
+      "healthy"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -3896,15 +3895,14 @@
   },
   {
     "slug": "tangy-syrian-lentil-stir-fry",
-    "title": "Tangy Syrian Lentil Stir-fry",
+    "title": "Syrian Lentil Stew",
     "tags": [
-      "tangy",
-      "crispy",
-      "syrian",
-      "stir-fry"
+      "lentil-stew",
+      "syrian-cuisine",
+      "vegan"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "syrian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -6218,17 +6216,17 @@
   },
   {
     "slug": "tempting-twice-fried-moroccan-tofu-tagine",
-    "title": "Tempting Twice Fried Moroccan Tofu Tagine",
+    "title": "Moroccan Twice-Fried Tofu Tagine",
     "tags": [
-      "cheesy",
-      "double-fried",
-      "moroccan-inspired",
-      "romantic-dinner",
-      "spicy",
-      "vegan-friendly"
+      "moroccan",
+      "tofu",
+      "tagine",
+      "lunch",
+      "vegan",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -12115,16 +12113,15 @@
   },
   {
     "slug": "trim-polish-kombu-broth",
-    "title": "Trim Polish Kombu Broth",
+    "title": "Braised Dashi with Kombu",
     "tags": [
-      "briny",
-      "kombu",
-      "light",
-      "shojin-friendly",
-      "weeknight"
+      "dashi",
+      "japanese",
+      "broth",
+      "kombu"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
