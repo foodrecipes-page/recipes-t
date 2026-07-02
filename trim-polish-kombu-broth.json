@@ -1,0 +1,59 @@
+{
+  "slug": "trim-polish-kombu-broth",
+  "title": "Braised Dashi with Kombu",
+  "description": "A traditional Japanese dashi broth made with kombu and trim. This simple recipe is a great base for soups, stews, and sauces.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kombu",
+      "amount": "2 pieces",
+      "notes": "dried kelp"
+    },
+    {
+      "name": "trim (vegetable scraps)",
+      "amount": "1 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "broth",
+      "amount": "2 cups",
+      "notes": "vegetable or mushroom broth"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the kombu under cold running water, then soak it in water for at least 30 minutes.",
+    "2. Drain and cut the kombu into smaller pieces.",
+    "3. In a large pot, combine the kombu and trim.",
+    "4. Pour in the broth and bring to a boil.",
+    "5. Reduce the heat to low and simmer for 10-15 minutes.",
+    "6. Strain the broth through a fine-mesh sieve into a clean pot.",
+    "7. Discard the solids and season the broth with salt to taste.",
+    "8. Serve the dashi hot, garnished with green onions or grated daikon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dashi",
+    "japanese",
+    "broth",
+    "kombu"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/trim-polish-kombu-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:31:50.780Z"
+}
