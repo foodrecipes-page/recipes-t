@@ -4614,18 +4614,14 @@
   },
   {
     "slug": "tantalizing-fluffy-uruguayan-wheat-muffins",
-    "title": "Tantalizing Fluffy Uruguayan Wheat Muffins",
+    "title": "Uruguayan Muffin Breakfast",
     "tags": [
+      "muffins",
       "breakfast",
-      "fluffy",
-      "snack",
-      "sugar-free-friendly",
-      "sweet-smoked-paprika",
-      "uruguayan",
-      "whole-wheat"
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 28,
+    "totalTimeMin": 37,
     "shard": "t"
   },
   {
@@ -10283,16 +10279,15 @@
   },
   {
     "slug": "tender-syrian-chicken-pilaf",
-    "title": "Tender Syrian Chicken Pilaf",
+    "title": "Syrian Chicken Pilaf",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
+      "chicken",
+      "pilaf",
       "syrian",
-      "weeknight"
+      "easy-dinner"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 55,
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -11477,14 +11472,12 @@
     "title": "Japanese Beef Sandwich",
     "tags": [
       "beef",
-      "easy-to-make",
-      "japanese",
-      "lunch",
       "sandwich",
-      "weeknight"
+      "japanese",
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
