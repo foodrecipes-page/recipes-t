@@ -1,0 +1,69 @@
+{
+  "slug": "thick-tender-japanese-beef-sandwich",
+  "title": "Japanese Beef Sandwich",
+  "description": "A simple and delicious sandwich recipe featuring thinly sliced Japanese beef, crispy lettuce, and tangy teriyaki sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Thinly sliced beef (sirloin or ribeye)",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Teriyaki sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "Buns",
+      "amount": "4"
+    },
+    {
+      "name": "Mayonnaise (optional)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pickled ginger (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Slice the beef into thin strips and season with salt and pepper.",
+    "2. Heat a non-stick skillet over medium-high heat.",
+    "3. Add the beef to the skillet and cook for 2-3 minutes per side, or until cooked to your desired level of doneness.",
+    "4. While the beef is cooking, toast the buns in the oven or on the grill.",
+    "5. Spread a layer of mayonnaise on the bottom bun, if using.",
+    "6. Add a few slices of beef to the bottom bun.",
+    "7. Add a few leaves of lettuce on top of the beef.",
+    "8. Drizzle a little teriyaki sauce over the lettuce.",
+    "9. Add the top bun and serve immediately.",
+    "10. Garnish with pickled ginger, if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "sandwich",
+    "japanese",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thick-tender-japanese-beef-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:36:19.662Z"
+}
