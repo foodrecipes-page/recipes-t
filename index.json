@@ -11872,15 +11872,14 @@
   },
   {
     "slug": "tofu-gazpacho",
-    "title": "Tofu Gazpacho",
+    "title": "Cold Tofu and Gazpacho Soup",
     "tags": [
-      "mexican-gazpacho",
-      "vegan-appetizer",
-      "silken-tofu",
-      "garlic-mint"
+      "cold",
+      "soup",
+      "summer"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
