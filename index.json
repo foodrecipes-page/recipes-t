@@ -5441,16 +5441,15 @@
   },
   {
     "slug": "tasty-ukrainian-prawns-stew",
-    "title": "Tasty Ukrainian Prawns Stew",
+    "title": "Tasty Ukrainian Prawn Stew",
     "tags": [
-      "gluten-free",
-      "low-sugar",
-      "one-pot",
-      "quick-dinner",
-      "seafood"
+      "stew",
+      "seafood",
+      "ukrainian",
+      "prawns"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
