@@ -1,0 +1,74 @@
+{
+  "slug": "tangy-dense-korean-apple-stir-fry",
+  "title": "Korean-Style Apple Stir Fry",
+  "description": "A sweet and savory stir fry featuring tender apples and spicy Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tangy Apple",
+      "amount": "2 large",
+      "notes": "Any variety will work, but firmer apples hold up better to stir-frying"
+    },
+    {
+      "name": "Dense Korean Chili Flakes",
+      "amount": "1 tsp",
+      "notes": "Also known as gochugaru, adjust to desired level of heat"
+    },
+    {
+      "name": "Stir Fry Oil",
+      "amount": "2 tbsp",
+      "notes": "Vegetable or peanut oil work well for high-heat stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "Low-sodium or regular, your choice"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "Optional, but adds nice crunch and flavor"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced apple and cook for 3-4 minutes, until tender.",
+    "Add the Korean chili flakes, soy sauce, and sesame seeds (if using). Stir-fry for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the apple mixture to a serving dish and garnish with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "apple",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-korean-apple-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T14:50:43.572Z"
+}
