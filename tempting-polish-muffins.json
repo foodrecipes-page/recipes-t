@@ -1,0 +1,71 @@
+{
+  "slug": "tempting-polish-muffins",
+  "title": "Polish Muffin Temptation",
+  "description": "A sweet dessert treat that combines Polish flavors with the classic muffin.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "muffin topping (Polish-style)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together butter, eggs, and vanilla extract.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Stir in the yogurt and muffin topping.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-25 minutes or until a toothpick inserted in the center comes out clean.",
+    "Let cool in the pan for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "muffin",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-polish-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:35:33.375Z"
+}
