@@ -1,0 +1,97 @@
+{
+  "slug": "tempting-twice-fried-moroccan-tofu-tagine",
+  "title": "Moroccan Twice-Fried Tofu Tagine",
+  "description": "A twist on traditional Moroccan tagine, this dish combines crispy fried tofu with the rich flavors of a traditional tagine.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "firm or extra-firm"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 teaspoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked or regular"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium",
+      "notes": "for the tagine"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 medium",
+      "notes": "for the tagine"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into 1-inch cubes and set aside.",
+    "2. In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "3. Add the tofu to the skillet and fry until golden brown on all sides, about 5 minutes.",
+    "4. Remove the tofu from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tablespoon of olive oil.",
+    "6. Add the diced onion and bell pepper to the skillet and cook until softened, about 5 minutes.",
+    "7. Add the Moroccan spice blend, cumin, paprika, salt, and black pepper to the skillet and cook for 1 minute.",
+    "8. Add the fried tofu back to the skillet and toss to coat with the spice mixture.",
+    "9. Transfer the tofu mixture to a serving dish and garnish with chopped parsley.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "tofu",
+    "tagine",
+    "lunch",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-twice-fried-moroccan-tofu-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:14:16.187Z"
+}
