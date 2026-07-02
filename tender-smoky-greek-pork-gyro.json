@@ -1,0 +1,95 @@
+{
+  "slug": "tender-smoky-greek-pork-gyro",
+  "title": "Greek Gyro",
+  "description": "A classic Greek street food featuring tender pork, smoky flavor, and a variety of fresh toppings.",
+  "cuisine": "Greek",
+  "diet": [
+    "pork",
+    "beef-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "gyro seasoning",
+      "amount": "2 teaspoons",
+      "notes": "available at most Greek markets or online"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled (optional)"
+    },
+    {
+      "name": "tzatziki sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "warm pita bread",
+      "amount": "4-6 pitas",
+      "notes": "sliced in half"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gyro seasoning, salt, and pepper.",
+    "Add the sliced pork to the bowl and toss to coat.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the pork to the skillet and cook for 5-7 minutes, or until browned and cooked through.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the gyros by spreading tzatziki sauce on the pita, followed by a few slices of pork, some red onion, tomato, and red bell pepper.",
+    "Top with feta cheese, if using, and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "gyro",
+    "pork",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-greek-pork-gyro",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:02:11.131Z"
+}
