@@ -5792,16 +5792,14 @@
   },
   {
     "slug": "tempting-polish-muffins",
-    "title": "Tempting Polish Muffins",
+    "title": "Polish Muffin Temptation",
     "tags": [
-      "glassy-jelly",
-      "low-fat",
-      "muffin-recipe",
-      "polish-cuisine",
-      "shio-koji"
+      "dessert",
+      "muffin",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -9763,17 +9761,15 @@
   },
   {
     "slug": "tender-smoky-greek-pork-gyro",
-    "title": "Tender Smoky Greek Pork Gyro",
+    "title": "Greek Gyro",
     "tags": [
-      "flexitarian-friendly",
-      "greek-food",
-      "pita-bread",
-      "smoky-flavors",
-      "tzatziki-sauce",
-      "weeknight-meal"
+      "greek",
+      "gyro",
+      "pork",
+      "street-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 140,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
