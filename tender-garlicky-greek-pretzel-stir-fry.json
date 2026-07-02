@@ -1,0 +1,85 @@
+{
+  "slug": "tender-garlicky-greek-pretzel-stir-fry",
+  "title": "Greek Garlic Chicken Wrap",
+  "description": "A flavorful and healthy Greek-inspired wrap filled with garlic chicken, tender greens, and crispy pretzels.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pretzels",
+      "amount": "1/4 cup crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tender lettuce",
+      "amount": "1 cup chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breast with salt, pepper, and garlic.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "In a small bowl, whisk together Greek yogurt and minced garlic.",
+    "In a large bowl, combine chopped lettuce, diced tomato, crumbled feta cheese, and crushed pretzels.",
+    "Slice grilled chicken and add to bowl with yogurt sauce.",
+    "Stir to combine and serve in a wrap or on a plate.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "chicken",
+    "wrap",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-garlicky-greek-pretzel-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:59.078Z"
+}
