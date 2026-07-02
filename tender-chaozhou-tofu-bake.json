@@ -1,0 +1,87 @@
+{
+  "slug": "tender-chaozhou-tofu-bake",
+  "title": "Baked Chaozhou Tofu",
+  "description": "A simple and flavorful dish from Chaozhou province, featuring tender tofu baked with a sweet and savory sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Chaozhou sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Baked rice vinegar",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a shallow dish, whisk together Chaozhou sauce, baked rice vinegar, honey, sesame oil, and garlic.",
+    "Add cubed tofu to the dish and toss to coat with the sauce.",
+    "Transfer the tofu to the prepared baking sheet and bake for 20-25 minutes, flipping halfway through.",
+    "Sprinkle basil and season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "tofu",
+    "baked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-chaozhou-tofu-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:44:20.589Z"
+}
