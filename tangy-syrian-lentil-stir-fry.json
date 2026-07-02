@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-syrian-lentil-stir-fry",
+  "title": "Syrian Lentil Stew",
+  "description": "A hearty, comforting stew made with lentils, onions, and spices. Serve over rice for a delicious and satisfying meal.",
+  "cuisine": "syrian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "any type of brown or green lentil works"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tangy tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "stir-fry spices",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin, coriander, and paprika"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lentils, tomato paste, and stir-fry spices. Cook for 1-2 minutes.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-stew",
+    "syrian-cuisine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-syrian-lentil-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:29:07.214Z"
+}
