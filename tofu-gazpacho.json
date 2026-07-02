@@ -1,0 +1,50 @@
+{
+  "slug": "tofu-gazpacho",
+  "title": "Cold Tofu and Gazpacho Soup",
+  "description": "A refreshing and light soup perfect for hot summer days. This recipe combines the creaminess of tofu with the flavors of gazpacho.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "extra-firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "gazpacho",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a blender, combine the cubed tofu and gazpacho.",
+    "Blend the mixture on high speed until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Chill the soup in the refrigerator for at least 30 minutes.",
+    "Serve the soup cold, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cold",
+    "soup",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tofu-gazpacho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:31:35.389Z"
+}
