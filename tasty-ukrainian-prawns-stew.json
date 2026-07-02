@@ -1,0 +1,94 @@
+{
+  "slug": "tasty-ukrainian-prawns-stew",
+  "title": "Tasty Ukrainian Prawn Stew",
+  "description": "A hearty and flavorful stew originating from Ukraine, featuring succulent prawns and a blend of spices.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "tasty stew seasoning",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": null
+    },
+    {
+      "name": "fish broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "white wine (optional)",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; sauté until softened, about 3-4 minutes.",
+    "Add prawns and cook until they start to turn pink, about 2-3 minutes.",
+    "Add carrots, potatoes, tomato paste, diced tomatoes, and fish broth.",
+    "If using white wine, add it now.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-12 minutes.",
+    "Season with tasty stew seasoning to taste.",
+    "Serve hot, garnished with chopped fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "seafood",
+    "ukrainian",
+    "prawns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-ukrainian-prawns-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:45:19.582Z"
+}
