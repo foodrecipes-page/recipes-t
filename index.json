@@ -7905,14 +7905,15 @@
   },
   {
     "slug": "tender-garlicky-greek-pretzel-stir-fry",
-    "title": "Tender Garlicky Greek Pretzel Stir-fry",
+    "title": "Greek Garlic Chicken Wrap",
     "tags": [
       "greek",
-      "stir-fry",
-      "keto-friendly"
+      "chicken",
+      "wrap",
+      "garlic"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
