@@ -1547,17 +1547,14 @@
   },
   {
     "slug": "tangy-dense-korean-apple-stir-fry",
-    "title": "Tangy Dense Korean Apple Stir-fry",
+    "title": "Korean-Style Apple Stir Fry",
     "tags": [
-      "tangy",
-      "dense",
       "korean",
       "apple",
-      "hangover-cure",
-      "low-calorie"
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -2005,16 +2002,14 @@
   },
   {
     "slug": "tangy-flaky-tunisian-icing-sugar-tagine",
-    "title": "Tangy Flaky Tunisian Icing Sugar Tagine",
+    "title": "Tunisian Tagine Tart",
     "tags": [
-      "breakfast",
-      "dessert",
-      "savory",
       "sweet",
-      "tunisian",
-      "weeknight"
+      "savory",
+      "tart",
+      "pastry"
     ],
-    "cuisine": "tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 45,
     "shard": "t"
   },
@@ -7764,17 +7759,16 @@
   },
   {
     "slug": "tender-fluffy-middle-eastern-cornmeal-maqluba",
-    "title": "Tender Fluffy Middle Eastern Cornmeal Maqluba",
+    "title": "Traditional Middle Eastern Cornmeal Pancakes (Maqluba)",
     "tags": [
-      "cornmeal",
-      "crowd-pleaser",
-      "lotus-leaf-wrap",
-      "maqluba",
       "middle-eastern",
-      "weeknight"
+      "pancakes",
+      "breakfast",
+      "snack",
+      "cornmeal"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
