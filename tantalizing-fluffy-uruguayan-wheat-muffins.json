@@ -1,0 +1,79 @@
+{
+  "slug": "tantalizing-fluffy-uruguayan-wheat-muffins",
+  "title": "Uruguayan Muffin Breakfast",
+  "description": "A simple breakfast recipe blending Uruguayan and American flavors, resulting in a delicious and fluffy treat.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tantalizing wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fluffy sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Uruguayan milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Muffin mix-ins (your choice)",
+      "notes": "e.g., blueberries, chocolate chips"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together milk, melted butter, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Do not overmix.",
+    "Spoon the batter into the prepared muffin tin.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow the muffins to cool in the tin for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "muffins",
+    "breakfast",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tantalizing-fluffy-uruguayan-wheat-muffins",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T05:57:04.911Z"
+}
