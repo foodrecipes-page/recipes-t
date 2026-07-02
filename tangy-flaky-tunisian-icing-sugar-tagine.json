@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-flaky-tunisian-icing-sugar-tagine",
+  "title": "Tunisian Tagine Tart",
+  "description": "A sweet and savory pastry filled with a tangy tagine filling, made with flaky pastry and topped with a sweet icing. Perfect for a snack or dessert.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaky pastry",
+      "amount": "1 sheet, thawed",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup, homemade or store-bought",
+      "notes": "see note"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup, granulated",
+      "notes": "optional"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores or online"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the flaky pastry to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9-inch tart pan with a removable bottom.",
+    "In a small bowl, mix together the tagine, sugar, and tunisian spice blend.",
+    "Pour the tagine mixture into the pastry shell.",
+    "Bake for 25-30 minutes, or until the pastry is golden brown and the filling is set.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Transfer the tart to a wire rack to cool completely.",
+    "Once the tart has cooled, drizzle with a sweet icing made from powdered sugar and water."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "savory",
+    "tart",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-tunisian-icing-sugar-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:55:28.251Z"
+}
