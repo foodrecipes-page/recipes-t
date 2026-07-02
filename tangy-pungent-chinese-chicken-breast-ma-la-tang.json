@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-pungent-chinese-chicken-breast-ma-la-tang",
+  "title": "Tangy Chinese Chicken Breast",
+  "description": "A simple and flavorful dish that combines the tanginess of ma la sauce with the richness of chicken breast.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ma la sauce",
+      "amount": "2 tbsp",
+      "notes": "tangy and pungent"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "enhances flavor"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "balances tanginess"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "adds nutty flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper.",
+    "In a small bowl, whisk together ma la sauce, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the chicken breast to the bowl and coat with the sauce.",
+    "Heat a skillet over medium-high heat and add sesame oil. Sear the chicken breast for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve with green onions and additional ma la sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "chicken",
+    "easy-dinner",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-pungent-chinese-chicken-breast-ma-la-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:40:19.260Z"
+}
