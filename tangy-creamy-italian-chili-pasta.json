@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-creamy-italian-chili-pasta",
+  "title": "Creamy Italian Pasta Bake",
+  "description": "A comforting, creamy pasta bake with a tangy kick, inspired by Italian flavors.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or rotini work well"
+    },
+    {
+      "name": "chili",
+      "amount": "1 can",
+      "notes": "diced tomatoes with green chilies"
+    },
+    {
+      "name": "italian",
+      "amount": "2 tbsp",
+      "notes": "dried herbs like oregano and basil"
+    },
+    {
+      "name": "tangy",
+      "amount": "1 cup",
+      "notes": "sour cream or Greek yogurt"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "mascarpone or ricotta cheese"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, combine chili, Italian seasoning, salt, and pepper.",
+    "Stir in tangy and creamy ingredients until smooth.",
+    "Combine cooked pasta and chili mixture in a large bowl.",
+    "Transfer to a baking dish and top with additional Italian seasoning if desired.",
+    "Bake for 20-25 minutes or until hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-italian-chili-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:06:56.115Z"
+}
