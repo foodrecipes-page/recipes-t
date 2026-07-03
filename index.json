@@ -102,17 +102,15 @@
   },
   {
     "slug": "tan-tastic-australian-lamb-tagine",
-    "title": "Tan-tastic Australian Lamb Tagine",
+    "title": "Lamb Tagine with Australian Tan",
     "tags": [
-      "australian",
-      "easy-dinner",
       "lamb",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "australian",
+      "moroccan"
     ],
-    "cuisine": "australian",
-    "totalTimeMin": 140,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
@@ -2705,16 +2703,15 @@
   },
   {
     "slug": "tangy-juicy-british-chicken-curry",
-    "title": "Tangy Juicy British Chicken Curry",
+    "title": "British-Style Chicken Curry",
     "tags": [
-      "british-cuisine",
-      "chicken-recipes",
-      "curry-dishes",
-      "tamarind-recipes",
-      "high-protein-meals"
+      "british",
+      "chicken",
+      "curry",
+      "easy"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 40,
+    "cuisine": "british",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -3953,20 +3950,15 @@
   },
   {
     "slug": "tangy-tender-festive-saudia-cauliflower-stir-fry",
-    "title": "Tangy Tender Festive Saudia Cauliflower Stir-fry",
+    "title": "Stir-Fried Cauliflower with Saudi Spice",
     "tags": [
-      "tangy",
-      "tender",
-      "festive",
-      "saudia",
-      "arabian",
-      "middle-eastern",
-      "stir-fry",
       "cauliflower",
-      "mediterranean-friendly"
+      "saudi-spice",
+      "stir-fry",
+      "veggie-dish"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "totalTimeMin": 17,
     "shard": "t"
   },
   {
