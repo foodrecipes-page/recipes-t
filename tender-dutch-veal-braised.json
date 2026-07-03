@@ -1,0 +1,96 @@
+{
+  "slug": "tender-dutch-veal-braised",
+  "title": "Braised Veal Chops with Mushrooms and Onions",
+  "description": "A rich and flavorful veal dish cooked in a mixture of red wine and stock, served with tender vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal chops",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "large onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "dried rosemary",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Season the veal chops with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal chops until browned, about 2-3 minutes per side.",
+    "Remove the veal from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the mushrooms to the pot and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil.",
+    "Scrape up any browned bits from the bottom of the pot.",
+    "Add the beef broth, tomato paste, thyme, and rosemary to the pot.",
+    "Return the veal chops to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Braise the veal for 20-25 minutes, or until tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the veal chops with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "braised",
+    "veal",
+    "chops",
+    "mushrooms",
+    "onions"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-dutch-veal-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:00:58.964Z"
+}
