@@ -6928,17 +6928,15 @@
   },
   {
     "slug": "tender-charred-korean-lamb-kebabs",
-    "title": "Tender Charred Korean Lamb Kebabs",
+    "title": "Korean-Style Charred Lamb Kebabs",
     "tags": [
-      "grilled-meats",
-      "keto-friendly",
-      "low-carb",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "korean",
+      "lamb",
+      "kebabs",
+      "grilled"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -7247,17 +7245,16 @@
   },
   {
     "slug": "tender-crunchy-egyptian-bamboo-shoot-tagine",
-    "title": "Tender Crunchy Egyptian Bamboo Shoot Tagine",
+    "title": "Egyptian Bamboo Shoot Tagine",
     "tags": [
-      "egyptian",
-      "gluten-free",
-      "low-fodmap",
-      "one-pan",
+      "north-african",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "stew",
+      "lunch"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -11404,17 +11401,15 @@
   },
   {
     "slug": "thick-fermented-thai-cola-stew",
-    "title": "thick fermented thai cola stew",
+    "title": "Spicy Stew",
     "tags": [
-      "fish",
-      "gluten-free",
-      "one-pan",
+      "spicy",
+      "fermented",
       "stew",
-      "thai",
-      "weeknight"
+      "thai"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
