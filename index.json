@@ -1318,14 +1318,16 @@
   },
   {
     "slug": "tangy-crunchy-ferment-crumble",
-    "title": "Tangy Crunchy Ferment Crumble",
+    "title": "Tangy Ferment and Crunchy Salad",
     "tags": [
-      "slovakian-dish",
-      "tangy-crunchy-ferment-crumble",
-      "gluten-free-friendly"
+      "ferment",
+      "crunchy",
+      "salad",
+      "lunch",
+      "snack"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -7367,19 +7369,17 @@
   },
   {
     "slug": "tender-dutch-veal-braised",
-    "title": "Tender Dutch Veal Braised",
+    "title": "Braised Veal Chops with Mushrooms and Onions",
     "tags": [
+      "italian",
       "braised",
-      "comfort-food",
-      "dutch",
-      "high-protein",
-      "lazy-sunday",
-      "one-pan",
-      "slow-cook",
-      "weeknight"
+      "veal",
+      "chops",
+      "mushrooms",
+      "onions"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 170,
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -8714,17 +8714,16 @@
   },
   {
     "slug": "tender-malty-korean-mint-anju",
-    "title": "Tender Malty Korean Mint Anju",
+    "title": "Sweet Anju Pancakes",
     "tags": [
-      "easy-snack",
-      "jeju-inspired",
-      "korean-cuisine",
-      "malty-flavor",
-      "plant-based",
-      "tofu-recipe"
+      "dessert",
+      "breakfast",
+      "pancakes",
+      "sweet",
+      "anju"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
