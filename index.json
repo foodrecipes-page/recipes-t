@@ -8009,14 +8009,12 @@
   },
   {
     "slug": "tender-greek-fish-fry",
-    "title": "Tender Greek Fish Fry",
+    "title": "Pan-Seared Fish with Lemon and Herbs",
     "tags": [
-      "fish-recipe",
-      "greek-cuisine",
-      "healthy-options",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "lemon",
+      "herbs",
+      "greek"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 22,
@@ -9131,16 +9129,16 @@
   },
   {
     "slug": "tender-peruvian-smoked-mackerel-rocoto-relleno",
-    "title": "Tender Peruvian Smoked Mackerel Rocoto Relleno",
+    "title": "Smoked Mackerel Relleno",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "quinoa",
-      "seafood"
+      "peruvian",
+      "smoked",
+      "mackerel",
+      "relleno",
+      "snack"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
