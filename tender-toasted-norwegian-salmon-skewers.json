@@ -1,0 +1,90 @@
+{
+  "slug": "tender-toasted-norwegian-salmon-skewers",
+  "title": "Norwegian Salmon Skewers with Toasted Balsamic Glaze",
+  "description": "A healthy and flavorful salmon skewer recipe with toasted balsamic glaze, perfect for a light dinner or lunch.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Tender bamboo skewers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Toast",
+      "amount": "1 baguette, toasted",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the grill to 400°F (200°C).",
+    "2. Cut the salmon fillets into 1-inch cubes.",
+    "3. Thread the salmon cubes onto the bamboo skewers, leaving a small space between each piece.",
+    "4. Brush the olive oil onto the salmon skewers and season with salt and pepper.",
+    "5. Grill the skewers for 8-10 minutes, flipping halfway through.",
+    "6. Meanwhile, toast the balsamic vinegar and honey in a saucepan over medium heat until caramelized.",
+    "7. Brush the toasted balsamic glaze onto the grilled salmon skewers.",
+    "8. Serve the skewers on top of toasted bread, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "skewers",
+    "grill",
+    "summer",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-toasted-norwegian-salmon-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:50:11.187Z"
+}
