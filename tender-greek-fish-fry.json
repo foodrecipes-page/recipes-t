@@ -1,0 +1,72 @@
+{
+  "slug": "tender-greek-fish-fry",
+  "title": "Pan-Seared Fish with Lemon and Herbs",
+  "description": "A simple and flavorful dish that showcases the tender fish with a zesty lemon and herb sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Fish Fillets",
+      "amount": "4",
+      "notes": "any firm white fish such as cod or snapper"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Greek Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the fish with salt and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the fish and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the oven and bake for 8-10 minutes, or until cooked through.",
+    "Stir in the lemon juice and parsley.",
+    "Serve the fish hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "lemon",
+    "herbs",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-greek-fish-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:54:42.414Z"
+}
