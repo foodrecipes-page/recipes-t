@@ -676,18 +676,15 @@
   },
   {
     "slug": "tangy-creamy-italian-chili-pasta",
-    "title": "Tangy Creamy Italian Chili Pasta",
+    "title": "Creamy Italian Pasta Bake",
     "tags": [
-      "vegetarian",
-      "creamy",
       "italian",
       "pasta",
-      "chili",
-      "monsoon",
-      "quick"
+      "creamy",
+      "comfort-food"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 28,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -12301,15 +12298,13 @@
   },
   {
     "slug": "truffle-oil-topped-ethiopian-lardons-dulet",
-    "title": "Truffle Oil Topped Ethiopian Lardons Dulet",
+    "title": "Dulet Truffle Hash",
     "tags": [
-      "dulet",
+      "breakfast",
       "ethiopian",
-      "gluten-free",
-      "lardons",
       "truffle",
-      "vegan",
-      "weeknight"
+      "lardons",
+      "dulet"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
