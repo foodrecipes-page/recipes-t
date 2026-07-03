@@ -1,0 +1,72 @@
+{
+  "slug": "tranquil-korean-malai-jjigae",
+  "title": "Spicy Malai Jjigae",
+  "description": "A spicy Korean-inspired stew using malai and tranquil ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "translucent tranquil noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "malai sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "or more to desired consistency"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add garlic and ginger; cook until fragrant.",
+    "Add chili flakes and cook for 1 minute.",
+    "Add malai sauce and stir to combine.",
+    "Add noodles, water, and stir to coat.",
+    "Bring to a boil; reduce heat and simmer for 10 minutes.",
+    "Adjust seasoning as needed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 80,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tranquil-korean-malai-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:55:54.793Z"
+}
