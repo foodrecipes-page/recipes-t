@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-juicy-british-chicken-curry",
+  "title": "British-Style Chicken Curry",
+  "description": "A classic British dish that combines tender chicken with a rich, tangy curry sauce. Serve over rice or with naan bread for a satisfying meal.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "mild or spicy, to taste"
+    },
+    {
+      "name": "tangy yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain or flavored, to taste"
+    },
+    {
+      "name": "juicy tomatoes",
+      "amount": "1 can (14 ounces)",
+      "notes": "diced or crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the curry powder and cook for 1 minute.",
+    "Add the tomatoes, yogurt, garam masala, salt, and pepper. Stir to combine.",
+    "Return the chicken to the skillet and simmer until cooked through, about 5-7 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "chicken",
+    "curry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-british-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:37:34.558Z"
+}
