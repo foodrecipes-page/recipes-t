@@ -1,0 +1,61 @@
+{
+  "slug": "tender-caramelized-syrian-broccoli-pilaf",
+  "title": "Caramelized Broccoli Pilaf",
+  "description": "A flavorful and healthy pilaf dish made with caramelized broccoli and tender Syrian rice.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Caramelized broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the caramelized broccoli and cook for 2-3 minutes.",
+    "Add the Syrian rice and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-caramelized-syrian-broccoli-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T07:26:05.542Z"
+}
