@@ -1,0 +1,75 @@
+{
+  "slug": "tempting-molten-vietnamese-semolina-grill",
+  "title": "Grilled Semolina Cakes with Molten Chocolate Sauce",
+  "description": "A decadent dessert featuring crispy semolina cakes paired with a rich and gooey molten chocolate sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "grill",
+      "amount": "null"
+    },
+    {
+      "name": "molten chocolate sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tempting",
+      "amount": "1/4 cup (optional)"
+    },
+    {
+      "name": "vietnamese coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together semolina, coconut milk, eggs, and sugar.",
+    "Heat a non-stick skillet or grill pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the semolina mixture into the skillet.",
+    "Cook for 2-3 minutes or until the bottom is golden brown.",
+    "Flip the cakes and cook for an additional 2 minutes.",
+    "Serve the semolina cakes with molten chocolate sauce and tempting toppings (if using).",
+    "To make the molten chocolate sauce, melt 1 cup of chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval until smooth.",
+    "Stir in 1 tablespoon of heavy cream to thin the sauce.",
+    "Bring the sauce to a simmer over low heat and cook for 2-3 minutes or until heated through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "semolina",
+    "cakes",
+    "grilled",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-molten-vietnamese-semolina-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:47:41.285Z"
+}
