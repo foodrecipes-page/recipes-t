@@ -1,0 +1,75 @@
+{
+  "slug": "tender-peruvian-smoked-mackerel-rocoto-relleno",
+  "title": "Smoked Mackerel Relleno",
+  "description": "A Peruvian-inspired dish featuring tender smoked mackerel wrapped in a flavorful rocoto pepper relleno. Perfect for a light lunch or snack.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked mackerel",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Rocoto peppers",
+      "amount": "4"
+    },
+    {
+      "name": "Peruvian aji amarillo peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Tender onions",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cut the tops off the rocoto peppers and remove the seeds and membranes.",
+    "In a pan, sauté the onions and aji amarillo peppers until softened.",
+    "Add the smoked mackerel to the pan and break it up with a spoon.",
+    "Season with salt, black pepper, and lime juice.",
+    "Stuff each rocoto pepper with the mackerel mixture.",
+    "Place the peppers in a baking dish and cover with foil.",
+    "Bake for 15-20 minutes, or until the peppers are tender.",
+    "Garnish with fresh cilantro and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "smoked",
+    "mackerel",
+    "relleno",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-peruvian-smoked-mackerel-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T22:07:23.517Z"
+}
