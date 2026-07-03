@@ -1,0 +1,81 @@
+{
+  "slug": "tender-crunchy-egyptian-bamboo-shoot-tagine",
+  "title": "Egyptian Bamboo Shoot Tagine",
+  "description": "A traditional North African stew originating from Morocco, typically cooked in a clay pot called a tagine. This recipe uses tender bamboo shoots and a variety of spices for a flavorful and authentic dish.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egyptian tagine spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Tender",
+      "amount": "1 bunch of parsley"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/4 cup chopped almonds"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Dried mint",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the bamboo shoots, tagine spice blend, dried mint, salt, and black pepper.",
+    "Mix well to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Stir in the chopped parsley and cook for an additional 2-3 minutes.",
+    "Serve hot, garnished with additional parsley and almonds if desired.",
+    "Taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "stew",
+    "lunch"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crunchy-egyptian-bamboo-shoot-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:10:06.449Z"
+}
