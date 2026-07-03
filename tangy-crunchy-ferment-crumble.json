@@ -1,0 +1,62 @@
+{
+  "slug": "tangy-crunchy-ferment-crumble",
+  "title": "Tangy Ferment and Crunchy Salad",
+  "description": "A refreshing salad with a tangy ferment and crunchy elements. Perfect for a light lunch or snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fermented Cabbage",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Crunchy Apples",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tangy Carrots",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Crumbly Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the shredded fermented cabbage, diced apples, and grated carrots.",
+    "2. In a small bowl, crumble the feta cheese.",
+    "3. Add the crumbled feta cheese to the bowl with the other ingredients.",
+    "4. Toss the salad gently to combine.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "ferment",
+    "crunchy",
+    "salad",
+    "lunch",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-ferment-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:18:00.179Z"
+}
