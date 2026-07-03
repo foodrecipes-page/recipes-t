@@ -2595,18 +2595,15 @@
   },
   {
     "slug": "tangy-irish-pork-roast",
-    "title": "Tangy Irish Pork Roast",
+    "title": "Irish Pork Roast",
     "tags": [
       "irish",
       "pork",
       "roast",
-      "tangy",
-      "energizing",
-      "nut-free",
-      "tadka"
+      "bbq"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 40,
+    "cuisine": "Irish",
+    "totalTimeMin": 135,
     "shard": "t"
   },
   {
@@ -5753,16 +5750,16 @@
   },
   {
     "slug": "tempting-molten-vietnamese-semolina-grill",
-    "title": "Tempting Molten Vietnamese Semolina Grill",
+    "title": "Grilled Semolina Cakes with Molten Chocolate Sauce",
     "tags": [
-      "grilled-chicken",
-      "meal-prep",
-      "sesame-oil",
-      "vietnamese-cuisine",
-      "wine-based-sauce"
+      "chocolate",
+      "semolina",
+      "cakes",
+      "grilled",
+      "dessert"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -7414,17 +7411,16 @@
   },
   {
     "slug": "tender-earthy-british-beet-casserole",
-    "title": "Tender Earthy British Beet Casserole",
+    "title": "Beet and Earthy British Casserole",
     "tags": [
-      "vegetarian",
-      "gluten-free",
-      "beet",
-      "casserole",
+      "beets",
       "british",
-      "nostalgic"
+      "casserole",
+      "mushrooms",
+      "vegetarian"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 75,
     "shard": "t"
   },
   {
@@ -12060,15 +12056,15 @@
   },
   {
     "slug": "treacle-delight",
-    "title": "Treacle Delight",
+    "title": "Delightfully Sweet Treacle Tart",
     "tags": [
-      "thai-dish",
-      "savory-curry",
-      "creamy-sauce",
-      "treacle-dish"
+      "treacle",
+      "tart",
+      "dessert",
+      "british"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "British",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
