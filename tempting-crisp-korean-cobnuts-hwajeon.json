@@ -1,0 +1,82 @@
+{
+  "slug": "tempting-crisp-korean-cobnuts-hwajeon",
+  "title": "Crisp Korean Hwajeon with Cobnut Garnish",
+  "description": "A traditional Korean-style hwajeon pancake infused with a crunchy cobnut garnish, perfect for a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cobnuts",
+      "amount": "2 cups, husked and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ground rice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili powder (gochugaru)",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Hwajeon batter mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine chopped cobnuts, chili flakes, flour, ground rice, and scallions in a bowl.",
+    "Add the hwajeon batter mix and mix well.",
+    "Heat oil in a non-stick pan over medium heat.",
+    "Using a ladle, pour the batter mixture into the pan.",
+    "Cook for 2-3 minutes on the first side, until the edges start to curl.",
+    "Flip the pancake and cook for another 2 minutes, until golden brown.",
+    "Garnish with additional chopped cobnuts and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "snack",
+    "pancake",
+    "cobnuts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-crisp-korean-cobnuts-hwajeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:05:52.301Z"
+}
