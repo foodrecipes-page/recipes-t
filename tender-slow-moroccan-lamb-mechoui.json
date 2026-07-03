@@ -1,0 +1,82 @@
+{
+  "slug": "tender-slow-moroccan-lamb-mechoui",
+  "title": "Braised Mechoui Lamb Shoulder",
+  "description": "A traditional Moroccan dish, slow-cooked lamb shoulder with tender meat and rich flavors.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, black pepper, cumin, coriander, and cinnamon.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for 1 minute.",
+    "Add the browned lamb shoulder back to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until the meat is tender and falls apart easily.",
+    "Remove the lamb from the pot and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-shoulder",
+    "braised-lamb",
+    "moranoccan-cuisine",
+    "slow-cooked-lamb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slow-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:33:27.827Z"
+}
