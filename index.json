@@ -10367,18 +10367,14 @@
   },
   {
     "slug": "tender-tasty-british-chicken-afternoon-tea-sandwich",
-    "title": "Tender Tasty British Chicken Afternoon Tea Sandwich",
+    "title": "Chicken Tea Sandwich",
     "tags": [
-      "afternoon-tea",
-      "british-cuisine",
-      "fermented-food",
-      "gluten-free",
-      "snappy-sandwich",
-      "soy-free",
-      "tamasic-friendly"
+      "chicken",
+      "tea",
+      "sandwich"
     ],
     "cuisine": "British",
-    "totalTimeMin": 60,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -10568,16 +10564,15 @@
   },
   {
     "slug": "tender-toasted-norwegian-salmon-skewers",
-    "title": "Tender Toasted Norwegian Salmon Skewers",
+    "title": "Norwegian Salmon Skewers with Toasted Balsamic Glaze",
     "tags": [
-      "grilled",
-      "lotus-leaf-wrap",
-      "norwegian-cuisine",
-      "quick-fix",
-      "seafood",
-      "sugar-free-friendly"
+      "salmon",
+      "skewers",
+      "grill",
+      "summer",
+      "gluten-free"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Scandinavian",
     "totalTimeMin": 25,
     "shard": "t"
   },
