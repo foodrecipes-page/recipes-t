@@ -1,0 +1,62 @@
+{
+  "slug": "truffle-oil-topped-ethiopian-lardons-dulet",
+  "title": "Dulet Truffle Hash",
+  "description": "A flavorful and savory dish featuring Ethiopian dulet and truffle hash, finished with crispy lardons.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dulet",
+      "amount": "4 oz",
+      "notes": "Spicy Ethiopian sausage"
+    },
+    {
+      "name": "Truffle",
+      "amount": "1/4 cup, shaved",
+      "notes": "Fresh or dried truffle"
+    },
+    {
+      "name": "Lardons",
+      "amount": "6",
+      "notes": "Crispy fried pork belly"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add lardons and cook until crispy, about 5 minutes.",
+    "Remove lardons and set aside.",
+    "Add dulet to the pan and cook, breaking up with a spoon, until browned and cooked through, about 5-7 minutes.",
+    "Add shaved truffle and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve the dulet mixture topped with crispy lardons."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ethiopian",
+    "truffle",
+    "lardons",
+    "dulet"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/truffle-oil-topped-ethiopian-lardons-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:09.373Z"
+}
