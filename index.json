@@ -5565,17 +5565,15 @@
   },
   {
     "slug": "tempting-crisp-korean-cobnuts-hwajeon",
-    "title": "Tempting Crisp Korean Cobnuts Hwajeon",
+    "title": "Crisp Korean Hwajeon with Cobnut Garnish",
     "tags": [
-      "brunch-ideas",
-      "crispy-treats",
-      "korean-food",
-      "kosher-friendly",
-      "nut-based",
-      "tagine-cooking"
+      "korean",
+      "snack",
+      "pancake",
+      "cobnuts"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -6730,15 +6728,15 @@
   },
   {
     "slug": "tender-british-cassaba-gratin",
-    "title": "Tender British Cassaba Gratin",
+    "title": "Pan-Seared British Cassaba Gratin",
     "tags": [
-      "british-cuisine",
-      "low-fat",
-      "gluten-free",
-      "vegetarian"
+      "british",
+      "cassaba",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 55,
+    "cuisine": "british",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
