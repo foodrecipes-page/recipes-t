@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-irish-pork-roast",
+  "title": "Irish Pork Roast",
+  "description": "A classic Irish dish featuring a flavorful pork roast with a tangy twist.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork roast",
+      "amount": "2 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "tangy BBQ sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4-6",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Season the pork roast with salt and pepper.",
+    "Heat a large Dutch oven over medium-high heat. Sear the pork roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pork roast to a plate and set aside.",
+    "Add the chopped onion and minced garlic to the Dutch oven and sauté until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the Dutch oven and sauté for an additional 5 minutes.",
+    "Return the pork roast to the Dutch oven and pour in the tangy BBQ sauce.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Bake the pork roast for 20-25 minutes per pound, or until it reaches an internal temperature of 145°F (63°C).",
+    "Remove the pork roast from the oven and let it rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "pork",
+    "roast",
+    "bbq"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-irish-pork-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:25:00.490Z"
+}
