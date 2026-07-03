@@ -1,0 +1,96 @@
+{
+  "slug": "tan-tastic-australian-lamb-tagine",
+  "title": "Lamb Tagine with Australian Tan",
+  "description": "A flavorful and aromatic lamb tagine dish made with Australian lamb and a hint of tan.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lamb",
+      "amount": "1 pound",
+      "notes": "Boneless leg of lamb"
+    },
+    {
+      "name": "Tan",
+      "amount": "1 teaspoon",
+      "notes": "Middle Eastern spice blend"
+    },
+    {
+      "name": "Tastic salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Flaky sea salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For browning the lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Chili flake",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Reduce heat to medium and add the diced onion. Cook until softened, about 5 minutes.",
+    "Add the minced garlic, ground cumin, ground coriander, smoked paprika, and chili flake (if using). Cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with the tan, tastic salt, and enough water to cover the lamb.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the lamb for 2 1/2 hours, or until it's tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot.",
+    "Simmer the tagine over low heat for 10-15 minutes to allow the flavors to meld.",
+    "Serve the lamb hot, garnished with fresh herbs (such as parsley or cilantro) if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "australian",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tan-tastic-australian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:40:08.208Z"
+}
