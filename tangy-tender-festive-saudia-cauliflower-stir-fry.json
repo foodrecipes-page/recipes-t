@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-tender-festive-saudia-cauliflower-stir-fry",
+  "title": "Stir-Fried Cauliflower with Saudi Spice",
+  "description": "A flavorful and tender cauliflower dish with a hint of Saudi spice, perfect for a quick and healthy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons of lemon juice",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "festive",
+      "amount": "1 teaspoon of cumin powder",
+      "notes": "ground"
+    },
+    {
+      "name": "saudia",
+      "amount": "1 teaspoon of sumac powder",
+      "notes": "ground"
+    },
+    {
+      "name": "fry",
+      "amount": "2 tablespoons of olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the cauliflower and cook for 5 minutes, stirring occasionally.",
+    "Add the cumin powder, sumac powder, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 2 minutes, until the cauliflower is tender and lightly browned.",
+    "Stir in the lemon juice and cook for 1 minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "saudi-spice",
+    "stir-fry",
+    "veggie-dish"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-festive-saudia-cauliflower-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:34:53.049Z"
+}
