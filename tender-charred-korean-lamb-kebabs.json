@@ -1,0 +1,80 @@
+{
+  "slug": "tender-charred-korean-lamb-kebabs",
+  "title": "Korean-Style Charred Lamb Kebabs",
+  "description": "A flavorful and spicy dish featuring marinated lamb kebabs charred to perfection, served with a side of crispy kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 teaspoons",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together chili flakes, brown sugar, soy sauce, garlic, and sesame oil.",
+    "Add lamb cubes to the marinade and mix until coated.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush grill grates with oil to prevent sticking.",
+    "Grill kebabs for 8-10 minutes, or until lamb reaches 145°F (63°C) for medium-rare.",
+    "Flip kebabs and continue grilling for an additional 2-3 minutes.",
+    "Remove kebabs from grill and let rest for 5 minutes.",
+    "Serve with kimchi and garnish with green onions.",
+    "Optional: Brush kebabs with a little bit of sesame oil before serving for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "lamb",
+    "kebabs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-charred-korean-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:19:20.622Z"
+}
