@@ -10419,17 +10419,15 @@
   },
   {
     "slug": "tender-thai-inspired-indian-chicken-wings-khichdi-style",
-    "title": "Tender Thai-Inspired Indian Chicken Wings Khichdi-Style",
+    "title": "Tender Thai-Style Chicken Wings",
     "tags": [
-      "date-night",
-      "high-protein",
-      "kosher-friendly",
-      "one-pan",
-      "south-indian",
-      "weeknight"
+      "thai",
+      "chicken",
+      "wings",
+      "spicy"
     ],
-    "cuisine": "south indian",
-    "totalTimeMin": 60,
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
