@@ -1,0 +1,63 @@
+{
+  "slug": "tangy-crisp-slovakian-bread-toast",
+  "title": "Slovakian Open-Faced Toast",
+  "description": "A traditional Slovakian-inspired toast dish with crispy bread, tangy toppings, and a crunchy twist.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "preferably a dense, crusty bread"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "preferably toasted to a golden crisp"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1/4 cup",
+      "notes": "slovakian chutney or aioli"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1/2 cup",
+      "notes": "sour cream or plain yogurt"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1/2 cup",
+      "notes": "chopped fresh chives or scallions"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the toaster oven to 375°F (190°C).",
+    "2. Toast the bread slices for 2-3 minutes, or until crispy.",
+    "3. Spread the Slovakian chutney or aioli on top of the toasted bread slices.",
+    "4. Top with a dollop of tangy sour cream or yogurt.",
+    "5. Sprinkle chopped fresh chives or scallions on top.",
+    "6. Serve immediately, garnished with additional chives if desired.",
+    "7. Enjoy your Slovakian Open-Faced Toast!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "toast",
+    "open-faced",
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-slovakian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:13:26.511Z"
+}
