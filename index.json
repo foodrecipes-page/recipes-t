@@ -11529,15 +11529,14 @@
   },
   {
     "slug": "toast-show-off",
-    "title": "Toast Show Off",
+    "title": "Avocado Toast",
     "tags": [
-      "toast-show-off",
-      "algerian-dish",
-      "peppery-mushrooms",
-      "raw-friendly-snack"
+      "breakfast",
+      "avocado",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 18,
+    "cuisine": "american",
+    "totalTimeMin": 7,
     "shard": "t"
   },
   {
@@ -12346,16 +12345,15 @@
   },
   {
     "slug": "turkish-teppan-cooked-mediterranean-cheese-quesadilla",
-    "title": "Turkish Teppan-Cooked Mediterranean Cheese Quesadilla",
+    "title": "Turkish Quesadilla",
     "tags": [
-      "cheesy",
+      "turkish",
+      "quesadilla",
       "mediterranean",
-      "one-pan",
-      "teppan-cooked",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 18,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
