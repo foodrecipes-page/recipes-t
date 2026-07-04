@@ -1,0 +1,77 @@
+{
+  "slug": "tasty-light-syrian-bun-flatbread",
+  "title": "Syrian-Style Gyro Wrap",
+  "description": "A delicious and easy-to-make wrap filled with tasty syrian flatbread, juicy lamb, and crunchy veggies.",
+  "cuisine": "middle-eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian Flatbread",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Lamb",
+      "amount": "1 pound, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Tzatziki Sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta Cheese (optional)",
+      "amount": "1/4 cup, crumbled",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the lamb with salt, pepper, and any desired spices.",
+    "Grill the lamb for 3-4 minutes per side, or until cooked to your liking.",
+    "Warm the flatbread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "Assemble the wraps by spreading tzatziki sauce on the flatbread, followed by slices of lamb, cucumber, tomato, and red onion.",
+    "Top with feta cheese (if using) and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gyro",
+    "wrap",
+    "lamb",
+    "flatbread",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-light-syrian-bun-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:18:49.650Z"
+}
