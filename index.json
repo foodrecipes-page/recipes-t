@@ -5042,17 +5042,16 @@
   },
   {
     "slug": "tasty-light-syrian-bun-flatbread",
-    "title": "Syrian Bun Flatbread",
+    "title": "Syrian-Style Gyro Wrap",
     "tags": [
+      "gyro",
+      "wrap",
+      "lamb",
       "flatbread",
-      "herbal",
-      "middle-eastern",
-      "no-onion-no-garlic",
-      "snack",
-      "vegetarian"
+      "middle-eastern"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 50,
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -11525,17 +11524,15 @@
   },
   {
     "slug": "tingly-fatty-filipino-fish-soup",
-    "title": "Tingly Fatty Filipino Fish Soup",
+    "title": "Filipino Fish Soup",
     "tags": [
-      "energizing",
-      "fluffy",
-      "mirepoix",
-      "pescatarian",
-      "red-curry",
-      "sinigang"
+      "filipino",
+      "fish",
+      "soup",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -12201,17 +12198,15 @@
   },
   {
     "slug": "tropical-tuscan-egg-frittata",
-    "title": "Tropical Tuscan Egg Frittata",
+    "title": "Tuscan Frittata with Tropical Twist",
     "tags": [
-      "monsoon",
-      "one-pan",
-      "quick",
-      "springy",
-      "tadka",
+      "frittata",
+      "breakfast",
+      "italian",
       "tropical",
       "vegetarian"
     ],
-    "cuisine": "Tuscan",
+    "cuisine": "Italian",
     "totalTimeMin": 25,
     "shard": "t"
   },
