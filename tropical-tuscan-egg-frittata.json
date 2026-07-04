@@ -1,0 +1,85 @@
+{
+  "slug": "tropical-tuscan-egg-frittata",
+  "title": "Tuscan Frittata with Tropical Twist",
+  "description": "A classic Italian omelette with a tropical twist, featuring the sweetness of pineapple and the tanginess of mango.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "6",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Tuscan Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "High-quality olive oil"
+    },
+    {
+      "name": "Pineapple Chunks",
+      "amount": "1 cup",
+      "notes": "Fresh or canned pineapple"
+    },
+    {
+      "name": "Mango Slices",
+      "amount": "1/2 cup",
+      "notes": "Fresh or canned mango"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced red onion"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh basil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "High-quality salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Whisk the eggs in a large bowl and season with salt and pepper.",
+    "Heat the olive oil in a 9-inch (23cm) oven-safe skillet over medium heat.",
+    "Add the pineapple, mango, and red onion to the skillet. Cook for 2-3 minutes.",
+    "Pour the whisked eggs over the fruit mixture in the skillet.",
+    "Cook for 2-3 minutes or until the eggs start to set.",
+    "Transfer the skillet to the preheated oven and bake for 12-15 minutes or until the frittata is cooked through.",
+    "Remove the skillet from the oven and sprinkle the chopped basil over the top.",
+    "Let the frittata rest for 2-3 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "frittata",
+    "breakfast",
+    "italian",
+    "tropical",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-tuscan-egg-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:04:10.005Z"
+}
