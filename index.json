@@ -7929,17 +7929,15 @@
   },
   {
     "slug": "tender-golden-irish-oysters-tacos",
-    "title": "Tender Golden Irish Oysters Tacos",
+    "title": "Pan-Seared Golden Oysters",
     "tags": [
-      "easy-to-make",
-      "irish-cuisine",
-      "one-pan",
-      "seafood",
-      "tacos",
-      "weeknight"
+      "golden",
+      "oysters",
+      "appetizer",
+      "seafood"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 23,
+    "cuisine": "seafood",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
