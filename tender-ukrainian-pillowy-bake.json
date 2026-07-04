@@ -1,0 +1,66 @@
+{
+  "slug": "tender-ukrainian-pillowy-bake",
+  "title": "Ukrainian-Style Pierogi with Pillowy Dough",
+  "description": "A classic Ukrainian dish featuring tender dumplings filled with various ingredients, served with a side of fried onions. This recipe showcases a pillowy dough that's perfect for pierogi.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "Not hot, not cold"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Potato and cheese filling (see note)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, salt, and warm water. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Cover the dough with a damp cloth and let it rest for 30 minutes.",
+    "Divide the dough into 2 equal pieces and roll out each piece into a thin sheet.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the potato and cheese filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the pierogi.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for 5-7 minutes, or until they float to the surface.",
+    "Heat a skillet with a small amount of vegetable oil over medium heat.",
+    "Add the cooked pierogi to the skillet and cook until they're golden brown on both sides.",
+    "Serve the pierogi hot with a side of fried onions and sour cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "ukrainian-food",
+    "homemade-pasta"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ukrainian-pillowy-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:02:14.241Z"
+}
