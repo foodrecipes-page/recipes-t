@@ -1,0 +1,63 @@
+{
+  "slug": "tangy-chewy-ginger-festive-stir-fry",
+  "title": "Ginger Stir-Fry",
+  "description": "A simple and flavorful stir-fry made with ginger and your favorite ingredients. Serve as a quick lunch or dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 cups",
+      "notes": "mixed greens, chopped"
+    },
+    {
+      "name": "chewy",
+      "amount": "1 cup",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "festive",
+      "amount": "1 cup",
+      "notes": "edamame, shelled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and stir-fry for 1 minute.",
+    "Add the mixed greens and stir-fry for 2 minutes.",
+    "Add the rice noodles and edamame, stir-fry for 3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "stir-fry",
+    "ginger",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-ginger-festive-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:30:10.425Z"
+}
