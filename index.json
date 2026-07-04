@@ -1046,15 +1046,14 @@
   },
   {
     "slug": "tangy-croatian-berry-crumble",
-    "title": "Tangy Croatian Berry Crumble",
+    "title": "Croatian Berry Crumble",
     "tags": [
-      "tangy-croatian-berry-crumble",
-      "quick-fix-dish",
-      "halal-friendly",
-      "dessert-recipe"
+      "european",
+      "fruit",
+      "dessert"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 40,
+    "cuisine": "European",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -5625,17 +5624,14 @@
   },
   {
     "slug": "tempting-garlicky-japanese-pomegranate-okonomiyaki",
-    "title": "Tempting Garlicky Japanese Pomegranate Okonomiyaki",
+    "title": "Japanese Okonomiyaki with Pomegranate Glaze",
     "tags": [
-      "deep-fried",
-      "garlicky",
-      "japanese-cuisine",
-      "one-pan",
-      "pomegranate",
-      "vegetarian"
+      "japanese",
+      "okonomiyaki",
+      "vegan"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -7727,10 +7723,16 @@
   },
   {
     "slug": "tender-floral-mexican-quinoa-bowl",
-    "title": "Tender Floral Mexican Quinoa Bowl",
-    "tags": [],
+    "title": "Mexican Quinoa Bowl with Floral Tenders",
+    "tags": [
+      "mexican",
+      "quinoa",
+      "chicken",
+      "lunch",
+      "healthy"
+    ],
     "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -10278,17 +10280,14 @@
   },
   {
     "slug": "tender-tamarind-dutch-chicken-stew",
-    "title": "Tender Tamarind Dutch Chicken Stew",
+    "title": "Dutch Chicken Stew",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "copper-pot",
-      "dutch-cuisine",
-      "kid-friendly",
-      "one-pot"
+      "chicken",
+      "stew",
+      "dutch"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -11910,19 +11909,17 @@
   },
   {
     "slug": "tough-uruguayan-bread-sandwich",
-    "title": "Tough Uruguayan Bread Sandwich",
+    "title": "Uruguayan-Style Choripan Sandwich",
     "tags": [
-      "charred",
-      "easy",
-      "lunch",
-      "quick-fix",
-      "raw-friendly",
+      "uruguayan",
       "sandwich",
-      "tough-bread",
-      "uruguayan"
+      "grilled",
+      "sausage",
+      "chimichurri",
+      "chili"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
