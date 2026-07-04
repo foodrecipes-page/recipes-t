@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-turkish-shrimp-pilaf",
+  "title": "Shrimp and Pilaf",
+  "description": "A flavorful and easy-to-make Turkish-inspired dish featuring succulent shrimp and fluffy pilaf.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "tangy pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Add the cooked pilaf to the skillet and stir to combine with the shrimp and garlic.",
+    "Squeeze the lemon juice over the top and sprinkle with dried oregano, salt, and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "seafood",
+    "quick-cook",
+    "shrimp"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-turkish-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:33:44.109Z"
+}
