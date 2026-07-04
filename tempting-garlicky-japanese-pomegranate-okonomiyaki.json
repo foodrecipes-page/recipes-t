@@ -1,0 +1,77 @@
+{
+  "slug": "tempting-garlicky-japanese-pomegranate-okonomiyaki",
+  "title": "Japanese Okonomiyaki with Pomegranate Glaze",
+  "description": "A twist on the classic Japanese savory pancake, topped with a sweet and tangy pomegranate glaze.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tempting Tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained and crumbled"
+    },
+    {
+      "name": "Garlicky Ginger",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Japanese Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Okonomiyaki Sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Pomegranate Glaze",
+      "amount": "1/4 cup",
+      "notes": "see below"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Okonomiyaki Sauce, Soy Sauce (if using), and Sesame Seeds (if using).",
+    "Add crumbled tofu, minced ginger, and shredded cabbage to the bowl. Mix well.",
+    "Heat a non-stick pan or okonomiyaki pan over medium heat.",
+    "Pour the batter into the pan and cook for 2-3 minutes, until the bottom is golden brown.",
+    "Flip the pancake and cook for an additional 2-3 minutes, until the other side is also golden brown.",
+    "While the pancake is cooking, prepare the Pomegranate Glaze (see below).",
+    "Once the pancake is cooked, brush the Pomegranate Glaze on top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "okonomiyaki",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-garlicky-japanese-pomegranate-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:38:31.802Z"
+}
