@@ -5328,16 +5328,14 @@
   },
   {
     "slug": "tasty-toasted-mexican-tortilla-churros",
-    "title": "Toasted Mexican Tortilla Churros",
+    "title": "Tasty Churro Bites",
     "tags": [
-      "jain-friendly",
-      "mexican-food",
-      "snack-ideas",
-      "stone-bowl-recipes",
-      "vegetarian-recipes"
+      "churro",
+      "tortilla",
+      "mexican"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
