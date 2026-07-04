@@ -4208,17 +4208,15 @@
   },
   {
     "slug": "tangy-turkish-shrimp-pilaf",
-    "title": "Tangy Turkish Shrimp Pilaf",
+    "title": "Shrimp and Pilaf",
     "tags": [
-      "high-protein",
-      "kosher-friendly",
-      "meal-prep",
-      "one-pan",
-      "turkish-cuisine",
-      "weeknight"
+      "turkish",
+      "seafood",
+      "quick-cook",
+      "shrimp"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
