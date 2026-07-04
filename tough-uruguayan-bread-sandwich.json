@@ -1,0 +1,86 @@
+{
+  "slug": "tough-uruguayan-bread-sandwich",
+  "title": "Uruguayan-Style Choripan Sandwich",
+  "description": "A classic Uruguayan street food, this choripan sandwich features grilled chorizo sausage served on a crusty bun with chimichurri sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan chorizo sausage",
+      "amount": "1 pound",
+      "notes": "Look for sausage with a high percentage of pork for the best flavor"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 hoagie rolls",
+      "notes": "A crusty, slightly sweet bread is perfect for this sandwich"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "Argentinean in origin, this herby, tangy sauce is a perfect complement to the spicy sausage"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced red onion adds a sweet, crunchy texture to the sandwich"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds a bright, fresh flavor to the sandwich"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher salt or sea salt for the best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground black pepper is essential for this sandwich"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use high-quality, extra-virgin olive oil for the best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread the chorizo sausage onto skewers, if using.",
+    "Grill the chorizo sausage for 2-3 minutes per side, or until nicely charred and cooked through.",
+    "Meanwhile, toast the hoagie rolls on the grill or in a toaster.",
+    "Spread a layer of chimichurri sauce on the bottom half of each roll.",
+    "Add a few slices of grilled chorizo sausage on top of the sauce.",
+    "Top the sausage with thinly sliced red onion and a sprinkle of chopped parsley.",
+    "Season with salt and black pepper to taste.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "sandwich",
+    "grilled",
+    "sausage",
+    "chimichurri",
+    "chili"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tough-uruguayan-bread-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:23:24.362Z"
+}
