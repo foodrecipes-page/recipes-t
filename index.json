@@ -5352,18 +5352,15 @@
   },
   {
     "slug": "tasty-toasted-thai-tofu-khao-pad",
-    "title": "Tasty Toasted Thai Tofu Khao Pad",
+    "title": "Spicy Khao Pad with Tofu",
     "tags": [
-      "crispy",
-      "flavorful",
-      "jain-friendly",
-      "one-pan",
-      "thai-cuisine",
+      "thai",
       "vegetarian",
-      "wood-fired"
+      "stir-fry",
+      "easy"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -11580,15 +11577,15 @@
   },
   {
     "slug": "toasted-light-venezuelan-peanut-pilaf",
-    "title": "Toasted Light Venezuelan Peanut Pilaf",
+    "title": "Venezuelan Peanut Chicken Bowl",
     "tags": [
-      "snack",
-      "vegan-option",
-      "venezuelan-cuisine",
-      "weeknight"
+      "venezuelan",
+      "peanut",
+      "chicken",
+      "pilaf"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 25,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
