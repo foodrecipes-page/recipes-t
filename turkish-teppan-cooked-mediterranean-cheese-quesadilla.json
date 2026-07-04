@@ -1,0 +1,82 @@
+{
+  "slug": "turkish-teppan-cooked-mediterranean-cheese-quesadilla",
+  "title": "Turkish Quesadilla",
+  "description": "A creative twist on traditional quesadillas, blending the flavors of Turkey and the Mediterranean.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Phyllo Dough",
+      "amount": "1 package",
+      "notes": "available at most supermarkets or Mediterranean markets"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1 block",
+      "notes": "crumbly, salty cheese"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 bunch",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Sun-dried Tomatoes",
+      "amount": "1 jar",
+      "notes": "dried, salty tomatoes"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing phyllo dough"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turkish Red Pepper Flakes",
+      "amount": "1 tsp",
+      "notes": "optional, for added heat"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Thaw phyllo dough according to package instructions.",
+    "In a bowl, mix together feta cheese, spinach, sun-dried tomatoes, and garlic.",
+    "Brush phyllo dough with olive oil and sprinkle with Turkish red pepper flakes, if using.",
+    "Place a portion of the cheese mixture in the center of a phyllo sheet.",
+    "Fold the phyllo dough over the filling to form a triangle or square shape.",
+    "Brush the edges with olive oil and fold the dough to seal the quesadilla.",
+    "Repeat with remaining ingredients and assemble all quesadillas.",
+    "Place the quesadillas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until the phyllo dough is golden brown and crispy.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "quesadilla",
+    "mediterranean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkish-teppan-cooked-mediterranean-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:08:12.508Z"
+}
