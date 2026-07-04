@@ -1,0 +1,56 @@
+{
+  "slug": "toast-show-off",
+  "title": "Avocado Toast",
+  "description": "A simple and delicious breakfast recipe featuring mashed avocado on toast.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Toast",
+      "amount": "2 slices",
+      "notes": "Whole wheat or gluten-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast the bread until it is lightly browned.",
+    "Mash the avocado in a bowl until it is smooth.",
+    "Spread the mashed avocado on top of the toasted bread.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "avocado",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toast-show-off",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:36:19.812Z"
+}
