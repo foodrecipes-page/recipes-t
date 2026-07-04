@@ -1,0 +1,89 @@
+{
+  "slug": "toasted-light-venezuelan-peanut-pilaf",
+  "title": "Venezuelan Peanut Chicken Bowl",
+  "description": "A flavorful and nutritious bowl filled with chicken, peanuts, and spices, inspired by Venezuelan cuisine.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "toasted peanuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the cumin, smoked paprika, salt, and pepper to the skillet and cook for 1 minute.",
+    "Add the pilaf mix to the skillet and cook according to the package instructions.",
+    "Add the coconut milk to the skillet and bring to a simmer.",
+    "Return the chicken to the skillet and cook until the chicken is cooked through.",
+    "Stir in the peanuts and cook for an additional 1-2 minutes.",
+    "Serve the chicken and pilaf mixture over the peanuts and garnish with additional peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "venezuelan",
+    "peanut",
+    "chicken",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasted-light-venezuelan-peanut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:08:41.851Z"
+}
