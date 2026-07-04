@@ -1,0 +1,71 @@
+{
+  "slug": "tasty-toasted-thai-tofu-khao-pad",
+  "title": "Spicy Khao Pad with Tofu",
+  "description": "A quick and easy Thai-inspired stir-fry with crispy tofu and flavorful sauce. Serve over a bed of rice for a satisfying meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and cut into small cubes"
+    },
+    {
+      "name": "Khao",
+      "amount": "2 cups, cooked and fluffy"
+    },
+    {
+      "name": "Thai Red Curry Paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tasty Thai Basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Toasted Peanuts",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Pad Thai Sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of vegetable oil in a large skillet over medium-high heat.",
+    "Add the Thai Red Curry Paste and stir-fry for 1 minute.",
+    "Add the cubed tofu and stir-fry until golden brown.",
+    "Add the chopped Thai Basil and toasted peanuts, stir-fry for an additional minute.",
+    "Stir in the Pad Thai Sauce and cook for 2-3 minutes or until heated through.",
+    "Serve the spicy tofu mixture over a bed of cooked khao and enjoy!",
+    "Garnish with additional chopped basil and peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "vegetarian",
+    "stir-fry",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-thai-tofu-khao-pad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:19:07.165Z"
+}
