@@ -1,0 +1,57 @@
+{
+  "slug": "tangy-flaky-french-cheese-omelette",
+  "title": "French Cheese Omelette",
+  "description": "A classic French breakfast dish featuring a fluffy omelette filled with melted cheese. It's a simple yet satisfying way to start the day.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Large eggs are ideal for omelettes"
+    },
+    {
+      "name": "French cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "Comté or Gruyère work well in this recipe"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon",
+      "notes": "Unsalted butter is best for this recipe"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt until the whites and yolks are fully incorporated.",
+    "Heat the butter in a small non-stick pan over medium heat until it starts to foam.",
+    "Pour the egg mixture into the pan and let it cook for about 2-3 minutes, until the edges start to set.",
+    "Sprinkle the shredded cheese over half of the omelette and use a spatula to gently fold the other half over the cheese.",
+    "Reduce the heat to low and let the omelette cook for another minute, until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "french",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-french-cheese-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T11:06:23.052Z"
+}
