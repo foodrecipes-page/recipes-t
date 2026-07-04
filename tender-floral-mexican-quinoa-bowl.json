@@ -1,0 +1,83 @@
+{
+  "slug": "tender-floral-mexican-quinoa-bowl",
+  "title": "Mexican Quinoa Bowl with Floral Tenders",
+  "description": "A flavorful and nutritious bowl filled with tender chicken, quinoa, and a hint of floral spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "floral spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "peppers and onions",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together floral spice blend, cumin, chili powder, and lime juice.",
+    "3. Add the chicken breast to the bowl and toss to coat. Let marinate for at least 30 minutes.",
+    "4. Heat olive oil in a large skillet over medium-high heat. Add chicken and cook until browned on both sides, about 5-6 minutes per side.",
+    "5. Transfer chicken to a baking sheet and bake for 15-20 minutes, or until cooked through.",
+    "6. Cook quinoa according to package instructions.",
+    "7. In a large skillet, heat a little bit of olive oil over medium heat. Add peppers and onions and cook until tender.",
+    "8. To assemble the bowls, place a scoop of quinoa on the bottom, followed by sliced chicken, peppers and onions, and a sprinkle of salt.",
+    "9. Serve immediately and enjoy!",
+    "10. Garnish with additional floral spice blend and lime wedges, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "quinoa",
+    "chicken",
+    "lunch",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-floral-mexican-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:26:42.103Z"
+}
