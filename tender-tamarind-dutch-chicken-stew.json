@@ -1,0 +1,85 @@
+{
+  "slug": "tender-tamarind-dutch-chicken-stew",
+  "title": "Dutch Chicken Stew",
+  "description": "A hearty and flavorful stew made with tender chicken, tamarind, and dutch spices. Perfect for a cold winter evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "dutch spice blend",
+      "amount": "1 tsp",
+      "notes": "containing cumin, coriander, and turmeric"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for thickening"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 3-4 minutes.",
+    "Stir in the tamarind paste, dutch spice blend, and flour. Cook for 1 minute.",
+    "Gradually add the chicken broth, whisking continuously, and bring to a boil.",
+    "Return the chicken to the pot and add the stew.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the stew has thickened, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "dutch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tamarind-dutch-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:21:19.234Z"
+}
