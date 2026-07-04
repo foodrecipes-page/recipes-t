@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-croatian-berry-crumble",
+  "title": "Croatian Berry Crumble",
+  "description": "A sweet and tangy dessert featuring a mix of berries topped with a crunchy crumble mixture.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mixed Berries",
+      "amount": "2 cups",
+      "notes": "such as blueberries, strawberries and raspberries"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold Unsalted Butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Croatian Cheese Crumble",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together the berries and granulated sugar.",
+    "In a separate bowl, combine the all-purpose flour and cold unsalted butter until crumbly.",
+    "Add the Tangy Croatian Cheese Crumble to the flour mixture and stir until combined.",
+    "Transfer the berry mixture to a 9x9 inch baking dish.",
+    "Top the berries with the crumble mixture.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the fruit is tender.",
+    "Let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "fruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-croatian-berry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:52:24.854Z"
+}
