@@ -176,16 +176,15 @@
   },
   {
     "slug": "tangy-american-chicken-curry",
-    "title": "Tangy American Chicken Curry",
+    "title": "American-Style Chicken Curry",
     "tags": [
-      "buttery",
-      "halal-friendly",
-      "one-pot",
-      "quick",
-      "tangy"
+      "chicken",
+      "curry",
+      "american",
+      "easy"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
