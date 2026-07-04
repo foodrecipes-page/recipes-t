@@ -426,18 +426,16 @@
   },
   {
     "slug": "tangy-chewy-ginger-festive-stir-fry",
-    "title": "Tangy Chewy Ginger Festive Stir-fry",
+    "title": "Ginger Stir-Fry",
     "tags": [
-      "tangy",
-      "chewy",
-      "festive",
-      "ginger",
+      "asian",
       "stir-fry",
-      "slovakian",
-      "pescatarian"
+      "ginger",
+      "vegetarian",
+      "vegan"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -815,18 +813,17 @@
   },
   {
     "slug": "tangy-crisp-slovakian-bread-toast",
-    "title": "Tangy Crisp Slovakian Bread Toast",
+    "title": "Slovakian Open-Faced Toast",
     "tags": [
-      "crispy",
-      "easy",
-      "low-carb",
-      "post-workout",
-      "quick",
       "slovakian",
-      "tangy"
+      "toast",
+      "open-faced",
+      "breakfast",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 8,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -3881,12 +3878,14 @@
     "slug": "tangy-syrian-lentil-stir-fry",
     "title": "Syrian Lentil Stew",
     "tags": [
-      "lentil-stew",
-      "syrian-cuisine",
-      "vegan"
+      "lentil",
+      "stew",
+      "syrian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Syrian",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
