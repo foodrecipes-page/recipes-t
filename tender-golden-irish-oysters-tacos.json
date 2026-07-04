@@ -1,0 +1,74 @@
+{
+  "slug": "tender-golden-irish-oysters-tacos",
+  "title": "Pan-Seared Golden Oysters",
+  "description": "Delicious pan-seared oysters with a crunchy golden crust. A perfect appetizer or snack.",
+  "cuisine": "seafood",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "12 large oysters, shucked",
+      "amount": "12",
+      "notes": "Fresh oysters are a must for this dish"
+    },
+    {
+      "name": "1 cup panko breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the oysters with salt, pepper, and paprika.",
+    "Dredge the oysters in panko breadcrumbs, shaking off excess.",
+    "Add butter to the skillet and melt.",
+    "Add the oysters to the skillet, presentation side up.",
+    "Cook for 2-3 minutes or until golden brown.",
+    "Flip the oysters and cook for an additional 2 minutes.",
+    "Remove the oysters from the skillet and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "golden",
+    "oysters",
+    "appetizer",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-golden-irish-oysters-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:11:18.989Z"
+}
