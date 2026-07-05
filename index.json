@@ -1242,16 +1242,15 @@
   },
   {
     "slug": "tangy-crumbly-olive-crumble",
-    "title": "Tangy Crumbly Olive Crumble",
+    "title": "Olive Crumble Tarts",
     "tags": [
-      "tangy",
-      "crumbly",
-      "romantic",
-      "turkish",
-      "low-sodium-friendly"
+      "mediterranean",
+      "gluten-free",
+      "vegan",
+      "appetizer"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 5,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -3919,17 +3918,16 @@
   },
   {
     "slug": "tangy-tender-egg-white-stir-fry",
-    "title": "Tangy Tender Egg White Stir-fry",
+    "title": "Tangy Egg Stir Fry",
     "tags": [
-      "tangy",
-      "tender",
-      "turkish",
-      "veggie-friendly",
-      "keto",
-      "stir-fry"
+      "breakfast",
+      "egg",
+      "stir-fry",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 11,
+    "cuisine": "Asian",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
