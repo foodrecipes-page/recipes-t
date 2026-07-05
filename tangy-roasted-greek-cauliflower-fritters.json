@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-roasted-greek-cauliflower-fritters",
+  "title": "Greek Cauliflower Fritters",
+  "description": "A crispy and flavorful side dish made with roasted cauliflower and tangy fritters. Perfect as a snack or appetizer.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Tangy fritters",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Roasted red pepper",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pulse cauliflower in a food processor until it resembles rice.",
+    "In a large bowl, combine cauliflower, Greek yogurt, tangy fritters, roasted red pepper, garlic, salt, and black pepper. Mix well.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "Heat 1/2 inch (1 cm) of olive oil in a large non-stick skillet over medium heat. Add the patties and cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Transfer the fritters to a baking sheet and bake for an additional 5-7 minutes, until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower",
+    "greek",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-roasted-greek-cauliflower-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T02:08:14.617Z"
+}
