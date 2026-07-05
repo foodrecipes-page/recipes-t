@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
+  "title": "Peruvian Bean Empanadas",
+  "description": "These delicious empanadas are filled with a flavorful bean mixture and topped with a tangy crumbly crust.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package (8-10 empanadas)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tangy crumbly topping",
+      "amount": "1/4 cup (crumbly cheese mix)",
+      "notes": "optional"
+    },
+    {
+      "name": "Peruvian spices",
+      "amount": "1 tsp",
+      "notes": "paprika, cumin, coriander"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Beans, cooked",
+      "amount": "1 cup",
+      "notes": "see cooking instructions below"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together cannellini beans, peruvian spices, and olive oil.",
+    "Spoon a small amount of the bean mixture onto one half of each dough circle.",
+    "Fold the dough in half and press edges together to seal.",
+    "Brush tops of empanadas with olive oil and sprinkle with tangy crumbly topping (if using).",
+    "Bake empanadas for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "empanada",
+    "bean-filled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T00:21:14.342Z"
+}
