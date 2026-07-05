@@ -1,0 +1,97 @@
+{
+  "slug": "tempting-savory-british-chicken-skillet",
+  "title": "British Chicken Skillet",
+  "description": "A classic British-inspired dish made with chicken, vegetables, and a savory sauce, all cooked to perfection in a skillet.",
+  "cuisine": "british",
+  "diet": [
+    "dairy",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 boneless, skinless chicken breasts",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "large, oven-safe skillet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, sliced",
+      "notes": ""
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz mushrooms, sliced",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2-3 medium-sized potatoes, peeled and sliced",
+      "notes": ""
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup frozen peas",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup grated cheddar cheese",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup milk",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp butter",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in the skillet over medium-high heat.",
+    "Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 4-5 minutes.",
+    "Add the sliced potatoes and cook for 5 minutes, stirring occasionally.",
+    "Add the frozen peas and cook until thawed, about 2 minutes.",
+    "In a small bowl, whisk together the flour and milk until smooth.",
+    "Pour the milk mixture over the vegetables and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+    "Add the grated cheddar cheese and stir until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "chicken",
+    "skillet",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-savory-british-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:17:49.059Z"
+}
