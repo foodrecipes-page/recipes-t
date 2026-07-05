@@ -1,0 +1,62 @@
+{
+  "slug": "tangy-sweet-saudi-arabian-nectarine-skewers",
+  "title": "Grilled Nectarine Skewers with Arabian Spice",
+  "description": "A sweet and tangy dessert made with nectarine, perfect for warm weather. Inspired by the flavors of Saudi Arabia.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "4",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "tangy honey",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular honey"
+    },
+    {
+      "name": "skewers",
+      "amount": "1 set of 10-12 skewers",
+      "notes": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread nectarine pieces onto skewers, leaving a small space between each piece.",
+    "In a small bowl, mix together Arabian spice blend and tangy honey.",
+    "Brush the spice mixture evenly onto both sides of the nectarine pieces.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until the nectarine is caramelized and tender.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "grilled",
+    "nectarine",
+    "arabian-spice"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-sweet-saudi-arabian-nectarine-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T10:09:00.356Z"
+}
