@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-smoky-ethiopian-smoked-mackerel-dulet",
+  "title": "Smoked Mackerel Dulet",
+  "description": "A traditional Ethiopian-inspired dish made with smoked mackerel in a tangy sauce.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "Tangy",
+      "amount": "2 tbsp Ethiopian berbere spice",
+      "notes": "available at most Ethiopian markets or online"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "1 tsp ground cumin",
+      "notes": "use regular cumin if Ethiopian is not available"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the smoked mackerel fillets to the pan and cook for 2-3 minutes on each side.",
+    "Sprinkle the berbere spice and cumin over the mackerel and cook for 1 minute.",
+    "Transfer the mackerel to a plate and top with breadcrumbs and chopped cilantro.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "mackerel",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoky-ethiopian-smoked-mackerel-dulet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:50:02.919Z"
+}
