@@ -1,0 +1,88 @@
+{
+  "slug": "tangy-silky-ethiopian-pork-curry",
+  "title": "Tangy Ethiopian Pork Curry",
+  "description": "A flavorful and aromatic curry dish made with tender pork and a blend of spices, perfect for a weeknight meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian-style"
+    },
+    {
+      "name": "Tangy paste",
+      "amount": "1 tablespoon",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Silky tomato",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add pork, cook until browned, about 5 minutes.",
+    "Add curry powder, tangy paste, salt, and black pepper. Stir to combine.",
+    "Add diced tomatoes and water. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, until pork is tender, about 20 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "curry",
+    "ethiopian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-silky-ethiopian-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:45:29.469Z"
+}
