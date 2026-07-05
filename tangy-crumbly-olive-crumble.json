@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-crumbly-olive-crumble",
+  "title": "Olive Crumble Tarts",
+  "description": "A delicious and easy-to-make pastry filled with a tangy and crumbly olive mixture.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tangy crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place the dough circles in a mini muffin tin.",
+    "In a bowl, mix together the olives, olive oil, salt, and sugar.",
+    "Spoon the olive mixture into the dough-lined muffin tin.",
+    "Top each tart with a spoonful of crumble topping.",
+    "Bake for 20-25 minutes, or until the crust is golden brown.",
+    "Allow the tarts to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "gluten-free",
+    "vegan",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-olive-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:47:34.255Z"
+}
