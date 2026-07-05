@@ -1493,16 +1493,15 @@
   },
   {
     "slug": "tangy-dense-ethiopian-tomatoes-gomen",
-    "title": "Tangy Dense Ethiopian Tomatoes Gomen",
+    "title": "Gomen Besega",
     "tags": [
-      "easy-dinner",
       "ethiopian",
-      "one-pan",
-      "romantic",
-      "whole30"
+      "spinach",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -11904,19 +11903,15 @@
   },
   {
     "slug": "tranquil-briny-ukrainian-fernbrake-gosari-stew",
-    "title": "tranquil briny ukrainian fernbrake-gosari stew",
+    "title": "Gosari Stew with Briny Flair",
     "tags": [
-      "briny",
-      "gluten-free",
-      "high-protein",
-      "molten",
-      "one-pan",
-      "stew",
       "ukrainian",
-      "weeknight"
+      "mushroom",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 60,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
