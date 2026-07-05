@@ -1,0 +1,74 @@
+{
+  "slug": "tender-zhejiang-squid-salt-and-pepper-squid",
+  "title": "Pan-Seared Squid with Zhejiang Sauce",
+  "description": "A flavorful and spicy dish featuring pan-seared squid in a Zhejiang-inspired sauce. Perfect for a quick dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "4 pieces",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Tender",
+      "amount": "1 bunch",
+      "notes": "green onions, chopped"
+    },
+    {
+      "name": "Zhejiang",
+      "amount": "2 cloves",
+      "notes": "ginger, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 teaspoon",
+      "notes": "black pepper, ground"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium-high heat.",
+    "Add the squid pieces and cook for 2-3 minutes per side, until browned.",
+    "Remove the squid from the pan and set aside.",
+    "In the same pan, add another tablespoon of oil and cook the minced ginger over medium heat for 1 minute.",
+    "Add the chopped green onions and cook for another minute.",
+    "Add the cooked squid back into the pan and stir to combine with the ginger and green onion mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "seafood",
+    "squid",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-zhejiang-squid-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:04:47.622Z"
+}
