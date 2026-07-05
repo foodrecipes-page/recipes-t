@@ -1,0 +1,66 @@
+{
+  "slug": "tadka-scrambled-eggs",
+  "title": "Indian-Style Scrambled Eggs",
+  "description": "A flavorful twist on traditional scrambled eggs, infused with the aromas of tadka spices. Quick and easy to make, perfect for a breakfast or brunch option.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4"
+    },
+    {
+      "name": "tadka",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together. Add a pinch of salt and pepper to taste.",
+    "Heat the butter in a non-stick pan over medium heat.",
+    "Add the tadka spice mix to the pan and let it infuse into the butter for 1 minute.",
+    "Pour the whisked eggs into the pan and let them cook for 2-3 minutes, or until the edges start to set.",
+    "Use a spatula to gently scramble the eggs, breaking them up into small curds.",
+    "Continue cooking the eggs for another 2-3 minutes, or until they are cooked through.",
+    "Serve the Indian-Style Scrambled Eggs hot, garnished with chopped cilantro or chives if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "indian",
+    "eggs",
+    "scrambled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 2,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tadka-scrambled-eggs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:40:39.625Z"
+}
