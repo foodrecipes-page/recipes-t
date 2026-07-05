@@ -1,0 +1,89 @@
+{
+  "slug": "tangy-dense-ethiopian-tomatoes-gomen",
+  "title": "Gomen Besega",
+  "description": "A traditional Ethiopian spinach dish made with gomen (collard greens), tangy spices, and served with tomatoes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gomen (collard greens)",
+      "amount": "2 bunches",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tangy spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Niter kibbeh (Ethiopian clarified butter)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the chopped gomen and cook until wilted.",
+    "Add the tangy spice mix and cook for 1 minute.",
+    "Add the diced tomatoes and cook until heated through.",
+    "Stir in the niter kibbeh.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot.",
+    "Optional: Serve with injera bread or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "spinach",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-ethiopian-tomatoes-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T14:32:00.412Z"
+}
