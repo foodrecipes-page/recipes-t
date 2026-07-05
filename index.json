@@ -51,14 +51,16 @@
   },
   {
     "slug": "tadka-scrambled-eggs",
-    "title": "Tadka Scrambled Eggs",
+    "title": "Indian-Style Scrambled Eggs",
     "tags": [
-      "tadka",
-      "scrambled eggs",
-      "russian"
+      "breakfast",
+      "brunch",
+      "indian",
+      "eggs",
+      "scrambled"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 8,
+    "cuisine": "Indian",
+    "totalTimeMin": 13,
     "shard": "t"
   },
   {
@@ -1200,17 +1202,15 @@
   },
   {
     "slug": "tangy-crumbly-indulgent-peruvian-cannellini-beans-empanada",
-    "title": "Peruvian Cannellini Bean Empanadas",
+    "title": "Peruvian Bean Empanadas",
     "tags": [
-      "beans",
-      "empanada",
-      "macrobiotic",
       "peruvian",
-      "snack",
-      "vegetarian"
+      "empanada",
+      "bean-filled",
+      "snack"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
