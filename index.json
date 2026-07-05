@@ -3857,17 +3857,15 @@
   },
   {
     "slug": "tangy-sweet-saudi-arabian-nectarine-skewers",
-    "title": "Tangy Sweet Saudi Arabian Nectarine Skewers",
+    "title": "Grilled Nectarine Skewers with Arabian Spice",
     "tags": [
-      "fruit",
-      "gluten-free",
+      "dessert",
       "grilled",
-      "low-carb",
-      "saudi-arabian",
-      "snack"
+      "nectarine",
+      "arabian-spice"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 23,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -7836,17 +7834,15 @@
   },
   {
     "slug": "tender-garlic-indian-crumble",
-    "title": "Tender Garlic Indian Crumble",
+    "title": "Tender Chicken Indian Crumble",
     "tags": [
-      "garlic",
-      "tender",
+      "chicken",
       "indian",
-      "bengali",
-      "one-pot",
-      "raw-friendly"
+      "crumble",
+      "easy"
     ],
-    "cuisine": "Indian (Bengali)",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
