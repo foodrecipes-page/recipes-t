@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-crispy-greek-cauliflower-stir-fry",
+  "title": "Greek-Style Cauliflower Stir-Fry",
+  "description": "A flavorful and healthy vegetarian stir-fry made with crispy cauliflower and tangy Greek seasonings.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cauliflower",
+      "amount": "1 head, broken into florets",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the cauliflower and cook for 5-7 minutes, until tender and slightly browned.",
+    "Sprinkle with Greek seasoning, salt, and pepper to taste.",
+    "Stir-fry for an additional 1-2 minutes, until the seasonings are well combined.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "greek",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-greek-cauliflower-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:57:32.436Z"
+}
