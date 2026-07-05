@@ -3689,17 +3689,14 @@
   },
   {
     "slug": "tangy-smoky-ethiopian-smoked-mackerel-dulet",
-    "title": "Tangy Smoky Ethiopian Smoked Mackerel Dulet",
+    "title": "Smoked Mackerel Dulet",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "ethiopian",
+      "mackerel",
+      "smoked"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -10965,18 +10962,15 @@
   },
   {
     "slug": "tender-zhejiang-squid-salt-and-pepper-squid",
-    "title": "Tender Zhejiang Squid Salt-and-Pepper-Squid",
+    "title": "Pan-Seared Squid with Zhejiang Sauce",
     "tags": [
       "chinese",
-      "date-night",
-      "high-protein",
-      "low-carb",
       "seafood",
-      "shojin-friendly",
-      "weeknight"
+      "squid",
+      "quick-dinner"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 42,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
