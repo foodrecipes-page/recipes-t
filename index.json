@@ -938,15 +938,15 @@
   },
   {
     "slug": "tangy-crispy-greek-cauliflower-stir-fry",
-    "title": "Tangy Crispy Greek Cauliflower Stir-fry",
+    "title": "Greek-Style Cauliflower Stir-Fry",
     "tags": [
-      "tangy",
-      "crispy",
+      "cauliflower",
       "greek",
-      "midnight-craving"
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 23,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -5815,16 +5815,15 @@
   },
   {
     "slug": "tempting-savory-british-chicken-skillet",
-    "title": "Tempting Savory British Chicken Skillet",
+    "title": "British Chicken Skillet",
     "tags": [
-      "british-cuisine",
-      "comfort-food",
-      "dairy-free",
-      "one-pan",
-      "weeknight"
+      "british",
+      "chicken",
+      "skillet",
+      "comfort-food"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 40,
+    "cuisine": "british",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
