@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-tender-egg-white-stir-fry",
+  "title": "Tangy Egg Stir Fry",
+  "description": "A simple and quick egg stir-fry with a tangy twist, made with tender egg whites and a hint of flavor.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add 1 teaspoon of sesame oil and swirl to coat the pan.",
+    "Pour in the egg whites and scramble them until they are cooked through.",
+    "Add the tangy sauce to the eggs and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Transfer the egg mixture to a serving dish and garnish with chopped scallions, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "egg",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 6,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-egg-white-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:52:19.825Z"
+}
