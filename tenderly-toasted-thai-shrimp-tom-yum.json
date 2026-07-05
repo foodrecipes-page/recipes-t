@@ -1,0 +1,87 @@
+{
+  "slug": "tenderly-toasted-thai-shrimp-tom-yum",
+  "title": "Thai Shrimp Stir Fry",
+  "description": "A quick and flavorful Thai-inspired shrimp stir fry with tender shrimp, toasted rice, and a tangy tom yum sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Toasted Rice",
+      "amount": "1 cup",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "Tom Yum Sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh Tom",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Remove the shrimp from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the chopped fresh tom and cook for 1-2 minutes, until slightly softened.",
+    "Add the toasted rice to the skillet and stir to combine with the tom.",
+    "Add the tom yum sauce to the skillet and stir to combine with the rice and tom.",
+    "Return the cooked shrimp to the skillet and stir to combine with the sauce.",
+    "Season with salt and sugar to taste.",
+    "Serve the shrimp stir fry hot, garnished with chopped Thai basil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai-shrimp",
+    "stir-fry",
+    "seafood",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-toasted-thai-shrimp-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:27:41.098Z"
+}
