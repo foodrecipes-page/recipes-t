@@ -1562,16 +1562,15 @@
   },
   {
     "slug": "tangy-dense-malaysian-chicken-curry",
-    "title": "Tangy Dense Malaysian Chicken Curry",
+    "title": "Malaysian Chicken Curry",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "monsoon-malaysian",
-      "one-pot",
-      "weeknight"
+      "chicken",
+      "curry",
+      "malaysian",
+      "lunch"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -3382,17 +3381,15 @@
   },
   {
     "slug": "tangy-pillowy-ethiopian-lamb-curry",
-    "title": "Tangy Pillowy Ethiopian Lamb Curry",
+    "title": "Pan-Seared Lamb Kebabs with Ethiopian Spices",
     "tags": [
-      "comfort-food",
-      "international",
-      "low-carb",
-      "one-pot",
-      "rich",
-      "spicy"
+      "lamb",
+      "ethiopian",
+      "kebabs",
+      "dinner"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -3410,16 +3407,15 @@
   },
   {
     "slug": "tangy-roasted-greek-cauliflower-fritters",
-    "title": "Tangy Roasted Greek Cauliflower Fritters",
+    "title": "Greek Cauliflower Fritters",
     "tags": [
-      "air-fryer",
-      "mediterranean",
-      "kid-friendly",
-      "high-protein",
-      "cauliflower"
+      "cauliflower",
+      "greek",
+      "vegetarian",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -3537,17 +3533,15 @@
   },
   {
     "slug": "tangy-silky-ethiopian-pork-curry",
-    "title": "Tangy Silky Ethiopian Pork Curry",
+    "title": "Tangy Ethiopian Pork Curry",
     "tags": [
-      "ethiopian-cuisine",
-      "low-carb",
-      "pork-curry",
-      "tangy",
-      "silky",
-      "special-occasion"
+      "pork",
+      "curry",
+      "ethiopian",
+      "dinner"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
