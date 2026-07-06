@@ -8808,16 +8808,15 @@
   },
   {
     "slug": "tender-middle-eastern-chicken-umm-ali",
-    "title": "Tender Middle Eastern Chicken Umm Ali",
+    "title": "Eastern Chicken Shawarma",
     "tags": [
-      "comfort-food",
-      "low-fat",
-      "middle-eastern",
-      "one-pot",
-      "simmered"
+      "chicken",
+      "shawarma",
+      "middle eastern",
+      "gluten-free"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
