@@ -602,16 +602,15 @@
   },
   {
     "slug": "tangy-creamy-argentinian-tofu-bisque",
-    "title": "Tangy Creamy Argentinian Tofu Bisque",
+    "title": "Argentinian Creamy Tofu Bisque",
     "tags": [
-      "plant-based",
-      "bisque",
-      "creamy",
       "argentinian",
-      "tofu"
+      "creamy",
+      "tofu",
+      "bisque"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
