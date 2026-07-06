@@ -1,0 +1,102 @@
+{
+  "slug": "tender-light-ethiopian-pistachio-wrap",
+  "title": "Ethiopian-Style Chicken Wraps",
+  "description": "A flavorful and spicy chicken wrap with an Ethiopian twist, served with a side of tangy slaw.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tender injera",
+      "amount": "1 package",
+      "notes": "Ethiopian flatbread"
+    },
+    {
+      "name": "light yogurt",
+      "amount": "1 cup",
+      "notes": "for slaw"
+    },
+    {
+      "name": "pistachio oil",
+      "amount": "1/4 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6",
+      "notes": "large flour tortillas"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tsp berbere spice",
+      "amount": "1-2",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a blender or food processor, combine yogurt, onion, bell pepper, ginger, cumin, coriander, and berbere spice. Blend until smooth.",
+    "3. In a large bowl, whisk together pistachio oil, cumin, coriander, and berbere spice.",
+    "4. Add the chicken breast to the bowl and mix until coated with the spice mixture.",
+    "5. Heat a large skillet over medium-high heat. Add the chicken and cook until browned, about 5-6 minutes.",
+    "6. Transfer the chicken to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "7. Meanwhile, toast the injera bread by wrapping it in foil and heating it in the oven for 5-7 minutes.",
+    "8. To assemble the wraps, spread a layer of the yogurt slaw on the bottom of each tortilla, followed by a slice of chicken, a few pieces of injera, and a sprinkle of cilantro.",
+    "9. Serve immediately and enjoy!",
+    "10. To make the slaw, combine the yogurt, chopped onion, and grated carrot in a bowl. Season with salt and pepper to taste.",
+    "11. Refrigerate for at least 30 minutes to allow the flavors to meld."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "chicken",
+    "wrap",
+    "slaw",
+    "yogurt"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-light-ethiopian-pistachio-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:44:20.424Z"
+}
