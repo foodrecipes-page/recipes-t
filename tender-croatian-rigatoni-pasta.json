@@ -1,0 +1,90 @@
+{
+  "slug": "tender-croatian-rigatoni-pasta",
+  "title": "Croatian Rigatoni Pasta Bake",
+  "description": "A hearty, comforting pasta bake infused with the flavors of Croatia. Perfect for a cozy dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rigatoni pasta",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "tender pasta sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "grated mozzarella",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the rigatoni pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, combine the pasta sauce, garlic powder, and dried oregano. Bring to a simmer and let cook for 2-3 minutes.",
+    "In a large bowl, combine the cooked rigatoni pasta, pasta sauce mixture, and chopped parsley. Mix well to combine.",
+    "Transfer the pasta mixture to a baking dish and top with grated mozzarella and parmesan cheese.",
+    "Season with salt and black pepper to taste.",
+    "Cover the baking dish with aluminum foil and bake for 20-25 minutes.",
+    "Remove the foil and continue baking for an additional 5-10 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for a few minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "pasta",
+    "bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-croatian-rigatoni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:31:35.875Z"
+}
