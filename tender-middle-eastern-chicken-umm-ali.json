@@ -1,0 +1,72 @@
+{
+  "slug": "tender-middle-eastern-chicken-umm-ali",
+  "title": "Eastern Chicken Shawarma",
+  "description": "A flavorful and spicy eastern-style shawarma dish made with tender chicken. Serve with pita bread, salad, and tahini sauce for a delicious meal.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "tender",
+      "amount": "1/2 cup",
+      "notes": "Pounded almonds or cashews for garnish"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Make your own with cumin, coriander, cinnamon, and sumac"
+    },
+    {
+      "name": "eastern garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "ali",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil for brushing"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6",
+      "notes": "Warm and toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together spice blend, garlic, and olive oil.",
+    "Add the chicken to the bowl and mix well to coat.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "Slice the chicken into thin strips.",
+    "Serve the chicken in a pita with salad, tahini sauce, and garnish with tender."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "middle eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-middle-eastern-chicken-umm-ali",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T16:23:12.151Z"
+}
