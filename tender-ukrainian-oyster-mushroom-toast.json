@@ -1,0 +1,70 @@
+{
+  "slug": "tender-ukrainian-oyster-mushroom-toast",
+  "title": "Ukrainian Mushroom Toast",
+  "description": "A hearty and flavorful toast dish featuring sautéed mushrooms and tender Ukrainian sausage.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tender Ukrainian sausage",
+      "amount": "1/2 pound",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Button or cremini"
+    },
+    {
+      "name": "Bread (for toast)",
+      "amount": "4 slices",
+      "notes": "Day-old"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Add the butter and let it melt.",
+    "Add the sliced sausage and cook until browned, about 3-4 minutes.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sausage and mushroom mixture over toasted bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ukrainian-oyster-mushroom-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:03:08.606Z"
+}
