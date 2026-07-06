@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-crispy-mexican-peanuts-quesadilla",
+  "title": "Crispy Mexican Quesadilla",
+  "description": "A Mexican-inspired quesadilla filled with crunchy peanuts and a tangy twist.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "quesadilla",
+      "amount": "4"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Mix together peanuts, cumin, and lime juice in a bowl.",
+    "Place a quesadilla in the skillet and sprinkle with peanut mixture.",
+    "Top with cheese and fold the quesadilla in half.",
+    "Cook for 2-3 minutes or until the cheese is melted and the tortilla is crispy.",
+    "Flip and cook for an additional 2-3 minutes.",
+    "Repeat with remaining quesadillas.",
+    "Cut into wedges and serve with cilantro and sour cream, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "quesadilla",
+    "peanuts",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-mexican-peanuts-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T11:53:46.053Z"
+}
