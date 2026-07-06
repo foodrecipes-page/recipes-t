@@ -982,10 +982,16 @@
   },
   {
     "slug": "tangy-crispy-mexican-peanuts-quesadilla",
-    "title": "Tangy Crispy Mexican Peanuts Quesadilla",
-    "tags": [],
-    "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "title": "Crispy Mexican Quesadilla",
+    "tags": [
+      "mexican",
+      "quesadilla",
+      "peanuts",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -7083,17 +7089,15 @@
   },
   {
     "slug": "tender-crispy-tunisian-lamb-tagine",
-    "title": "Tender Crispy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "crispy-skin",
-      "lamb-recipes",
-      "romantic-dinner",
-      "slow-cooked",
-      "tunisian-cuisine",
-      "umami-flavors"
+      "lamb",
+      "tagine",
+      "north-african",
+      "couscous"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
@@ -10540,16 +10544,14 @@
   },
   {
     "slug": "tender-toasted-saudi-arabian-rigatoni-pasta",
-    "title": "Tender Toasted Saudi Arabian Rigatoni Pasta",
+    "title": "Saudi Arabian Rigatoni Pasta Bake",
     "tags": [
-      "lacto-vegetarian",
-      "one-pan",
       "pasta",
-      "quick-dinner",
-      "saudi-arabian",
-      "weeknight"
+      "saudi",
+      "arabian",
+      "cheese"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "Saudi",
     "totalTimeMin": 35,
     "shard": "t"
   },
