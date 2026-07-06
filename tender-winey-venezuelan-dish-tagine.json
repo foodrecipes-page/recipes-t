@@ -1,0 +1,90 @@
+{
+  "slug": "tender-winey-venezuelan-dish-tagine",
+  "title": "Winey Tagine",
+  "description": "A traditional venezuelan dish slow-cooked in a tender tagine, perfect for a cozy evening.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Tagine",
+      "amount": "1",
+      "notes": "preferably earthenware"
+    },
+    {
+      "name": "Winey Red Wine",
+      "amount": "1 cup",
+      "notes": "full-bodied for flavor"
+    },
+    {
+      "name": "Dish Tomatoes",
+      "amount": "2",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Venezuelan Spices",
+      "amount": "2 tsp",
+      "notes": "adobo, cumin, oregano"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the tagine over medium heat.",
+    "Add onion and garlic; sauté until softened.",
+    "Add wine; cook until reduced by half.",
+    "Add tomatoes, spices, carrots, and potatoes.",
+    "Cover and simmer for 30 minutes.",
+    "Stir occasionally to prevent sticking.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with cilantro before serving.",
+    "Serve hot, accompanied by rice or flatbread.",
+    "Enjoy your delicious winey tagine!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-winey-venezuelan-dish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:24:58.463Z"
+}
