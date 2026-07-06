@@ -1,0 +1,76 @@
+{
+  "slug": "tender-sweet-ethiopian-lentils-misir-wat",
+  "title": "Ethiopian-Style Lentil Stew",
+  "description": "A hearty and flavorful stew originating from Ethiopia, made with tender lentils, sweet onions, and aromatic spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red lentils",
+      "amount": "1 cup",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Misir wot spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Ethiopian markets or online"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For frying"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For stew"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for an additional 1-2 minutes.",
+    "Add the red lentils, Misir wot spice blend, and water to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sweet-ethiopian-lentils-misir-wat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:52:30.152Z"
+}
