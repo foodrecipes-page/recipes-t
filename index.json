@@ -8564,18 +8564,16 @@
   },
   {
     "slug": "tender-light-ethiopian-pistachio-wrap",
-    "title": "Tender Light Ethiopian Pistachio Wrap",
+    "title": "Ethiopian-Style Chicken Wraps",
     "tags": [
-      "breakfast",
-      "easy-to-make",
       "ethiopian",
-      "healthy",
-      "lunch",
-      "snack",
-      "vegetarian"
+      "chicken",
+      "wrap",
+      "slaw",
+      "yogurt"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -10148,18 +10146,15 @@
   },
   {
     "slug": "tender-sweet-ethiopian-lentils-misir-wat",
-    "title": "Tender Sweet Ethiopian Lentils Misir-Wat",
+    "title": "Ethiopian-Style Lentil Stew",
     "tags": [
-      "comforting",
-      "ethiopian",
       "lentils",
-      "one-pot",
-      "prunes",
-      "vegetarian",
-      "weeknight"
+      "ethiopian",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
