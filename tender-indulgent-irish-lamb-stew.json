@@ -1,0 +1,97 @@
+{
+  "slug": "tender-indulgent-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting Irish lamb stew made with tender lamb, root vegetables, and a rich gravy.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Dust lamb cubes with flour, shaking off excess.",
+    "Brown lamb in batches until browned on all sides, about 5 minutes. Transfer to a plate.",
+    "Reduce heat to medium and cook onions until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and potatoes; cook for 5 minutes, stirring occasionally.",
+    "Add beef broth, red wine (if using), and browned lamb. Stir to combine.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, until lamb is tender, about 1 1/2 hours.",
+    "Season with thyme and salt and pepper to taste.",
+    "Serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-indulgent-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:12:01.024Z"
+}
