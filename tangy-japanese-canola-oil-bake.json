@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-japanese-canola-oil-bake",
+  "title": "Tangy Japanese Salmon Bake",
+  "description": "A simple and flavorful salmon bake with a tangy twist. Perfect for a quick dinner or lunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canola oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing salmon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Bake mix",
+      "amount": "1 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place salmon fillets on the baking sheet, skin side down (if they have skin).",
+    "Brush salmon with canola oil and top with tangy sauce.",
+    "Mix Japanese rice with sesame seeds (if using) and top each salmon fillet with a scoop of rice.",
+    "Sprinkle bake mix on top of the rice.",
+    "Bake for 12-15 minutes or until salmon is cooked through and flakes easily with a fork.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "japanese",
+    "bake",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-japanese-canola-oil-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T09:24:59.032Z"
+}
