@@ -1,0 +1,71 @@
+{
+  "slug": "tempting-australian-tofu-fried-rice-bites",
+  "title": "Tempting Aussie Tofu Bites",
+  "description": "A delicious, crispy, and savory snack inspired by Australian cuisine, made with tofu and served with a side of tangy rice.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (200g)",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "bites",
+      "amount": "1 cup (120g)",
+      "notes": "crushed crackers"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup (180g)",
+      "notes": "cooked and seasoned with salt and pepper"
+    },
+    {
+      "name": "australian seasoning",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "tempting sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a bowl, mix together crumbled tofu, crushed bites, australian seasoning, and tempting sauce.",
+    "Using a spoon, drop small amounts of the tofu mixture into the hot oil.",
+    "Fry the tofu bites until golden brown, about 3-4 minutes.",
+    "Remove from oil with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve hot with a side of seasoned rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "snack",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-australian-tofu-fried-rice-bites",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:57:47.370Z"
+}
