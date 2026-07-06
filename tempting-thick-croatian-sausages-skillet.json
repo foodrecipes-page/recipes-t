@@ -1,0 +1,91 @@
+{
+  "slug": "tempting-thick-croatian-sausages-skillet",
+  "title": "Croatian Skillet Sausage Delight",
+  "description": "A hearty, flavorful dish made with Croatian sausages, perfect for a cozy evening meal. This recipe combines the rich taste of sausages with a mix of vegetables, creating a satisfying and filling meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Sausages (4-6)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Thick Sliced Potatoes",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "large, oven-safe"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tempting Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the potatoes and onion. Cut the bell peppers into large pieces.",
+    "Heat the skillet over medium-high heat.",
+    "Add the sausages and cook until browned on all sides, about 2-3 minutes. Remove from the skillet and set aside.",
+    "Add more oil if necessary, then sauté the onion and bell peppers until they begin to soften.",
+    "Add the sliced potatoes, salt, black pepper, and tempting paprika to the skillet. Toss to combine.",
+    "Return the cooked sausages to the skillet and stir to combine with the potatoes and vegetables.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the potatoes are tender and the sausages are cooked through.",
+    "Remove from the oven and sprinkle with minced garlic.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian",
+    "sausages",
+    "skillet",
+    "hearty",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-thick-croatian-sausages-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:41:51.647Z"
+}
