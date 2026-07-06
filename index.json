@@ -2668,16 +2668,15 @@
   },
   {
     "slug": "tangy-japanese-canola-oil-bake",
-    "title": "Tangy Japanese Canola Oil Bake",
+    "title": "Tangy Japanese Salmon Bake",
     "tags": [
+      "salmon",
       "japanese",
-      "tangy",
-      "canola-oil",
-      "hangover-cure",
-      "raw-friendly"
+      "bake",
+      "easy"
     ],
     "cuisine": "japanese",
-    "totalTimeMin": 8,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -7141,17 +7140,15 @@
   },
   {
     "slug": "tender-croatian-rigatoni-pasta",
-    "title": "Tender Croatian Rigatoni Pasta",
+    "title": "Croatian Rigatoni Pasta Bake",
     "tags": [
       "croatian",
-      "one-pot",
       "pasta",
-      "raw-friendly",
-      "vegetarian",
-      "weeknight"
+      "bake",
+      "comfort-food"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -8153,15 +8150,16 @@
   },
   {
     "slug": "tender-indulgent-irish-lamb-stew",
-    "title": "Tender Indulgent Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "irish-dish",
-      "lamb-stew",
-      "one-pot"
+      "irish",
+      "lamb",
+      "stew",
+      "hearty",
+      "comforting"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
@@ -11487,10 +11485,10 @@
       "filipino",
       "fish",
       "soup",
-      "vegetarian"
+      "comfort-food"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
