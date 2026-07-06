@@ -1,90 +1,92 @@
 {
   "slug": "tingly-fatty-filipino-fish-soup",
   "title": "Filipino Fish Soup",
-  "description": "A hearty and flavorful Filipino-inspired fish soup made with fresh fish and vegetables.",
+  "description": "A hearty and flavorful Filipino-inspired fish soup, perfect for a comforting meal. This dish is rich in protein and can be served with a side of steamed rice.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": null,
   "meal": "lunch",
   "ingredients": [
     {
-      "name": "Fish (any white fish)",
+      "name": "fish",
       "amount": "1 pound",
-      "notes": "Fresh and sustainable, cut into bite-sized pieces"
+      "notes": "any white fish works well"
     },
     {
-      "name": "Fatty (such as coconut milk)",
-      "amount": "1 cup",
-      "notes": "Canned or carton, full-fat for added richness"
+      "name": "soup",
+      "amount": "1 can",
+      "notes": "use a low-sodium broth"
     },
     {
-      "name": "Tingly (such as ginger)",
-      "amount": "2 inches",
-      "notes": "Fresh and grated, adds warmth and depth"
+      "name": "filipino",
+      "amount": "2 tablespoons fish sauce",
+      "notes": "optional, to taste"
     },
     {
-      "name": "Filipino (such as patis)",
-      "amount": "2 tablespoons",
-      "notes": "Fish sauce, adds umami flavor and depth"
+      "name": "fatty",
+      "amount": "1/4 cup vegetable oil",
+      "notes": null
     },
     {
-      "name": "Soup (such as chicken broth)",
-      "amount": "4 cups",
-      "notes": "Low-sodium and gluten-free, or use vegetable broth for a vegetarian option"
+      "name": "tingly",
+      "amount": "1 teaspoon ground black pepper",
+      "notes": null
     },
     {
-      "name": "Onion",
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "onion",
       "amount": "1 medium",
-      "notes": "Chopped and sautéed until softened"
+      "notes": "chopped"
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": "Minced and sautéed until fragrant"
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
     },
     {
-      "name": "Tomato",
+      "name": "tomato",
       "amount": "1 medium",
-      "notes": "Diced and added to the soup for sweetness"
+      "notes": "chopped"
     },
     {
-      "name": "Parsley",
-      "amount": "1/4 cup",
-      "notes": "Chopped and added as a garnish"
+      "name": "green chili",
+      "amount": "1-2",
+      "notes": null
     }
   ],
   "instructions": [
     "Heat oil in a large pot over medium heat.",
-    "Add onion and garlic and sauté until softened, about 3-4 minutes.",
-    "Add ginger and fish sauce and cook for an additional minute.",
-    "Add fish and cook until opaque and cooked through, about 3-4 minutes.",
-    "Add coconut milk and chicken broth, and bring to a simmer.",
-    "Reduce heat to low and let soup simmer for 5-7 minutes.",
-    "Add diced tomato and cook for an additional 2 minutes.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with chopped parsley."
+    "Add onion and garlic and sauté until softened.",
+    "Add fish and cook until browned on both sides.",
+    "Add soup, fish sauce (if using), salt, and pepper.",
+    "Bring to a boil, then reduce heat and simmer for 10-15 minutes.",
+    "Add tomato and green chili, and cook for an additional 5 minutes.",
+    "Serve hot, garnished with chopped green onions (optional).",
+    "Cook time can be adjusted to suit your preference for the fish to be cooked through.",
+    "Serve with steamed rice for a filling meal."
   ],
-  "prepTimeMin": 15,
+  "prepTimeMin": 10,
   "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "totalTimeMin": 30,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "filipino",
     "fish",
     "soup",
-    "vegetarian"
+    "comfort-food"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 30,
-    "carbs": 20,
-    "fat": 20
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/tingly-fatty-filipino-fish-soup",
   "providerUsed": "groq",
-  "createdAt": "2026-07-02T12:20:01.478Z"
+  "createdAt": "2026-07-04T10:59:18.609Z"
 }
