@@ -1,0 +1,96 @@
+{
+  "slug": "tangy-creamy-argentinian-tofu-bisque",
+  "title": "Argentinian Creamy Tofu Bisque",
+  "description": "A rich and creamy soup inspired by Argentinean flavors, made with pan-seared tofu and a blend of spices.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons",
+      "notes": "lime juice"
+    },
+    {
+      "name": "cream",
+      "amount": "2 cups",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "bisque",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the smoked paprika, ground cumin, salt, and black pepper.",
+    "Stir for 30 seconds.",
+    "Add the block of tofu and cook until golden brown on all sides, about 5-7 minutes.",
+    "Pour in the homemade or store-bought bisque, and heavy cream.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10-15 minutes.",
+    "Stir in the lime juice.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "creamy",
+    "tofu",
+    "bisque"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-argentinian-tofu-bisque",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:27:38.782Z"
+}
