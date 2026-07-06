@@ -5920,16 +5920,16 @@
   },
   {
     "slug": "tempting-thick-croatian-sausages-skillet",
-    "title": "Tempting Thick Croatian Sausages Skillet",
+    "title": "Croatian Skillet Sausage Delight",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "egg-free",
-      "gluten-free",
-      "one-pan"
+      "croatian",
+      "sausages",
+      "skillet",
+      "hearty",
+      "dinner"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -10796,19 +10796,14 @@
   },
   {
     "slug": "tender-ukrainian-oyster-mushroom-toast",
-    "title": "Tender Ukrainian Oyster Mushroom Toast",
+    "title": "Ukrainian Mushroom Toast",
     "tags": [
-      "vegan",
-      "mushroom",
-      "toast",
-      "ukrainian",
-      "umami",
-      "quick",
       "breakfast",
-      "snack"
+      "ukrainian",
+      "mushroom"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
