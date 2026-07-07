@@ -9765,17 +9765,14 @@
   },
   {
     "slug": "tender-smoky-portuguese-beef-stew",
-    "title": "Tender Smoky Portuguese Beef Stew",
+    "title": "Smoky Portuguese Beef Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lacto-vegetarian",
-      "one-pot",
-      "portuguese-cuisine",
-      "smoky-flavor"
+      "portuguese",
+      "beef",
+      "stew"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 210,
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
@@ -12159,10 +12156,16 @@
   },
   {
     "slug": "truffle-bhuna-keto",
-    "title": "Truffle Bhuna Keto",
-    "tags": [],
-    "cuisine": "Malaysian",
-    "totalTimeMin": null,
+    "title": "Truffle Bhuna Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "keto",
+      "truffle",
+      "bhuna"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
