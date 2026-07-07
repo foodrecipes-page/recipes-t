@@ -9040,17 +9040,14 @@
   },
   {
     "slug": "tender-peruvian-cheese-stew",
-    "title": "Tender Peruvian Cheese Stew",
+    "title": "Peruvian Beef Stew",
     "tags": [
-      "cheese-stew",
-      "nut-free-friendly",
-      "one-pot",
       "peruvian",
-      "quick",
-      "sweet"
+      "beef",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
