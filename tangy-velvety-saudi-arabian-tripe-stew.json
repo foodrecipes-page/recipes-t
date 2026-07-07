@@ -1,0 +1,91 @@
+{
+  "slug": "tangy-velvety-saudi-arabian-tripe-stew",
+  "title": "Saudi Arabian Tripe Stew",
+  "description": "A hearty and flavorful stew originating from Saudi Arabia, made with tender tripe and a tangy sauce.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": " cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Brown the tripe on all sides, about 5 minutes.",
+    "Remove the tripe from the pot and set aside.",
+    "Reduce heat to medium and sauté the onion until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Stir in the tangy sauce and beef broth.",
+    "Return the tripe to the pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours, or until the tripe is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "stew",
+    "beef",
+    "tripes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-saudi-arabian-tripe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:50:15.260Z"
+}
