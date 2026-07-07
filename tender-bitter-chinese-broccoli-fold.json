@@ -1,0 +1,77 @@
+{
+  "slug": "tender-bitter-chinese-broccoli-fold",
+  "title": "Bitter Broccoli Stir Fry",
+  "description": "A quick and easy stir fry with broccoli, tender beef, and a hint of bitter flavors. Serve over rice for a nutritious meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "beef (tender)",
+      "amount": "1/2 pound",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1/2 head",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the broccoli, Chinese cabbage, ginger, and garlic to the skillet. Cook until the vegetables are tender, about 4-5 minutes.",
+    "Return the beef to the skillet and stir in the soy sauce.",
+    "Cook for an additional 1-2 minutes until the beef is coated in the sauce.",
+    "Serve the stir fry over rice and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-bitter-chinese-broccoli-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:57:18.173Z"
+}
