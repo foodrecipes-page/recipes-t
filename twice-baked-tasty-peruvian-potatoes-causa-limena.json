@@ -1,0 +1,82 @@
+{
+  "slug": "twice-baked-tasty-peruvian-potatoes-causa-limena",
+  "title": "Twice Baked Peruvian Causa Potatoes",
+  "description": "A Peruvian-inspired causa dish featuring twice baked potatoes filled with a creamy limena-infused mixture.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "limena aioli",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Scrub the potatoes clean and poke some holes in them with a fork. Bake for 45-60 minutes, or until tender.",
+    "Let the potatoes cool for 10-15 minutes before slicing them in half lengthwise.",
+    "Scoop out most of the potato flesh, leaving about 1/4 inch around the edges. Return the potatoes to the oven and bake for an additional 10-15 minutes, or until crispy.",
+    "While the potatoes are in the oven, mix together the limena aioli, grated cheese, sour cream, chopped cilantro, salt, and black pepper in a bowl.",
+    "Once the potatoes are done, remove them from the oven and fill each one with the limena aioli mixture. Return to the oven for an additional 5-10 minutes, or until the filling is heated through.",
+    "Remove the potatoes from the oven and top each one with a pat of butter. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "causa",
+    "twice-baked-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/twice-baked-tasty-peruvian-potatoes-causa-limena",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:29:10.967Z"
+}
