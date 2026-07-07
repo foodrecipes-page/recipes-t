@@ -1,0 +1,90 @@
+{
+  "slug": "truffle-bhuna-keto",
+  "title": "Truffle Bhuna Curry",
+  "description": "A rich and flavorful curry dish made with truffle oil, bhuna spices, and keto-friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Bhuna curry paste",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Truffle oil",
+      "amount": "1 tsp",
+      "notes": "High-quality and keto-friendly"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can",
+      "notes": "Diced and keto-friendly"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add chicken breast and cook until browned.",
+    "Add bhuna curry paste and cook for 1 minute.",
+    "Add truffle oil and stir well.",
+    "Add tomatoes and stir to combine.",
+    "Simmer for 10-15 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with cilantro and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "keto",
+    "truffle",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "10g",
+    "fat": "44g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/truffle-bhuna-keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:40:32.815Z"
+}
