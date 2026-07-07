@@ -1303,16 +1303,15 @@
   },
   {
     "slug": "tangy-crumbly-zanzibari-arabic-rice-crumble",
-    "title": "Tangy Crumbly Zanzibari Arabic Rice Crock",
+    "title": "Zanzibari Rice Crumble",
     "tags": [
-      "tangy",
-      "crumbly",
-      "kid-friendly",
-      "arabic-rice",
-      "croatian"
+      "zanzibari",
+      "arabic",
+      "dessert",
+      "snack"
     ],
-    "cuisine": "Croatian / Middle Eastern fusion",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -1331,16 +1330,14 @@
   },
   {
     "slug": "tangy-crunchy-hail-stir-fry",
-    "title": "Tangy Crunchy Hail Stir-fry",
+    "title": "Tangy Stir Fry",
     "tags": [
-      "tangy",
-      "crunchy",
-      "indulgent",
-      "korean",
-      "seaweed"
+      "stir-fry",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -4421,16 +4418,15 @@
   },
   {
     "slug": "tangy-velvety-saudi-arabian-tripe-stew",
-    "title": "Tangy Velvety Saudi Arabian Tripe Stew",
+    "title": "Saudi Arabian Tripe Stew",
     "tags": [
-      "stew",
-      "tripe",
       "saudi-arabian",
-      "middle-eastern",
-      "comfort-food"
+      "stew",
+      "beef",
+      "tripes"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 110,
+    "totalTimeMin": 150,
     "shard": "t"
   },
   {
