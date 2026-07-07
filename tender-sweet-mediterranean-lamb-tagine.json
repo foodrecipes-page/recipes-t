@@ -1,0 +1,95 @@
+{
+  "slug": "tender-sweet-mediterranean-lamb-tagine",
+  "title": "Braised Lamb Tagine",
+  "description": "A traditional North African dish slow-cooked in a rich and aromatic stew. This lamb tagine is a hearty and flavorful meal perfect for special occasions.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning the lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "ras el hanout spice blend",
+      "amount": "2 tsp",
+      "notes": "available at Middle Eastern markets or online"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat. Brown the lamb in batches, about 5 minutes per side. Transfer the lamb to a plate and set aside.",
+    "Add the onion to the pot and cook until it's softened and lightly browned, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the diced tomatoes, chicken broth, honey, and spice blend. Stir to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the lamb is tender and the sauce has thickened.",
+    "Season the stew with salt to taste.",
+    "Serve the tagine hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked",
+    "hearty",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sweet-mediterranean-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:43:45.178Z"
+}
