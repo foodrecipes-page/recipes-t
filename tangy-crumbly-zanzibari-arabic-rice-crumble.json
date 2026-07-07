@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-crumbly-zanzibari-arabic-rice-crumble",
+  "title": "Zanzibari Rice Crumble",
+  "description": "A crunchy and flavorful dessert made with zanzibari and arabic ingredients, perfect for snacking.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "zanzibari rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "arabic crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy apples",
+      "amount": "2"
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the zanzibari rice and cinnamon.",
+    "In a separate bowl, mix together the arabic crumble and crumble topping.",
+    "Add the tangy apples to the rice mixture and toss to coat.",
+    "Transfer the apple mixture to a baking dish and top with the crumble mixture.",
+    "Drizzle with honey and bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "arabic",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-zanzibari-arabic-rice-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T01:06:52.005Z"
+}
