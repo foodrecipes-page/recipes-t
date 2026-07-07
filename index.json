@@ -4985,18 +4985,14 @@
   },
   {
     "slug": "tasty-hangover-cure-croatian-mushrooms-bouillon",
-    "title": "Tasty Hangover Cure Croatian Mushrooms Bouillon",
+    "title": "Croatian Hangover Cure Soup",
     "tags": [
+      "soup",
       "croatian",
-      "easy-to-make",
-      "gluten-free",
-      "hangover-cure",
-      "marjoram",
-      "vegan",
-      "wild-mushrooms"
+      "vegetarian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -6511,18 +6507,14 @@
   },
   {
     "slug": "tender-bitter-chinese-broccoli-fold",
-    "title": "Tender Bitter Chinese Broccoli Fold",
+    "title": "Bitter Broccoli Stir Fry",
     "tags": [
-      "cantonese",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "paleo",
-      "quick-and-easy",
+      "chinese",
+      "vegetarian",
       "stir-fry"
     ],
-    "cuisine": "Cantonese",
-    "totalTimeMin": 18,
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
