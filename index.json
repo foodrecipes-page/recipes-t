@@ -10151,16 +10151,17 @@
   },
   {
     "slug": "tender-sweet-mediterranean-lamb-tagine",
-    "title": "Tender Sweet Mediterranean Lamb Tagine",
+    "title": "Braised Lamb Tagine",
     "tags": [
-      "fondue-pot-recipes",
-      "gluten-free-recipes",
-      "lamb-recipes",
-      "mediterranean-cuisine",
-      "sugar-free-recipes"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked",
+      "hearty",
+      "flavorful"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
