@@ -1,0 +1,74 @@
+{
+  "slug": "tender-earthy-avocado-mousse",
+  "title": "Avocado and Mushroom Mousse Tartine",
+  "description": "A rich and creamy tartine featuring earthy mushrooms, tender avocado, and a velvety mousse.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": "tender earthy variety"
+    },
+    {
+      "name": "Avocado",
+      "amount": "3 ripe avocados",
+      "notes": "diced"
+    },
+    {
+      "name": "Mousse",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Bread",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat 1 tablespoon of olive oil over medium heat and sauté the mushrooms until tender.",
+    "2. Set the mushrooms aside and toast 4 slices of bread.",
+    "3. Mash the avocado in a bowl and mix with the sautéed mushrooms.",
+    "4. Spread the mousse over the toasted bread.",
+    "5. Top the mousse with the avocado and mushroom mixture.",
+    "6. Season with salt and pepper to taste.",
+    "7. Garnish with additional mushrooms or avocado if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-earthy-avocado-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T09:12:18.309Z"
+}
