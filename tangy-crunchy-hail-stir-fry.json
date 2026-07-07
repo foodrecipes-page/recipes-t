@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-crunchy-hail-stir-fry",
+  "title": "Tangy Stir Fry",
+  "description": "A quick and easy stir fry with a tangy twist, packed with crunchy vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "- for sweetness"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "- for frying"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a wok or large skillet over medium-high heat.",
+    "2. Add garlic and ginger and stir-fry for 1 minute.",
+    "3. Add bell peppers and onions, cook for 3-4 minutes.",
+    "4. Add broccoli and cook until tender.",
+    "5. In a small bowl, whisk together soy sauce and brown sugar.",
+    "6. Pour sauce over vegetables and stir-fry for 1 minute.",
+    "7. Serve hot over rice or noodles.",
+    "8. Garnish with green onions and sesame seeds (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-hail-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:00:47.704Z"
+}
