@@ -1,0 +1,68 @@
+{
+  "slug": "tender-crumbly-vietnamese-gouda-cheese-nem-nuong",
+  "title": "Vietnamese-Style Grilled Cheese Nem",
+  "description": "A fusion dish that combines the flavors of Vietnam with the comfort of grilled cheese. Tender nem wrappers filled with melted cheese, grilled to perfection.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vietnamese nem wrappers",
+      "amount": "8-10",
+      "notes": "found in most Asian grocery stores"
+    },
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": "such as mozzarella or cheddar"
+    },
+    {
+      "name": "Tender",
+      "amount": "2 tablespoons, chopped green onions",
+      "notes": ""
+    },
+    {
+      "name": "Nuon",
+      "amount": "1/4 cup, chopped fresh cilantro",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the nem wrappers into 4-inch squares.",
+    "Place a square of nem wrapper on a flat surface and sprinkle a quarter of the shredded cheese in the center.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Heat a non-stick pan or grill over medium heat and cook the nem for 2-3 minutes on each side, until crispy and golden.",
+    "Repeat with the remaining wrappers and cheese.",
+    "Serve the grilled cheese nem hot, garnished with chopped cilantro and green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "cheese",
+    "vietnamese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crumbly-vietnamese-gouda-cheese-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:39:27.685Z"
+}
