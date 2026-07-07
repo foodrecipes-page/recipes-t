@@ -755,17 +755,13 @@
   },
   {
     "slug": "tangy-creamy-vietnamese-seafood-pho",
-    "title": "Tangy Creamy Vietnamese Seafood Pho",
+    "title": "Vietnamese Pho with Seafood",
     "tags": [
-      "creamy",
-      "high-protein",
-      "one-pan",
-      "pho",
       "seafood",
       "vietnamese",
-      "weeknight"
+      "noodle-soup"
     ],
-    "cuisine": "vietnamese",
+    "cuisine": "Vietnamese",
     "totalTimeMin": 25,
     "shard": "t"
   },
@@ -2789,14 +2785,15 @@
   },
   {
     "slug": "tangy-juicy-injera-puff-pastry-crumble",
-    "title": "Tangy Juicy Injera Puff Pastry Crumble",
+    "title": "Tangy Injera Crumble Tarts",
     "tags": [
       "tangy",
-      "juicy",
       "injera",
-      "puff pastry",
-      "monsoon",
-      "low-sodium"
+      "pastry",
+      "crumble",
+      "dessert",
+      "snack",
+      "gluten-free"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 45,
@@ -7159,18 +7156,15 @@
   },
   {
     "slug": "tender-crumbly-vietnamese-gouda-cheese-nem-nuong",
-    "title": "Tender Crumbly Vietnamese Gouda Cheese Nem Nuong",
+    "title": "Vietnamese-Style Grilled Cheese Nem",
     "tags": [
+      "grilled",
       "cheese",
-      "healthy",
-      "herbs",
-      "high-protein",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight"
+      "vietnamese",
+      "fusion"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 23,
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
