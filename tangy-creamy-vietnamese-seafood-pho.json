@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-creamy-vietnamese-seafood-pho",
+  "title": "Vietnamese Pho with Seafood",
+  "description": "A seafood twist on the classic Vietnamese noodle soup. Rich, savory broth filled with tender shrimp and squid, served with rice noodles and your choice of herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pho broth",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 pound",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Squid",
+      "amount": "1/2 pound",
+      "notes": "Fresh or frozen, cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Tangy fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Nam pla or similar"
+    },
+    {
+      "name": "Creamy coconut milk",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Vietnamese herbs",
+      "amount": null,
+      "notes": "Choose from basil, mint, cilantro, or a combination"
+    }
+  ],
+  "instructions": [
+    "Bring the Pho broth to a boil in a large pot over high heat.",
+    "Reduce the heat to medium-low and add the shrimp and squid. Cook for 2-3 minutes, or until the seafood is pink and cooked through.",
+    "Add the coconut milk and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the soup is heated through.",
+    "Cook the rice noodles according to package instructions. Drain and set aside.",
+    "To assemble the Pho, place a portion of noodles into a bowl and ladle the seafood broth over the top.",
+    "Garnish with your choice of herbs and serve immediately.",
+    "Serve with additional fish sauce, lime wedges, and chili sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "vietnamese",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-vietnamese-seafood-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:40:39.466Z"
+}
