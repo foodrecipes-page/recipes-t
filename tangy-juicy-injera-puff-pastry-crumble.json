@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-juicy-injera-puff-pastry-crumble",
+  "title": "Tangy Injera Crumble Tarts",
+  "description": "A sweet and tangy pastry tart featuring injera crumble and a puff pastry crust. Perfect for a sweet dessert or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Injera",
+      "amount": "2 cups, torn into small pieces"
+    },
+    {
+      "name": "Puff Pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large eggs"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crumble (from tangy, juicy, and crumble ingredients)",
+      "amount": "1 cup, mixed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "Roll out puff pastry to a thickness of 1/8 inch. Cut into squares, about 4 inches per side.",
+    "In a bowl, mix together granulated sugar, brown sugar, and melted butter until well combined.",
+    "Add torn injera pieces to the sugar mixture and stir until injera is evenly coated.",
+    "Spoon a small amount of the sugar-injera mixture onto one half of each pastry square, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry square over the filling, pressing the edges to seal.",
+    "Brush the tops of the pastry with melted butter and sprinkle with crumble mixture.",
+    "Bake for 25-30 minutes or until pastry is golden brown and filling is set.",
+    "Allow tarts to cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "tangy",
+    "injera",
+    "pastry",
+    "crumble",
+    "dessert",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-injera-puff-pastry-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:43:11.253Z"
+}
