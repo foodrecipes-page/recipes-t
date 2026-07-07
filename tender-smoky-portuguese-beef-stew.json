@@ -1,0 +1,88 @@
+{
+  "slug": "tender-smoky-portuguese-beef-stew",
+  "title": "Smoky Portuguese Beef Stew",
+  "description": "A hearty and flavorful stew made with tender beef, smoky spices, and a hint of Portuguese flair.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "beef",
+    "red-meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the smoked paprika, oregano, salt, and pepper. Cook for 1 minute.",
+    "Add the red wine (if using) and beef broth. Stir to combine.",
+    "Return the beef to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 hours, or until the beef is tender.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-portuguese-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:14:51.437Z"
+}
