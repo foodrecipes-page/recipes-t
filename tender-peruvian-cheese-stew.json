@@ -1,0 +1,95 @@
+{
+  "slug": "tender-peruvian-cheese-stew",
+  "title": "Peruvian Beef Stew",
+  "description": "A hearty beef stew infused with the bold flavors of Peruvian cuisine. Perfect for a cold evening meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "1.5-inch cubes"
+    },
+    {
+      "name": "Peruvian tender",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tender onions",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add Peruvian tender, onions, cumin, chili powder, salt, and pepper.",
+    "Cook until onions are softened, about 5 minutes.",
+    "Add tomatoes and cook for an additional 2 minutes.",
+    "Add beef broth and bring to a boil.",
+    "Return beef to pot and reduce heat to low.",
+    "Simmer, covered, for 1.5 hours or until beef is tender.",
+    "Stir in cheese and cook for an additional 2 minutes.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-peruvian-cheese-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:46:18.766Z"
+}
