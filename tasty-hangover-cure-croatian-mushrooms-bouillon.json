@@ -1,0 +1,69 @@
+{
+  "slug": "tasty-hangover-cure-croatian-mushrooms-bouillon",
+  "title": "Croatian Hangover Cure Soup",
+  "description": "A hearty and savory soup to help alleviate hangover symptoms. Utilizing the flavors of Croatia, this recipe combines the comfort of bouillon with the earthy taste of mushrooms.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian bouillon",
+      "amount": "4 cups"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tasty spices",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cure cream (or milk)",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring the bouillon to a boil in a large pot.",
+    "Reduce heat and add sliced mushrooms.",
+    "Simmer for 5 minutes or until the mushrooms are tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Stir in tasty spices and black pepper to taste.",
+    "Add cure cream (or milk) and mix well.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "croatian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-hangover-cure-croatian-mushrooms-bouillon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T21:11:14.101Z"
+}
