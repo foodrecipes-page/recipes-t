@@ -1,0 +1,97 @@
+{
+  "slug": "tempting-earthy-vietnamese-peaches-banh-cuon",
+  "title": "Vietnamese Banh Cuon with Peach Salsa",
+  "description": "A refreshing summer dish combining the delicate flavors of Vietnamese banh cuon with a sweet and spicy peach salsa.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice paper wrappers",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "peaches",
+      "amount": "3 ripe peaches, diced",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "jalapeño pepper",
+      "amount": "1 jalapeño pepper, seeded and finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup fresh mint leaves, chopped",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated carrots",
+      "amount": "1 cup grated carrots",
+      "notes": ""
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup bean sprouts",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the peach salsa by combining the diced peaches, red onion, jalapeño pepper, mint leaves, fish sauce, lime juice, and salt in a bowl.",
+    "Mix well and set aside.",
+    "Prepare the banh cuon filling by mixing the grated carrots and bean sprouts in a separate bowl.",
+    "Fill a small bowl with warm water.",
+    "Soak a rice paper wrapper in the water for about 10-15 seconds, until it becomes soft and pliable.",
+    "Place the wrapper on a clean surface and arrange about 1 tablespoon of the carrot-bean sprout mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "To serve, place a few banh cuon on a plate and top with a spoonful of the peach salsa.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "summer",
+    "snack",
+    "peaches",
+    "banhcuon"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-earthy-vietnamese-peaches-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T17:17:39.812Z"
+}
