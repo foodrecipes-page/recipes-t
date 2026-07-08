@@ -6211,17 +6211,15 @@
   },
   {
     "slug": "tempting-yeasty-argentinian-cheese-empanadas",
-    "title": "Tempting Yeasty Argentinian Cheese Empanadas",
+    "title": "Argentinian Empanadas",
     "tags": [
-      "argentinian-food",
-      "cheese-empanadas",
-      "kid-friendly",
-      "lacto-vegetarian",
-      "snack-food",
-      "yeasty-dough"
+      "argentinian",
+      "empanadas",
+      "beef",
+      "cheese"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
