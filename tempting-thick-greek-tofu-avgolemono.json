@@ -1,0 +1,82 @@
+{
+  "slug": "tempting-thick-greek-tofu-avgolemono",
+  "title": "Tempting Tofu Avgolemono",
+  "description": "A twist on the classic Greek avgolemono soup, featuring tofu and a rich, creamy sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "14 oz (397g)",
+      "notes": "Extra-firm, drained and cut into cubes"
+    },
+    {
+      "name": "Greek avgolemono base",
+      "amount": "1 cup (240ml)",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups (960ml)",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp (30ml)",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Thick egg noodles",
+      "amount": "8 oz (225g)",
+      "notes": "Cooked, drained and set aside"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp (5g)",
+      "notes": "Dried oregano, thyme and rosemary"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp (1g)",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp (1g)",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Reduce the heat and add the Greek avgolemono base, lemon juice and Greek seasoning. Stir to combine.",
+    "Add the cubed tofu and cook for 5 minutes, or until heated through.",
+    "Add the cooked egg noodles and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "soup",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-thick-greek-tofu-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:11:33.194Z"
+}
