@@ -1,0 +1,79 @@
+{
+  "slug": "tender-syrian-fernbrake-gosari-skillet",
+  "title": "Pan-Seared Fernbrake with Syrian Skillet",
+  "description": "A flavorful and nutritious dish featuring pan-seared fernbrake, served with a side of spicy Syrian skillet.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fernbrake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gosari",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tender",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the fernbrake and gosari to the skillet and cook for 3-4 minutes until slightly tender.",
+    "Add the tender and Syrian to the skillet and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "breakfast",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-syrian-fernbrake-gosari-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:36:18.538Z"
+}
