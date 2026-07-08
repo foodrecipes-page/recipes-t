@@ -1,0 +1,66 @@
+{
+  "slug": "toasted-crunchy-australian-seeds-skewers",
+  "title": "Australian Toasted Seed Skewers",
+  "description": "A delicious and healthy snack made with toasted Australian australian bush seeds, perfect for a quick pick-me-up.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Australian bush seeds",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Crunchy sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Toasted pumpkin seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Soak the Australian bush seeds in water for at least 4 hours.",
+    "Drain and rinse the seeds, then transfer them to a baking sheet.",
+    "Add the toasted pumpkin seeds and crunchy sesame seeds to the baking sheet.",
+    "Drizzle with water and sprinkle with salt to taste.",
+    "Toss to combine and spread the mixture out in a single layer.",
+    "Roast in the oven at 350°F (180°C) for 10-12 minutes, or until lightly toasted.",
+    "Remove from the oven and let cool completely.",
+    "Thread the toasted seed mixture onto skewers.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "snack",
+    "australian",
+    "toasted"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasted-crunchy-australian-seeds-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:17:17.145Z"
+}
