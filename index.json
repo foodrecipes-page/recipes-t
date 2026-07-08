@@ -2000,20 +2000,17 @@
   },
   {
     "slug": "tangy-flaky-uruguayan-tuna-tartare",
-    "title": "Tangy Flaky Uruguayan Tuna Tartare",
+    "title": "Uruguayan Tuna Tartare",
     "tags": [
-      "tangy",
-      "flaky",
-      "uruguayan",
-      "tuna",
       "tartare",
-      "high-protein",
-      "low-carb",
-      "gluten-free",
-      "lunch"
+      "tuna",
+      "uruguayan",
+      "fish",
+      "appetizer",
+      "snack"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -6996,17 +6993,15 @@
   },
   {
     "slug": "tender-cozy-norwegian-cream-cheese-stir-fry",
-    "title": "Tender Cozy Norwegian Cream Cheese Stir-fry",
+    "title": "Cozy Norwegian Cheese Fritters",
     "tags": [
-      "cozy",
-      "floral",
+      "comfort-food",
+      "cheesy",
       "norwegian",
-      "cream-cheese",
-      "stir-fry",
-      "vegan"
+      "fritters"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -10740,17 +10735,14 @@
   },
   {
     "slug": "tender-ukrainian-beef-stew",
-    "title": "Tender Ukrainian Beef Stew",
+    "title": "Beef Stew",
     "tags": [
-      "beef-recipe",
-      "hearty-stew",
-      "one-pot",
-      "paleo-friendly",
-      "san-marzano-tomatoes",
-      "weeknight"
+      "beef",
+      "ukrainian-cuisine",
+      "comfort-food"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 150,
+    "cuisine": "ukrainian",
+    "totalTimeMin": 125,
     "shard": "t"
   },
   {
