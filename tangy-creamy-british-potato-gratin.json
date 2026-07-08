@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-creamy-british-potato-gratin",
+  "title": "Creamy Potatoes British Style",
+  "description": "A comforting side dish inspired by traditional British cuisine, featuring creamy potatoes, a tangy twist, and a crispy topping.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Gratin",
+      "amount": "2 tablespoons",
+      "notes": "unsalted butter"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine sliced potatoes and enough cold water to cover. Bring to a boil over high heat, then reduce heat to medium-low and simmer for 5 minutes.",
+    "Drain potatoes and set aside.",
+    "In a large skillet, melt butter over medium heat. Add potatoes and cook for 5 minutes on each side, or until golden brown.",
+    "In a separate saucepan, combine heavy cream, Dijon mustard, salt, and pepper. Bring to a simmer over medium heat.",
+    "Reduce heat to low and cook for 2-3 minutes, or until sauce has thickened slightly.",
+    "To assemble, arrange cooked potatoes in a baking dish. Pour cream sauce over potatoes and top with additional grated cheese if desired.",
+    "Transfer to preheated oven and bake for 20-25 minutes, or until golden brown and bubbly.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "potato",
+    "creamy",
+    "british",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-british-potato-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:40:06.649Z"
+}
