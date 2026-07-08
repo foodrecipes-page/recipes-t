@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-creamy-algerian-chickpeas-soup",
+  "title": "Creamy Algerian Chickpea Soup",
+  "description": "A comforting and flavorful soup originating from Algeria, made with chickpeas, tangy and creamy ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tangy tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "or substitute with regular tomato paste"
+    },
+    {
+      "name": "creamy coconut milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for another minute.",
+    "Stir in the Algerian spice blend and cook for 1 minute.",
+    "Add the tomato paste and cook for 1 minute.",
+    "Add the chickpeas, coconut milk, and vegetable broth.",
+    "Bring to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chickpea",
+    "soup",
+    "comfort-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-algerian-chickpeas-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:47:57.715Z"
+}
