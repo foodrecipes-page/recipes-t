@@ -615,18 +615,15 @@
   },
   {
     "slug": "tangy-creamy-british-potato-gratin",
-    "title": "Tangy Creamy British Potato Gratin",
+    "title": "Creamy Potatoes British Style",
     "tags": [
-      "british",
-      "vegan",
       "potato",
-      "gratin",
-      "date-night",
       "creamy",
-      "tangy"
+      "british",
+      "gratin"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
