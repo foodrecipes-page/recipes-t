@@ -1,0 +1,98 @@
+{
+  "slug": "tempting-yeasty-argentinian-cheese-empanadas",
+  "title": "Argentinian Empanadas",
+  "description": "Traditional Argentinian empanadas filled with a savory beef mixture and cheese, perfect for a savory snack or light meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Cibola",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Argentinian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "shredded mozzarella"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook ground beef over medium-high heat, breaking it into small pieces as it cooks.",
+    "Once the beef is browned, add the diced onion, cibola, and garlic. Cook until the vegetables are softened.",
+    "Add the Worcestershire sauce and Argentinian seasoning (if using) and stir to combine.",
+    "In a large bowl, combine the cooked beef mixture, shredded cheese, and a pinch of salt (if using). Mix well.",
+    "On a lightly floured surface, roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a tablespoon or two of the beef and cheese mixture in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg for a golden glaze.",
+    "Fold the dough in half to form a half-moon shape, pressing the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush the tops with the remaining egg wash.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-yeasty-argentinian-cheese-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:58:47.627Z"
+}
