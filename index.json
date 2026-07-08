@@ -571,19 +571,16 @@
   },
   {
     "slug": "tangy-creamy-algerian-chickpeas-soup",
-    "title": "Tangy Creamy Algerian Chickpeas Soup",
+    "title": "Creamy Algerian Chickpea Soup",
     "tags": [
-      "tangy",
-      "creamy",
-      "chickpeas",
-      "sumac",
-      "diabetic-friendly",
-      "vegetarian",
-      "midnight-craving",
-      "comfort-food"
+      "algerian",
+      "chickpea",
+      "soup",
+      "comfort-food",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -11668,15 +11665,14 @@
   },
   {
     "slug": "toasty-toasted-chicken",
-    "title": "Toasty Toasted Chicken",
+    "title": "Toasty Chicken Delight",
     "tags": [
-      "toasty-toast-toasted-chicken",
-      "salty-flaky-algerian-dish",
-      "chicken-breasts",
-      "toast",
-      "low-fat-friendly"
+      "chicken",
+      "bread",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "American",
     "totalTimeMin": 45,
     "shard": "t"
   },
