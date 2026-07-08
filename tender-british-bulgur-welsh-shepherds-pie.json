@@ -1,0 +1,81 @@
+{
+  "slug": "tender-british-bulgur-welsh-shepherds-pie",
+  "title": "Welsh Shepherd's Pie",
+  "description": "A classic British dish featuring tender lamb and bulgur topped with a crispy mashed potato crust.",
+  "cuisine": "British",
+  "diet": [
+    "gluten",
+    "lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Mashed Potatoes",
+      "amount": "2 large",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lamb in a large pan over medium-high heat until browned, breaking it up with a spoon as needed.",
+    "Add onion and carrots to the pan and cook until the vegetables are tender.",
+    "Stir in bulgur and cook for 1-2 minutes.",
+    "Transfer lamb mixture to a 9x13 inch baking dish.",
+    "Make mashed potatoes by boiling diced potatoes in a large pot of salted water until tender.",
+    "Drain potatoes and mash with milk, butter, and salt and pepper to taste.",
+    "Spread mashed potatoes over the lamb mixture.",
+    "Bake for 25-30 minutes, or until the potatoes are golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "british",
+    "main-course",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-british-bulgur-welsh-shepherds-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T13:10:12.349Z"
+}
