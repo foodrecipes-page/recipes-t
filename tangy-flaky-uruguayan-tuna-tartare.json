@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-flaky-uruguayan-tuna-tartare",
+  "title": "Uruguayan Tuna Tartare",
+  "description": "A refreshing Uruguayan-inspired tuna tartare, great as an appetizer or snack. The tangy and flaky texture will leave you wanting more!",
+  "cuisine": "uruguayan",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tuna",
+      "amount": "8 oz",
+      "notes": "Sushi-grade, sashimi-grade tuna"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Minced red onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the tuna into small pieces and place them in a medium bowl.",
+    "Squeeze the lime juice over the tuna and toss to coat.",
+    "Drizzle the olive oil over the tuna and toss again to coat.",
+    "Stir in the chopped cilantro and minced red onion.",
+    "Season with salt and pepper to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the tartare a good stir and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tartare",
+    "tuna",
+    "uruguayan",
+    "fish",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-uruguayan-tuna-tartare",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:46:43.373Z"
+}
