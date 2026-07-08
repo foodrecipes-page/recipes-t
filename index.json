@@ -8278,16 +8278,15 @@
   },
   {
     "slug": "tender-jamaican-chicken-wrap",
-    "title": "Tender Jamaican Chicken Wrap",
+    "title": "Jamaican Chicken Wrap",
     "tags": [
-      "grilled-chicken",
-      "high-protein",
-      "jamaican-cuisine",
-      "one-pan",
-      "weeknight"
+      "jamaican",
+      "chicken",
+      "wrap",
+      "lunch"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "jamaican",
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
@@ -10190,16 +10189,15 @@
   },
   {
     "slug": "tender-syrian-fernbrake-gosari-skillet",
-    "title": "Tender Syrian Fernbrake Gosari Skillet",
+    "title": "Pan-Seared Fernbrake with Syrian Skillet",
     "tags": [
-      "brunch",
-      "one-pan",
-      "syrian-cuisine",
-      "umami",
-      "vegetarian"
+      "korean",
+      "breakfast",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
