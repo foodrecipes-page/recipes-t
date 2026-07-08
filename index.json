@@ -5939,17 +5939,15 @@
   },
   {
     "slug": "tempting-thick-greek-tofu-avgolemono",
-    "title": "Tempting Thick Greek Tofu Avgolemono",
+    "title": "Tempting Tofu Avgolemono",
     "tags": [
-      "avgolemono-styles",
-      "greek-food",
-      "malty-flavors",
-      "one-pot",
-      "tagine-recipes",
-      "vegan-friendly"
+      "greek",
+      "soup",
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 70,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -11484,17 +11482,15 @@
   },
   {
     "slug": "toasted-crunchy-australian-seeds-skewers",
-    "title": "Toasted Crunchy Australian Seeds Skewers",
+    "title": "Australian Toasted Seed Skewers",
     "tags": [
+      "healthy",
+      "snack",
       "australian",
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "seeds",
-      "weeknight"
+      "toasted"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
