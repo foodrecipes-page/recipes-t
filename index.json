@@ -6645,18 +6645,15 @@
   },
   {
     "slug": "tender-british-bulgur-welsh-shepherds-pie",
-    "title": "Tender British Bulgur Welsh Shepherd's Pie",
+    "title": "Welsh Shepherd's Pie",
     "tags": [
+      "lamb",
       "british",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "vegan-options",
-      "weeknight",
-      "welsh"
+      "main-course",
+      "dinner"
     ],
-    "cuisine": "Welsh",
-    "totalTimeMin": 70,
+    "cuisine": "British",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
