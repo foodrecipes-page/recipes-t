@@ -1,0 +1,89 @@
+{
+  "slug": "tender-light-tunisian-duck-stir-fry",
+  "title": "Tunisian Duck Stir Fry",
+  "description": "A flavorful and spicy stir fry dish from Tunisia, made with duck and a variety of vegetables.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian duck breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large skillet over medium-high heat.",
+    "2. Add the duck breast and cook for 5-6 minutes per side, or until cooked through.",
+    "3. Remove the duck from the skillet and set aside.",
+    "4. Add the onion, bell pepper, and zucchini to the skillet. Cook for 5-7 minutes, or until the vegetables are tender.",
+    "5. Add the stir-fry sauce to the skillet and stir to combine.",
+    "6. Return the duck to the skillet and stir to coat with the sauce.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Garnish with chopped parsley, if desired.",
+    "9. Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "duck",
+    "stir-fry",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-light-tunisian-duck-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:55:07.575Z"
+}
