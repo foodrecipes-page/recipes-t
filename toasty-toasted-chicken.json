@@ -1,0 +1,56 @@
+{
+  "slug": "toasty-toasted-chicken",
+  "title": "Toasty Chicken Delight",
+  "description": "A simple yet flavorful dish made with toasted bread and marinated chicken.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Toasty",
+      "amount": "1 baguette, cut into 1-inch slices"
+    },
+    {
+      "name": "Toasted",
+      "amount": "2 tablespoons olive oil",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Chicken",
+      "amount": "1 pound boneless, skinless chicken breast",
+      "notes": "marinated in the following mixture:"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate the chicken in a mixture of 1 tablespoon olive oil, 1 tablespoon lemon juice, 1 minced garlic clove, and 1 teaspoon dried oregano for at least 30 minutes.",
+    "Brush the toasted bread slices with olive oil and season with salt and pepper.",
+    "Bake the chicken in the oven for 20-25 minutes or until cooked through.",
+    "Grill the toasted bread slices until lightly browned.",
+    "Assemble the dish by placing a slice of the toasted bread on a plate, topping it with a slice of the baked chicken, and serving immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "bread",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-toasted-chicken",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:11.107Z"
+}
