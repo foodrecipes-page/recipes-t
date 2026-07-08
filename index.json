@@ -4014,15 +4014,14 @@
   },
   {
     "slug": "tangy-tender-middle-eastern-almond-stir-fry",
-    "title": "Tangy Tender Middle Eastern Almond Stir-fry",
+    "title": "Eastern Fried Chicken Tenders",
     "tags": [
-      "tangy",
-      "middle-eastern",
-      "snack",
-      "almond-free"
+      "chicken",
+      "fried",
+      "middle eastern"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 65,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
