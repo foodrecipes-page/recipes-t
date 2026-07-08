@@ -1,0 +1,88 @@
+{
+  "slug": "tender-jamaican-chicken-wrap",
+  "title": "Jamaican Chicken Wrap",
+  "description": "A delicious and flavorful wrap filled with juicy Jamaican chicken, wrapped in a tender tortilla.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tender Tortilla Wrap",
+      "amount": "1",
+      "notes": "Large flour tortilla"
+    },
+    {
+      "name": "Jamaican Chicken Breast",
+      "amount": "1",
+      "notes": "Boneless, skinless chicken breast"
+    },
+    {
+      "name": "Jamaican Jerk Seasoning",
+      "amount": "1 tbsp",
+      "notes": "Available at most grocery stores"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1/4 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Diced Onions",
+      "amount": "1/2 cup",
+      "notes": "Red or yellow onions work well"
+    },
+    {
+      "name": "Diced Bell Peppers",
+      "amount": "1/2 cup",
+      "notes": "Green or red bell peppers work well"
+    },
+    {
+      "name": "Sliced Cucumber",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Sliced Tomato",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with Jamaican Jerk Seasoning and cook for 5-6 minutes per side, or until cooked through.",
+    "Slice the cooked chicken breast into thin strips.",
+    "Warm the tortilla wrap in the microwave or on the grill for 10-15 seconds.",
+    "Assemble the wrap by spreading a layer of sour cream on the tortilla, followed by the sliced chicken, diced onions, diced bell peppers, sliced cucumber, and sliced tomato.",
+    "Top with shredded cheese and fold the wrap in half to enclose.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "jamaican",
+    "chicken",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:10:45.128Z"
+}
