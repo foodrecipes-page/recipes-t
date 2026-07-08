@@ -1,0 +1,77 @@
+{
+  "slug": "tender-steam-french-lard-confit",
+  "title": "French-Style Confit Duck Leg with Crispy Skin",
+  "description": "A classic French dish involving slow-cooked duck leg confit, served with a crispy skin.",
+  "cuisine": "French",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": "skin on"
+    },
+    {
+      "name": "Lard",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Confit spices",
+      "amount": "2 tbsp",
+      "notes": "garlic, thyme, bay leaves"
+    },
+    {
+      "name": "Tender onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 baguette",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Score the duck legs in a crisscross pattern, being careful not to cut too deeply.",
+    "In a small bowl, mix together confit spices, melted lard, and sliced onions.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Place the duck legs in a large Dutch oven or oven-safe pot, skin side up.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake the duck legs for 2 1/2 hours, or until they are tender and the skin is crispy.",
+    "Remove the pot from the oven and carefully lift the duck legs out of the pot.",
+    "Place the duck legs on a wire rack set over a baking sheet.",
+    "Increase the oven temperature to 425°F (220°C).",
+    "Roast the duck legs in the oven for an additional 10-15 minutes, or until the skin is crispy and golden brown.",
+    "Serve the duck legs with crispy skin, accompanied by sliced French bread and a sprinkle of chopped parsley (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 165,
+  "totalTimeMin": 185,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "duck-leg",
+    "confit",
+    "crispy-skin"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 54,
+    "carbs": 6,
+    "fat": 63
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-steam-french-lard-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T04:04:53.933Z"
+}
