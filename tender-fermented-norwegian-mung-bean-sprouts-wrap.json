@@ -1,0 +1,81 @@
+{
+  "slug": "tender-fermented-norwegian-mung-bean-sprouts-wrap",
+  "title": "Korean-Style Mung Bean Pancakes",
+  "description": "A crispy and savory Korean dish made with mung beans, perfect as a snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung bean paste",
+      "amount": "1 cup"
+    },
+    {
+      "name": "norwegian wrap",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fermented Korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tender scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "1 egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine mung bean paste, flour, egg, water, and salt. Mix until smooth.",
+    "Add bean sprouts and scallions to the mixture. Stir to combine.",
+    "Heat a large non-stick pan or griddle over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "Serve with Norwegian wrap and a sprinkle of Korean chili flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "mung-bean",
+    "pancakes",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-fermented-norwegian-mung-bean-sprouts-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:15:39.539Z"
+}
