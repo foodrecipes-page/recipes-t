@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-chewy-ukrainian-black-treacle-crumble",
+  "title": "Black Treacle Crumble",
+  "description": "A traditional Ukrainian-inspired dessert featuring a tangy black treacle filling topped with a crunchy crumble mixture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black treacle",
+      "amount": "250g"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1 large apple, peeled and sliced",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "Crumble",
+      "amount": "150g plain flour",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "Crumble",
+      "amount": "100g cold unsalted butter, cubed",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "Crumble",
+      "amount": "100g brown sugar",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "Crumble",
+      "amount": "50g rolled oats",
+      "notes": "For the crumble topping"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 tsp cinnamon",
+      "notes": "For the crumble topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine the sliced apple and black treacle. Mix well to coat the apple slices evenly.",
+    "3. Transfer the apple mixture to a 9x9 inch baking dish.",
+    "4. In a separate bowl, combine the flour, cold butter, brown sugar, rolled oats, and cinnamon. Mix until the mixture resembles coarse crumbs.",
+    "5. Spread the crumble mixture evenly over the apple mixture.",
+    "6. Bake for 35-40 minutes, or until the top is golden brown and the filling is bubbly.",
+    "7. Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dessert",
+    "apple",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-ukrainian-black-treacle-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:51:07.242Z"
+}
