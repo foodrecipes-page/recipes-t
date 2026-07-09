@@ -1,0 +1,97 @@
+{
+  "slug": "tender-algerian-lamb-tagine",
+  "title": "Tender Algerian Lamb Tagine",
+  "description": "A classic North African dish made with tender lamb, flavorful spices, and dried fruits.",
+  "cuisine": "nordic",
+  "diet": [
+    "meat",
+    "lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "Bone-in for flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning lamb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Dried prunes",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb on all sides, about 5 minutes.",
+    "Remove lamb and set aside.",
+    "Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add spice blend, cinnamon, and ginger to pot and cook for 1 minute.",
+    "Add apricots and prunes to pot and cook for 2 minutes.",
+    "Add chicken broth to pot and bring to a boil.",
+    "Return lamb to pot and cover.",
+    "Transfer pot to oven and cook at 300°F (150°C) for 2.5 hours, or until lamb is tender.",
+    "Serve lamb with sauce spooned over the top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "algerian",
+    "tagine",
+    "nordic",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 40,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:19:55.559Z"
+}
