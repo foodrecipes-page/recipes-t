@@ -1,0 +1,96 @@
+{
+  "slug": "tempting-umami-korean-tofu-bowl",
+  "title": "Spicy Korean Tofu Bowl",
+  "description": "A flavorful and spicy Korean-inspired dish made with crispy tofu, crunchy vegetables, and a savory sauce, served in a steaming hot bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "sliced carrots",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced cucumber",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into bite-sized cubes and coat with a mixture of 1 tsp soy sauce, 1 tsp brown sugar, and 1 tsp rice vinegar. Let marinate for at least 15 minutes.",
+    "2. In a large skillet or wok, heat 1 tbsp vegetable oil over medium-high heat.",
+    "3. Add the tofu to the skillet and cook until golden brown on all sides, about 5-7 minutes.",
+    "4. Add the sliced carrots and cucumber to the skillet and cook until they start to soften, about 3-4 minutes.",
+    "5. In a small bowl, whisk together 1 tbsp soy sauce, 2 tsp Korean chili flakes, and 2 tbsp water.",
+    "6. Pour the sauce over the vegetables and tofu, and stir-fry until the sauce has thickened and the vegetables are tender.",
+    "7. Stir in chopped green onions and cook for an additional 1-2 minutes.",
+    "8. Serve the spicy tofu mixture over a bed of cooked white rice in a steaming hot bowl.",
+    "9. Garnish with additional green onions and a sprinkle of Korean chili flakes, if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "tofu",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-umami-korean-tofu-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:44:10.293Z"
+}
