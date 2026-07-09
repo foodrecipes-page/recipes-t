@@ -1,0 +1,85 @@
+{
+  "slug": "tasty-greek-pepper-fritters",
+  "title": "Greek Pepper Fritters",
+  "description": "Crispy fritters filled with a flavorful mix of Greek seasonings and sweet peppers, perfect as a side dish or snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup tasty pepper, diced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup greek yogurt",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon salt",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 egg, lightly beaten",
+      "amount": "1",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "In a bowl, mix together the diced pepper, greek yogurt, flour, salt, and black pepper.",
+    "Add the minced garlic and lightly beaten egg to the bowl and mix until well combined.",
+    "Using a spoon, drop small amounts of the mixture into the hot oil, about 1 tablespoonful at a time.",
+    "Fry the fritters for 2-3 minutes on each side, or until golden brown.",
+    "Remove the fritters from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "Serve the fritters hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "pepper",
+    "fritters",
+    "fried",
+    "side-dish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-greek-pepper-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:43:26.282Z"
+}
