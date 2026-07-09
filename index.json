@@ -4951,16 +4951,17 @@
   },
   {
     "slug": "tasty-greek-pepper-fritters",
-    "title": "Tasty Greek Pepper Fritters",
+    "title": "Greek Pepper Fritters",
     "tags": [
-      "crispy",
-      "one-pan",
-      "plant-based",
-      "quick",
-      "snack-style"
+      "greek",
+      "pepper",
+      "fritters",
+      "fried",
+      "side-dish",
+      "snack"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -6181,17 +6182,15 @@
   },
   {
     "slug": "tempting-umami-korean-tofu-bowl",
-    "title": "Tempting Umami Korean Tofu Bowl",
+    "title": "Spicy Korean Tofu Bowl",
     "tags": [
-      "cheese-pull",
-      "hangover-cure",
-      "jain-friendly",
-      "korean-food",
-      "umami-rich",
-      "vegetarian"
+      "korean",
+      "tofu",
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -6252,16 +6251,14 @@
     "slug": "tender-algerian-lamb-tagine",
     "title": "Tender Algerian Lamb Tagine",
     "tags": [
-      "algerian-cuisine",
-      "lamb-recipes",
-      "one-pot",
-      "shojin-friendly",
-      "slow-cooked",
-      "spicy",
-      "tender-meats"
+      "lamb",
+      "algerian",
+      "tagine",
+      "nordic",
+      "slow-cooked"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 125,
+    "cuisine": "nordic",
+    "totalTimeMin": 180,
     "shard": "t"
   },
   {
