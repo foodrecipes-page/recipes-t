@@ -6727,16 +6727,15 @@
   },
   {
     "slug": "tender-buttery-uruguayan-lamb-papillote",
-    "title": "tender buttery uruguayan lamb papillote",
+    "title": "Uruguayan Lamb Papillote with Butter",
     "tags": [
-      "high-protein",
-      "lamb",
-      "one-pan",
       "uruguayan",
-      "weeknight"
+      "lamb",
+      "butter",
+      "papillote"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 45,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -8201,17 +8200,15 @@
   },
   {
     "slug": "tender-italian-wholemeal-flour-pasta",
-    "title": "Tender Italian Wholemeal Flour Pasta",
+    "title": "Italian Pasta Bake",
     "tags": [
       "italian",
-      "wholemeal",
-      "tandoor",
-      "jain",
-      "vegan",
-      "tender"
+      "pasta",
+      "bake",
+      "dinner"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 8,
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
