@@ -1,0 +1,61 @@
+{
+  "slug": "tender-buttery-uruguayan-lamb-papillote",
+  "title": "Uruguayan Lamb Papillote with Butter",
+  "description": "A simple and flavorful papillote dish from Uruguay, featuring tender lamb and a hint of butter.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Seasoned with salt and pepper"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "papillote",
+      "amount": "4 large",
+      "notes": "Fresh, not dried"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Place a lamb shoulder in the center of each papillote.",
+    "Dot the top of each lamb shoulder with softened butter.",
+    "Fold the papillote over the lamb, sealing the edges.",
+    "Place the papillotes on a baking sheet and bake for 20 minutes.",
+    "Rotate the papillotes and continue baking for an additional 15-20 minutes.",
+    "Check for doneness by inserting a meat thermometer into the lamb. It should read 145°F (63°C) for medium-rare.",
+    "Let the lamb rest for 5 minutes before serving.",
+    "Serve with the papillote folded back, allowing the steam to escape."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "lamb",
+    "butter",
+    "papillote"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-buttery-uruguayan-lamb-papillote",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:28:24.943Z"
+}
