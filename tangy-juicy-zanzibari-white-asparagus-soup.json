@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-juicy-zanzibari-white-asparagus-soup",
+  "title": "Pan-Seared Asparagus with Zanzibari Soup",
+  "description": "A delicious and easy-to-make dish featuring the flavors of asparagus and zanzibari. Perfect for a light lunch or dinner.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": "Fresh"
+    },
+    {
+      "name": "White Zanzibari",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tangy Soup",
+      "amount": "1 cup",
+      "notes": "Heat up according to package instructions"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Juicy Lemon",
+      "amount": "1/2 lemon",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the minced zanzibari and sauté for 1-2 minutes until fragrant.",
+    "Add the asparagus to the skillet and sauté for 3-4 minutes until tender.",
+    "Pour the heated tangy soup over the asparagus and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately with a squeeze of juicy lemon juice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "zanzibari",
+    "soup",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-zanzibari-white-asparagus-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:52:57.351Z"
+}
