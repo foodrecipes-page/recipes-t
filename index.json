@@ -3173,16 +3173,15 @@
   },
   {
     "slug": "tangy-mediterranean-semolina-stir-fry",
-    "title": "Tangy Mediterranean Semolina Stir-fry",
+    "title": "Tangy Mediterranean Semolina Fritters",
     "tags": [
-      "tangy",
-      "creamy",
       "mediterranean",
       "semolina",
-      "jain-friendly"
+      "fritters",
+      "snack"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -8787,17 +8786,15 @@
   },
   {
     "slug": "tender-middle-eastern-jersey-royal-potatoes-flatbread",
-    "title": "Tender Middle Eastern Jersey Royal Potatoes Flatbread",
+    "title": "Eastern Flatbread and Potatoes",
     "tags": [
-      "brunch",
       "flatbread",
-      "gluten-free",
-      "middle-eastern",
-      "potato",
-      "vegetarian"
+      "potatoes",
+      "eastern",
+      "lunch"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "cuisine": "Eastern",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
