@@ -530,15 +530,15 @@
   },
   {
     "slug": "tangy-chewy-ukrainian-black-treacle-crumble",
-    "title": "Tangy Chewy Ukrainian Black Treacle Crumble",
+    "title": "Black Treacle Crumble",
     "tags": [
-      "black-treacle",
-      "chewy",
-      "tangy",
-      "ukraine"
+      "ukrainian",
+      "dessert",
+      "apple",
+      "crumble"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
@@ -6996,17 +6996,15 @@
   },
   {
     "slug": "tender-creamy-portuguese-monkfish-paella",
-    "title": "Tender Creamy Portuguese Monkfish Paella",
+    "title": "Moqueca de Peixe",
     "tags": [
-      "gluten-free",
-      "meal-prep",
-      "one-pan",
-      "pescatarian",
       "portuguese",
-      "seafood"
+      "fish",
+      "seafood",
+      "moqueca"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -10709,15 +10707,13 @@
   },
   {
     "slug": "tender-ukrainian-beef-borscht",
-    "title": "Tender Ukrainian Beef Borscht",
+    "title": "Classic Ukrainian Borscht",
     "tags": [
+      "borscht",
+      "ukrainian",
       "beef",
       "beets",
-      "comfort-food",
-      "one-pot",
-      "soup",
-      "ukrainian",
-      "whole30-friendly"
+      "soup"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
