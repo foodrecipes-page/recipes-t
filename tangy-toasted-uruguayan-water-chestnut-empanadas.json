@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-toasted-uruguayan-water-chestnut-empanadas",
+  "title": "Uruguayan Empanada Filling",
+  "description": "A traditional Uruguayan filling made with tangy ingredients, perfect for baking or frying empanadas.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chestnut",
+      "amount": "1 cup, cooked and mashed",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Uruguayan Cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Toasted Onion",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package, thawed",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together the mashed chestnut, shredded cheese, chopped onion, and water.",
+    "Place a tablespoon of the filling in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges to seal.",
+    "Brush the tops with a little water and bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "empanadas",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-toasted-uruguayan-water-chestnut-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T02:01:18.004Z"
+}
