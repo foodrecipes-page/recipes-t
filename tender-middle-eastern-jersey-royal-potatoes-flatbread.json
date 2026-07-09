@@ -1,0 +1,63 @@
+{
+  "slug": "tender-middle-eastern-jersey-royal-potatoes-flatbread",
+  "title": "Eastern Flatbread and Potatoes",
+  "description": "A simple flatbread dish originating from the Eastern region, often served with boiled potatoes.",
+  "cuisine": "Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jersey royal potatoes",
+      "amount": "3-4",
+      "notes": "unpeeled"
+    },
+    {
+      "name": "Eastern flatbread",
+      "amount": "2 large pieces",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Tender potatoes",
+      "amount": "1 large one",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "Middle eastern herbs",
+      "amount": "1 tsp dried or 1 tbsp fresh",
+      "notes": "such as thyme or oregano"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Boil the Jersey royal potatoes until tender.",
+    "Brush the Eastern flatbread with olive oil on both sides.",
+    "Place the flatbread on a baking sheet and bake for 10 minutes.",
+    "If using, slice the tender potato and layer on top of the flatbread.",
+    "Sprinkle with dried or fresh herbs.",
+    "Return to the oven for another 5 minutes.",
+    "Serve hot alongside the boiled potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "potatoes",
+    "eastern",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-middle-eastern-jersey-royal-potatoes-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:40:30.271Z"
+}
