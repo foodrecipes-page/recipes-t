@@ -6891,17 +6891,15 @@
   },
   {
     "slug": "tender-chinese-pork-char-siu-bao",
-    "title": "Tender Chinese Pork Char-Siu Bao",
+    "title": "Cantonese-Style BBQ Pork Bao",
     "tags": [
-      "easy-to-make",
-      "grilled",
-      "high-protein",
-      "kid-friendly",
-      "one-pan",
-      "weeknight"
+      "cantonese",
+      "bbq",
+      "pork",
+      "bao"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Cantonese",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -7492,15 +7490,15 @@
   },
   {
     "slug": "tender-fermented-norwegian-mung-bean-sprouts-wrap",
-    "title": "Tender Fermented Norwegian Mung Bean Sprouts Wrap",
+    "title": "Korean-Style Mung Bean Pancakes",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "korean",
+      "mung-bean",
+      "pancakes",
+      "snack"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 37,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
