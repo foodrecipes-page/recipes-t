@@ -1,0 +1,97 @@
+{
+  "slug": "tender-chinese-pork-char-siu-bao",
+  "title": "Cantonese-Style BBQ Pork Bao",
+  "description": "A classic Cantonese dish featuring tender pork belly in a sweet and savory BBQ sauce, served in a soft steamed bun.",
+  "cuisine": "Cantonese",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "char siu sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "five-spice powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "steamed bao buns",
+      "amount": "4-6 buns",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, whisk together hoisin sauce, rice vinegar, brown sugar, five-spice powder, garlic, and ginger.",
+    "Add the char siu sauce to the bowl and whisk until smooth.",
+    "Place the pork belly in a large zip-top plastic bag or a non-reactive container with a lid. Pour the BBQ sauce into the bag or container, turning to coat the pork evenly.",
+    "Seal the bag or cover the container with plastic wrap. Refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the pork from the marinade, letting any excess liquid drip off.",
+    "Grill the pork for 5-7 minutes per side, or until caramelized and cooked through.",
+    "Transfer the pork to a cutting board and let rest for 10 minutes before slicing.",
+    "Split the steamed bao buns in half and toast until lightly browned.",
+    "Assemble the bao by spooning the sliced pork onto the buns, followed by a sprinkle of chopped scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cantonese",
+    "bbq",
+    "pork",
+    "bao"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-chinese-pork-char-siu-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:29:27.640Z"
+}
