@@ -1,0 +1,69 @@
+{
+  "slug": "tangy-mediterranean-semolina-stir-fry",
+  "title": "Tangy Mediterranean Semolina Fritters",
+  "description": "Crispy semolina fritters infused with the flavors of the Mediterranean, perfect as a snack or appetizer.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semolina flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Mediterranean seasoning blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine semolina flour and water. Mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth.",
+    "Divide the dough into 8-10 portions.",
+    "Shape each portion into a ball and flatten slightly into a disk shape.",
+    "Heat olive oil in a non-stick skillet over medium-high heat.",
+    "When the oil is hot, add 2-3 fritters to the skillet and cook for 2-3 minutes on each side.",
+    "Repeat with remaining fritters.",
+    "Serve warm with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "semolina",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-mediterranean-semolina-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:54:00.340Z"
+}
