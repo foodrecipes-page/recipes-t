@@ -2202,16 +2202,15 @@
   },
   {
     "slug": "tangy-gooey-algerian-lamb-tagine",
-    "title": "Algerian Lamb Tagine",
+    "title": "Tangy Algerian Lamb Tagine",
     "tags": [
-      "algerian",
       "lamb",
-      "stew",
-      "jerk-seasoning",
-      "tadka-spice-blend",
-      "midnight-craving"
+      "tagine",
+      "algerian",
+      "north-african",
+      "meat"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 170,
     "shard": "t"
   },
@@ -11299,14 +11298,11 @@
   },
   {
     "slug": "thick-velvety-argentinian-cocoa-bake",
-    "title": "Argentinian Cocoa Bake",
+    "title": "Argentinian Chocolate Flan",
     "tags": [
-      "argentinian",
-      "dessert",
-      "sweet-tooth",
-      "weeknight"
+      "argentinian"
     ],
-    "cuisine": "Argentinian",
+    "cuisine": "Latin American",
     "totalTimeMin": 45,
     "shard": "t"
   },
