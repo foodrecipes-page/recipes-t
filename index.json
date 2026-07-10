@@ -3943,16 +3943,14 @@
   },
   {
     "slug": "tangy-tender-french-chicken-casserole",
-    "title": "Tangy Tender French Chicken Casserole",
+    "title": "French Chicken Casserole",
     "tags": [
-      "french",
       "chicken",
       "casserole",
-      "low-calorie",
-      "gluten-free"
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
