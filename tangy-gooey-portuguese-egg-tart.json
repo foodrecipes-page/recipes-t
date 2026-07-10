@@ -1,0 +1,71 @@
+{
+  "slug": "tangy-gooey-portuguese-egg-tart",
+  "title": "Portuguese Egg Tart",
+  "description": "A traditional Portuguese dessert consisting of an egg custard baked in a flaky pastry crust.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tart shell",
+      "amount": "1"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "portuguese egg tart filling",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Roll out the tart shell and place it in a 9-inch tart pan.",
+    "In a large bowl, whisk together eggs, sugar, and Portuguese egg tart filling until well combined.",
+    "Pour the egg mixture into the tart shell.",
+    "Dot the top of the tart with melted butter.",
+    "Sprinkle salt over the top of the tart.",
+    "Bake for 15 minutes, then reduce the oven temperature to 375°F (190°C) and bake for an additional 25-30 minutes, or until the edges are golden brown.",
+    "Allow the tart to cool completely on a wire rack.",
+    "Serve chilled, garnished with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "tart",
+    "dessert",
+    "egg",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-portuguese-egg-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:29.125Z"
+}
