@@ -1,0 +1,94 @@
+{
+  "slug": "tender-spicy-german-meat-stew",
+  "title": "Spicy German Beef Stew",
+  "description": "A hearty, comforting stew with tender beef, spicy undertones and classic German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "spicy sausage",
+      "amount": "1/2 pound",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown beef on all sides, about 5 minutes, then remove from pot.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add caraway seeds, allspice, salt, and pepper; cook 1 minute.",
+    "Add red wine and bring to a boil, scraping up browned bits.",
+    "Return beef to pot and add beef broth; bring to a boil.",
+    "Reduce heat to low; cover and simmer 1 hour or until beef is tender.",
+    "Add spicy sausage and cook 15 minutes or until heated through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-spicy-german-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:12:14.927Z"
+}
