@@ -1,0 +1,88 @@
+{
+  "slug": "tender-grilled-brazilian-chicken-skewers",
+  "title": "Brazilian-Style Chicken Skewers",
+  "description": "Savory and slightly sweet, these chicken skewers are a staple of Brazilian grilling.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, onion, bell pepper, and zucchini onto skewers.",
+    "In a small bowl, mix together lime juice, garlic, salt, and black pepper.",
+    "Brush the mixture onto both sides of the chicken and vegetables.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through and the vegetables are tender.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "brazilian",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-grilled-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:28:30.003Z"
+}
