@@ -2328,15 +2328,16 @@
   },
   {
     "slug": "tangy-gooey-portuguese-egg-tart",
-    "title": "Tangy Gooey Portuguese Egg Tart",
+    "title": "Portuguese Egg Tart",
     "tags": [
-      "breakfast",
-      "dessert-adjacent",
-      "low-fat",
-      "portuguese"
+      "portuguese",
+      "tart",
+      "dessert",
+      "egg",
+      "custard"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -10286,16 +10287,15 @@
   },
   {
     "slug": "tender-thai-chicken-tom-kha",
-    "title": "Tender Thai Chicken Tom Kha",
+    "title": "Thai Tom Kha Soup",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pot",
       "thai-cuisine",
-      "weeknight"
+      "soup",
+      "coconut-milk",
+      "chicken"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
