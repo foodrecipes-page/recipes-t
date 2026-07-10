@@ -4276,17 +4276,14 @@
   },
   {
     "slug": "tangy-velvety-chinese-polish-sausage-buddha-76jumps-over-wall",
-    "title": "Tangy Velvety Chinese Polish Sausage Buddha Jumps Over Wall",
+    "title": "Buddha's Polish Sausage Stir Fry",
     "tags": [
-      "chinese",
-      "flexitarian",
-      "gluten-free-option",
-      "one-pan",
-      "paleo-option",
-      "polish-sausage",
-      "vegan-option"
+      "polish sausage",
+      "stir fry",
+      "vegetables",
+      "soy sauce"
     ],
-    "cuisine": "Chinese",
+    "cuisine": "polish, chinese",
     "totalTimeMin": 30,
     "shard": "t"
   },
@@ -4791,17 +4788,14 @@
   },
   {
     "slug": "tasty-canadian-pak-choi-fried-rice",
-    "title": "Tasty Canadian Pak Choi Fried Rice",
+    "title": "Stir-Fried Canadian Pak Choi with Fried Rice",
     "tags": [
-      "canadian-cuisine",
-      "easy-meal",
-      "fried-rice",
-      "ovo-vegetarian",
-      "quick-fix",
-      "weeknight-dinner"
+      "stir-fry",
+      "pak-choi",
+      "fried-rice"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
