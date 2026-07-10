@@ -1,0 +1,89 @@
+{
+  "slug": "tender-thai-chicken-tom-kha",
+  "title": "Thai Tom Kha Soup",
+  "description": "A spicy and sour Thai soup made with coconut milk, lemongrass, and your choice of protein. Serve with steamed rice or noodles for a delicious and filling meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the tom kha paste and cook for 1 minute, until fragrant.",
+    "Pour in the coconut milk and chicken broth, and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Add the lemongrass, fish sauce, and sugar, and stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the soup hot, garnished with lime wedges and sliced chili peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "soup",
+    "coconut-milk",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-thai-chicken-tom-kha",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T06:52:44.635Z"
+}
