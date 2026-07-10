@@ -1,0 +1,57 @@
+{
+  "slug": "tangy-crumbly-mediterranean-semolina-crumble",
+  "title": "Mediterranean Semolina Crumble",
+  "description": "A crunchy and flavorful dessert combining the sweetness of semolina with the tanginess of tangy ingredients, topped with a crumbly crust.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix semolina, tangy, and crumbly ingredients in a bowl.",
+    "Press mixture into a baking dish.",
+    "Top mixture with mediterranean.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "crumble",
+    "mediterranean",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-mediterranean-semolina-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:58:08.217Z"
+}
