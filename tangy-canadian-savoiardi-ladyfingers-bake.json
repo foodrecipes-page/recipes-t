@@ -1,0 +1,70 @@
+{
+  "slug": "tangy-canadian-savoiardi-ladyfingers-bake",
+  "title": "Tangy Ladyfinger Trifle",
+  "description": "A layered dessert featuring tangy Canadian whipped cream, savoiardi ladyfingers, and a bake of fresh berries.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Whipped Cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Savoiardi Ladyfingers",
+      "amount": "12-16"
+    },
+    {
+      "name": "Tangy Berry Bake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Bake the tangy berry bake in a 9x9 inch baking dish for 20-25 minutes, or until golden brown.",
+    "Dip each ladyfinger into the Canadian whipped cream for 3-5 seconds on each side. They should be soft and pliable but not too wet.",
+    "In a large serving dish, create a layer of ladyfingers. You can trim them to fit the dish.",
+    "Spread half of the tangy berry bake over the ladyfingers.",
+    "Repeat the layers: ladyfingers, tangy berry bake, and whipped cream.",
+    "Dust the top with granulated sugar and sprinkle with fresh berries.",
+    "Chill in the refrigerator for at least 30 minutes before serving.",
+    "Slice and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "trifle",
+    "canadian",
+    "whipped-cream",
+    "ladyfingers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-canadian-savoiardi-ladyfingers-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:02:49.154Z"
+}
