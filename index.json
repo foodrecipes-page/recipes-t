@@ -355,20 +355,16 @@
   },
   {
     "slug": "tangy-canadian-savoiardi-ladyfingers-bake",
-    "title": "Tangy Canadian Savoiardi-Ladyfingers Bake",
+    "title": "Tangy Ladyfinger Trifle",
     "tags": [
-      "breakfast",
+      "dessert",
+      "trifle",
       "canadian",
-      "gluten-free",
-      "high-protein",
-      "jain-friendly",
-      "meal-prep",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "whipped-cream",
+      "ladyfingers"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 40,
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -1210,16 +1206,14 @@
   },
   {
     "slug": "tangy-crumbly-mediterranean-semolina-crumble",
-    "title": "Tangy Crumbly Mediterranean Semolina Crumble",
+    "title": "Mediterranean Semolina Crumble",
     "tags": [
-      "semolina",
       "crumble",
       "mediterranean",
-      "comforting",
       "dessert"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
