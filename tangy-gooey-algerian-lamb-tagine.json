@@ -1,0 +1,98 @@
+{
+  "slug": "tangy-gooey-algerian-lamb-tagine",
+  "title": "Tangy Algerian Lamb Tagine",
+  "description": "A traditional Algerian dish made with tender lamb, tangy spices, and gooey sauce, all slow-cooked in a clay pot.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1, 1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "tangy spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "algerian tagine spice mix",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the bottom of a clay tagine or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the spice blends, diced tomatoes, chicken broth, honey, and lemon juice.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 1/2 to 3 hours, or until the lamb is tender.",
+    "Skim off any excess fat and serve hot, garnished with fresh herbs, if desired.",
+    "Serve over couscous, if desired.",
+    "Let the tagine rest for 10-15 minutes before serving, to allow the flavors to meld.",
+    "Serve with a side of crusty bread or over couscous.",
+    "Garnish with fresh herbs, such as parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "algerian",
+    "north-african",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:56:47.495Z"
+}
