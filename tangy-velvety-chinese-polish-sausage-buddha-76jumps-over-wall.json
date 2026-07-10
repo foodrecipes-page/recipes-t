@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-velvety-chinese-polish-sausage-buddha-76jumps-over-wall",
+  "title": "Buddha's Polish Sausage Stir Fry",
+  "description": "A savory, spicy stir fry with polish sausage, bell peppers, and onions, inspired by Eastern flavors.",
+  "cuisine": "polish, chinese",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "polish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tangy over-wall cabbage",
+      "amount": "2 cups"
+    },
+    {
+      "name": "76jumps carrots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chinese bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "velvety soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "buddha's rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "over onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "wall garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high.",
+    "Add the polish sausage and cook until browned, about 5 minutes.",
+    "Add the cabbage and carrots and cook until tender, about 5 minutes.",
+    "Add the bell peppers and cook until tender, about 3 minutes.",
+    "In a small bowl, whisk together the soy sauce, rice vinegar, and garlic.",
+    "Pour the sauce over the vegetables and sausage, and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce has thickened.",
+    "Serve hot, garnished with sliced green onions and a sprinkle of soy sauce.",
+    "Cook time: 20 minutes.",
+    "Prep time: 10 minutes.",
+    "Total time: 30 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish sausage",
+    "stir fry",
+    "vegetables",
+    "soy sauce"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-chinese-polish-sausage-buddha-76jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:04:23.692Z"
+}
