@@ -9922,17 +9922,15 @@
   },
   {
     "slug": "tender-spicy-german-meat-stew",
-    "title": "Tender Spicy German Meat Stew",
+    "title": "Spicy German Beef Stew",
     "tags": [
-      "comfort-food",
-      "german-cuisine",
-      "low-glycemic",
-      "one-pot",
-      "slow-cooked",
-      "spicy"
+      "german",
+      "beef",
+      "stew",
+      "comfort food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 170,
+    "cuisine": "german",
+    "totalTimeMin": 95,
     "shard": "t"
   },
   {
