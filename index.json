@@ -3295,18 +3295,15 @@
   },
   {
     "slug": "tangy-moroccan-sellou-sellou",
-    "title": "Tangy Moroccan Sellou Sellou",
+    "title": "Moroccan Sellou Delight",
     "tags": [
-      "breakfast",
-      "lazy-sunday",
-      "low-fat",
       "moroccan",
       "sellou",
       "tangy",
-      "vegetarian",
-      "weeknight"
+      "snack",
+      "dessert"
     ],
-    "cuisine": "moroccan",
+    "cuisine": "Moroccan",
     "totalTimeMin": 35,
     "shard": "t"
   },
