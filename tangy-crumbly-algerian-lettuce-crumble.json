@@ -1,0 +1,53 @@
+{
+  "slug": "tangy-crumbly-algerian-lettuce-crumble",
+  "title": "Algerian Salad",
+  "description": "A refreshing salad made with algerian crumble, tangy dressing, and crispy lettuce.",
+  "cuisine": "north african",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian crumble",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "tangy dressing",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the algerian crumble and lettuce.",
+    "Drizzle the tangy dressing over the top and toss to coat.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "north-african",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-algerian-lettuce-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T02:12:07.849Z"
+}
