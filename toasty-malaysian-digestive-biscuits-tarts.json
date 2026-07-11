@@ -1,0 +1,73 @@
+{
+  "slug": "toasty-malaysian-digestive-biscuits-tarts",
+  "title": "Malaysian Biscuit Tart",
+  "description": "A fusion dessert combining the crunch of biscuits with the flakiness of tarts, inspired by Malaysian flavors.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Digestive Biscuits",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "Tarts",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Toasty Coconut Flakes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian Pandan Flavoring",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Crush digestive biscuits in a food processor or place in a ziplock bag and crush with a rolling pin.",
+    "In a medium bowl, mix together crushed biscuits, toasty coconut flakes, and pandan flavoring.",
+    "Press the biscuit mixture into the bottom and up the sides of the tart crust.",
+    "Bake for 8-10 minutes, or until lightly browned.",
+    "While the crust is baking, mix together sugar and melted butter in a small bowl.",
+    "Remove the crust from the oven and pour the sugar mixture over the top.",
+    "Return the tart to the oven and bake for an additional 5-7 minutes, or until the sugar is caramelized.",
+    "Allow the tart to cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "dessert",
+    "biscuit-tart",
+    "coconut",
+    "pandan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-malaysian-digestive-biscuits-tarts",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:22:08.809Z"
+}
