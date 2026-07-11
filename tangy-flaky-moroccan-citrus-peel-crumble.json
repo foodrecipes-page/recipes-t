@@ -1,0 +1,74 @@
+{
+  "slug": "tangy-flaky-moroccan-citrus-peel-crumble",
+  "title": "Moroccan Crumble Muffins",
+  "description": "Moist and flavorful muffins with a crumbly topping, inspired by Moroccan spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "tangy citrus sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "moroccan spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble topping (see below)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line a 12-cup muffin tin with paper liners.",
+    "In a medium bowl, whisk together flour, citrus sugar, and moroccan spice blend.",
+    "Add cold butter to the dry ingredients and use a pastry blender or your fingertips to work it into the mixture until it resembles coarse crumbs.",
+    "In a large bowl, whisk together eggs and yogurt until well combined.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.",
+    "Divide the batter evenly among the muffin cups.",
+    "To make the crumble topping, mix together the crumble ingredients in a small bowl until well combined.",
+    "Sprinkle the crumble topping evenly over the muffins.",
+    "Bake for 20-25 minutes, or until the muffins are golden brown and a toothpick inserted into the center of a muffin comes out clean.",
+    "Allow the muffins to cool in the tin for 5 minutes, then transfer them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "muffins",
+    "moroccan",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-moroccan-citrus-peel-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T18:20:02.531Z"
+}
