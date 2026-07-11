@@ -1,0 +1,74 @@
+{
+  "slug": "tender-twice-norwegian-potatoes-fritters",
+  "title": "Twice-Baked Norwegian Potato Fritters",
+  "description": "A twist on traditional potato pancakes, these twice-baked fritters are packed with the flavors of Norway. Serve as a side dish or snack.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "twice",
+      "amount": "1 teaspoon",
+      "notes": "dried parsley"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tender",
+      "amount": "2 tablespoons",
+      "notes": "milk"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the potatoes and squeeze out as much moisture as possible.",
+    "In a bowl, combine the grated potatoes, flour, eggs, salt, parsley, and milk. Mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Heat a non-stick pan with 1/2 inch (1 cm) of oil over medium heat.",
+    "Fry the fritters for 3-4 minutes on each side, until golden brown.",
+    "Transfer the fritters to a baking sheet and bake for 10-12 minutes, until crispy.",
+    "Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "potato",
+    "fritters",
+    "twice-baked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-twice-norwegian-potatoes-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:12:21.442Z"
+}
