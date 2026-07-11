@@ -1,0 +1,85 @@
+{
+  "slug": "tender-indian-tagliatelle-chaat",
+  "title": "Spicy Tender Chaat Tagliatelle",
+  "description": "A unique fusion of Indian and Italian flavors, featuring tender meat in a spicy chaat sauce served over tagliatelle.",
+  "cuisine": "Indian-Italian Fusion",
+  "diet": [
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender pork shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tagliatelle pasta",
+      "amount": "250g"
+    },
+    {
+      "name": "chaat masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle pasta according to the package instructions. Drain and set aside.",
+    "Heat oil in a large pan over medium-high heat. Add the onion and cook until browned.",
+    "Add the garlic, cumin, coriander, garam masala, and cayenne pepper to the pan and cook for 1 minute.",
+    "Add the tender pork shoulder to the pan and cook until browned on all sides.",
+    "Add 1 cup of water to the pan and bring to a boil. Reduce heat to low and simmer for 10 minutes.",
+    "Stir in the chaat masala and cook for an additional 2 minutes.",
+    "Stir in the cooked tagliatelle pasta and cook for 1-2 minutes, until well combined.",
+    "Season with salt to taste.",
+    "Garnish with fresh cilantro and serve hot.",
+    "Rest the meat for 10 minutes before slicing it thinly against the grain."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "italian",
+    "pork",
+    "pastadish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-indian-tagliatelle-chaat",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T19:18:31.503Z"
+}
