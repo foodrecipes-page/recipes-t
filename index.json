@@ -1063,15 +1063,14 @@
   },
   {
     "slug": "tangy-crumbly-algerian-lettuce-crumble",
-    "title": "Tangy Crumbly Algerian Lettuce Cumber",
+    "title": "Algerian Salad",
     "tags": [
-      "algerian",
-      "lettuce",
-      "tangy",
-      "crumbly"
+      "salad",
+      "north-african",
+      "easy-to-make"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "cuisine": "north african",
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -7153,17 +7152,15 @@
   },
   {
     "slug": "tender-crunchy-kenyan-cabbage-salad",
-    "title": "Tender Crunchy Kenyan Cabbage Salad",
+    "title": "Kenyan Cabbage Salad",
     "tags": [
-      "gluten-free",
-      "kenyan",
-      "low-carb",
       "salad",
+      "kenyan",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
