@@ -8278,18 +8278,14 @@
   },
   {
     "slug": "tender-jamaican-potatoes-hash",
-    "title": "Tender Jamaican Potatoes Hash",
+    "title": "Jamaican Hash Browns",
     "tags": [
-      "caribbean",
-      "easy-side-dish",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "potatoes",
-      "weeknight"
+      "breakfast",
+      "hashbrowns",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 25,
+    "cuisine": "jamaican",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
