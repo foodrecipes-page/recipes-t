@@ -1,0 +1,96 @@
+{
+  "slug": "tangy-algerian-chicken-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A traditional Algerian dish made with chicken, spices, and dried fruits, slow-cooked in a clay pot called a tagine. This recipe offers a flavorful and aromatic experience.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast or thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Tangy tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning chicken"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a clay tagine or a large Dutch oven over medium-high heat.",
+    "Brown the chicken in batches until it is golden brown, about 5 minutes.",
+    "Add more oil if needed, then add the onions and cook until they are softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Stir in the tagine spice blend, almonds, dried apricots, salt, and pepper.",
+    "Add the chicken back into the pot and stir to coat with the spice mixture.",
+    "Add the water to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake for 30-40 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:49:36.501Z"
+}
