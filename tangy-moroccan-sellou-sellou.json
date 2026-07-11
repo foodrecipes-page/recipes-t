@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-moroccan-sellou-sellou",
+  "title": "Moroccan Sellou Delight",
+  "description": "Sellou is a traditional Moroccan dish made from flour, honey, and almonds. This recipe is a delicious twist on the classic, with a tangy twist.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Sellou",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/2 cup",
+      "notes": "high-quality honey"
+    },
+    {
+      "name": "Tangy Tahini",
+      "amount": "2 tbsp",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rose Water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1 tsp",
+      "notes": "for added warmth"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large mixing bowl, combine the sliced almonds, sellou, honey, tahini, pistachios, rose water, cinnamon, and salt. Mix well until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and pliable.",
+    "Shape the dough into small balls, about 1-inch in diameter. Place the balls onto a baking sheet lined with parchment paper.",
+    "Drizzle the unsalted butter over the balls, making sure they're evenly coated.",
+    "Bake in the preheated oven for 15-20 minutes, or until the sellou is lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "sellou",
+    "tangy",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-moroccan-sellou-sellou",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:33:47.172Z"
+}
