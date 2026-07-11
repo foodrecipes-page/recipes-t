@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-silky-poblano-stir-fry",
+  "title": "Poblano Fajita Stir Fry",
+  "description": "A flavorful, spicy, and slightly sweet stir fry featuring roasted poblanos and served with crispy tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "tangy stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the roasted poblanos to the skillet and cook for an additional 2 minutes.",
+    "Pour in the tangy stir-fry sauce and silky soy sauce (if using). Stir to coat the vegetables.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing a portion of the vegetable mixture onto a tortilla and top with chopped cilantro (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "poblano",
+    "fajita",
+    "stir-fry",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-silky-poblano-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:14:53.103Z"
+}
