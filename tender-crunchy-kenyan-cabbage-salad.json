@@ -1,0 +1,62 @@
+{
+  "slug": "tender-crunchy-kenyan-cabbage-salad",
+  "title": "Kenyan Cabbage Salad",
+  "description": "A refreshing salad with a mix of crunchy cabbage and tender vegetables, inspired by Kenyan flavors.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup chopped carrots"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup chopped fresh cilantro"
+    },
+    {
+      "name": "kenyan",
+      "amount": "2 tsp Kenyan curry powder"
+    }
+  ],
+  "instructions": [
+    "Cut the cabbage into small pieces and set aside.",
+    "In a pan, heat the curry powder over medium heat for 1 minute.",
+    "Add the chopped carrots and cook until tender, about 5 minutes.",
+    "In a large bowl, combine the cooked carrots, chopped cilantro, and cabbage.",
+    "Toss to combine and adjust seasoning as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "kenyan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crunchy-kenyan-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T01:53:39.459Z"
+}
