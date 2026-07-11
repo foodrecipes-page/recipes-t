@@ -1,0 +1,63 @@
+{
+  "slug": "tender-fermented-raspberries-dessert",
+  "title": "Raspberry Fermented Yogurt Dessert",
+  "description": "A refreshing dessert made with fermented yogurt, fresh raspberries, and a hint of sweetness.",
+  "cuisine": "dessert",
+  "diet": [
+    "vegan",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tender Yogurt",
+      "amount": "1 1/2 cups",
+      "notes": "fermented and dairy-free"
+    },
+    {
+      "name": "Raspberries",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine the tender yogurt, raspberries, honey, and lemon juice.",
+    "2. Blend until smooth and creamy.",
+    "3. Taste and adjust the sweetness and tartness to your liking.",
+    "4. Cover the bowl with a lid or plastic wrap and refrigerate for at least 2 hours.",
+    "5. Before serving, give the mixture a good stir and adjust the consistency if needed.",
+    "6. Spoon the fermented yogurt into individual serving cups or a large serving dish.",
+    "7. Garnish with fresh raspberries, if desired.",
+    "8. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "dessert",
+    "rhubarb-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-fermented-raspberries-dessert",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:44:26.160Z"
+}
