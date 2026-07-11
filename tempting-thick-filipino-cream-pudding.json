@@ -1,0 +1,75 @@
+{
+  "slug": "tempting-thick-filipino-cream-pudding",
+  "title": "Filipino Creamy Pudding",
+  "description": "A simple dessert inspired by the Philippines, featuring a creamy pudding topped with a crunchy cookie crust.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "thick cream",
+      "amount": "1 cup (250ml)"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 package (4 servings)"
+    },
+    {
+      "name": "tempting",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 tablespoon (15g)"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons (30g)"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "0.5 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup (250ml)"
+    },
+    {
+      "name": "crushed cookies",
+      "amount": "1 cup (120g)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Crush 1 cup of cookies in a bowl.",
+    "Mix 2 tablespoons of sugar and 0.5 teaspoon of vanilla extract into the crushed cookies.",
+    "Press the cookie mixture into the bottom of a baking dish.",
+    "Bake the cookie crust for 10-12 minutes, or until lightly browned.",
+    "In a separate bowl, mix the pudding package with 1 cup of water.",
+    "Add 1 cup of thick cream and 1 tablespoon of Filipino sauce into the pudding mixture. Mix well.",
+    "Pour the pudding mixture into the baked cookie crust.",
+    "Chill the dessert in the refrigerator for at least 4 hours.",
+    "Top with crushed cookies and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "pudding",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-thick-filipino-cream-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:50:06.130Z"
+}
