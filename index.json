@@ -9307,16 +9307,15 @@
   },
   {
     "slug": "tender-silky-egyptian-king-prawns-tagine",
-    "title": "Tender Silky Egyptian King Prawns Tagine",
+    "title": "Egyptian-Style Prawn Tagine",
     "tags": [
-      "halal-friendly",
-      "lazy-sunday",
-      "middle-eastern",
-      "one-pot",
-      "seafood"
+      "prawns",
+      "seafood",
+      "north-african",
+      "tagine"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
