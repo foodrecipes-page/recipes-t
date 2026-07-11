@@ -1,0 +1,95 @@
+{
+  "slug": "tangy-spicy-ethiopian-lamb-stew",
+  "title": "Tangy Ethiopian Lamb Stew",
+  "description": "A flavorful and aromatic stew originating from Ethiopia, made with tender lamb and a blend of spices.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "tangy spice blend (e.g. berbere)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "stew tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup ",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and cook for an additional 1-2 minutes.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Add spice blend, chili powder, and garlic. Cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add stew tomatoes and water. Bring to a boil, then reduce heat to low.",
+    "Simmer for 1-2 hours, or until lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a dollop of sour cream (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "ethiopian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-spicy-ethiopian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:19:58.124Z"
+}
