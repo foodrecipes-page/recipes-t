@@ -1,0 +1,65 @@
+{
+  "slug": "tender-jamaican-potatoes-hash",
+  "title": "Jamaican Hash Browns",
+  "description": "A delicious twist on traditional hash browns, infused with the flavors of Jamaica. These crispy shredded potatoes are perfect as a side dish or a snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "tender",
+      "amount": "1/4 cup",
+      "notes": "tender Jamaican seasoning"
+    },
+    {
+      "name": "hash",
+      "amount": "1 tablespoon",
+      "notes": "Jamaican hash seasoning"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Grate the potatoes using a box grater or a food processor.",
+    "Squeeze out as much moisture from the grated potatoes as possible using a clean kitchen towel or cheesecloth.",
+    "In a large bowl, combine the grated potatoes, tender Jamaican seasoning, and Jamaican hash seasoning. Mix well to combine.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the potato mixture to the skillet and press down to form a flat layer.",
+    "Cook for 4-5 minutes or until the bottom is golden brown.",
+    "Flip the hash browns over and cook for an additional 4-5 minutes or until the other side is also golden brown.",
+    "Transfer the hash browns to the preheated oven and bake for 10-12 minutes or until crispy and golden brown.",
+    "Remove the hash browns from the oven and let them cool for a few minutes before serving.",
+    "Serve the Jamaican hash browns hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hashbrowns",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:32:54.937Z"
+}
