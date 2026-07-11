@@ -7479,14 +7479,14 @@
   },
   {
     "slug": "tender-fermented-raspberries-dessert",
-    "title": "Tender Fermented Raspberries Dessert",
+    "title": "Raspberry Fermented Yogurt Dessert",
     "tags": [
       "fermented",
-      "tender",
-      "romantic"
+      "dessert",
+      "rhubarb-free"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "cuisine": "dessert",
+    "totalTimeMin": 120,
     "shard": "t"
   },
   {
@@ -8247,16 +8247,15 @@
   },
   {
     "slug": "tender-jamaican-grape-tomatoes-casserole",
-    "title": "Tender Jamaican Grape Tomatoes Casserole",
+    "title": "Jamaican Chicken Casserole",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "jamaican-cuisine",
-      "one-pan",
-      "vegetarian"
+      "caribbean",
+      "chicken",
+      "casserole",
+      "dinner"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "caribbean",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
