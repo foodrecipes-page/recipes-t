@@ -1884,16 +1884,15 @@
   },
   {
     "slug": "tangy-flaky-moroccan-citrus-peel-crumble",
-    "title": "Tangy Flaky Moroccan Citrus Peel Crumble",
+    "title": "Moroccan Crumble Muffins",
     "tags": [
-      "tangy",
-      "flaky",
+      "muffins",
       "moroccan",
-      "mixed-peel",
-      "paleo-friendly"
+      "breakfast",
+      "brunch"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -5860,16 +5859,15 @@
   },
   {
     "slug": "tempting-sweet-mexican-portobello-mushrooms-cochinita-pibil",
-    "title": "Tempting Sweet Mexican Portobello Mushrooms Cochinita Pibil",
+    "title": "Cochinita Pibil Tacos",
     "tags": [
-      "cochinita-pibil",
-      "mexican-food",
-      "portobello-mushrooms",
-      "sweet-and-savory",
-      "vegetarian-recipes"
+      "mexican",
+      "vegetarian",
+      "tacos",
+      "portobello-mushrooms"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
