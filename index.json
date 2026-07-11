@@ -3601,16 +3601,15 @@
   },
   {
     "slug": "tangy-silky-poblano-stir-fry",
-    "title": "Tangy Silky Poblano Stir-fry",
+    "title": "Poblano Fajita Stir Fry",
     "tags": [
-      "tangy",
-      "silky",
-      "kid-friendly",
-      "mexican",
-      "poblano"
+      "poblano",
+      "fajita",
+      "stir-fry",
+      "mexican"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -9961,17 +9960,15 @@
   },
   {
     "slug": "tender-springy-japanese-polish-sausage-ozoni",
-    "title": "Tender Springy Japanese Polish Sausage Ozoni",
+    "title": "Japanese-Style Spring Sausage Ozoni",
     "tags": [
-      "cheesy",
-      "japanese-comfort-food",
-      "one-pot",
-      "pork-dishes",
-      "springy-texture",
-      "weeknight"
+      "soup",
+      "stew",
+      "japanese-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
