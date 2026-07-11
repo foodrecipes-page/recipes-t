@@ -1,0 +1,94 @@
+{
+  "slug": "tender-jamaican-grape-tomatoes-casserole",
+  "title": "Jamaican Chicken Casserole",
+  "description": "A twist on a classic casserole, this Jamaican-inspired dish is a flavorful combination of chicken, tender tomatoes, and spices.",
+  "cuisine": "caribbean",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tender tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 (16 oz) box",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "divided"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the chopped red bell pepper and cook for an additional 2-3 minutes.",
+    "Stir in the jamaican curry powder and cook for 1 minute.",
+    "Add the chopped tender tomatoes, grape tomatoes, and salt and pepper to taste. Cook for 2-3 minutes.",
+    "In a separate bowl, mix together the casserole mix and 1 cup of water.",
+    "In a 9x13 inch baking dish, arrange half of the casserole mix in the bottom of the dish.",
+    "Add the cooked chicken on top of the casserole mix, followed by the tomato mixture.",
+    "Top with the remaining casserole mix and cover with aluminum foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "chicken",
+    "casserole",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-grape-tomatoes-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:39:08.727Z"
+}
