@@ -1,0 +1,88 @@
+{
+  "slug": "tender-silky-egyptian-king-prawns-tagine",
+  "title": "Egyptian-Style Prawn Tagine",
+  "description": "A flavorful and aromatic North African dish made with succulent prawns and tender meat. Serve over couscous for a hearty meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kings prawns",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "tender",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional North African clay pot"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons",
+      "notes": "cumin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat.",
+    "Add the olive oil and sauté the onion and garlic until softened.",
+    "Add the tender meat and cook until browned.",
+    "Add the cumin, cinnamon, and cayenne pepper. Stir to combine.",
+    "Add the prawns and cook until pink and cooked through.",
+    "Serve the prawn mixture over couscous.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "seafood",
+    "north-african",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-silky-egyptian-king-prawns-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:17:23.666Z"
+}
