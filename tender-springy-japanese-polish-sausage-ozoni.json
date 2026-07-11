@@ -1,0 +1,84 @@
+{
+  "slug": "tender-springy-japanese-polish-sausage-ozoni",
+  "title": "Japanese-Style Spring Sausage Ozoni",
+  "description": "A hearty, comforting Japanese-inspired soup made with spring sausage, ozoni, and other savory ingredients.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spring Sausage",
+      "amount": "1 pound, sliced",
+      "notes": null
+    },
+    {
+      "name": "Ozoni",
+      "amount": "2 cups, sliced",
+      "notes": "Japanese-style rice cakes"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": "adds depth of flavor"
+    },
+    {
+      "name": "Tender Mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": "such as shiitake"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, sliced",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat sesame oil over medium heat.",
+    "Add sliced ginger and cook for 2 minutes.",
+    "Add sliced spring sausage and cook until browned, about 5 minutes.",
+    "Add sliced polish sausage and cook until browned, about 5 minutes.",
+    "Add sliced mushrooms and cook until tender, about 5 minutes.",
+    "Add ozoni, green onions, soy sauce, and 4 cups of water to the pot.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "stew",
+    "japanese-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-springy-japanese-polish-sausage-ozoni",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:23:59.853Z"
+}
