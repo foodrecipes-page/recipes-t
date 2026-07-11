@@ -133,16 +133,15 @@
   },
   {
     "slug": "tangy-algerian-chicken-tagine",
-    "title": "Tangy Algerian Chicken Tagine",
+    "title": "Algerian Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "north-african",
-      "one-pot",
-      "spicy"
+      "algerian",
+      "chicken",
+      "tagine",
+      "slow-cooked"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
@@ -3776,18 +3775,15 @@
   },
   {
     "slug": "tangy-spicy-ethiopian-lamb-stew",
-    "title": "Tangy Spicy Ethiopian Lamb Stew",
+    "title": "Tangy Ethiopian Lamb Stew",
     "tags": [
-      "ethiopian",
       "lamb",
-      "low-fat",
-      "one-pot",
-      "spicy",
       "stew",
-      "weeknight"
+      "ethiopian",
+      "spicy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 110,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 135,
     "shard": "t"
   },
   {
@@ -5895,16 +5891,15 @@
   },
   {
     "slug": "tempting-thick-filipino-cream-pudding",
-    "title": "Tempting Thick Filipino Cream Pudding",
+    "title": "Filipino Creamy Pudding",
     "tags": [
-      "cream-pudding",
-      "filipino-dessert",
-      "fodmap-friendly",
-      "gluten-free",
-      "soffritto-based"
+      "filipino",
+      "dessert",
+      "pudding",
+      "cream"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -6753,16 +6748,15 @@
   },
   {
     "slug": "tender-canadian-chinese-broccoli-grill",
-    "title": "Tender Canadian Chinese Broccoli Grill",
+    "title": "Grilled Canadian Bacon and Broccoli",
     "tags": [
-      "canadian-chinese",
-      "grilled-vegetables",
-      "healthy-meal",
-      "low-sodium",
-      "quick-dinner"
+      "breakfast",
+      "grilled",
+      "canadian-bacon",
+      "broccoli"
     ],
-    "cuisine": "Canadian Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
