@@ -1,0 +1,67 @@
+{
+  "slug": "tender-canadian-chinese-broccoli-grill",
+  "title": "Grilled Canadian Bacon and Broccoli",
+  "description": "A simple and delicious dish featuring Canadian bacon and steamed broccoli, grilled to perfection.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the Canadian bacon with salt and pepper.",
+    "Grill the Canadian bacon for 2-3 minutes per side, or until cooked through.",
+    "While the bacon is cooking, toss the broccoli with olive oil, salt, and pepper.",
+    "Add the broccoli to the grill and cook for 3-5 minutes, or until tender.",
+    "Serve the grilled Canadian bacon with steamed broccoli."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "grilled",
+    "canadian-bacon",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-canadian-chinese-broccoli-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T10:55:22.318Z"
+}
