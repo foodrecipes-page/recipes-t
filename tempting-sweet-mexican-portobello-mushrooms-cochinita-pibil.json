@@ -1,0 +1,92 @@
+{
+  "slug": "tempting-sweet-mexican-portobello-mushrooms-cochinita-pibil",
+  "title": "Cochinita Pibil Tacos",
+  "description": "A traditional Mexican dish featuring slow-cooked pork in a smoky chipotle sauce, served in tacos with fresh toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "Large and meaty"
+    },
+    {
+      "name": "Cochinita pibil marinade",
+      "amount": "1/4 cup",
+      "notes": "Available at most Mexican markets"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Chipotle peppers in adobo",
+      "amount": "2",
+      "notes": "Canned in adobo sauce"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 teaspoon",
+      "notes": "Dried"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": "Corn"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine marinade, lime juice, chipotle peppers, cumin, oregano, and garlic. Blend until smooth.",
+    "Add the Portobello mushrooms to the blender and blend until they're well coated with the marinade.",
+    "Heat a large skillet over medium-high heat and add the mushrooms. Cook for 3-4 minutes per side, or until they're tender and slightly charred.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of the mushrooms onto a tortilla, followed by a sprinkle of cilantro and a few slices of radish.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "tacos",
+    "portobello-mushrooms"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-sweet-mexican-portobello-mushrooms-cochinita-pibil",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:54:29.637Z"
+}
