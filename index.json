@@ -2421,17 +2421,15 @@
   },
   {
     "slug": "tangy-indenting-brazilian-falafel-braised",
-    "title": "Tangy Indenting Brazilian Falafel Braised",
+    "title": "Braised Brazilian Beef",
     "tags": [
+      "beef",
       "brazilian",
-      "falafel",
-      "lacto-vegetarian",
-      "one-pan",
-      "tangy",
-      "weeknight"
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 135,
     "shard": "t"
   },
   {
@@ -3638,14 +3636,16 @@
   },
   {
     "slug": "tangy-smoked-beans-stir-fry",
-    "title": "Tangy Smoked Beans Stir-fry",
+    "title": "Smoked Bean Stir Fry",
     "tags": [
+      "beans",
       "stir-fry",
-      "tangy",
-      "dairy-free"
+      "quick",
+      "easy",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -3972,15 +3972,15 @@
   },
   {
     "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
-    "title": "Tangy Tender Light Slovakian Dried Shrimp Stir-fry",
+    "title": "Shrimp Stir Fry",
     "tags": [
-      "tangy",
-      "tender",
-      "light",
-      "slovenian"
+      "slovakian",
+      "seafood",
+      "quick-and-easy",
+      "stir-fry"
     ],
-    "cuisine": "Asian",
-    "totalTimeMin": 35,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
