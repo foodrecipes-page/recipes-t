@@ -1,0 +1,88 @@
+{
+  "slug": "tender-portuguese-cherry-stew",
+  "title": "Braised Cherry Pork Chops",
+  "description": "Tender pork chops in a rich cherry sauce, served with stewed portuguese vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4 pieces",
+      "notes": "1 inch thick"
+    },
+    {
+      "name": "Cherry Jam",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Portuguese Red Wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Stewed Vegetables (Portuguese)",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the pork chops with salt and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the pork chops for 2-3 minutes on each side, then transfer to a baking dish.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cherry jam and portuguese red wine to the skillet, stirring to combine.",
+    "Pour the sauce over the pork chops in the baking dish.",
+    "Add the stewed portuguese vegetables to the baking dish.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the pork chops reach an internal temperature of 145°F (63°C).",
+    "Let the pork chops rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "cherry",
+    "portuguese",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-portuguese-cherry-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:13:00.570Z"
+}
