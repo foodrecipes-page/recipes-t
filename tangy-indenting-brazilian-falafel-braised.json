@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-indenting-brazilian-falafel-braised",
+  "title": "Braised Brazilian Beef",
+  "description": "A hearty beef stew inspired by Brazilian cuisine, with a tangy twist.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "chuck or round"
+    },
+    {
+      "name": "tangy barbecue sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "brazilian style seasonings",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin and coriander"
+    },
+    {
+      "name": "coffee",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef on all sides, then remove and set aside.",
+    "Add the onion and garlic to the pot and cook until softened.",
+    "Add the beef back to the pot, along with the barbecue sauce, seasonings, and coffee (if using).",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Braise the beef for 2-3 hours, or until tender.",
+    "Serve hot, garnished with chopped fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brazilian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indenting-brazilian-falafel-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:56:05.757Z"
+}
