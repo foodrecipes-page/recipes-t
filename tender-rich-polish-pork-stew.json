@@ -1,0 +1,90 @@
+{
+  "slug": "tender-rich-polish-pork-stew",
+  "title": "Polish Pork Stew",
+  "description": "A hearty and flavorful stew made with tender pork and rich polish sauerkraut.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Polish sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Beer",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is softened, about 5 minutes.",
+    "Add the caraway seeds, salt, and pepper to the pot and cook for 1 minute.",
+    "Add the sauerkraut, broth, and beer to the pot (if using).",
+    "Return the pork to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake the stew for 2 1/2 hours, or until the pork is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "stew",
+    "polish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-rich-polish-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:30:01.600Z"
+}
