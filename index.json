@@ -6977,16 +6977,14 @@
   },
   {
     "slug": "tender-crispy-mediterranean-ackee-papillote",
-    "title": "Mediterranean Ackee Papillote",
+    "title": "Ackee and Mediterranean Papillote",
     "tags": [
-      "gluten-free",
-      "jain-friendly",
-      "mediterranean",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "breakfast",
+      "lunch",
+      "papillote",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "jamaican",
     "totalTimeMin": 35,
     "shard": "t"
   },
@@ -7384,18 +7382,14 @@
   },
   {
     "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese",
-    "title": "Ethiopian Gorgonzola-dolce Tibs",
+    "title": "Gorgonzola and Cheese Tibs",
     "tags": [
-      "cheese-frenzy",
-      "cheesy",
-      "ethiopian",
-      "gluten-free",
-      "one-pan",
-      "stir-fry",
-      "vegetarian-options"
+      "beef",
+      "cheese",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -9052,16 +9046,14 @@
   },
   {
     "slug": "tender-rich-polish-pork-stew",
-    "title": "Tender Rich Polish Pork Stew",
+    "title": "Polish Pork Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "polish-cuisine",
-      "slow-cooked"
+      "pork",
+      "stew",
+      "polish"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
