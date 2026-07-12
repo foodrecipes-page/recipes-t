@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry",
+  "title": "Shrimp Stir Fry",
+  "description": "Quick and easy, this Slovakian-inspired dish features succulent shrimp in a tangy sauce served over light and fluffy rice.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Light Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dried Herbs",
+      "amount": "1 tablespoon",
+      "notes": "such as thyme or oregano"
+    },
+    {
+      "name": "Stir-Fry Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fry-Onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Slovakian Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chopped onions and stir-fry until tender.",
+    "Add shrimp and cook until pink, about 2-3 minutes per side.",
+    "Add dried herbs, stir-fry sauce, and Slovakian paprika. Stir-fry for an additional 1-2 minutes.",
+    "Serve over light rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "seafood",
+    "quick-and-easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 27,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-light-slovakian-dried-shrimp-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:33:58.302Z"
+}
