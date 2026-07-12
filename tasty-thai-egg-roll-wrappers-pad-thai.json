@@ -1,0 +1,67 @@
+{
+  "slug": "tasty-thai-egg-roll-wrappers-pad-thai",
+  "title": "Thai Egg Rolls",
+  "description": "A delicious Thai-inspired snack or appetizer made with crispy egg roll wrappers and a tasty filling.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egg roll wrappers",
+      "amount": "12-15 wrappers",
+      "notes": null
+    },
+    {
+      "name": "Tasty filling (vegetables)",
+      "amount": "1 cup shredded cabbage, 1 cup shredded carrots, 1/2 cup chopped cilantro",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten for wrapping"
+    },
+    {
+      "name": "Thai sauce (for serving)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together shredded cabbage, shredded carrots, and chopped cilantro.",
+    "2. In a separate bowl, beat the egg for use as an egg wash.",
+    "3. Lay an egg roll wrapper on a flat surface with one corner pointing towards you.",
+    "4. Place about 1 tablespoon of the cabbage mixture in the center of the egg roll wrapper.",
+    "5. Brush the edges of the egg roll wrapper with the beaten egg.",
+    "6. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining egg roll wrappers and filling.",
+    "8. Heat about 1-2 inches of oil in a large skillet over medium-high heat.",
+    "9. When the oil is hot, add a few of the egg rolls to the skillet (do not overcrowd).",
+    "10. Fry until the egg rolls are golden brown and crispy, about 2-3 minutes on each side.",
+    "11. Remove the egg rolls from the oil and drain on paper towels.",
+    "12. Serve the egg rolls hot with Thai sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "snack",
+    "appetizer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-thai-egg-roll-wrappers-pad-thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:07:15.632Z"
+}
