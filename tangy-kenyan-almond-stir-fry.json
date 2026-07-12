@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-kenyan-almond-stir-fry",
+  "title": "Kenyan Stir-Fry with Almonds",
+  "description": "A flavorful and nutritious stir-fry recipe from Kenya, served with crunchy almonds. This dish is perfect for a quick weeknight dinner.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tangy bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Kenyan-style stir-fry mix",
+      "amount": "1 cup",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add bell peppers and stir-fry for 3-4 minutes, until tender.",
+    "Add stir-fry mix and cook according to package instructions.",
+    "Stir in salt and black pepper to taste.",
+    "Transfer to a serving platter and garnish with sliced almonds.",
+    "Serve hot and enjoy!",
+    "Optional: serve with steamed rice or naan bread for a more filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "stir-fry",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-kenyan-almond-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:54:36.254Z"
+}
