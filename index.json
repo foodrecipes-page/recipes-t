@@ -5116,17 +5116,15 @@
   },
   {
     "slug": "tasty-thai-egg-roll-wrappers-pad-thai",
-    "title": "Tasty Thai Egg Roll Wrappers Pad Thai",
+    "title": "Thai Egg Rolls",
     "tags": [
-      "gluten-free",
-      "low-glycemic",
-      "one-pan",
-      "quick-fix",
-      "thai-cuisine",
-      "weeknight"
+      "thai",
+      "snack",
+      "appetizer",
+      "vegetarian"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 25,
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
