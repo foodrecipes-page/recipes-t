@@ -1158,20 +1158,16 @@
   },
   {
     "slug": "tangy-crumbly-greek-feta-casserole",
-    "title": "Tangy Crumbly Greek Feta Casserole",
+    "title": "Greek Feta Casserole",
     "tags": [
       "greek",
-      "casserole",
-      "kid-friendly",
-      "tangy",
-      "mediterranean",
       "feta",
-      "poach",
-      "tamarind",
-      "quick"
+      "casserole",
+      "cheese",
+      "dinner"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 25,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -6876,16 +6872,15 @@
   },
   {
     "slug": "tender-chocolate-mexican-chocolate-tostada",
-    "title": "Tender Chocolate Mexican Chocolate Tostada",
+    "title": "Mexican Chocolate Tostada",
     "tags": [
-      "high-protein",
-      "lacto-vegetarian",
+      "chocolate",
       "mexican",
-      "one-pan",
-      "weeknight"
+      "tostada",
+      "chicken"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
