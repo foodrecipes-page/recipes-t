@@ -1,0 +1,78 @@
+{
+  "slug": "tender-toasted-russian-kinako-skillet",
+  "title": "Pan-Seared Kinako Pancakes",
+  "description": "A Japanese-inspired breakfast dish featuring crispy kinako pancakes served with a side of toasted Russian honey and tender skillet-fried sugar.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kinako flour",
+      "amount": "1 cup",
+      "notes": " Japanese roasted soybean flour"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "toasted Russian honey",
+      "amount": "1 tablespoon",
+      "notes": "For serving"
+    },
+    {
+      "name": "tender sugar",
+      "amount": "1 tablespoon",
+      "notes": "For skillet-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together kinako flour, granulated sugar, and salt.",
+    "In a separate bowl, whisk together eggs, milk, and a pinch of salt.",
+    "Pour the wet ingredients into the dry ingredients and stir until combined.",
+    "Heat a non-stick skillet over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Serve the pancakes hot with toasted Russian honey and tender skillet-fried sugar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "pancakes",
+    "breakfast",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-toasted-russian-kinako-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:57:28.507Z"
+}
