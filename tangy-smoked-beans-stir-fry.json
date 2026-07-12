@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-smoked-beans-stir-fry",
+  "title": "Smoked Bean Stir Fry",
+  "description": "A quick and flavorful stir fry made with smoked beans, tangy sauce, and a hint of spice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten_free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked Beans",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add smoked beans and stir-fry for 3-4 minutes.",
+    "Add tangy sauce and stir-fry for another minute.",
+    "Season with soy sauce and serve hot.",
+    "Serve with rice or noodles if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "stir-fry",
+    "quick",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoked-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:35:05.802Z"
+}
