@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-light-algerian-rhubarb-stir-fry",
+  "title": "Algerian Rhubarb Stir Fry",
+  "description": "A light and tangy Algerian-inspired stir fry made with rhubarb and a variety of spices. Serve as a side dish or add to your favorite meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tangy Harissa",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Algerian Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the harissa and Algerian spice blend and stir for 1-2 minutes.",
+    "Add the rhubarb and stir to coat with the spice mixture.",
+    "Cook for 5-7 minutes or until the rhubarb is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "rhubarb",
+    "algerian",
+    "stir-fry",
+    "harissa",
+    "cilantro"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-algerian-rhubarb-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:49:52.264Z"
+}
