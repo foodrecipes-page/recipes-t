@@ -1,0 +1,82 @@
+{
+  "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese",
+  "title": "Gorgonzola and Cheese Tibs",
+  "description": "A twist on traditional Ethiopian Tibs, this dish combines the savory flavors of gorgonzola cheese with tender beef.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender beef",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Gorgonzola cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": "Can be substituted with other strong cheeses"
+    },
+    {
+      "name": "Dolce onions",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tibs spice blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African or Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cheese, grated",
+      "amount": "1/4 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onions and cook until they begin to caramelize, about 5 minutes.",
+    "Add the tibs spice blend and cook for 1 minute, stirring constantly.",
+    "Stir in the gorgonzola cheese and cook until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with grated cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "cheese",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:47:31.468Z"
+}
