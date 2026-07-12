@@ -1,0 +1,74 @@
+{
+  "slug": "tender-jamaican-leaves-hash",
+  "title": "Jamaican Jerk Tender Hash Browns",
+  "description": "A delicious twist on classic hash browns, infused with the bold flavors of Jamaican jerk seasoning. Perfect as a side dish or snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast/snack",
+  "ingredients": [
+    {
+      "name": "Tender potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Leaves of fresh thyme",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Hash brown onions",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine grated potatoes, jerk seasoning, chopped thyme, and grated onions.",
+    "Mix well to combine.",
+    "Transfer the mixture to a baking sheet lined with parchment paper.",
+    "Spread the mixture out evenly and shape into a rectangle.",
+    "Drizzle with a little oil and season with salt and pepper.",
+    "Bake for 20-25 minutes, or until golden brown and crispy.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Cut into squares or serve as is."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash-browns",
+    "jamaican-jerk",
+    "side-dish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-leaves-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:52:32.474Z"
+}
