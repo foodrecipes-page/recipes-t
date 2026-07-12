@@ -2862,17 +2862,15 @@
   },
   {
     "slug": "tangy-kenyan-almond-stir-fry",
-    "title": "Tangy Kenyan Almond Stir-fry",
+    "title": "Kenyan Stir-Fry with Almonds",
     "tags": [
-      "tangy",
-      "dense",
-      "date-night",
       "kenyan",
-      "almond-stir-fry",
-      "vegan-friendly"
+      "stir-fry",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 32,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -8240,16 +8238,15 @@
   },
   {
     "slug": "tender-jamaican-leaves-hash",
-    "title": "Jamaican Grape Leaf Hash",
+    "title": "Jamaican Jerk Tender Hash Browns",
     "tags": [
-      "gluten-free",
-      "jamaican",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "hash-browns",
+      "jamaican-jerk",
+      "side-dish",
+      "snack"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -10392,17 +10389,14 @@
   },
   {
     "slug": "tender-toasted-russian-kinako-skillet",
-    "title": "Tender Toasted Russian Kinako Skillet",
+    "title": "Pan-Seared Kinako Pancakes",
     "tags": [
-      "gluten-free",
-      "kinako-recipe",
-      "mediterranean-inspired",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "pancakes",
+      "breakfast",
+      "japanese"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 30,
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
