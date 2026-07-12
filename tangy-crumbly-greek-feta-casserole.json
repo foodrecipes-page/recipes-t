@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-crumbly-greek-feta-casserole",
+  "title": "Greek Feta Casserole",
+  "description": "A classic Greek casserole filled with tangy feta cheese and perfect for a hearty dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "tangy pita bread",
+      "amount": "6-8 pieces"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 9x13 inch dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "for serving"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the pita bread into 1-inch pieces and layer them in the casserole dish.",
+    "Crumble the feta cheese and sprinkle it over the pita bread.",
+    "Drizzle the olive oil over the feta cheese and sprinkle with Greek seasoning.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped parsley and serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "feta",
+    "casserole",
+    "cheese",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crumbly-greek-feta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:46:51.918Z"
+}
