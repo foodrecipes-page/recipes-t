@@ -1,0 +1,81 @@
+{
+  "slug": "tender-polish-chickpeas-salad",
+  "title": "Polish Chickpea Salad",
+  "description": "A delicious and easy-to-make salad originating from Poland, perfect for a quick lunch or dinner.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tender polish sausage",
+      "amount": "4 oz",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "green salad",
+      "amount": "4 cups",
+      "notes": "mixed greens"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Grill the polish sausage until browned and cooked through, about 3-4 minutes per side.",
+    "3. Allow the sausage to rest for a few minutes before slicing into thin strips.",
+    "4. In a large bowl, combine the mixed greens, chickpeas, and sliced sausage.",
+    "5. In a small bowl, whisk together the apple cider vinegar and Dijon mustard until well combined.",
+    "6. Pour the dressing over the salad and toss to coat.",
+    "7. Season with salt and black pepper to taste.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "polish-food",
+    "quick-meal",
+    "lunch",
+    "dinner",
+    "vegetarian",
+    "grilled-sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-polish-chickpeas-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:29:35.685Z"
+}
