@@ -1,0 +1,91 @@
+{
+  "slug": "tender-malaysian-chicken-claypot",
+  "title": "Malaysian Claypot Chicken",
+  "description": "A flavorful and aromatic dish that showcases the unique flavors of Malaysia. This recipe is a variation of the classic claypot chicken.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250 ml",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "chili",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the claypot over medium-high heat.",
+    "Add the onion and ginger and sauté until fragrant.",
+    "Add the chicken and cook until browned.",
+    "Add the chili, cumin powder, coriander powder, turmeric powder, salt, and sugar. Stir well.",
+    "Add the coconut milk and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "coconut-milk"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-malaysian-chicken-claypot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:06:20.703Z"
+}
