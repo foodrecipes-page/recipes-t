@@ -2924,14 +2924,16 @@
   },
   {
     "slug": "tangy-light-algerian-rhubarb-stir-fry",
-    "title": "Tangy Light Algerian Rhubarb Stir-fry",
+    "title": "Algerian Rhubarb Stir Fry",
     "tags": [
-      "tangy-algerian-rhubarb-stir-fry",
-      "diabetic-friendly-dinner",
-      "quick-pressure-cook"
+      "rhubarb",
+      "algerian",
+      "stir-fry",
+      "harissa",
+      "cilantro"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "t"
   },
   {
