@@ -1,0 +1,70 @@
+{
+  "slug": "tender-peppery-ukrainian-suet-dumplings",
+  "title": "Pan-Fried Suet Dumplings with Ukrainian Twist",
+  "description": "A hearty and savory dish combining the richness of suet with the comfort of Ukrainian-style dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tender Ukrainian bread",
+      "amount": "1 cup, finely chopped"
+    },
+    {
+      "name": "peppery fresh dill",
+      "amount": "1 tsp, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Combine chopped suet, flour, warm water, chopped bread, dill, salt, and pepper in a large bowl to form a dough.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Wrap the dough in plastic and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and flatten slightly into a disk.",
+    "Heat a large skillet over medium-high heat.",
+    "Add a small amount of oil to the skillet and cook the dumplings for 2-3 minutes on each side, until golden brown.",
+    "Serve hot with your favorite sauce or soup."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort food",
+    "dumplings",
+    "ukrainian cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-peppery-ukrainian-suet-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:35:04.223Z"
+}
