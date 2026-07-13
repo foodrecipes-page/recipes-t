@@ -1,0 +1,63 @@
+{
+  "slug": "tender-kadhai-greek-nectarine-ceviche",
+  "title": "Pan-Seared Nectarine with Kadhai Greek Yogurt Sauce",
+  "description": "A sweet and savory dessert featuring pan-seared nectarine topped with a tangy kadhai Greek yogurt sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "nectarine",
+      "amount": "4"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kadhai powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "1. Cut the nectarine into 1-inch slices and set aside.",
+    "2. In a small bowl, mix together the Greek yogurt, kadhai powder, and honey.",
+    "3. Heat a non-stick pan over medium heat.",
+    "4. Add the nectarine slices to the pan and cook for 2-3 minutes on each side.",
+    "5. Remove the nectarine from the pan and place on a plate.",
+    "6. Top the nectarine with the kadhai yogurt sauce.",
+    "7. Drizzle with a pinch of salt and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "nectarine",
+    "greek-yogurt",
+    "indian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-kadhai-greek-nectarine-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:46:00.058Z"
+}
