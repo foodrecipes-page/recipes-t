@@ -1,0 +1,87 @@
+{
+  "slug": "tender-earthy-syrian-falafel-stir-fry",
+  "title": "Syrian Style Falafel",
+  "description": "A flavorful and crispy Middle Eastern inspired falafel dish, served in a pita with your favorite toppings. This recipe is a delicious and easy way to enjoy the flavors of Syria.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian falafel mix",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Earthly hummus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tender pita bread",
+      "amount": "4-6 pita breads",
+      "notes": ""
+    },
+    {
+      "name": "Stir-fried vegetables (bell peppers, onions, etc.)",
+      "amount": "1 cup",
+      "notes": "Your choice of vegetables"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Prepare the falafel mix according to the package instructions.",
+    "Form the falafel mix into small patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Bake in the preheated oven for 20-25 minutes, or until crispy and golden brown.",
+    "While the falafel is baking, stir-fry your choice of vegetables in a pan with a little olive oil.",
+    "Warm the pita breads in the oven for a few minutes.",
+    "Assemble the falafel in the pita breads with hummus, stir-fried vegetables, parsley, and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "middle-eastern",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": "15g",
+    "carbs": "60g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-earthy-syrian-falafel-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T18:20:58.466Z"
+}
