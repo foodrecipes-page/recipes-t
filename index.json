@@ -8740,18 +8740,15 @@
   },
   {
     "slug": "tender-midnight-ethiopian-lamb-wot",
-    "title": "Tender Midnight Ethiopian Lamb Wot",
+    "title": "Ethiopian Lamb Wot",
     "tags": [
-      "comfort-food",
       "ethiopian",
-      "lamb",
-      "low-sodium",
-      "one-pan",
       "stew",
-      "weeknight"
+      "lamb",
+      "spicy"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 75,
     "shard": "t"
   },
   {
