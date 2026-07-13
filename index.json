@@ -2830,18 +2830,15 @@
   },
   {
     "slug": "tangy-juicy-uruguayan-tomato-toast",
-    "title": "Tangy Juicy Uruguayan Tomato Toast",
+    "title": "Tangy Tomato Toast",
     "tags": [
-      "kid-friendly",
-      "quick",
+      "breakfast",
+      "brunch",
       "snack",
-      "uruguayan",
-      "vegetarian",
-      "toasted",
-      "tomato"
+      "lunch"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 8,
+    "totalTimeMin": 7,
     "shard": "t"
   },
   {
