@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-crispy-ferment-meal-prep",
+  "title": "Crispy Meal Prep Bites",
+  "description": "A healthy and easy-to-make snack perfect for meal prep, combining tangy and crispy textures with fermented flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy rice cereal",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fermented soybeans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tangy apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Meal prep oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Prep spices",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Mix crispy rice cereal, fermented soybeans, and prep spices in a bowl.",
+    "3. In a separate bowl, whisk together meal prep oil and tangy apple cider vinegar.",
+    "4. Add the wet ingredients to the dry ingredients and stir until combined.",
+    "5. Use a cookie scoop to form the mixture into balls.",
+    "6. Place the balls on a baking sheet lined with parchment paper.",
+    "7. Bake for 15-20 minutes or until lightly browned.",
+    "8. Allow the bites to cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snacks",
+    "meal-prep",
+    "easy-recipes",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-ferment-meal-prep",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:11:49.204Z"
+}
