@@ -3387,18 +3387,14 @@
   },
   {
     "slug": "tangy-salty-creamy-australian-milk-pudding",
-    "title": "Tangy Salty Creamy Australian Milk Pudding",
+    "title": "Australian Pudding",
     "tags": [
       "australian",
-      "creamy",
       "dessert",
-      "festive",
-      "individual",
-      "pudding",
-      "serves-6"
+      "easy"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
