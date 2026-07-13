@@ -1,0 +1,67 @@
+{
+  "slug": "tempting-tropical-algerian-strawberry-tagine",
+  "title": "Algerian Strawberry Tagine",
+  "description": "A sweet and tangy dessert inspired by traditional Algerian cuisine, featuring fresh strawberries and a hint of tropical spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "tempting honey",
+      "amount": "2 tbsp",
+      "notes": "raw honey"
+    },
+    {
+      "name": "tropical spices",
+      "amount": "1 tsp",
+      "notes": "mix of cinnamon, cardamom, and ginger"
+    },
+    {
+      "name": "algerian rose water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most middle eastern markets"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together strawberries, tempting honey, tropical spices, algerian rose water, and tagine spice blend.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes, or until the strawberries are tender and the mixture is bubbly.",
+    "Remove from the oven and let cool to room temperature.",
+    "Serve chilled, garnished with additional strawberries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "dessert",
+    "strawberry",
+    "tropical",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-tropical-algerian-strawberry-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:44:41.631Z"
+}
