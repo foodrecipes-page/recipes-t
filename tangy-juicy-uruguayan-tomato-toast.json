@@ -1,0 +1,62 @@
+{
+  "slug": "tangy-juicy-uruguayan-tomato-toast",
+  "title": "Tangy Tomato Toast",
+  "description": "A simple open-faced toast dish with a tangy twist. Perfect for a quick snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Juicy Tomato",
+      "amount": "2 medium",
+      "notes": "Fresh, ripe tomatoes are a must for this recipe."
+    },
+    {
+      "name": "Tangy",
+      "amount": "2 tablespoons",
+      "notes": "A drizzle of tangy sauce adds a nice flavor to the dish."
+    },
+    {
+      "name": "Uruguayan Bread (or similar)",
+      "amount": "1 slice",
+      "notes": "A crusty bread is perfect for this recipe."
+    },
+    {
+      "name": "Toast",
+      "amount": "1 slice",
+      "notes": "A piece of toasted bread is the base for this dish."
+    }
+  ],
+  "instructions": [
+    "1. Toast the bread until it's lightly browned.",
+    "2. Cut the juicy tomatoes into small chunks.",
+    "3. Drizzle the tangy sauce over the toasted bread.",
+    "4. Top the bread with the juicy tomato chunks.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-uruguayan-tomato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:26:11.593Z"
+}
