@@ -8310,13 +8310,12 @@
   },
   {
     "slug": "tender-juicy-middle-eastern-dried-white-corn-pilaf",
-    "title": "Middle Eastern Dried White Corn Pilaf",
+    "title": "Middle Eastern Chicken Pilaf",
     "tags": [
-      "brunch",
+      "chicken",
+      "pilaf",
       "middle-eastern",
-      "one-pan",
-      "plant-based",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
@@ -8339,13 +8338,15 @@
   },
   {
     "slug": "tender-kadhai-greek-nectarine-ceviche",
-    "title": "Tender Kadhai Greek Nectarine Ceviche",
+    "title": "Pan-Seared Nectarine with Kadhai Greek Yogurt Sauce",
     "tags": [
-      "greek",
-      "snack"
+      "dessert",
+      "nectarine",
+      "greek-yogurt",
+      "indian-cuisine"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 40,
+    "cuisine": "Indian",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -8912,17 +8913,14 @@
   },
   {
     "slug": "tender-peppery-ukrainian-suet-dumplings",
-    "title": "Tender Peppery Ukrainian Suet Dumplings",
+    "title": "Pan-Fried Suet Dumplings with Ukrainian Twist",
     "tags": [
+      "comfort food",
       "dumplings",
-      "ovo-vegetarian",
-      "peppery",
-      "special-occasion",
-      "tender",
-      "ukrainian-cuisine"
+      "ukrainian cuisine"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
