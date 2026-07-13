@@ -870,16 +870,15 @@
   },
   {
     "slug": "tangy-crispy-ferment-meal-prep",
-    "title": "Tangy Crispy Ferment Meal-Prep",
+    "title": "Crispy Meal Prep Bites",
     "tags": [
-      "tangy",
-      "crispy",
+      "healthy-snacks",
       "meal-prep",
-      "ferment",
-      "slovakian"
+      "easy-recipes",
+      "snack-ideas"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 5,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
