@@ -1,0 +1,87 @@
+{
+  "slug": "tender-midnight-ethiopian-lamb-wot",
+  "title": "Ethiopian Lamb Wot",
+  "description": "A traditional Ethiopian stew made with tender lamb and spices. This flavorful dish is a staple of Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the lamb on all sides, then remove it from the pot.",
+    "Add the onion to the pot and cook until softened.",
+    "Add the garam masala, cumin, coriander, turmeric, cayenne pepper, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the lamb back to the pot and add enough water to cover.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour, or until the lamb is tender.",
+    "Serve the wot hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "lamb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-midnight-ethiopian-lamb-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:41:49.697Z"
+}
