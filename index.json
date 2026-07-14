@@ -633,16 +633,15 @@
   },
   {
     "slug": "tangy-creamy-german-speck-pasta",
-    "title": "Tangy Creamy German Speck Pasta",
+    "title": "Speck Pasta Bake",
     "tags": [
-      "german-cuisine",
-      "one-pot",
-      "romantic-dinner",
-      "sour-cream-pasta",
-      "speck-recipes"
+      "german",
+      "pasta",
+      "speck",
+      "bake"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 27,
+    "cuisine": "german",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -755,17 +754,14 @@
   },
   {
     "slug": "tangy-crisp-algerian-cranberries-tagine",
-    "title": "Tangy Crisp Algerian Cranberries Tagine",
+    "title": "Cranberry Tagine",
     "tags": [
-      "algerian",
-      "cranberries",
-      "easy-dinner",
-      "low-calorie",
-      "one-pan",
-      "weeknight"
+      "dessert",
+      "north-african",
+      "algerian"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
@@ -11227,18 +11223,15 @@
   },
   {
     "slug": "thickly-tava-cured-norwegian-salmon-patties",
-    "title": "Thickly Tava-Cured Norwegian Salmon Patties",
+    "title": "Pan-Seared Norwegian Salmon Patties",
     "tags": [
-      "breakfast",
-      "brunch",
-      "european",
+      "fish",
       "gluten-free",
-      "pan-seared",
-      "scandinavian",
-      "seafood"
+      "salmon",
+      "norwegian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
