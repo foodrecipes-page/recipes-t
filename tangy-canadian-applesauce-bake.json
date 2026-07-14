@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-canadian-applesauce-bake",
+  "title": "Tangy Apple Baked Cake",
+  "description": "Moist and flavorful cake made with tangy applesauce and a hint of sweetness. Perfect for a snack or dessert.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "applesauce",
+      "amount": "1/2 cup",
+      "notes": "tangy"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 9x9-inch baking dish.",
+    "In a large bowl, whisk together flour, sugar, and salt.",
+    "Add the melted butter, applesauce, eggs, and vanilla extract. Mix well.",
+    "Pour the batter into the prepared baking dish.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let cool on a wire rack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cake",
+    "baked",
+    "applesauce",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "9g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-canadian-applesauce-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T09:21:24.091Z"
+}
