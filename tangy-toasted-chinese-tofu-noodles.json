@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-toasted-chinese-tofu-noodles",
+  "title": "Tangy Tofu Noodle Stir Fry",
+  "description": "A quick and easy Asian-inspired stir fry featuring tangy tofu and toasted noodles.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Toasted Noodles",
+      "amount": "8 oz",
+      "notes": "rice stick or soba noodles"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chinese Chives",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes.",
+    "Add tangy sauce, soy sauce (if using), and stir-fry for another 2 minutes.",
+    "Add cooked noodles and stir-fry until well combined.",
+    "Garnish with chopped scallions, Chinese chives, and cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "quick-and-easy",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-toasted-chinese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T06:05:33.017Z"
+}
