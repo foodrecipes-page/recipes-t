@@ -1,0 +1,84 @@
+{
+  "slug": "tart-cherried-venezuelan-cherries-tagine",
+  "title": "Venezuelan Cherry Tart",
+  "description": "A sweet and tangy dessert featuring a flaky tart crust and a rich cherry filling.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Venezuelan cherries",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Tart cherries",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cold and cubed"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "Add cubed butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, whisk together egg and a splash of water.",
+    "Pour the egg mixture over the tart crust and smooth the top.",
+    "Bake for 20-25 minutes, or until the crust is golden brown.",
+    "While the crust is baking, combine Venezuelan cherries and tart cherries in a saucepan.",
+    "Add a splash of water and bring to a boil over medium-high heat.",
+    "Reduce heat to medium-low and simmer for 10-15 minutes, or until the cherries have broken down and the mixture has thickened.",
+    "Strain the mixture through a fine-mesh sieve into a bowl.",
+    "Let cool to room temperature.",
+    "Spread the cooled cherry mixture over the baked tart crust.",
+    "Return the tart to the oven and bake for an additional 10-15 minutes, or until the filling is set.",
+    "Let cool completely on a wire rack before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "tart",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tart-cherried-venezuelan-cherries-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T11:43:15.816Z"
+}
