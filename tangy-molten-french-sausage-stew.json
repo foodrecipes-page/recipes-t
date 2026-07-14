@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-molten-french-sausage-stew",
+  "title": "French Sausage Stew",
+  "description": "A hearty French-inspired stew made with juicy sausage and a tangy twist.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French sausage",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "your favorite stew mix"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "mushroom",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "tangy BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the sliced onion and cook until browned, about 5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the French sausage and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the stew mix, tomato paste, red wine, and beef broth. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the tangy BBQ sauce and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "sausage",
+    "stew",
+    "bbq",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-molten-french-sausage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:05:55.868Z"
+}
