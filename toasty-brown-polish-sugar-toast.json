@@ -1,0 +1,55 @@
+{
+  "slug": "toasty-brown-polish-sugar-toast",
+  "title": "Polish Toasty Delight",
+  "description": "A sweet and crunchy treat using Polish bread, perfect for a snack or dessert.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Polish bread",
+      "amount": "2 slices",
+      "notes": "Toasty recommended"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "Optional for extra sweetness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Place Polish bread slices on a baking sheet.",
+    "Mix brown sugar in a small bowl.",
+    "Sprinkle the brown sugar mixture evenly over the bread.",
+    "Bake for 10-12 minutes, or until lightly toasted.",
+    "Remove from oven and let cool for a few minutes."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "toasty",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-brown-polish-sugar-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T10:41:04.646Z"
+}
