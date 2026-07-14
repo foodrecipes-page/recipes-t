@@ -246,15 +246,14 @@
   },
   {
     "slug": "tangy-argentinian-rice-soup",
-    "title": "Tangy Argentinian Rice Soup",
+    "title": "Argentinian Tangy Rice Bowl",
     "tags": [
-      "tangy",
-      "tender",
       "argentinian",
-      "crowd-pleaser"
+      "rice",
+      "vegetarian"
     ],
-    "cuisine": "Argentine",
-    "totalTimeMin": 40,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -4041,18 +4040,16 @@
   },
   {
     "slug": "tangy-toasted-chinese-tofu-noodles",
-    "title": "Tangy Toasted Chinese Tofu Noodles",
+    "title": "Tangy Tofu Noodle Stir Fry",
     "tags": [
-      "chinese",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "vegan",
+      "asian",
       "vegetarian",
-      "weeknight"
+      "quick-and-easy",
+      "stir-fry",
+      "noodles"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -10675,17 +10672,14 @@
   },
   {
     "slug": "tender-velvety-kenyan-seed-dumplings",
-    "title": "Tender Velvety Kenyan Seed Dumplings",
+    "title": "Kenyan Dumpling Stew",
     "tags": [
-      "african-cuisine",
-      "crowd-pleaser",
-      "dumplings",
-      "seed-based",
-      "vegetarian",
-      "weeknight"
+      "kenyan",
+      "stew",
+      "dumplings"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
