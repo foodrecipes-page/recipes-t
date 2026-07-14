@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-moroccan-millet-pilaf",
+  "title": "Moroccan Millet Pilaf",
+  "description": "A flavorful and nutritious side dish inspired by Moroccan cuisine, made with millet and a blend of spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "millet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups water",
+      "notes": "or vegetable broth"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons, chopped fresh parsley"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a medium saucepan over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the millet and cook for 1-2 minutes, stirring constantly.",
+    "Add the water or broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the millet is tender.",
+    "Fluff the millet with a fork and stir in cumin, coriander, salt, and chopped parsley.",
+    "Serve hot and garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "side-dish",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-moroccan-millet-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T12:38:47.711Z"
+}
