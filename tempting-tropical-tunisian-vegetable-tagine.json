@@ -1,0 +1,84 @@
+{
+  "slug": "tempting-tropical-tunisian-vegetable-tagine",
+  "title": "Tunisian Vegetable Tagine",
+  "description": "A flavorful and aromatic stew originating from Tunisia, made with a variety of vegetables in a rich and spicy sauce.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped",
+      "notes": "about 2 cups"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint, halved"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the onions and cook, stirring occasionally, until they are softened and lightly browned, about 8 minutes.",
+    "Add the garlic, zucchini, eggplant, and red bell pepper. Cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Add the cherry tomatoes, Tunisian spice blend, salt, and black pepper. Stir to combine.",
+    "Bring the stew to a simmer, then reduce the heat to low and cook, covered, until the flavors have melded together and the vegetables are very tender, about 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tagine hot, garnished with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "vegetarian",
+    "stew",
+    "tagine",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-tropical-tunisian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:26:10.289Z"
+}
