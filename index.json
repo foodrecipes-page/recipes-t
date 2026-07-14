@@ -11443,17 +11443,15 @@
   },
   {
     "slug": "toasty-australian-tofu-grill",
-    "title": "Toasty Australian Tofu Grill",
+    "title": "Grilled Tofu with Australian Toasty Sauce",
     "tags": [
-      "australian-cuisine",
-      "brunch-ideas",
-      "dairy-free",
-      "grilled-tofu",
-      "tajine-recipes",
-      "vegetarian-friendly"
+      "grilled",
+      "tofu",
+      "australian",
+      "sauce"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 13,
     "shard": "t"
   },
   {
