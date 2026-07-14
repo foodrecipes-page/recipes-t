@@ -8985,17 +8985,15 @@
   },
   {
     "slug": "tender-portuguese-shrimp-skewers",
-    "title": "Tender Portuguese Shrimp Skewers",
+    "title": "Shrimp Skewers with Portuguese Seasoning",
     "tags": [
-      "gluten-free",
       "grilled",
-      "low-carb",
-      "portuguese-cuisine",
-      "quick-meal",
-      "seafood"
+      "seafood",
+      "portuguese",
+      "skewers"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 18,
+    "cuisine": "portuguese",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -11448,19 +11446,14 @@
   },
   {
     "slug": "toasty-brown-polish-sugar-toast",
-    "title": "toasty brown polish sugar toast",
+    "title": "Polish Toasty Delight",
     "tags": [
-      "breakfast",
-      "breakfast-for-dinner",
-      "plant-based",
       "polish",
-      "romantic",
       "toasty",
-      "vegan",
-      "weeknight"
+      "sweet"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 10,
+    "totalTimeMin": 17,
     "shard": "t"
   },
   {
