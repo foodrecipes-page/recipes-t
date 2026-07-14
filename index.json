@@ -397,15 +397,16 @@
   },
   {
     "slug": "tangy-chewy-argentinian-haricot-beans-stir-fry",
-    "title": "Tangy Chewy Argentinian Haricot Beans Stir-fry",
+    "title": "Argentinian Haricot Bean Stir Fry",
     "tags": [
-      "argentinean",
-      "tangy",
-      "chewy",
-      "meal-prep"
+      "argentinian",
+      "vegetarian",
+      "vegan",
+      "stir-fry",
+      "beans"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 35,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -7557,17 +7558,14 @@
   },
   {
     "slug": "tender-floral-indulgent-stir-fry-gouda-cheese",
-    "title": "Tender Floral Indulgent Stir-fry Gouda Cheese",
+    "title": "Gouda Fondue",
     "tags": [
-      "floral",
-      "tender",
-      "indulgent",
-      "gouda_cheese",
-      "norwegian",
-      "plant_based"
+      "fondue",
+      "cheese",
+      "snack"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "swiss",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
