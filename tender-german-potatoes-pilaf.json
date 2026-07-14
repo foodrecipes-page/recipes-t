@@ -1,0 +1,76 @@
+{
+  "slug": "tender-german-potatoes-pilaf",
+  "title": "German Potato Pilaf",
+  "description": "A hearty, comforting dish from Germany, featuring tender potatoes and German sausage. Serve warm, garnished with fresh parsley.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "german sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large, peeled and diced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup, uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add sliced German sausage and cook until browned, about 5 minutes.",
+    "Remove sausage from skillet and set aside.",
+    "Add diced potatoes to skillet and cook until they begin to brown, about 5 minutes.",
+    "Add chopped onion to skillet and cook until softened, about 3 minutes.",
+    "Add caraway seeds, salt, and pepper to skillet and stir to combine.",
+    "Add cooked sausage back to skillet and stir to combine with potato mixture.",
+    "Add uncooked pilaf to skillet and stir to combine with potato mixture.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until pilaf is tender.",
+    "Serve warm, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "hearty-meals",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-german-potatoes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:55:16.048Z"
+}
