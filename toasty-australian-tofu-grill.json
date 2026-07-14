@@ -1,0 +1,77 @@
+{
+  "slug": "toasty-australian-tofu-grill",
+  "title": "Grilled Tofu with Australian Toasty Sauce",
+  "description": "A unique and flavorful dish featuring grilled tofu served with a tangy Australian-inspired toasty sauce.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Extra-firm, drained and cut into bite-sized pieces"
+    },
+    {
+      "name": "toasty",
+      "amount": "2 tbsp",
+      "notes": "See 'Toasty Sauce' notes below"
+    },
+    {
+      "name": "grill",
+      "amount": "as needed",
+      "notes": "For grilling tofu"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing grill"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "australian-style barbecue sauce",
+      "amount": "2 tbsp",
+      "notes": "For brushing grill"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Season tofu with salt and pepper. Brush grill with olive oil.",
+    "3. Grill tofu for 3-4 minutes per side, or until golden brown and slightly charred.",
+    "4. In a blender or food processor, combine toasty, australian-style barbecue sauce, and 2 tbsp water. Blend until smooth.",
+    "5. Serve tofu with toasty sauce spooned over the top.",
+    "6. Garnish with additional toasty sauce, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "tofu",
+    "australian",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-australian-tofu-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:59:53.104Z"
+}
