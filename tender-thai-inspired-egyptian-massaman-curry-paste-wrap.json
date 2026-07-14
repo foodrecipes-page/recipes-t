@@ -1,0 +1,82 @@
+{
+  "slug": "tender-thai-inspired-egyptian-massaman-curry-paste-wrap",
+  "title": "Thai-Style Massaman Chicken Wrap",
+  "description": "A fusion of Thai and Egyptian flavors in a crispy wrap. This recipe combines the richness of Massaman curry with the tenderness of chicken, all wrapped up in a crispy Egyptian flatbread.",
+  "cuisine": "Thai-Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless, skinless"
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons",
+      "notes": "Thai-inspired"
+    },
+    {
+      "name": "Tender coconut milk",
+      "amount": "1/2 cup",
+      "notes": "For creaminess"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Egyptian flatbread",
+      "amount": "1 package",
+      "notes": "Crusty, crispy"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large pan, heat 2 tablespoons of oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "3. Add the minced garlic and cook for another minute.",
+    "4. Add the Massaman curry paste and cook for 1-2 minutes, stirring constantly.",
+    "5. Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "6. Add the tender coconut milk and cook until the sauce thickens, about 2-3 minutes.",
+    "7. Warm the Egyptian flatbread in the oven for 2-3 minutes.",
+    "8. Assemble the wraps by placing a portion of the chicken mixture onto each flatbread, followed by a sprinkle of chopped cilantro.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "egyptian",
+    "chicken",
+    "curry",
+    "wrap",
+    "massaman"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-thai-inspired-egyptian-massaman-curry-paste-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:17:10.685Z"
+}
