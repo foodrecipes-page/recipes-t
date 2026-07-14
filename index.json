@@ -3219,13 +3219,13 @@
   },
   {
     "slug": "tangy-molten-french-sausage-stew",
-    "title": "Tangy Molten French Sausage Stew",
+    "title": "French Sausage Stew",
     "tags": [
-      "brunch-ideas",
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "sausage-recipes"
+      "french",
+      "sausage",
+      "stew",
+      "bbq",
+      "hearty"
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
@@ -10213,15 +10213,17 @@
   },
   {
     "slug": "tender-thai-inspired-egyptian-massaman-curry-paste-wrap",
-    "title": "Tender Thai-inspired Egyptian Massaman curry paste Wrap",
+    "title": "Thai-Style Massaman Chicken Wrap",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "vegetarian-option",
-      "weeknight"
+      "thai",
+      "egyptian",
+      "chicken",
+      "curry",
+      "wrap",
+      "massaman"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "cuisine": "Thai-Egyptian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
