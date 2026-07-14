@@ -2801,14 +2801,14 @@
   },
   {
     "slug": "tangy-juicy-saudia-dum-stir-fry",
-    "title": "Tangy Juicy Saudia Dum Stir-fry",
+    "title": "Saudi Dumplings",
     "tags": [
-      "saudia-dum",
-      "tangy-juicy",
-      "romantic-middle-eastern"
+      "middle-eastern",
+      "dumplings",
+      "snack"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -8970,16 +8970,16 @@
   },
   {
     "slug": "tender-polish-potato-toast",
-    "title": "Tender Polish Potato Toast",
+    "title": "Polish Potato and Tender Toast",
     "tags": [
-      "polish-cuisine",
-      "monsoon-recipes",
-      "diabetic-friendly",
-      "gluten-free",
-      "healthy-snacks"
+      "breakfast",
+      "polish",
+      "sausage",
+      "potato",
+      "toast"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 40,
+    "cuisine": "polish",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
