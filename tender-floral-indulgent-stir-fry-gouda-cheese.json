@@ -1,0 +1,66 @@
+{
+  "slug": "tender-floral-indulgent-stir-fry-gouda-cheese",
+  "title": "Gouda Fondue",
+  "description": "Enjoy the indulgent and comforting flavors of Swiss Gouda fondue with a delicate floral touch. Perfect for dipping tender bread and vegetables.",
+  "cuisine": "swiss",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "1 cup, grated",
+      "notes": "Swiss Gouda is ideal for fondue"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/2 cup",
+      "notes": "such as Chardonnay"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "leaves only"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated Gouda cheese, minced garlic, and chopped fresh thyme.",
+    "Add dry white wine and stir until the cheese is fully melted and the mixture is smooth.",
+    "Transfer the fondue to a fondue pot or a small ceramic bowl and place it over a candle warmer or a low-heat source.",
+    "Serve the fondue with tender bread and vegetables for dipping.",
+    "Season with salt to taste.",
+    "Enjoy the indulgent and comforting flavors of Swiss Gouda fondue!",
+    "Note: Fondue is best served at a temperature between 105°F and 115°F (40°C to 46°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fondue",
+    "cheese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-floral-indulgent-stir-fry-gouda-cheese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:35:59.879Z"
+}
