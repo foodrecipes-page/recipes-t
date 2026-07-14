@@ -1,0 +1,81 @@
+{
+  "slug": "tangy-argentinian-rice-soup",
+  "title": "Argentinian Tangy Rice Bowl",
+  "description": "A flavorful and nutritious bowl dish inspired by Argentinian cuisine, featuring tangy rice as the main ingredient.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tangy rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "argentinian red pepper",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add chopped onion and cook until softened, about 3-4 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "Add diced tomatoes, argentinian red pepper, and tangy rice to the skillet.",
+    "Season with salt and pepper to taste.",
+    "Cook for an additional 5-7 minutes, stirring occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinian",
+    "rice",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-argentinian-rice-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:24:30.974Z"
+}
