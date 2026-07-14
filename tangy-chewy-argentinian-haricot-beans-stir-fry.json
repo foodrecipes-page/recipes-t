@@ -1,0 +1,85 @@
+{
+  "slug": "tangy-chewy-argentinian-haricot-beans-stir-fry",
+  "title": "Argentinian Haricot Bean Stir Fry",
+  "description": "A hearty and flavorful stir fry dish from Argentina, made with haricot beans, tangy sauce, and chewy textures.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haricot beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chewy texture",
+      "amount": "1/4 cup",
+      "notes": "diced carrots or bell peppers"
+    },
+    {
+      "name": "stir fry oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the stir fry oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the haricot beans, tangy sauce, and chewy texture. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened and the flavors have melded together.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Enjoy as a main dish or as a side dish with your favorite Argentinian-inspired meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "vegetarian",
+    "vegan",
+    "stir-fry",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-argentinian-haricot-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:49:44.702Z"
+}
