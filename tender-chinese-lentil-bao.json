@@ -1,0 +1,84 @@
+{
+  "slug": "tender-chinese-lentil-bao",
+  "title": "Lentil Bao Dumplings",
+  "description": "Soft and fluffy bao filled with flavorful lentil dumplings, perfect for a quick and easy dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine lentils and 2 cups of water. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "While the lentils are cooking, heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "Add grated ginger and minced garlic to the pan and cook for 1 minute.",
+    "Add cooked lentils, soy sauce, and sesame oil to the pan and stir to combine.",
+    "To assemble the bao, place a piece of bao dough on a flat surface and flatten it slightly.",
+    "Place a tablespoon of the lentil mixture in the center of the dough.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Heat a non-stick pan or a steamer basket with 1 tablespoon of vegetable oil over medium heat.",
+    "Cook the bao dumplings for 2-3 minutes on each side, or until they are golden brown and crispy.",
+    "Serve the bao dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "bao",
+    "dumplings",
+    "chinese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-chinese-lentil-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:39:10.504Z"
+}
