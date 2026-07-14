@@ -340,16 +340,15 @@
   },
   {
     "slug": "tangy-canadian-applesauce-bake",
-    "title": "Tangy Canadian Applesauce Bake",
+    "title": "Tangy Apple Baked Cake",
     "tags": [
-      "canadian",
-      "dessert",
-      "easy-to-make",
-      "sweet-tooth",
-      "weeknight"
+      "cake",
+      "baked",
+      "applesauce",
+      "dessert"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "North American",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
