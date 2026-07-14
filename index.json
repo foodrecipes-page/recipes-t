@@ -3262,18 +3262,15 @@
   },
   {
     "slug": "tangy-moroccan-millet-pilaf",
-    "title": "Tangy Moroccan Millet Pilaf",
+    "title": "Moroccan Millet Pilaf",
     "tags": [
-      "breakfast",
-      "grain-based",
       "moroccan",
-      "moroccan-breakfast",
-      "moroccan-cuisine",
-      "moroccan-sides",
-      "sugar-free"
+      "side-dish",
+      "gluten-free",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -6813,17 +6810,16 @@
   },
   {
     "slug": "tender-chinese-lentil-bao",
-    "title": "Tender Chinese Lentil Bao",
+    "title": "Lentil Bao Dumplings",
     "tags": [
-      "chinese-food",
-      "flexitarian",
-      "lentil-recipes",
-      "meal-prep",
-      "steamed-bao",
-      "vegetarian-options"
+      "lentil",
+      "bao",
+      "dumplings",
+      "chinese",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
