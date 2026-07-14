@@ -1,0 +1,79 @@
+{
+  "slug": "tender-portuguese-shrimp-skewers",
+  "title": "Shrimp Skewers with Portuguese Seasoning",
+  "description": "A simple and flavorful dish featuring shrimp marinated in a blend of Portuguese seasonings, then grilled to perfection on skewers.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns (shrimp)",
+      "amount": "1 pound",
+      "notes": "deveined and patted dry"
+    },
+    {
+      "name": "Portuguese seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade blend"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Tender bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a bowl, whisk together Portuguese seasoning, lime juice, garlic, and olive oil.",
+    "Add the shrimp to the marinade and toss to coat.",
+    "Thread the shrimp and marinade onto the bamboo skewers.",
+    "Season with salt and pepper to taste.",
+    "Brush the skewers with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, flipping occasionally, until the shrimp are pink and cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "seafood",
+    "portuguese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 24,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-portuguese-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:08:06.786Z"
+}
