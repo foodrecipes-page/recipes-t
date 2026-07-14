@@ -6032,17 +6032,16 @@
   },
   {
     "slug": "tempting-tropical-tunisian-vegetable-tagine",
-    "title": "Tempting Tropical Tunisian Vegetable Tagine",
+    "title": "Tunisian Vegetable Tagine",
     "tags": [
-      "gluten-free",
-      "one-pot",
-      "slow-cooker",
-      "tunisian-cuisine",
-      "vegan",
-      "vegetarian"
+      "tunisian",
+      "vegetarian",
+      "stew",
+      "tagine",
+      "vegetables"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -6401,16 +6400,16 @@
   },
   {
     "slug": "tender-australian-pappardelle-pasta",
-    "title": "Tender Australian Pappardelle Pasta",
+    "title": "Australian Beef Pappardelle",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "one-pot",
-      "pasta-dish",
-      "weeknight-meal"
+      "beef",
+      "pasta",
+      "australian",
+      "meat",
+      "main-course"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 50,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
