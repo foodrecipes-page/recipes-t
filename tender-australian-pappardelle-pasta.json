@@ -1,0 +1,99 @@
+{
+  "slug": "tender-australian-pappardelle-pasta",
+  "title": "Australian Beef Pappardelle",
+  "description": "A hearty Australian-inspired pasta dish featuring tender beef and pappardelle pasta.",
+  "cuisine": "australian",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pappardelle pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large frying pan over medium-high heat.",
+    "2. Add the beef strips and cook until browned, about 3 minutes.",
+    "3. Remove the beef from the pan and set aside.",
+    "4. Add the onion and garlic to the pan and cook until softened, about 3 minutes.",
+    "5. Add the cherry tomatoes and cook for a further 2 minutes.",
+    "6. Add the red wine and beef broth to the pan, scraping up any browned bits.",
+    "7. Bring the sauce to a simmer and cook until slightly thickened, about 5 minutes.",
+    "8. Add the cooked beef back to the pan and stir to coat with the sauce.",
+    "9. Cook the pappardelle pasta in boiling, salted water until al dente.",
+    "10. Serve the beef and sauce over the cooked pappardelle pasta.",
+    "11. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pasta",
+    "australian",
+    "meat",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-australian-pappardelle-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T08:30:21.235Z"
+}
