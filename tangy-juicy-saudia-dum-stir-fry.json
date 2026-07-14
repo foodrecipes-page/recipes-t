@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-juicy-saudia-dum-stir-fry",
+  "title": "Saudi Dumplings",
+  "description": "A twist on traditional dumplings using a tangy and juicy filling. This recipe is inspired by the flavors of Saudi Arabia.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Saudi Dumpling Wrappers",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": ""
+    },
+    {
+      "name": "Jujube Filling",
+      "amount": "1 cup (tangy and juicy)",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "for frying",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of ghee in a pan over medium heat.",
+    "Add the jujube filling and cook for 2 minutes.",
+    "Add the Saudi dumpling wrappers to the pan, 2-3 at a time, and cook for 30 seconds on each side.",
+    "Repeat with the remaining wrappers.",
+    "Serve the dumplings hot with a sprinkle of parsley and a pinch of salt and pepper.",
+    "You can also pan-fry the dumplings in oil until golden brown and crispy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "dumplings",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-saudia-dum-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T13:52:30.070Z"
+}
