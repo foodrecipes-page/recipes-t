@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-crisp-algerian-cranberries-tagine",
+  "title": "Cranberry Tagine",
+  "description": "A sweet and tangy North African-inspired dessert using algerian spices and fresh cranberries.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "algerian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tangy apples",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the algerian spices, cinnamon, ginger, and sugar.",
+    "Add the sliced tangy apples to the bowl and toss until they are evenly coated.",
+    "Transfer the apple mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the cranberries and water.",
+    "Pour the cranberry mixture over the apple mixture in the baking dish.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the apples are tender.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "north-african",
+    "algerian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-algerian-cranberries-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:51:15.454Z"
+}
