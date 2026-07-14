@@ -1,0 +1,93 @@
+{
+  "slug": "tender-velvety-kenyan-seed-dumplings",
+  "title": "Kenyan Dumpling Stew",
+  "description": "A hearty and comforting stew from Kenya, featuring tender dumplings and a rich flavorful broth.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan seed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tender",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "velvety",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dumplings",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic; cook, stirring occasionally, until the onion is translucent.",
+    "Add the Kenyan seed; cook, stirring occasionally, until fragrant.",
+    "Add the tender and velvety; cook, stirring occasionally, until the tender is browned.",
+    "Add the tomato paste; cook, stirring constantly, for 1 minute.",
+    "Add the chicken broth; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes.",
+    "Add the dumplings; cook, covered, for an additional 10-15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "stew",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-velvety-kenyan-seed-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T05:56:49.821Z"
+}
