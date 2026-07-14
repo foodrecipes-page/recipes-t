@@ -6857,14 +6857,15 @@
   },
   {
     "slug": "tender-citrusy-kenyan-papelon-bake",
-    "title": "Tender Citrusy Kenyan Papelon Bake",
+    "title": "Lemony Kenyan Chicken Bake",
     "tags": [
-      "dessert",
+      "lemon",
       "kenyan",
-      "weeknight"
+      "chicken",
+      "bake"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
