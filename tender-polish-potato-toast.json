@@ -1,0 +1,59 @@
+{
+  "slug": "tender-polish-potato-toast",
+  "title": "Polish Potato and Tender Toast",
+  "description": "A hearty breakfast dish featuring tender meat, potatoes, and crispy toast.",
+  "cuisine": "polish",
+  "diet": [
+    "breakfast",
+    "lunch"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Polish Sausage (tender)",
+      "amount": "1 link",
+      "notes": "fully cooked"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "White Bread (for toast)",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the diced potato in boiling water until tender, about 10-12 minutes. Drain and set aside.",
+    "Cook the Polish sausage in a pan over medium heat until browned, about 5 minutes.",
+    "Toast the bread slices until crispy and lightly browned.",
+    "Slice the cooked sausage into thin strips.",
+    "Combine the cooked potato, sausage, and toasted bread in a bowl.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "polish",
+    "sausage",
+    "potato",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-polish-potato-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:42:15.321Z"
+}
