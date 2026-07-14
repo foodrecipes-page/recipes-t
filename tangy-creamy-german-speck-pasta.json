@@ -1,0 +1,74 @@
+{
+  "slug": "tangy-creamy-german-speck-pasta",
+  "title": "Speck Pasta Bake",
+  "description": "A German-inspired pasta bake filled with tangy flavors and crispy speck. Perfect for a hearty lunch.",
+  "cuisine": "german",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Speck",
+      "amount": "12 oz",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "penne or bow tie"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1 cup",
+      "notes": "such as marinara or arrabbiata"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1/2 cup",
+      "notes": "such as ricotta or sour cream"
+    },
+    {
+      "name": "grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the speck over medium-high heat until crispy. Remove from heat and set aside.",
+    "In a large mixing bowl, combine the tangy sauce, creamy sauce, and cooked pasta. Stir until well combined.",
+    "Add the cooked speck and stir until coated.",
+    "Transfer the pasta mixture to a baking dish and top with grated Parmesan (if using).",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove foil and continue baking for an additional 5-10 minutes, or until the top is lightly golden brown.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pasta",
+    "speck",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-german-speck-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:07:51.624Z"
+}
