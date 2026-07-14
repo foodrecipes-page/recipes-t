@@ -1,0 +1,83 @@
+{
+  "slug": "thickly-tava-cured-norwegian-salmon-patties",
+  "title": "Pan-Seared Norwegian Salmon Patties",
+  "description": "A simple and flavorful dish made with Norwegian salmon patties, pan-seared to perfection. Serve with a side of lemon wedges and your favorite veggies.",
+  "cuisine": null,
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon patties",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Tava",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat the tava to medium-high heat.",
+    "2. Add the olive oil to the tava and let it heat up for a minute.",
+    "3. Add the salmon patties to the tava and cook for 4-5 minutes on each side, or until cooked through.",
+    "4. While the salmon is cooking, squeeze the lemon juice over the top and sprinkle with garlic powder.",
+    "5. Remove the salmon from the tava and place on a plate.",
+    "6. Sprinkle the chopped parsley over the top of the salmon and season with salt and pepper to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "salmon",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thickly-tava-cured-norwegian-salmon-patties",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:29:34.077Z"
+}
