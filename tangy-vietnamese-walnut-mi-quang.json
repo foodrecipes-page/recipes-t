@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-vietnamese-walnut-mi-quang",
+  "title": "Vietnamese-Style Grilled Pork with Tangy Walnut Sauce",
+  "description": "A fusion of Vietnamese and Western flavors, this dish combines the richness of walnut sauce with the bold flavors of grilled pork. Serve with steamed mi.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Vietnamese chili sauce",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian markets"
+    },
+    {
+      "name": "Walnut oil",
+      "amount": "2 tablespoons",
+      "notes": "Can substitute with vegetable oil"
+    },
+    {
+      "name": "Tangy walnut sauce",
+      "amount": "1/4 cup",
+      "notes": "See notes for homemade sauce recipe"
+    },
+    {
+      "name": "Mi",
+      "amount": "1 cup",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together chili sauce, walnut oil, and 2 tablespoons of water. Set aside.",
+    "2. Preheat grill to medium-high heat.",
+    "3. In a large bowl, whisk together tangy walnut sauce, fish sauce (if using), and 1 tablespoon of water.",
+    "4. Add sliced pork to the bowl and toss to coat with the sauce.",
+    "5. Grill the pork for 5-7 minutes per side, or until cooked through.",
+    "6. Meanwhile, cook mi according to package instructions.",
+    "7. To serve, place a portion of mi on each plate, then top with a slice of grilled pork and spoon some of the tangy walnut sauce over the top.",
+    "8. Garnish with chopped cilantro and serve with a lime wedge on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "walnut-sauce",
+    "mi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-vietnamese-walnut-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:50:22.375Z"
+}
