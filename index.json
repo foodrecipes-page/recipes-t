@@ -11877,15 +11877,14 @@
   },
   {
     "slug": "tropical-filipino-cereal-bowl",
-    "title": "Tropical Filipino Cereal Bowl",
+    "title": "Filipino-Style Tropical Cereal Bowl",
     "tags": [
       "breakfast",
-      "high-protein",
-      "mediterranean-friendly",
-      "post-workout",
-      "snack"
+      "tropical",
+      "cereal",
+      "filipino"
     ],
-    "cuisine": "Filipino",
+    "cuisine": "filipino",
     "totalTimeMin": 5,
     "shard": "t"
   },
