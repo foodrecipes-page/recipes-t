@@ -12463,5 +12463,19 @@
     "cuisine": "french",
     "totalTimeMin": 22,
     "shard": "t"
+  },
+  {
+    "slug": "tofu-gazpacho--french",
+    "title": "French Gazpacho with Tofu",
+    "tags": [
+      "french",
+      "soup",
+      "summer",
+      "gazpacho",
+      "tofu"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
