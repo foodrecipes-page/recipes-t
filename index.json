@@ -10789,17 +10789,16 @@
   },
   {
     "slug": "tenderly-braised-irish-fish-fillet-stew",
-    "title": "Tenderly Braised Irish Fish Fillet Stew",
+    "title": "Irish Braised Fish Fillet",
     "tags": [
-      "comfort-food",
-      "fish-stew",
-      "irish-cuisine",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "irish",
+      "fish",
+      "stew",
+      "braised",
+      "lunch"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
