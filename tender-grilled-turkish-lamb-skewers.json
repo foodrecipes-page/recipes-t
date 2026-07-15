@@ -1,0 +1,78 @@
+{
+  "slug": "tender-grilled-turkish-lamb-skewers",
+  "title": "Turkish Lamb Skewers",
+  "description": "A flavorful and aromatic Turkish-inspired dish made with tender lamb, grilled to perfection on skewers. Serve as an appetizer or snack.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "3. Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "4. Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until the lamb is cooked through.",
+    "6. Transfer the skewers to a plate and garnish with chopped parsley.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "turkish",
+    "skewers",
+    "grilled",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-grilled-turkish-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:44:29.987Z"
+}
