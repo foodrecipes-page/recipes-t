@@ -1,0 +1,78 @@
+{
+  "slug": "tender-molten-slovakian-pork-stew",
+  "title": "Traditional Slovakian Pork Stew",
+  "description": "A hearty and flavorful Slovakian pork stew made with tender pork and fresh vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch pieces",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrots, peeled and sliced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes, peeled and cubed",
+      "amount": "2 large"
+    },
+    {
+      "name": "Molten chocolate (for serving, optional)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Season the pork with salt and black pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes, and cook for an additional 5 minutes.",
+    "Add the paprika and water, and bring to a boil.",
+    "Cover and transfer to the oven, and braise for 2 1/2 hours, or until the pork is tender.",
+    "Serve hot, garnished with optional molten chocolate."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-molten-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T22:44:55.708Z"
+}
