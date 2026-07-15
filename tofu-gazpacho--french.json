@@ -1,0 +1,94 @@
+{
+  "slug": "tofu-gazpacho--french",
+  "title": "French Gazpacho with Tofu",
+  "description": "A French-inspired twist on the classic Spanish gazpacho soup, featuring tofu as a protein source. This refreshing summer soup is perfect for hot days.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Extra-firm, drained and cubed"
+    },
+    {
+      "name": "Gazpacho",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1/4 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Balsamic vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Baguette",
+      "amount": "1 slice (for croutons)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, puree the gazpacho until smooth.",
+    "2. In a large bowl, whisk together the red wine and balsamic vinegar.",
+    "3. Add the cubed tofu to the bowl and toss to coat with the wine and vinegar mixture.",
+    "4. Heat the olive oil in a large skillet over medium-high heat.",
+    "5. Add the croutons (cubed baguette) to the skillet and cook until golden brown.",
+    "6. Add the tofu mixture to the skillet and cook until the tofu is golden brown and crispy.",
+    "7. Stir the pureed gazpacho into the skillet and cook for an additional 2-3 minutes.",
+    "8. Season the soup with salt and pepper to taste.",
+    "9. Serve the soup hot, garnished with chopped parsley and basil.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "soup",
+    "summer",
+    "gazpacho",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tofu-gazpacho--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:54.279Z"
+}
