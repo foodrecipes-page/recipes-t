@@ -2591,17 +2591,15 @@
   },
   {
     "slug": "tangy-jamaican-almond-paste-brownies",
-    "title": "Tangy Jamaican Almond Paste Brownies",
+    "title": "Jamaican Brownies",
     "tags": [
-      "keto-friendly",
+      "caribbean",
+      "dessert",
       "jamaican",
-      "almond-paste",
-      "pressure-cook",
-      "chewy",
-      "sour"
+      "brownies"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -10670,17 +10668,15 @@
   },
   {
     "slug": "tender-weeknight-german-borlotti-beans-stew",
-    "title": "Tender Weeknight German Borlotti Beans Stew",
+    "title": "Borlotti Bean Stew",
     "tags": [
-      "comforting",
       "german",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "beans",
+      "comfort"
     ],
     "cuisine": "german",
-    "totalTimeMin": 40,
+    "totalTimeMin": 135,
     "shard": "t"
   },
   {
