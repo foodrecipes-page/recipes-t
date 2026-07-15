@@ -1,0 +1,70 @@
+{
+  "slug": "tempting-toasty-spanish-malai-croquetas",
+  "title": "Spanish Croquetas Recipe",
+  "description": "A delicious Spanish-inspired snack recipe with a crispy exterior and a melted, cheesy interior. Serve with a side of tangy aioli for dipping.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "toasty",
+      "amount": "2 cups",
+      "notes": "bread, cubed"
+    },
+    {
+      "name": "tempting",
+      "amount": "1/2 cup",
+      "notes": "cheese, shredded"
+    },
+    {
+      "name": "spanish",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "croquetas",
+      "amount": "4-6 pieces",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the cubed bread and cook until toasted, stirring occasionally.",
+    "In a large bowl, combine the toasted bread, grated malai, and shredded tempting cheese.",
+    "Mix well until all the ingredients are fully incorporated.",
+    "Stuff each croquetas piece with the bread and cheese mixture.",
+    "Place the stuffed croquetas on a baking sheet lined with parchment paper.",
+    "Drizzle with a little more olive oil and gently toss to coat.",
+    "Bake in the preheated oven for 12-15 minutes, or until golden brown.",
+    "Serve warm with a side of tangy aioli for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "snack",
+    "cheesy",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-toasty-spanish-malai-croquetas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:10:56.427Z"
+}
