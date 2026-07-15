@@ -4410,18 +4410,15 @@
   },
   {
     "slug": "tangy-vietnamese-walnut-mi-quang",
-    "title": "Tangy Vietnamese Walnut Mi Quang",
+    "title": "Vietnamese-Style Grilled Pork with Tangy Walnut Sauce",
     "tags": [
-      "brunch",
-      "gluten-free",
-      "low-calorie",
-      "noodle-dish",
-      "tadka",
       "vietnamese",
-      "walnut"
+      "grilled-pork",
+      "walnut-sauce",
+      "mi"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -8740,17 +8737,14 @@
   },
   {
     "slug": "tender-molten-slovakian-pork-stew",
-    "title": "Tender Molten Slovakian Pork Stew",
+    "title": "Traditional Slovakian Pork Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "gluten-free",
-      "hearty-stew",
-      "midnight-craving",
-      "one-pot",
-      "slovakian-cuisine"
+      "slovakian",
+      "stew",
+      "pork"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 170,
     "shard": "t"
   },
   {
