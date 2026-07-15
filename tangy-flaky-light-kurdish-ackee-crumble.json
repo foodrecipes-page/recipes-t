@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-flaky-light-kurdish-ackee-crumble",
+  "title": "Kurdish-Style Ackee Crumble",
+  "description": "A delightful breakfast dish blending the flavors of Kurdish cuisine with the Caribbean delicacy of ackee. A flaky, light crumble topping adds a satisfying crunch.",
+  "cuisine": "Kurdish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": "Granulated"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For gluten-free, use gluten-free flour"
+    },
+    {
+      "name": "Kurdish Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available at Middle Eastern markets or online"
+    },
+    {
+      "name": "Crumbles Topping",
+      "amount": "1 cup",
+      "notes": "Mix of tangy, flaky, light, kurdish, ackee"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "Whole milk or a non-dairy alternative"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large skillet, melt butter over medium heat. Add sugar and cook for 2-3 minutes.",
+    "3. Add ackee and cook until heated through.",
+    "4. In a separate bowl, mix together flour and Kurdish Spice Mix.",
+    "5. Add the crumbles topping to the flour mixture and mix until well combined.",
+    "6. Pour the milk into the skillet with the ackee mixture and stir to combine.",
+    "7. Top the ackee mixture with the crumbles topping.",
+    "8. Bake for 20-25 minutes, or until the topping is golden brown.",
+    "9. Serve warm, garnished with additional crumbles topping if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "kurdish",
+    "ackee",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-light-kurdish-ackee-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:34:29.756Z"
+}
