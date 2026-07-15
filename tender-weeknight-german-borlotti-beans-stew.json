@@ -1,0 +1,94 @@
+{
+  "slug": "tender-weeknight-german-borlotti-beans-stew",
+  "title": "Borlotti Bean Stew",
+  "description": "A hearty, comforting stew made with borlotti beans and tender chunks of beef.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "tender beef",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef and set aside.",
+    "Add onion, carrot, and celery to pot and cook until tender, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add beef broth, wine (if using), salt, and pepper. Stir to combine.",
+    "Return beef to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Add borlotti beans to pot and simmer for an additional 30 minutes.",
+    "Serve hot, garnished with fresh parsley (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "beans",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-weeknight-german-borlotti-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:07:46.986Z"
+}
