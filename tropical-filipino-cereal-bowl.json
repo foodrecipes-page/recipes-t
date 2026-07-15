@@ -1,0 +1,65 @@
+{
+  "slug": "tropical-filipino-cereal-bowl",
+  "title": "Filipino-Style Tropical Cereal Bowl",
+  "description": "A refreshing twist on a classic breakfast bowl, featuring tropical flavors and crunchy cereal.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tropical cereal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Fresh mango",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine cereal, pineapple, and mango.",
+    "In a separate bowl, whisk together coconut milk and honey until smooth.",
+    "Pour the coconut milk mixture over the cereal mixture and toss to coat.",
+    "Sprinkle shredded coconut on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "tropical",
+    "cereal",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-filipino-cereal-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:59:07.833Z"
+}
