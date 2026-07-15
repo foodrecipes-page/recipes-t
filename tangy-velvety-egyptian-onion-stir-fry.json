@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-velvety-egyptian-onion-stir-fry",
+  "title": "Egyptian-Style Velvety Onion Fritters",
+  "description": "Crispy fried onion fritters inspired by Egyptian street food, with a tangy and velvety twist.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "velvety",
+      "amount": "1/2 cup",
+      "notes": "tahini or creamy sauce"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "stir",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped onion and spices.",
+    "In a separate bowl, whisk together tahini, lemon juice, and olive oil.",
+    "Add the wet ingredients to the dry ingredients and mix well.",
+    "Heat a non-stick pan with a thin layer of oil.",
+    "Using a spoon, drop small amounts of the mixture into the pan and flatten slightly.",
+    "Fry the fritters until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "vegan",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-egyptian-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:10:11.565Z"
+}
