@@ -1,0 +1,71 @@
+{
+  "slug": "tangy-flaky-light-kurdish-ackee-crumble--german",
+  "title": "Kurdish Ackee Crumble German Style",
+  "description": "A twist on traditional German desserts, using the unique flavor of ackee and a crunchy crumble topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1/2 cup, granulated sugar"
+    },
+    {
+      "name": "Flaky",
+      "amount": "1 cup, all-purpose flour"
+    },
+    {
+      "name": "Light",
+      "amount": "1/2 cup, unsalted butter, softened"
+    },
+    {
+      "name": "Kurdish",
+      "amount": "1 tsp, ground cinnamon"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1/2 cup, rolled oats"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp, flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together ackee, granulated sugar, flour, and cinnamon.",
+    "Transfer the mixture to a 9-inch pie dish.",
+    "In a separate bowl, mix together softened butter and rolled oats. Add flaky sea salt and mix until crumbly.",
+    "Spread the crumble mixture evenly over the ackee mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the filling is set.",
+    "Remove from oven and let cool for 10 minutes.",
+    "Serve warm, topped with additional crumble topping if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "ackee",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-light-kurdish-ackee-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:27:52.718Z"
+}
