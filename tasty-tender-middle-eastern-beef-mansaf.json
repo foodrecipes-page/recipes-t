@@ -1,0 +1,83 @@
+{
+  "slug": "tasty-tender-middle-eastern-beef-mansaf",
+  "title": "Mansaf: Middle Eastern Lamb Stew",
+  "description": "A traditional Middle Eastern dish from Jordan, Mansaf is a flavorful lamb stew made with tender meat and served with rice and pine nuts.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 kg",
+      "notes": ""
+    },
+    {
+      "name": "tasty onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tender garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "mansaf pine nuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Brown the lamb shoulder on all sides.",
+    "Add onions and garlic to the pot and sauté until softened.",
+    "Add middle eastern spices and cook for 1 minute.",
+    "Pour in beef broth, cover the pot, and bring to a boil.",
+    "Reduce heat to low and simmer for 2 hours or until the lamb is tender.",
+    "Stir in pine nuts and season with salt and black pepper.",
+    "Serve Mansaf with rice and garnish with additional pine nuts if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "lamb",
+    "stew",
+    "mansaf"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-tender-middle-eastern-beef-mansaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:41:35.987Z"
+}
