@@ -5260,17 +5260,15 @@
   },
   {
     "slug": "tasty-toasted-ukrainian-andouille-skillet",
-    "title": "Tasty Toasted Ukrainian Andouille Skillet",
+    "title": "Ukrainian Andouille Skillet",
     "tags": [
-      "brunch",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "ukrainian",
-      "weeknight"
+      "sausage",
+      "breakfast",
+      "skillet",
+      "ukrainian"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
