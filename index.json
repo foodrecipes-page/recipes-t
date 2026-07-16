@@ -6456,16 +6456,15 @@
   },
   {
     "slug": "tender-boiled-thai-plum-tomatoes-curry",
-    "title": "Tender Boiled Thai Plum Tomatoes Curry",
+    "title": "Thai-Style Boiled Curry Tenderloin with Fresh Tomatoes",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "thai-curry",
-      "vegan",
-      "weeknight"
+      "thai",
+      "curry",
+      "tenderloin",
+      "tomatoes"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
