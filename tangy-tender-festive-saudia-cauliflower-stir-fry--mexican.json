@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-tender-festive-saudia-cauliflower-stir-fry--mexican",
+  "title": "Cauliflower Fiesta Bites",
+  "description": "A Mexican-inspired appetizer featuring crispy cauliflower florets in a tangy, tender sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 head of cauliflower",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup of festive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves of garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon of saudia cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon of tangy lime juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon of stir pepper powder",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Chopped cilantro for garnish",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse and dry the cauliflower florets.",
+    "2. In a bowl, mix together festive oil, garlic, cumin, lime juice, pepper powder, and salt.",
+    "3. Add the cauliflower florets to the bowl and toss to coat with the sauce.",
+    "4. Heat a skillet over medium-high heat.",
+    "5. Add the cauliflower florets to the skillet and cook until crispy and golden brown.",
+    "6. Remove the cauliflower from the skillet and garnish with chopped cilantro if desired.",
+    "7. Serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "veggie",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-festive-saudia-cauliflower-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:06:04.285Z"
+}
