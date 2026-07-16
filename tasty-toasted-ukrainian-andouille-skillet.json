@@ -1,0 +1,82 @@
+{
+  "slug": "tasty-toasted-ukrainian-andouille-skillet",
+  "title": "Ukrainian Andouille Skillet",
+  "description": "A hearty and flavorful Ukrainian-inspired dish featuring andouille sausage in a skillet with toasted bread.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "Sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "Toasted Ukrainian bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Tasty skillet oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large skillet over medium-high heat.",
+    "Add the sliced onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced andouille sausage to the skillet and cook until browned.",
+    "Add the toasted Ukrainian bread to the skillet and break it up into small pieces.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Serve the Ukrainian Andouille Skillet hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausage",
+    "breakfast",
+    "skillet",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-ukrainian-andouille-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:42:01.553Z"
+}
