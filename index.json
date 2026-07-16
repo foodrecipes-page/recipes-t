@@ -5205,17 +5205,16 @@
   },
   {
     "slug": "tasty-toasted-korean-doenjang-pancakes",
-    "title": "Tasty Toasted Korean Doenjang Pancakes",
+    "title": "Korean-Style Doenjang Pancakes",
     "tags": [
-      "bouncy-qq",
-      "garlicky",
-      "korean-food",
-      "midnight-cravings",
-      "ovo-vegetarian",
-      "tava-griddle"
+      "korean",
+      "doenjang",
+      "pancakes",
+      "savory",
+      "snack"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12549,6 +12548,31 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 65,
+    "shard": "t"
+  },
+  {
+    "slug": "tantalizing-charred-japanese-cucumber-shoyu-ramen--thai",
+    "title": "Spicy Charred Shoyu Ramen",
+    "tags": [
+      "japanese",
+      "thai",
+      "ramen",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-french-cheese-omelette--vegetarian",
+    "title": "French Omelette",
+    "tags": [
+      "breakfast",
+      "omelette",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 13,
     "shard": "t"
   }
 ]
