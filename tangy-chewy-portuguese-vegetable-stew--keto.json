@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-chewy-portuguese-vegetable-stew--keto",
+  "title": "Keto Portuguese Stew",
+  "description": "A hearty and flavorful stew that's low in carbs and high in fat. Made with tender chunks of meat and a variety of vegetables.",
+  "cuisine": "portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Chewy Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Tomatoes",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables (peppers, onions, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Keto Stew Seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the tomatoes, broth, and vegetables. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Season with keto stew seasoning to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "portuguese",
+    "stew",
+    "beef",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 46
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-portuguese-vegetable-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:40:53.797Z"
+}
