@@ -12537,5 +12537,18 @@
     "cuisine": "portuguese",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "thick-fermented-thai-cola-stew--german",
+    "title": "German Braised Sausage Stew",
+    "tags": [
+      "german",
+      "beef",
+      "sausage",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "t"
   }
 ]
