@@ -1,0 +1,72 @@
+{
+  "slug": "tasty-toasted-korean-doenjang-pancakes",
+  "title": "Korean-Style Doenjang Pancakes",
+  "description": "A twist on traditional pancakes, these Korean-style doenjang pancakes are savory and delicious. Perfect for a quick snack or light meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toasted Korean flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Doenjang",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the toasted Korean flour and doenjang.",
+    "Add the water, Korean chili flakes, and sesame oil to the bowl. Mix until a smooth batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with toasted sesame seeds and green onion on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "doenjang",
+    "pancakes",
+    "savory",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-korean-doenjang-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T05:35:28.067Z"
+}
