@@ -12486,5 +12486,18 @@
     "cuisine": "german",
     "totalTimeMin": 75,
     "shard": "t"
+  },
+  {
+    "slug": "tender-slow-moroccan-lamb-mechoui--japanese",
+    "title": "Lamb Mechoui Tacos",
+    "tags": [
+      "japanese-moroccan",
+      "lamb",
+      "tacos",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "t"
   }
 ]
