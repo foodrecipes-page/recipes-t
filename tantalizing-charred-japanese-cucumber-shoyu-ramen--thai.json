@@ -1,0 +1,64 @@
+{
+  "slug": "tantalizing-charred-japanese-cucumber-shoyu-ramen--thai",
+  "title": "Spicy Charred Shoyu Ramen",
+  "description": "A fusion of Japanese and Thai flavors, this spicy charred shoyu ramen is a twist on the classic dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ramen",
+      "amount": "1 package"
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "charred jalapeño",
+      "amount": "1",
+      "notes": "charred over an open flame"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "japanese scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen according to the package instructions.",
+    "In a small saucepan, combine the shoyu and charred jalapeño. Bring to a simmer over low heat.",
+    "Add the sliced cucumber to the saucepan and cook for 2-3 minutes, or until slightly tender.",
+    "To assemble the dish, place the cooked ramen in a bowl and top with the cucumber and jalapeño mixture.",
+    "Garnish with thinly sliced Japanese scallions."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "thai",
+    "ramen",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tantalizing-charred-japanese-cucumber-shoyu-ramen--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:20:50.300Z"
+}
