@@ -12474,5 +12474,17 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "turkish-charred-flaky-minced-steak-flatbread--german",
+    "title": "Sauerbraten Steak with Flatbread",
+    "tags": [
+      "german",
+      "beef",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 75,
+    "shard": "t"
   }
 ]
