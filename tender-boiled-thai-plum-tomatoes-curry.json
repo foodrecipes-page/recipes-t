@@ -1,0 +1,87 @@
+{
+  "slug": "tender-boiled-thai-plum-tomatoes-curry",
+  "title": "Thai-Style Boiled Curry Tenderloin with Fresh Tomatoes",
+  "description": "A juicy and flavorful Thai-inspired dish made with tenderloin, fresh tomatoes, and a rich curry sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tenderloin",
+      "amount": "1 pound",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "plum tomatoes",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "curry",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "boiled water",
+      "amount": "4 cups",
+      "notes": "for braising"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Season the tenderloin with salt and black pepper.",
+    "3. In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "4. Sear the tenderloin until browned on all sides, about 2-3 minutes per side.",
+    "5. Remove the tenderloin from the pot and set it aside.",
+    "6. Add the chopped tomatoes and curry to the pot, stirring to combine.",
+    "7. Pour in the boiled water and bring the mixture to a simmer.",
+    "8. Return the tenderloin to the pot and cover with a lid.",
+    "9. Transfer the pot to the preheated oven and braise the tenderloin for 15-20 minutes, or until it reaches an internal temperature of 145°F (63°C).",
+    "10. Remove the pot from the oven and let the tenderloin rest for 5 minutes.",
+    "11. Slice the tenderloin and serve with the curry sauce spooned over the top. Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "tenderloin",
+    "tomatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-boiled-thai-plum-tomatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:50:20.448Z"
+}
