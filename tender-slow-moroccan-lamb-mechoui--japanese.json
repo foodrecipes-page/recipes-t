@@ -1,0 +1,79 @@
+{
+  "slug": "tender-slow-moroccan-lamb-mechoui--japanese",
+  "title": "Lamb Mechoui Tacos",
+  "description": "A unique fusion of Japanese and Moroccan flavors in a taco. Tender lamb mechoui is served with spicy Japanese mayo and crispy sesame seeds.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb mechoui",
+      "amount": "500g"
+    },
+    {
+      "name": "Japanese taco shells",
+      "amount": "8-10"
+    },
+    {
+      "name": "Spicy Japanese mayo",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crushed sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the lamb mechoui into thin strips.",
+    "Grill the lamb for 2-3 minutes per side, or until cooked through.",
+    "Warm the taco shells according to package instructions.",
+    "In a small bowl, mix together the spicy Japanese mayo, soy sauce, and red pepper flakes.",
+    "Spoon the lamb onto the taco shells, followed by a dollop of the spicy mayo mixture.",
+    "Garnish with cilantro, crushed sesame seeds, and a drizzle of sesame oil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-moroccan",
+    "lamb",
+    "tacos",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slow-moroccan-lamb-mechoui--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:42:10.019Z"
+}
