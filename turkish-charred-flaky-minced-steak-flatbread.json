@@ -1,0 +1,78 @@
+{
+  "slug": "turkish-charred-flaky-minced-steak-flatbread",
+  "title": "Turkish-Style Steak Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with charred steak, served with a side of crispy flatbread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Flaky flatbread",
+      "amount": "4-6 inches in diameter",
+      "notes": null
+    },
+    {
+      "name": "Minced garlic",
+      "amount": "2 cloves",
+      "notes": "Mince just before using"
+    },
+    {
+      "name": "Minced steak",
+      "amount": "8 oz",
+      "notes": "High-quality cut, preferably ribeye or strip loin"
+    },
+    {
+      "name": "Turkish seasoning",
+      "amount": "to taste",
+      "notes": "Typically includes oregano, thyme, and cumin"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Add as needed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "Season the steak with salt, pepper, and Turkish seasoning. Grill for 4-5 minutes per side for medium-rare.",
+    "Char the flatbread on the grill for 1-2 minutes per side, or until crispy.",
+    "Slice the steak into thin strips.",
+    "Warm the flatbread by wrapping it in foil and heating it in the oven at 350°F (180°C) for 5 minutes.",
+    "Assemble the wrap by placing the charred steak on the flatbread, then topping with minced garlic, parsley, and a drizzle of olive oil.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "steak",
+    "wrap",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkish-charred-flaky-minced-steak-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:28:31.529Z"
+}
