@@ -5049,16 +5049,15 @@
   },
   {
     "slug": "tasty-tender-middle-eastern-beef-mansaf",
-    "title": "Tasty Tender Middle Eastern Beef Mansaf",
+    "title": "Mansaf: Middle Eastern Lamb Stew",
     "tags": [
-      "beef",
-      "kosher",
       "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "stew",
+      "mansaf"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "totalTimeMin": 140,
     "shard": "t"
   },
   {
