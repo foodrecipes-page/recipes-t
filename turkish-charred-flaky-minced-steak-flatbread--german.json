@@ -1,0 +1,85 @@
+{
+  "slug": "turkish-charred-flaky-minced-steak-flatbread--german",
+  "title": "Sauerbraten Steak with Flatbread",
+  "description": "A classic German dish made with marinated steak served with crusty flatbread. The charred, flaky texture of the flatbread pairs perfectly with the tender, sauerbraten steak.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 pounds",
+      "notes": "Flank steak or skirt steak work well for this dish"
+    },
+    {
+      "name": "flatbread",
+      "amount": "1 loaf",
+      "notes": "Look for a crusty, flaky flatbread to pair with the steak"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together vinegar, water, caraway seeds, salt, and pepper.",
+    "Add the sliced onion to the bowl and marinate for at least 2 hours, or overnight.",
+    "Preheat the oven to 300°F (150°C).",
+    "Remove the steak from the marinade, letting any excess liquid drip off.",
+    "Sear the steak in a hot skillet over high heat for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook to desired level of doneness.",
+    "Let the steak rest for 10 minutes before slicing thinly against the grain.",
+    "Serve the sliced steak with crusty flatbread on the side.",
+    "Warm the flatbread by wrapping it in foil and placing it in the oven for a few minutes.",
+    "Slice the flatbread into strips and serve alongside the steak."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkish-charred-flaky-minced-steak-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:13:00.317Z"
+}
