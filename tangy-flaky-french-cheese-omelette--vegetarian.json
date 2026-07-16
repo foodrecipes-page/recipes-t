@@ -1,0 +1,63 @@
+{
+  "slug": "tangy-flaky-french-cheese-omelette--vegetarian",
+  "title": "French Omelette",
+  "description": "A simple French-inspired omelette filled with cheese and perfect for a quick, satisfying meal.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "Fresh, large eggs."
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded, sharp cheddar or Swiss work well."
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "To taste."
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch",
+      "notes": "To taste."
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "Heat a small non-stick pan over medium heat and add a small amount of butter.",
+    "Once the butter has melted, pour in the eggs.",
+    "Let the eggs cook for about 2 minutes, until the edges start to set.",
+    "Use a spatula to gently lift and fold the edges of the omelette towards the center.",
+    "Once the eggs are almost set, add the shredded cheese to one half of the omelette.",
+    "Use the spatula to fold the other half of the omelette over the cheese.",
+    "Let the omelette cook for another minute, until the cheese is melted and the eggs are fully set.",
+    "Slide the omelette out of the pan onto a plate and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-french-cheese-omelette--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T06:26:14.850Z"
+}
