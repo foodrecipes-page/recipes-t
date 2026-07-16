@@ -12499,5 +12499,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 18,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-festive-saudia-cauliflower-stir-fry--mexican",
+    "title": "Cauliflower Fiesta Bites",
+    "tags": [
+      "mexican",
+      "veggie",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-light-kurdish-ackee-crumble--german",
+    "title": "Kurdish Ackee Crumble German Style",
+    "tags": [
+      "german",
+      "ackee",
+      "crumble",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
+    "shard": "t"
   }
 ]
