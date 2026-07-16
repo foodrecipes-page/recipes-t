@@ -12044,17 +12044,15 @@
   },
   {
     "slug": "turkish-charred-flaky-minced-steak-flatbread",
-    "title": "Turkish Charred Flaky Minced Steak Flatbread",
+    "title": "Turkish-Style Steak Wrap",
     "tags": [
-      "date-night",
-      "dinner",
-      "flatbread",
-      "healthy",
-      "meat",
-      "turkish"
+      "turkish",
+      "steak",
+      "wrap",
+      "grill"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 40,
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
