@@ -12523,5 +12523,19 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-chewy-portuguese-vegetable-stew--keto",
+    "title": "Keto Portuguese Stew",
+    "tags": [
+      "keto",
+      "portuguese",
+      "stew",
+      "beef",
+      "sausage"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
