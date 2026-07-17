@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-dense-korean-apple-stir-fry--french",
+  "title": "Pan-Seared Apple Tart",
+  "description": "A sweet and tangy dessert inspired by French cuisine, featuring a crispy pastry crust and a caramelized apple filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dough (homemade or store-bought)",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "apples",
+      "amount": "2-3",
+      "notes": "any variety"
+    },
+    {
+      "name": "tangy cheese",
+      "amount": "1/2 cup",
+      "notes": "such as brie or goat cheese"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, mix together the sliced apples, cinnamon, nutmeg, and sugar.",
+    "Arrange the apple mixture in a circular pattern, leaving a 1-inch border around the edges.",
+    "Sprinkle the tangy cheese over the apples.",
+    "Fold the edges of the dough up over the filling, pressing gently to seal.",
+    "Bake the tart for 25-30 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove the tart from the oven and let it cool for 10 minutes.",
+    "Serve warm, garnished with fresh herbs or whipped cream if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "French",
+    "dessert",
+    "apple",
+    "tart",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-korean-apple-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:24:22.756Z"
+}
