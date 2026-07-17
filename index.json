@@ -11968,17 +11968,15 @@
   },
   {
     "slug": "truffle-oil-comforting-brazilian-garlicky-fried-rice",
-    "title": "Truffle Oil Comforting Brazilian Garlicky Fried Rice",
+    "title": "Truffle Fried Rice",
     "tags": [
       "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "south-american",
-      "truffle-oil",
-      "weeknight"
+      "easy-recipes",
+      "fried-rice",
+      "truffle-oil"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -12672,6 +12670,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-ukrainian-oyster-mushroom-toast--japanese",
+    "title": "Mushroom Tempura with Oyster Dipping Sauce",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "mushroom",
+      "tempura"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
     "shard": "t"
   }
 ]
