@@ -1,0 +1,62 @@
+{
+  "slug": "tender-canadian-chinese-broccoli-grill--french",
+  "title": "Pan-Seared Canadian Grilled Steak with Broccoli",
+  "description": "A French-inspired dish featuring grilled steak served with steamed broccoli.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian steak",
+      "amount": "4 (6 oz) steaks",
+      "notes": "1-1.5 inches thick"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 bunches",
+      "notes": "fresh"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Coarse salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the steaks with salt and pepper.",
+    "Grill the steaks for 3-5 minutes per side, or until they reach 130°F - 135°F for medium-rare.",
+    "Transfer the steaks to a plate and let them rest for 5 minutes.",
+    "Steam the broccoli in a steamer basket until tender.",
+    "Serve the grilled steak with steamed broccoli."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-steak",
+    "french-cuisine",
+    "beef",
+    "steamed-broccoli"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-canadian-chinese-broccoli-grill--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:24:59.736Z"
+}
