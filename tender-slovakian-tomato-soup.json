@@ -1,0 +1,85 @@
+{
+  "slug": "tender-slovakian-tomato-soup",
+  "title": "Slovakian Beef Stew",
+  "description": "A hearty Slovakian-inspired beef stew made with tender beef, fresh tomatoes, and a touch of traditional Slovakian spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato soup",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Tender",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the chopped tomatoes, paprika, salt, and pepper to the pot and stir to combine.",
+    "Return the beef to the pot and add the tomato soup.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "slovakian",
+    "stew",
+    "hearty",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slovakian-tomato-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:15:08.265Z"
+}
