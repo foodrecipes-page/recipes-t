@@ -1,0 +1,81 @@
+{
+  "slug": "tasty-toasted-korean-doenjang-pancakes--italian",
+  "title": "Korean-Italian Pancakes with Doenjang Sauce",
+  "description": "A unique fusion dish featuring crispy Korean-style pancakes topped with a savory doenjang sauce, all inspired by Italian flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "doenjang",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "pancakes mix",
+      "amount": "tasty",
+      "notes": "use as a substitute for flour"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together flour, cornstarch, and korean chili flakes.",
+    "2. In a separate bowl, whisk together doenjang, toasted sesame oil, and eggs.",
+    "3. Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "4. Heat a non-stick pan over medium heat.",
+    "5. Using a 1/4 cup measuring cup, scoop the batter into the pan and cook until bubbles appear on the surface.",
+    "6. Flip the pancakes and cook for an additional 2-3 minutes.",
+    "7. Serve the pancakes hot with doenjang sauce drizzled on top.",
+    "8. To make the doenjang sauce, blend doenjang, toasted sesame oil, and water in a blender until smooth.",
+    "9. Season the sauce with salt to taste.",
+    "10. Serve the pancakes with doenjang sauce and garnish with toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "fusion",
+    "breakfast",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-korean-doenjang-pancakes--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:38:31.788Z"
+}
