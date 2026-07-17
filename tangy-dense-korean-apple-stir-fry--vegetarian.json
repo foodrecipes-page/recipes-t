@@ -1,0 +1,87 @@
+{
+  "slug": "tangy-dense-korean-apple-stir-fry--vegetarian",
+  "title": "Stir Fry Korean Apple Delight",
+  "description": "A sweet and savory vegetarian stir fry dish featuring the perfect combination of apples and Korean spices. Enjoy the crunch of the apple and the depth of Korean flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean Apple",
+      "amount": "1 large",
+      "notes": "Granny Smith or similar variety"
+    },
+    {
+      "name": "Tangy Stir Fry Sauce",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dense Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 tsp",
+      "notes": "Minced"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the dense vegetable oil in a large skillet over medium-high heat.",
+    "Add the grated ginger and minced garlic and sauté for 1 minute.",
+    "Add the sliced onions and sauté for 3 minutes, or until they start to caramelize.",
+    "Add the sliced bell peppers and grated carrots and stir-fry for 4 minutes.",
+    "Add the Korean apple and stir-fry for 2 minutes.",
+    "Pour in the tangy stir fry sauce and stir to coat the vegetables.",
+    "Reduce heat to medium-low and simmer for 2 minutes, or until the sauce has thickened.",
+    "Garnish with sesame seeds and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-korean-apple-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:22:24.594Z"
+}
