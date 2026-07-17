@@ -1616,17 +1616,15 @@
   },
   {
     "slug": "tangy-egyptian-cheese-kebabs",
-    "title": "Tangy Egyptian Cheese Kebabs",
+    "title": "Egyptian Kebab Cheese Fritters",
     "tags": [
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kebabs",
+      "cheese",
+      "snacks",
+      "european"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 27,
     "shard": "t"
   },
   {
@@ -3439,12 +3437,12 @@
   },
   {
     "slug": "tangy-shattering-egyptian-basil-paella",
-    "title": "Tangy Shattering Egyptian Basil Paella",
+    "title": "Egyptian Paella",
     "tags": [
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "egyptian",
+      "vegetarian",
+      "lunch",
+      "paella"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 40,
