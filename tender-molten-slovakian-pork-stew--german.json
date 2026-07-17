@@ -1,0 +1,88 @@
+{
+  "slug": "tender-molten-slovakian-pork-stew--german",
+  "title": "Slovakian Pork Stew",
+  "description": "A hearty German-inspired stew made with tender pork and Slovakian flair.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound",
+      "notes": "such as kovbasa"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "In a large Dutch oven, brown the pork cubes over medium-high heat.",
+    "Remove the pork from the pot and set aside.",
+    "Add the sliced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and cook for an additional 5 minutes.",
+    "Add the cubed potatoes, beef broth, tomato paste, and dried thyme to the pot.",
+    "Return the browned pork to the pot and bring to a boil.",
+    "Cover the pot with a lid and transfer to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and the potatoes are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "pork",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-molten-slovakian-pork-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:40:25.389Z"
+}
