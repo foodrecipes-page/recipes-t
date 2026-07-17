@@ -1,0 +1,83 @@
+{
+  "slug": "tender-steamed-indian-mushrooms-bake",
+  "title": "Indian-Style Mushroom Bake",
+  "description": "A flavorful and aromatic Indian-inspired mushroom bake, perfect for a weeknight dinner. This dish is a great way to enjoy the earthy flavors of mushrooms in a new and exciting way.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": "Fresh or frozen, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the mushrooms, garlic, and ginger to the skillet. Cook, stirring occasionally, until the mushrooms release their liquid and start to brown, about 5 minutes.",
+    "Sprinkle the curry powder, salt, and black pepper over the mushroom mixture. Stir to combine.",
+    "Transfer the mushroom mixture to a 9x13-inch baking dish.",
+    "Top the mushroom mixture with shredded cheese.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mushroom",
+    "bake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-steamed-indian-mushrooms-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:45:56.183Z"
+}
