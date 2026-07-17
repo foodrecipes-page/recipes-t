@@ -1,0 +1,75 @@
+{
+  "slug": "truffle-oil-comforting-brazilian-garlicky-fried-rice--indian",
+  "title": "Truffle Fried Rice",
+  "description": "A flavorful and aromatic fried rice dish made with truffle and inspired by Indian cuisine.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Truffle oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Uncooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fried rice seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add minced garlic and sauté for 1 minute.",
+    "Add diced onion and sauté for 2 minutes.",
+    "Add uncooked rice and stir to combine with the vegetables.",
+    "Add truffle oil, fried rice seasoning, salt, and pepper. Stir-fry for 2-3 minutes.",
+    "Transfer the mixture to a large serving platter.",
+    "Serve hot and garnish with chopped green onions if desired.",
+    "Optional: Add protein of your choice, such as cooked chicken or tofu, to make the dish more substantial."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "fried-rice",
+    "truffle-oil",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/truffle-oil-comforting-brazilian-garlicky-fried-rice--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:04:49.870Z"
+}
