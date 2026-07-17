@@ -9271,14 +9271,16 @@
   },
   {
     "slug": "tender-slovakian-tomato-soup",
-    "title": "Tender Slovikian Tomato Soup",
+    "title": "Slovakian Beef Stew",
     "tags": [
-      "comfort-food",
-      "easy-soup",
-      "monsoon-recipes"
+      "beef",
+      "slovakian",
+      "stew",
+      "hearty",
+      "comfort food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
@@ -12634,6 +12636,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-korean-apple-stir-fry--french",
+    "title": "Pan-Seared Apple Tart",
+    "tags": [
+      "French",
+      "dessert",
+      "apple",
+      "tart",
+      "homemade"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "t"
   }
 ]
