@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-shattering-egyptian-basil-paella",
+  "title": "Egyptian Paella",
+  "description": "A flavorful and aromatic Egyptian-inspired paella dish featuring tangy and savory flavors.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Egyptian rice",
+      "amount": "1 cup",
+      "notes": "preferably jasmine rice"
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Paella",
+      "amount": "1 cup",
+      "notes": "arborio rice"
+    },
+    {
+      "name": "Dried tangy spices",
+      "amount": "1 tsp",
+      "notes": "mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Shattering peppers",
+      "amount": "1",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan or skillet over medium-high heat.",
+    "Add the sliced shattering peppers and cook until tender, about 5 minutes.",
+    "Add the Egyptian rice, paella, and dried tangy spices. Stir to combine.",
+    "Add the vegetable broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Stir in the chopped basil.",
+    "Serve hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egyptian",
+    "vegetarian",
+    "lunch",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-shattering-egyptian-basil-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:24:24.722Z"
+}
