@@ -12660,5 +12660,18 @@
     "cuisine": "german",
     "totalTimeMin": 170,
     "shard": "t"
+  },
+  {
+    "slug": "tender-silky-filipino-chicken-adobo--gluten-free",
+    "title": "Filipino Chicken Adobo",
+    "tags": [
+      "filipino",
+      "chicken",
+      "adobo",
+      "gluten-free"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
