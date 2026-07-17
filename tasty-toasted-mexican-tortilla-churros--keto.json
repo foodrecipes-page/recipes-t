@@ -1,0 +1,78 @@
+{
+  "slug": "tasty-toasted-mexican-tortilla-churros--keto",
+  "title": "Keto Mexican Churros",
+  "description": "A low-carb twist on traditional Mexican churros, made with a crispy tortilla crust and served with a side of cinnamon sugar.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tortilla",
+      "amount": "6",
+      "notes": "Large, low-carb tortillas"
+    },
+    {
+      "name": "Mexican cheese",
+      "amount": "1 cup",
+      "notes": "Shredded, low-carb cheese"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Cinnamon sugar",
+      "amount": "2 tbsp",
+      "notes": "Optional, for dusting"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 375°F (190°C).",
+    "2. Cut tortillas into strips and set aside.",
+    "3. In a bowl, mix together almond flour, cinnamon, and a pinch of salt.",
+    "4. Dip each tortilla strip into the beaten egg and then coat in the almond flour mixture.",
+    "5. Fry the coated tortilla strips in the hot oil until crispy and golden brown, about 2-3 minutes per side.",
+    "6. Remove the fried churros from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Dust the fried churros with cinnamon sugar, if desired.",
+    "8. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mexican",
+    "snack",
+    "churros"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-toasted-mexican-tortilla-churros--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:03:06.024Z"
+}
