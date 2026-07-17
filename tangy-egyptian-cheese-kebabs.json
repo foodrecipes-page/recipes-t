@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-egyptian-cheese-kebabs",
+  "title": "Egyptian Kebab Cheese Fritters",
+  "description": "A twist on traditional fritters, these Egyptian kebab cheese fritters are a delicious and tangy snack.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Egyptian Kebab Spice Mix",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tangy Yogurt",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the cheese, yogurt, bread crumbs, and eggs.",
+    "Add the Egyptian Kebab Spice Mix and mix well.",
+    "Season with salt to taste.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "Using your hands, shape the mixture into small balls.",
+    "Place the balls on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "cheese",
+    "snacks",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-egyptian-cheese-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:15:47.654Z"
+}
