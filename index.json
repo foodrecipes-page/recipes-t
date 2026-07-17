@@ -9899,16 +9899,15 @@
   },
   {
     "slug": "tender-steamed-indian-mushrooms-bake",
-    "title": "Tender Steamed Indian Mushrooms Bake",
+    "title": "Indian-Style Mushroom Bake",
     "tags": [
-      "easy-to-make",
-      "healthy",
       "indian",
       "mushroom",
-      "weeknight"
+      "bake",
+      "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -12712,6 +12711,46 @@
       "steamed-broccoli"
     ],
     "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crisp-algerian-cranberries-tagine--indian",
+    "title": "Spiced Cranberry Tagine",
+    "tags": [
+      "indian",
+      "tagine",
+      "cranberry",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-filipino-fruit-halo-halo--vegetarian",
+    "title": "Tender Halo Halo",
+    "tags": [
+      "filipino",
+      "dessert",
+      "cold",
+      "refreshing"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-toasted-korean-doenjang-pancakes--italian",
+    "title": "Korean-Italian Pancakes with Doenjang Sauce",
+    "tags": [
+      "italian",
+      "korean",
+      "fusion",
+      "breakfast",
+      "pancakes"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "t"
   }
