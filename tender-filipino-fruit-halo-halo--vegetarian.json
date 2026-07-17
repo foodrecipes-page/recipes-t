@@ -1,0 +1,71 @@
+{
+  "slug": "tender-filipino-fruit-halo-halo--vegetarian",
+  "title": "Tender Halo Halo",
+  "description": "A Filipino-inspired dessert made with tender fruits and a creamy halo topping. Perfect for warm weather.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tender Saba (Plantain)",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Fruit cocktail",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "Halo Top (Young Coconut), grated",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Evaporated milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, mix together Halo top, evaporated milk, granulated sugar, and salt until well combined.",
+    "Add the fruit cocktail and mix gently.",
+    "Cut the tender saba into bite-sized pieces and add to the bowl.",
+    "Mix well to combine all the ingredients.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "dessert",
+    "cold",
+    "refreshing"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-filipino-fruit-halo-halo--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:29:16.911Z"
+}
