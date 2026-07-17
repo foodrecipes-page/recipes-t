@@ -1,0 +1,97 @@
+{
+  "slug": "tropical-peruvian-pepper-rocoto-relleno",
+  "title": "Rocoto Relleno",
+  "description": "A traditional Peruvian dish, Rocoto Relleno is a stuffed pepper recipe filled with a mix of meat, onions, and spices. This recipe is a unique interpretation of the classic dish.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rocoto Peppers",
+      "amount": "4",
+      "notes": "Any color will do"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": "80/20 or 70/30 lean to fat ratio works best"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped finely"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked or sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Tropical Cheese (Queso Fresco or similar)",
+      "amount": "1 cup",
+      "notes": "Crumbly and salty"
+    },
+    {
+      "name": "Tropical Sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": "See note"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the tops off the Rocoto peppers and remove the seeds and membranes.",
+    "3. In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "4. Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "5. Add the chopped onion and cook until translucent.",
+    "6. Stir in the cumin, paprika, salt, and pepper. Cook for 1 minute.",
+    "7. Stuff each pepper with the beef mixture and top with a sprinkle of Tropical Cheese.",
+    "8. Place the peppers in a baking dish and cover with foil.",
+    "9. Bake for 25 minutes.",
+    "10. Remove the foil and bake for an additional 10-15 minutes, or until the peppers are tender.",
+    "11. Serve hot, garnished with additional Tropical Cheese and Tropical Sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "stuffed-pepper",
+    "beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-peruvian-pepper-rocoto-relleno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:59:18.295Z"
+}
