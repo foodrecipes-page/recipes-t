@@ -1,0 +1,89 @@
+{
+  "slug": "tender-silky-filipino-chicken-adobo--gluten-free",
+  "title": "Filipino Chicken Adobo",
+  "description": "A classic Filipino dish made with marinated chicken cooked in a savory sauce. This version is gluten-free and perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider or white vinegar"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "patis (fish sauce)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes. Remove from skillet and set aside.",
+    "In the same skillet, sauté garlic and onion until softened, about 3-4 minutes.",
+    "Add bay leaves, vinegar, soy sauce, patis (if using), and black pepper. Stir to combine.",
+    "Return chicken to skillet and stir to coat with sauce.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes or until chicken is cooked through.",
+    "Stir in tomato paste (if using) and cook for an additional 1-2 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs (if desired)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "chicken",
+    "adobo",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-silky-filipino-chicken-adobo--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:30:46.680Z"
+}
