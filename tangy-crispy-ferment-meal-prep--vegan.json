@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-crispy-ferment-meal-prep--vegan",
+  "title": "Vegan Fermented Meal Bowl",
+  "description": "A delicious, plant-based meal bowl featuring fermented vegetables and tangy slaw.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fermented vegetables",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": "for slaw dressing"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "prep meal mix",
+      "amount": "1 cup",
+      "notes": "according to package instructions"
+    },
+    {
+      "name": "tangy slaw sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat coconut oil over medium heat.",
+    "2. Add the fermented vegetables and sauté for 5 minutes.",
+    "3. Add the shredded cabbage and grated carrots to the skillet and continue cooking for another 5 minutes.",
+    "4. In a small bowl, whisk together the apple cider vinegar and tangy slaw sauce.",
+    "5. Add the prepared slaw dressing to the skillet and stir to combine.",
+    "6. Cook for an additional 2 minutes, until the vegetables are well coated with the dressing.",
+    "7. In a separate pot, prepare the prep meal mix according to package instructions.",
+    "8. To assemble the meal bowls, place a scoop of the prepared prep meal mix in the bottom of a bowl.",
+    "9. Top the meal mix with the sautéed fermented vegetable mixture.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "fermented",
+    "meal-bowl",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-ferment-meal-prep--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:51:44.193Z"
+}
