@@ -2197,17 +2197,15 @@
   },
   {
     "slug": "tangy-gooey-brazilian-treacle-bowl",
-    "title": "Tangy Gooey Brazilian Treacle Bowl",
+    "title": "Brazilian Treacle Bowl",
     "tags": [
       "brazilian",
-      "comfort-food",
-      "dolsot",
-      "gluten-free",
-      "one-pan",
-      "treacle"
+      "dessert",
+      "sweet",
+      "tangy"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12650,6 +12648,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-molten-slovakian-pork-stew--german",
+    "title": "Slovakian Pork Stew",
+    "tags": [
+      "german",
+      "stew",
+      "pork",
+      "slovakian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
     "shard": "t"
   }
 ]
