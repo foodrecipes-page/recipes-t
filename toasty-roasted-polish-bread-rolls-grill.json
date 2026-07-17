@@ -1,0 +1,77 @@
+{
+  "slug": "toasty-roasted-polish-bread-rolls-grill",
+  "title": "Polish Bread Rolls",
+  "description": "Soft, fluffy bread rolls with a hint of Polish flavors.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "polish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rolls",
+      "amount": "6"
+    },
+    {
+      "name": "toasty",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "roasted",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine polish, bread, rolls, yeast, and warm water.",
+    "2. Mix the dough for 10 minutes until smooth.",
+    "3. Knead the dough for 10 minutes until elastic.",
+    "4. Place the dough in a greased bowl and let it rise for 1 hour.",
+    "5. Preheat the oven to 375°F (190°C).",
+    "6. Punch down the dough and shape into rolls.",
+    "7. Place the rolls on a baking sheet and brush with egg wash.",
+    "8. Bake the rolls for 15-20 minutes until golden brown.",
+    "9. Let the rolls cool for 5 minutes before serving.",
+    "10. Serve warm with toasted butter or jam."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "rolls",
+    "snack",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-roasted-polish-bread-rolls-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:35:11.457Z"
+}
