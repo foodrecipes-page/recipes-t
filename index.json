@@ -10208,17 +10208,15 @@
   },
   {
     "slug": "tender-thai-tagliatelle-tom-kha",
-    "title": "Tender Thai Tagliatelle Tom Kha",
+    "title": "Thai Tom Kha Tagliatelle",
     "tags": [
-      "mason-jar",
-      "one-pot",
-      "shojin-friendly",
-      "thai-cuisine",
-      "vegetarian",
-      "weeknight"
+      "thai",
+      "pasta",
+      "coconut",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -11456,18 +11454,15 @@
   },
   {
     "slug": "toasty-roasted-polish-bread-rolls-grill",
-    "title": "Toasty Roasted Polish Bread Rolls Grill",
+    "title": "Polish Bread Rolls",
     "tags": [
       "bread",
-      "easy-to-make",
-      "grilled",
-      "low-calorie",
-      "polish",
+      "rolls",
       "snack",
-      "vegetarian"
+      "eastern-european"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 22,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -12692,6 +12687,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "truffle-oil-comforting-brazilian-garlicky-fried-rice--indian",
+    "title": "Truffle Fried Rice",
+    "tags": [
+      "indian-cuisine",
+      "fried-rice",
+      "truffle-oil",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-canadian-chinese-broccoli-grill--french",
+    "title": "Pan-Seared Canadian Grilled Steak with Broccoli",
+    "tags": [
+      "grilled-steak",
+      "french-cuisine",
+      "beef",
+      "steamed-broccoli"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
