@@ -12572,5 +12572,31 @@
     "cuisine": "French",
     "totalTimeMin": 13,
     "shard": "t"
+  },
+  {
+    "slug": "tenderly-sweetened-middle-eastern-fish-ganoush--italian",
+    "title": "Baked Fish with Eastern Flair",
+    "tags": [
+      "italian",
+      "seafood",
+      "mediterranean",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crispy-ferment-meal-prep--vegan",
+    "title": "Vegan Fermented Meal Bowl",
+    "tags": [
+      "vegan",
+      "fermented",
+      "meal-bowl",
+      "plant-based"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 27,
+    "shard": "t"
   }
 ]
