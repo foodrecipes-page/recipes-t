@@ -1,0 +1,64 @@
+{
+  "slug": "tangy-gooey-brazilian-treacle-bowl",
+  "title": "Brazilian Treacle Bowl",
+  "description": "A sweet and tangy Brazilian-inspired dessert bowl.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian treacle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tangy yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bowl of granola",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Mix the treacle and honey in a bowl.",
+    "Add the yogurt and mix until well combined.",
+    "Pour the mixture into individual serving bowls.",
+    "Sprinkle coconut flakes on top.",
+    "Bake for 15-20 minutes or until the top is lightly golden.",
+    "Remove from the oven and top with granola.",
+    "Serve warm or chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "sweet",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-brazilian-treacle-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:32:53.123Z"
+}
