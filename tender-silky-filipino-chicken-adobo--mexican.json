@@ -1,0 +1,91 @@
+{
+  "slug": "tender-silky-filipino-chicken-adobo--mexican",
+  "title": "Mexican Chicken Adobo Tacos",
+  "description": "A fusion of Mexican and Filipino flavors, this dish is a twist on traditional Mexican street food. The tender chicken is marinated in a mixture of soy sauce, vinegar, garlic, and chili peppers, then grilled to perfection and served in a taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "filipino adobo mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine adobo mix, lime juice, garlic, chipotle peppers, cumin, and paprika. Blend until smooth.",
+    "Place the chicken breasts in a large zip-top plastic bag or a shallow dish. Pour the marinade over the chicken and massage to coat.",
+    "Refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Remove the chicken from the marinade and cook for 5-7 minutes per side, or until cooked through.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes.",
+    "Shred the chicken into bite-sized pieces.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the shredded chicken onto a tortilla and topping with cheese, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "adobo",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-silky-filipino-chicken-adobo--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:24:48.462Z"
+}
