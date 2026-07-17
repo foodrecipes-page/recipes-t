@@ -9873,15 +9873,14 @@
   },
   {
     "slug": "tender-springy-malaysian-delight-tagine",
-    "title": "Tender Springy Malaysian Delight Tagine",
+    "title": "Grilled Tagine Chicken with Malaysian Delight Sauce",
     "tags": [
-      "charcoal-grilled",
-      "easy-weeknight",
-      "malaysian",
-      "spring"
+      "chicken",
+      "grilled",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12752,6 +12751,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-toasted-mexican-tortilla-churros--keto",
+    "title": "Keto Mexican Churros",
+    "tags": [
+      "keto",
+      "mexican",
+      "snack",
+      "churros"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "t"
   }
 ]
