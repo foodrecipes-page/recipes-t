@@ -1,0 +1,88 @@
+{
+  "slug": "tender-ukrainian-oyster-mushroom-toast--japanese",
+  "title": "Mushroom Tempura with Oyster Dipping Sauce",
+  "description": "A Japanese-inspired dish featuring crispy tempura mushroom served with a tangy oyster dipping sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "2 cups",
+      "notes": "any variety"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "ice water",
+      "amount": "1 cup",
+      "notes": "cold"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "oyster",
+      "amount": "1/4 cup",
+      "notes": "oyster sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour and ice water to make a tempura batter.",
+    "Dip each mushroom piece into the batter, coating evenly.",
+    "Heat vegetable oil in a deep frying pan to 375°F (190°C).",
+    "Fry the battered mushrooms in batches until golden brown, about 2-3 minutes.",
+    "Drain the tempura mushrooms on paper towels.",
+    "In a small bowl, whisk together oyster sauce, soy sauce, and sake (if using).",
+    "Serve the tempura mushrooms with the oyster dipping sauce and garnish with green onions.",
+    "Serve with toast on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "mushroom",
+    "tempura"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ukrainian-oyster-mushroom-toast--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:23:01.373Z"
+}
