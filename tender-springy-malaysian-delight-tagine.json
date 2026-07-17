@@ -1,0 +1,77 @@
+{
+  "slug": "tender-springy-malaysian-delight-tagine",
+  "title": "Grilled Tagine Chicken with Malaysian Delight Sauce",
+  "description": "A flavorful and aromatic grilled chicken dish inspired by Malaysian cuisine, served with a tangy delight sauce. Perfect for a quick dinner or lunch.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Chicken Breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spring Onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Malaysian Delight Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Malaysian Delight Sauce, Tagine Spice Blend, and Lime Juice.",
+    "Brush chicken breasts with Olive Oil and season with salt and pepper.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, grill Spring Onion for 2-3 minutes per side, or until slightly charred.",
+    "Serve grilled chicken with Malaysian Delight Sauce, grilled Spring Onion, and a drizzle of Honey.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-springy-malaysian-delight-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:41:46.223Z"
+}
