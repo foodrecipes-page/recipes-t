@@ -1,0 +1,84 @@
+{
+  "slug": "tender-cozy-norwegian-cream-cheese-stir-fry--french",
+  "title": "French Comfort Cozy",
+  "description": "A hearty Norwegian-inspired French dish, perfect for a cold night. This tender and creamy comfort food will leave you feeling cozy.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "tender beef strips",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "Norwegian Gruyère or Cheddar"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, melt butter over medium-high heat.",
+    "2. Add beef strips and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "3. In the same skillet, cook onion and garlic until softened, about 3-4 minutes.",
+    "4. Sprinkle flour over the onion mixture and cook for 1 minute.",
+    "5. Gradually add beef broth, whisking continuously, and bring to a boil.",
+    "6. Return beef to the skillet and simmer until heated through.",
+    "7. Stir in heavy cream and grated cheese until melted and smooth.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped fresh herbs if desired.",
+    "10. Enjoy your French Comfort Cozy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "comfort-food",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-cozy-norwegian-cream-cheese-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:38:06.920Z"
+}
