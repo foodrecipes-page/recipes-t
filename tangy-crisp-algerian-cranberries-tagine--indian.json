@@ -1,0 +1,95 @@
+{
+  "slug": "tangy-crisp-algerian-cranberries-tagine--indian",
+  "title": "Spiced Cranberry Tagine",
+  "description": "A twist on traditional Indian cuisine, this spiced cranberry tagine combines the flavors of the Middle East with a sweet and tangy cranberry twist.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian olives",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cranberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy apple cider vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crisp fresh ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add ginger, cook for 1 minute.",
+    "Add cranberries, olives, and spice mix. Cook for 2 minutes.",
+    "Add vinegar and bring to a simmer.",
+    "Transfer to a preheated oven and bake at 300°F for 30 minutes.",
+    "Stir in cinnamon and salt. Serve hot over rice or with naan bread.",
+    "Let tagine rest for 10 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "tagine",
+    "cranberry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-algerian-cranberries-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:17:53.438Z"
+}
