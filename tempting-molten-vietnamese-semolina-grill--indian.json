@@ -1,0 +1,75 @@
+{
+  "slug": "tempting-molten-vietnamese-semolina-grill--indian",
+  "title": "Grilled Semolina Cakes with Tempting Chutney",
+  "description": "A delicious and crunchy Indian-inspired snack made with semolina flour and grilled to perfection, served with a sweet and tangy chutney.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup",
+      "notes": "fine semolina flour"
+    },
+    {
+      "name": "grilled",
+      "amount": "1/2 cup",
+      "notes": "grilled and chopped"
+    },
+    {
+      "name": "tempting",
+      "amount": "1/2 cup",
+      "notes": "grilled and chopped"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tablespoons",
+      "notes": "molten sugar"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 tablespoon",
+      "notes": "vietnamese chili sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together the semolina flour, grilled, tempting, and salt.",
+    "2. Add the molten sugar and mix well.",
+    "3. Gradually add the vietnamese chili sauce and mix until a dough forms.",
+    "4. Divide the dough into 6 equal portions and shape each portion into a patty.",
+    "5. Heat a non-stick pan over medium heat and cook the patties for 2-3 minutes on each side, until golden brown.",
+    "6. Serve the grilled semolina cakes hot with the tempting chutney.",
+    "7. To make the tempting chutney, heat the molten sugar and vietnamese chili sauce in a pan over low heat for 2-3 minutes, until the sugar dissolves.",
+    "8. Add the grilled and chopped tempting to the pan and mix well.",
+    "9. Cook for another minute, until the chutney thickens.",
+    "10. Serve the chutney hot with the grilled semolina cakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "semolina",
+    "indian",
+    "snack",
+    "chutney",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-molten-vietnamese-semolina-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:00:05.726Z"
+}
