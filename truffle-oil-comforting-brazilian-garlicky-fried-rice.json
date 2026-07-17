@@ -1,0 +1,72 @@
+{
+  "slug": "truffle-oil-comforting-brazilian-garlicky-fried-rice",
+  "title": "Truffle Fried Rice",
+  "description": "A flavorful and comforting dish made with truffle oil, perfect for a quick dinner. The combination of truffle oil and garlicky flavor gives this fried rice a unique taste.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Truffle oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fried rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of truffle oil in a pan over medium heat.",
+    "Add minced garlic and sauté until fragrant.",
+    "Add cooked fried rice and stir-fry for 2-3 minutes.",
+    "Add cooked rice to the pan and stir-fry for another 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the truffle fried rice to a serving dish and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-recipes",
+    "fried-rice",
+    "truffle-oil"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/truffle-oil-comforting-brazilian-garlicky-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T19:57:38.194Z"
+}
