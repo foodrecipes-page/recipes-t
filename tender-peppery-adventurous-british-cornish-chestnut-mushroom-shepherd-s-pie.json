@@ -1,0 +1,88 @@
+{
+  "slug": "tender-peppery-adventurous-british-cornish-chestnut-mushroom-shepherd-s-pie",
+  "title": "British Shepherd's Pie",
+  "description": "A classic comfort dish from England, made with ground meat, vegetables, and mashed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shepherd",
+      "amount": "500g",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "mushroom",
+      "amount": "250g",
+      "notes": "button mushrooms, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chestnut",
+      "amount": "150g",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "adventurous",
+      "amount": "1 tsp",
+      "notes": " Worcestershire sauce"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "british",
+      "amount": "",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook the ground lamb in a large pan over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the sliced mushrooms, chopped onion, and minced garlic to the pan and cook until the vegetables are softened.",
+    "Add the flour, black pepper, and Worcestershire sauce to the pan and cook for 1 minute.",
+    "Stir in the milk and beef broth, and bring the mixture to a simmer.",
+    "Transfer the mixture to a 20x20cm baking dish.",
+    "Mash the potatoes with butter and milk until smooth, then spread them over the top of the meat mixture.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the potatoes are golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "shepherds-pie"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-peppery-adventurous-british-cornish-chestnut-mushroom-shepherd-s-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:25:45.668Z"
+}
