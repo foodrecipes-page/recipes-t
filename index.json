@@ -8848,18 +8848,14 @@
   },
   {
     "slug": "tender-peppery-adventurous-british-cornish-chestnut-mushroom-shepherd-s-pie",
-    "title": "Tender Peppery Adventurous British (Cornish) Chestnut Mushroom Shepherd's Pie",
+    "title": "British Shepherd's Pie",
     "tags": [
       "british",
-      "cornish",
-      "gluten-free",
-      "hearty",
-      "mushroom",
-      "shepherd-s-pie",
-      "weeknight"
+      "comfort-food",
+      "shepherds-pie"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
