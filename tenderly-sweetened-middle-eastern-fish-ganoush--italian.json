@@ -1,0 +1,85 @@
+{
+  "slug": "tenderly-sweetened-middle-eastern-fish-ganoush--italian",
+  "title": "Baked Fish with Eastern Flair",
+  "description": "A Mediterranean twist on traditional Italian seafood, featuring tender fish baked with a sweet and spicy eastern-style ganoush sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet (middle eastern seasoning)",
+      "amount": "4",
+      "notes": "Any white fish, such as cod or tilapia"
+    },
+    {
+      "name": "Ganoush sauce (eastern sweetened)",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing the baking dish"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Bread crumbs (gluten-free)",
+      "amount": "1 cup",
+      "notes": "For topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking dish with parchment paper, greasing with olive oil.",
+    "Place the fish fillets in the baking dish, leaving space between each fillet.",
+    "Drizzle the ganoush sauce over the fish, and sprinkle with garlic powder if using.",
+    "Season with salt and pepper to taste.",
+    "Sprinkle the bread crumbs evenly over the top of each fillet.",
+    "Bake for 12-15 minutes, or until the fish is cooked through and the bread crumbs are golden brown.",
+    "Remove from the oven, and garnish with chopped parsley and a squeeze of lemon juice.",
+    "Serve immediately, with additional lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "seafood",
+    "mediterranean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-sweetened-middle-eastern-fish-ganoush--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T12:32:30.499Z"
+}
