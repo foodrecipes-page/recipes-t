@@ -11897,16 +11897,15 @@
   },
   {
     "slug": "tropical-peruvian-pepper-rocoto-relleno",
-    "title": "Tropical Peruvian Pepper Rocoto Relleno",
+    "title": "Rocoto Relleno",
     "tags": [
-      "festive",
-      "grill",
       "peruvian",
-      "tropical",
-      "vegetarian"
+      "stuffed-pepper",
+      "beef",
+      "cheese"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -12679,6 +12678,20 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 20,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-silky-filipino-chicken-adobo--mexican",
+    "title": "Mexican Chicken Adobo Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "adobo",
+      "filipino"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
     "shard": "t"
   }
 ]
