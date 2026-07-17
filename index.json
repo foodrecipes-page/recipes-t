@@ -3719,17 +3719,16 @@
   },
   {
     "slug": "tangy-snappy-australian-mung-bean-sprouts-satay",
-    "title": "Tangy Snappy Australian Mung Bean Sprouts Satay",
+    "title": "Australian Satay Bean Sprout Stir Fry",
     "tags": [
-      "australian-cuisine",
-      "easy-snack",
-      "high-protein",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "vegetarian",
+      "gluten-free",
+      "stir-fry",
+      "asian",
+      "quick-cook"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 18,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -12597,6 +12596,44 @@
     ],
     "cuisine": null,
     "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-korean-apple-stir-fry--vegetarian",
+    "title": "Stir Fry Korean Apple Delight",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "stir-fry"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-cozy-norwegian-cream-cheese-stir-fry--french",
+    "title": "French Comfort Cozy",
+    "tags": [
+      "french",
+      "comfort-food",
+      "beef"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-molten-vietnamese-semolina-grill--indian",
+    "title": "Grilled Semolina Cakes with Tempting Chutney",
+    "tags": [
+      "semolina",
+      "indian",
+      "snack",
+      "chutney",
+      "veggie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
