@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-snappy-australian-mung-bean-sprouts-satay",
+  "title": "Australian Satay Bean Sprout Stir Fry",
+  "description": "A quick and easy Asian-inspired stir fry featuring Australian bean sprouts and satay flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Satay sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tangy mung beans",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "Snappy carrots",
+      "amount": "1 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced carrots and cook for 3-4 minutes or until tender.",
+    "Add the Australian bean sprouts and cooked mung beans to the skillet.",
+    "Pour in the satay sauce and stir-fry for 2-3 minutes or until the ingredients are well coated.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "stir-fry",
+    "asian",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-snappy-australian-mung-bean-sprouts-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:25:09.919Z"
+}
