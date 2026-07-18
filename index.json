@@ -12841,5 +12841,17 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
     "shard": "t"
+  },
+  {
+    "slug": "tender-briny-egyptian-snapper-fish-stir-fry--italian",
+    "title": "Pan-Seared Snapper with Egyptian Flair",
+    "tags": [
+      "italian",
+      "seafood",
+      "mediterranean"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
