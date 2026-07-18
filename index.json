@@ -12851,5 +12851,32 @@
     "cuisine": "italian",
     "totalTimeMin": 30,
     "shard": "t"
+  },
+  {
+    "slug": "tender-australian-lamb-pilaf--german",
+    "title": "German-Style Lamb Pilaf",
+    "tags": [
+      "german",
+      "lamb",
+      "pilaf",
+      "main-course"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-chinese-lentil-bao--french",
+    "title": "French Lentil Stew",
+    "tags": [
+      "lentil",
+      "stew",
+      "beef",
+      "comfort-food",
+      "hearty"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 110,
+    "shard": "t"
   }
 ]
