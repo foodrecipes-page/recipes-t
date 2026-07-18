@@ -1,0 +1,75 @@
+{
+  "slug": "tranquil-malted-polish-barley-pilaf",
+  "title": "Polish Pilaf with Barley",
+  "description": "A traditional Polish-inspired pilaf dish made with barley and a hint of malted flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Polish",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Malted",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tranquil Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat.",
+    "Add Polish and cook for 1 minute.",
+    "Add barley and cook for 1 minute, stirring constantly.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover and simmer for 20 minutes.",
+    "Stir in malted and tranquil pilaf.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish",
+    "barley",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tranquil-malted-polish-barley-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:52:11.547Z"
+}
