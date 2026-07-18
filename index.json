@@ -9526,17 +9526,15 @@
   },
   {
     "slug": "tender-smoky-malaysian-chicken-satay",
-    "title": "Tender Smoky Malaysian Chicken Satay",
+    "title": "Malaysian-Style Satay Chicken",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "malaysian-cuisine",
-      "peanut-sauce",
-      "smoky-flavor",
-      "sugar-free"
+      "malaysian",
+      "chicken",
+      "grilled",
+      "peanut-sauce"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
