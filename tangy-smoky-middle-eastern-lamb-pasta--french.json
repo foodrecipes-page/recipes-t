@@ -1,0 +1,93 @@
+{
+  "slug": "tangy-smoky-middle-eastern-lamb-pasta--french",
+  "title": "Smoky Lamb Pasta Bake",
+  "description": "A French-inspired pasta dish loaded with smoky lamb and a tangy sauce.",
+  "cuisine": "French",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "12 oz",
+      "notes": "Middle eastern style, such as pappardelle"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 lb",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade tomato sauce with a twist of lemon"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": "Optional for extra smokiness"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "Optional for topping"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large pan, heat olive oil over medium heat. Add minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add ground lamb and cook, breaking it up with a spoon, until browned, about 5-6 minutes.",
+    "Stir in smoky paprika and cook for 1 minute.",
+    "Add cooked pasta to the pan and stir to combine with lamb mixture.",
+    "Transfer the pasta mixture to a baking dish and top with tangy sauce and crumbled feta cheese (if using).",
+    "Bake in the preheated oven for 20-25 minutes, until thetop is golden brown and the sauce is bubbly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "pasta",
+    "bake",
+    "smoky",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoky-middle-eastern-lamb-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:39:16.489Z"
+}
