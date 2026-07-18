@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-sweet-saudi-arabian-nectarine-skewers--japanese",
+  "title": "Grilled Nectarine Yakitori",
+  "description": "A Japanese-inspired grilled chicken dish featuring sweet and tangy nectarine skewers. This recipe combines the flavors of Japan with the freshness of nectarine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "nectarine",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sweet soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "saudi sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "arabian allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together tangy sauce, sweet soy sauce, saudi sesame oil, and arabian allspice.",
+    "Cut chicken breast into 1-inch pieces and thread onto skewers, leaving a small space between each piece.",
+    "Brush nectarine slices with the tangy sauce mixture and thread onto skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until chicken is cooked through and nectarine is tender.",
+    "Serve immediately, garnished with additional nectarine slices and tangy sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "nectarine",
+    "japanese",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-sweet-saudi-arabian-nectarine-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:23:01.084Z"
+}
