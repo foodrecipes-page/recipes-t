@@ -2337,17 +2337,15 @@
   },
   {
     "slug": "tangy-gooey-spanish-grana-padano-pisto-manchego",
-    "title": "Tangy Gooey Spanish Grana Padano Pisto Manchego",
+    "title": "Spanish Tortilla with Pisto",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mediterranean",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "spanish",
+      "tortilla",
+      "breakfast",
+      "lunch"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
