@@ -12765,5 +12765,31 @@
     "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-smoky-ethiopian-smoked-mackerel-dulet--german",
+    "title": "Smoked Mackerel Dulet",
+    "tags": [
+      "german",
+      "pescatarian",
+      "snack",
+      "smoked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 10,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-smoky-greek-lamb-kebabs--thai",
+    "title": "Thai Smoked Lamb Kebabs",
+    "tags": [
+      "thaicuisine",
+      "kebabs",
+      "lamb",
+      "smokedpaprika"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
