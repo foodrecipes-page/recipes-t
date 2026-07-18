@@ -1,0 +1,66 @@
+{
+  "slug": "tender-peruvian-smoked-mackerel-rocoto-relleno--keto",
+  "title": "Smoked Mackerel Ceviche with Rocoto",
+  "description": "A refreshing Peruvian-inspired dish that combines the rich flavors of smoked mackerel with the spicy kick of rocoto peppers, all within the keto diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "4 oz"
+    },
+    {
+      "name": "Rocoto Peppers",
+      "amount": "2",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Peruvian Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tender Onions",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, combine smoked mackerel, rocoto peppers, Peruvian lime juice, and salt. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in chopped onions and cilantro.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "ceviche",
+    "keto",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-peruvian-smoked-mackerel-rocoto-relleno--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:57:53.554Z"
+}
