@@ -1,0 +1,75 @@
+{
+  "slug": "tasty-australian-narutomaki-bowl--italian",
+  "title": "Australian Italian-Style Narutomaki Bowl",
+  "description": "A fusion dish blending Australian flavors with Italian cooking techniques, featuring the Japanese narutomaki noodle.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "1 cup",
+      "notes": " cherry tomatoes halved"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "1. Cook the narutomaki noodles according to package instructions.",
+    "2. In a large bowl, combine cooked noodles, Australian bush tomatoes, basil, and Italian seasonings.",
+    "3. Drizzle with olive oil and season with salt and pepper to taste.",
+    "4. Top with shaved parmesan cheese.",
+    "5. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "australian",
+    "vegetarian",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-australian-narutomaki-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:32:32.519Z"
+}
