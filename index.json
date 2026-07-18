@@ -12828,5 +12828,18 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tender-peruvian-smoked-mackerel-rocoto-relleno--keto",
+    "title": "Smoked Mackerel Ceviche with Rocoto",
+    "tags": [
+      "peruvian",
+      "ceviche",
+      "keto",
+      "fish"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
