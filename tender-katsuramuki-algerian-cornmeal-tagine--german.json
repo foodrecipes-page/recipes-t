@@ -1,0 +1,77 @@
+{
+  "slug": "tender-katsuramuki-algerian-cornmeal-tagine--german",
+  "title": "German Corn Fritters with Algerian Chutney",
+  "description": "A twist on traditional German corn fritters, served with a sweet and spicy Algerian chutney.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "katsuramuki",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "algerian",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "tender",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together cornmeal, katsuramuki, algerian, and salt.",
+    "In a separate bowl, whisk together egg and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the oil.",
+    "Cook for about 3-4 minutes on each side, or until golden brown.",
+    "Drain on paper towels and serve warm.",
+    "To make the Algerian chutney, combine diced algerian, 1/4 cup chopped onion, and 1/4 cup chopped cilantro in a bowl.",
+    "Stir in 2 tablespoons honey and 1 tablespoon lemon juice.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "corn",
+    "fritters",
+    "chutney"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-katsuramuki-algerian-cornmeal-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:59:44.822Z"
+}
