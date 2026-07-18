@@ -1,0 +1,80 @@
+{
+  "slug": "tranquil-malted-polish-barley-pilaf--italian",
+  "title": "Italian Pilaf with Barley",
+  "description": "A hearty Italian-inspired pilaf dish featuring barley as the main ingredient, flavored with tranquil and malted notes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish barley",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Malted oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tranquil thyme",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the malted oil in a large skillet over medium heat.",
+    "Add the tranquil thyme and cook for 1-2 minutes until fragrant.",
+    "Add the cooked pilaf and stir to combine with the thyme and oil.",
+    "Add the barley and stir to combine with the pilaf mixture.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 5 minutes until the barley is heated through.",
+    "Stir in the chopped basil.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pilaf",
+    "barley",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tranquil-malted-polish-barley-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T05:50:16.713Z"
+}
