@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-smoky-ethiopian-smoked-mackerel-dulet--german",
+  "title": "Smoked Mackerel Dulet",
+  "description": "A German twist on traditional Ethiopian dulet, featuring smoked mackerel and a tangy flavor profile.",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Smoked Mackerel",
+      "amount": "1 can",
+      "notes": "drained and flaked"
+    },
+    {
+      "name": "Ethiopian Spices (berbere)",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tangy Mustard",
+      "amount": "1 tablespoon",
+      "notes": "such as whole-grain or honey mustard"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a medium-sized bowl, mix together the flaked smoked mackerel, Ethiopian spices, tangy mustard, smoked paprika, lemon juice, salt, and black pepper until well combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with chopped fresh cilantro.",
+    "Serve chilled or at room temperature, accompanied by crackers or toasted bread for a satisfying snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "pescatarian",
+    "snack",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoky-ethiopian-smoked-mackerel-dulet--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:23:18.052Z"
+}
