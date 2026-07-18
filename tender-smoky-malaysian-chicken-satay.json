@@ -1,0 +1,97 @@
+{
+  "slug": "tender-smoky-malaysian-chicken-satay",
+  "title": "Malaysian-Style Satay Chicken",
+  "description": "A classic Southeast Asian dish, this recipe features marinated chicken grilled to perfection and served with a side of peanut sauce. Perfect for a quick and flavorful dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "pork-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kalamansi",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, coriander, cumin, paprika, and salt. Blend until smooth.",
+    "Add the blended mixture to a large bowl and add the chicken breast. Mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Remove the chicken from the marinade, letting any excess liquid drip off.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, heat the peanut oil in a small saucepan over medium heat.",
+    "Add the peanuts and cook, stirring frequently, until fragrant and lightly toasted.",
+    "Remove the saucepan from the heat and stir in the lime juice.",
+    "Serve the grilled chicken with the peanut sauce and garnish with kalamansi, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "chicken",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T06:08:57.719Z"
+}
