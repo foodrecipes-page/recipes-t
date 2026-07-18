@@ -12887,5 +12887,47 @@
     "cuisine": "indian",
     "totalTimeMin": 15,
     "shard": "t"
+  },
+  {
+    "slug": "tender-saudi-arabian-vegetable-wrap--german",
+    "title": "Saudi Arabian Chicken Wrap",
+    "tags": [
+      "german",
+      "saudi arabian",
+      "chicken",
+      "wrap",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 33,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-australian-narutomaki-bowl--italian",
+    "title": "Australian Italian-Style Narutomaki Bowl",
+    "tags": [
+      "italian",
+      "australian",
+      "vegetarian",
+      "pasta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-smoky-middle-eastern-lamb-pasta--french",
+    "title": "Smoky Lamb Pasta Bake",
+    "tags": [
+      "french",
+      "lamb",
+      "pasta",
+      "bake",
+      "smoky",
+      "tangy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "t"
   }
 ]
