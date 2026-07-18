@@ -1,0 +1,73 @@
+{
+  "slug": "tender-chinese-lentil-bao--french",
+  "title": "French Lentil Stew",
+  "description": "A hearty, comforting stew made with red lentils, tender beef, and a variety of aromatics.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup dried red lentils"
+    },
+    {
+      "name": "tender",
+      "amount": "1 pound beef stew meat"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 large carrots, peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks celery, chopped"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices of bacon, diced"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "In a large Dutch oven, cook the bacon over medium heat until browned. Remove the bacon with a slotted spoon.",
+    "Add the garlic, onion, carrot, and celery to the pot and cook until the vegetables are tender.",
+    "Add the beef to the pot and cook until browned on all sides.",
+    "Add the lentils, diced bacon, and enough broth to cover the ingredients. Bring to a boil, then cover and transfer to the preheated oven.",
+    "Bake for 1 hour and 30 minutes, or until the lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "beef",
+    "comfort-food",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-chinese-lentil-bao--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:05:50.601Z"
+}
