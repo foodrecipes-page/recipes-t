@@ -1,0 +1,85 @@
+{
+  "slug": "tender-tasty-ukrainian-monkfish-skewers",
+  "title": "Monkfish Skewers with Ukrainian Twist",
+  "description": "A flavorful and exotic dish featuring monkfish, traditionally marinated in a Ukrainian-inspired mixture, then grilled to perfection on skewers.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish Fillets",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Tender Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Tasty Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the monkfish into 1-inch pieces and place in a large bowl.",
+    "2. In a blender or food processor, combine lemongrass, garlic, black pepper, lime juice, and olive oil. Blend until smooth.",
+    "3. Pour the marinade over the monkfish and mix well to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "5. Preheat grill to medium-high heat.",
+    "6. Thread the marinated monkfish onto the skewers, leaving a small space between each piece.",
+    "7. Brush the grill with oil to prevent sticking.",
+    "8. Grill the skewers for 8-10 minutes, turning occasionally, or until the fish is cooked through.",
+    "9. Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "grilled",
+    "seafood",
+    "monkfish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tasty-ukrainian-monkfish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:13:03.936Z"
+}
