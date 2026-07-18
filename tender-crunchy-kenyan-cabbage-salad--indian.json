@@ -1,0 +1,79 @@
+{
+  "slug": "tender-crunchy-kenyan-cabbage-salad--indian",
+  "title": "Kenyan Cabbage Salad (Indian-Style)",
+  "description": "A refreshing and crunchy salad featuring Kenyan cabbage, tender ingredients, and a hint of Indian spices. Perfect for a light lunch or dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "Tender salad greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Salad dressing (Indian-style)",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Toasted cumin seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the Kenyan cabbage and tender salad greens, and chop them into bite-sized pieces.",
+    "2. Slice the crunchy cucumber into thin rounds.",
+    "3. In a large bowl, combine the chopped cabbage, salad greens, and cucumber slices.",
+    "4. In a small bowl, whisk together the salad dressing, toasted cumin seeds, and salt.",
+    "5. Pour the dressing over the cabbage mixture and toss to coat.",
+    "6. Garnish with chopped fresh cilantro, if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "indian",
+    "vegan",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crunchy-kenyan-cabbage-salad--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:08:16.918Z"
+}
