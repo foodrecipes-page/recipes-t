@@ -12789,5 +12789,46 @@
     "cuisine": "Thai",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tender-katsuramuki-algerian-cornmeal-tagine--german",
+    "title": "German Corn Fritters with Algerian Chutney",
+    "tags": [
+      "german",
+      "corn",
+      "fritters",
+      "chutney"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-sweet-saudi-arabian-nectarine-skewers--japanese",
+    "title": "Grilled Nectarine Yakitori",
+    "tags": [
+      "grilled",
+      "chicken",
+      "nectarine",
+      "japanese",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tranquil-malted-polish-barley-pilaf--italian",
+    "title": "Italian Pilaf with Barley",
+    "tags": [
+      "italian",
+      "pilaf",
+      "barley",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
