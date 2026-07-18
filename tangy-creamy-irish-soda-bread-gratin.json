@@ -1,0 +1,70 @@
+{
+  "slug": "tangy-creamy-irish-soda-bread-gratin",
+  "title": "Irish Soda Bread Gratin",
+  "description": "A twist on traditional Irish soda bread, this gratin combines the comforting flavors of Ireland with a creamy, tangy topping.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Irish Soda Bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Tangy Cream",
+      "amount": "1 cup",
+      "notes": "mix of sour cream and buttermilk"
+    },
+    {
+      "name": "Grated Cheddar",
+      "amount": "1/2 cup",
+      "notes": "sharp or extra-sharp work best"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Irish soda bread into 1-inch cubes.",
+    "In a separate bowl, mix together the tangy cream and grated cheddar cheese.",
+    "In a greased 9x13-inch baking dish, arrange half of the bread cubes.",
+    "Pour the tangy cream mixture evenly over the bread.",
+    "Top with the remaining bread cubes.",
+    "Dot the top with melted butter.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the bread is toasted.",
+    "Remove from the oven and sprinkle with chopped chives, if using.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "soda-bread",
+    "gratin",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-irish-soda-bread-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:50:03.508Z"
+}
