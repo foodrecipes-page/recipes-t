@@ -1,0 +1,63 @@
+{
+  "slug": "tangy-juicy-turkish-rice-paper-rolls",
+  "title": "Turkish Rice Rolls",
+  "description": "A simple and flavorful dish with tangy and juicy Turkish-inspired flavors. It's perfect for a quick snack or lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Turkish rolls",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Juicy tomato paste",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Prepare rice according to package instructions.",
+    "Cut Turkish rolls in half lengthwise.",
+    "Mix tangy sauce and juicy tomato paste in a small bowl.",
+    "Spread sauce mixture on the bottom half of each roll.",
+    "Add a scoop of cooked rice on top of the sauce.",
+    "Fold the top half of the roll to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "rice",
+    "snack",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-turkish-rice-paper-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:01:47.289Z"
+}
