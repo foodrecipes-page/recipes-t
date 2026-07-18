@@ -1,0 +1,59 @@
+{
+  "slug": "tangy-silky-adventurous-algerian-bean-stir-fry",
+  "title": "Pan-Seared Bean Fritters",
+  "description": "Crispy bean fritters with a hint of tanginess, perfect for a quick snack or appetizer.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Algerian bean",
+      "amount": "200g",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "Tangy stir",
+      "amount": "2 tbsp",
+      "notes": "sauce or seasoning"
+    },
+    {
+      "name": "Silky fry",
+      "amount": "2 tbsp",
+      "notes": "oil for frying"
+    }
+  ],
+  "instructions": [
+    "Heat the fry in a large pan over medium-high heat.",
+    "Add the Algerian bean and cook for 3-4 minutes, until lightly browned.",
+    "In a bowl, mix the tangy stir with 1 tablespoon of water.",
+    "Add the tangy stir mixture to the pan and stir to combine.",
+    "Using a spoon, shape the bean mixture into small patties.",
+    "Fry the patties in the hot fry until crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "appetizer",
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-silky-adventurous-algerian-bean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:50:10.957Z"
+}
