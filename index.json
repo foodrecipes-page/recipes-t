@@ -2801,17 +2801,15 @@
   },
   {
     "slug": "tangy-juicy-turkish-rice-paper-rolls",
-    "title": "Tangy Juicy Turkish Rice Paper Rolls",
+    "title": "Turkish Rice Rolls",
     "tags": [
-      "easy-to-make",
-      "healthy-snack",
-      "party-appetizer",
-      "rice-paper-rolls",
-      "satvik",
-      "turkish"
+      "turkish",
+      "rice",
+      "snack",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
@@ -10133,18 +10131,15 @@
   },
   {
     "slug": "tender-tasty-ukrainian-monkfish-skewers",
-    "title": "Tender Tasty Ukrainian Monkfish Skewers",
+    "title": "Monkfish Skewers with Ukrainian Twist",
     "tags": [
-      "anti-inflammatory",
-      "festive",
-      "gluten-free",
+      "ukrainian",
       "grilled",
-      "low-carb",
       "seafood",
-      "ukrainian-cuisine"
+      "monkfish"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
