@@ -646,15 +646,15 @@
   },
   {
     "slug": "tangy-creamy-irish-soda-bread-gratin",
-    "title": "Tangy Creamy Irish Soda Bread Gratin",
+    "title": "Irish Soda Bread Gratin",
     "tags": [
-      "macrobiotic-friendly",
-      "one-pan",
-      "vegetarian",
-      "weekend-brunch"
+      "irish",
+      "soda-bread",
+      "gratin",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -11666,17 +11666,15 @@
   },
   {
     "slug": "tranquil-malted-polish-barley-pilaf",
-    "title": "Tranquil Malted Polish Barley Pilaf",
+    "title": "Polish Pilaf with Barley",
     "tags": [
-      "comfort-food",
-      "easy-meal",
-      "gluten-free",
-      "low-glycemic",
-      "mason-jar",
-      "polish-cuisine"
+      "polish",
+      "barley",
+      "pilaf",
+      "vegetarian"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
