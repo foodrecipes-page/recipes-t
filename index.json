@@ -3448,16 +3448,16 @@
   },
   {
     "slug": "tangy-silky-adventurous-algerian-bean-stir-fry",
-    "title": "Tangy Silky Adventurous Algerian Bean Stir-fry",
+    "title": "Pan-Seared Bean Fritters",
     "tags": [
-      "tangy",
-      "silky",
-      "adventurous",
-      "algerian",
-      "vegetarian-friendly"
+      "snack",
+      "appetizer",
+      "north-african",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -12877,6 +12877,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 110,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-crunchy-kenyan-cabbage-salad--indian",
+    "title": "Kenyan Cabbage Salad (Indian-Style)",
+    "tags": [
+      "salad",
+      "indian",
+      "vegan",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "t"
   }
 ]
