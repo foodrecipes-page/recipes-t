@@ -1,0 +1,95 @@
+{
+  "slug": "tender-smoky-greek-lamb-kebabs--thai",
+  "title": "Thai Smoked Lamb Kebabs",
+  "description": "A flavorful twist on traditional kebabs, marrying the bold spices of Thai cuisine with the rich, smoky taste of lamb.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": "Make sure to cut the lamb into uniform pieces for even cooking."
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tbsp",
+      "notes": "Smoked paprika adds a deep, smoky flavor to the dish."
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "This paste provides the bold, aromatic flavor of Thai cuisine."
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": "Fish sauce adds a salty, umami flavor to the dish."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tbsp",
+      "notes": "A small amount of brown sugar helps balance the sweetness and heat of the curry paste."
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh lime juice adds a bright, citrusy flavor to the dish."
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Fresh cilantro adds a fresh, herbaceous flavor to the dish."
+    },
+    {
+      "name": "Thai basil",
+      "amount": "2 sprigs",
+      "notes": "Thai basil adds a unique, slightly spicy flavor to the dish."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Coconut oil helps add moisture and richness to the dish."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season the lamb with salt and pepper to bring out its natural flavors."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, mix together the smoked paprika, Thai red curry paste, fish sauce, brown sugar, and lime juice.",
+    "Add the lamb cubes to the bowl and toss to coat with the spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Brush the coconut oil onto the lamb and season with salt and pepper.",
+    "Grill the lamb kebabs for 8-10 minutes per side, or until they reach an internal temperature of 145°F (63°C).",
+    "Remove the kebabs from the grill and let them rest for 5 minutes.",
+    "Garnish with chopped cilantro, Thai basil, and a squeeze of lime juice.",
+    "Serve the lamb kebabs hot with your favorite sides, such as steamed rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "kebabs",
+    "lamb",
+    "smokedpaprika"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "42g",
+    "carbs": "20g",
+    "fat": "38g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-smoky-greek-lamb-kebabs--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:46:19.837Z"
+}
