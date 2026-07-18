@@ -1,0 +1,92 @@
+{
+  "slug": "tender-briny-egyptian-snapper-fish-stir-fry--italian",
+  "title": "Pan-Seared Snapper with Egyptian Flair",
+  "description": "A Mediterranean-inspired dish featuring pan-seared snapper, crispy vegetables, and a tangy Egyptian sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fillets",
+      "amount": "4 (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Eggplant",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tender Capers",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Briny Feta Cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the snapper fillets with Italian seasoning.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat. Add the snapper fillets and sear for 3-4 minutes per side, or until cooked through. Transfer to a baking sheet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil. Add the sliced eggplant, zucchini, and red onion. Cook for 3-4 minutes, or until the vegetables are tender and lightly browned.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the chopped capers, crumbled feta cheese, and lemon juice. Cook for 1-2 minutes, until the sauce has thickened slightly.",
+    "To serve, place the snapper fillets on a plate and top with the Egyptian sauce and sautéed vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-briny-egyptian-snapper-fish-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:18:45.032Z"
+}
