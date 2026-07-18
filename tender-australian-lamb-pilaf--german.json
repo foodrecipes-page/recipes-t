@@ -1,0 +1,80 @@
+{
+  "slug": "tender-australian-lamb-pilaf--german",
+  "title": "German-Style Lamb Pilaf",
+  "description": "A hearty and flavorful dish that combines tender lamb with a traditional German pilaf.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian lamb",
+      "amount": "1 pound boneless leg of lamb, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb with salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the pilaf to the pot and cook for 1-2 minutes, stirring constantly.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Return the lamb to the pot and transfer to the preheated oven.",
+    "Bake for 20-25 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "Serve the lamb and pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lamb",
+    "pilaf",
+    "main-course"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-australian-lamb-pilaf--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:00:09.477Z"
+}
