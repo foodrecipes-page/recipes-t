@@ -975,17 +975,15 @@
   },
   {
     "slug": "tangy-crispy-peruvian-lamb-secco-de-cordero",
-    "title": "Tangy Crispy Peruvian Lamb Secco de Cordero",
+    "title": "Crispy Secco-Crusted Cordero",
     "tags": [
-      "high-protein",
       "lamb",
-      "one-pan",
-      "paleo",
       "peruvian",
-      "weeknight"
+      "crispy",
+      "tangy"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 90,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 140,
     "shard": "t"
   },
   {
@@ -12990,6 +12988,30 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 180,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-irish-semolina-rimacinata-hash--gluten-free",
+    "title": "Tender Irish Semolina Hash",
+    "tags": [
+      "breakfast",
+      "irish",
+      "gluten-free"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "toasty-toasted-chicken--keto",
+    "title": "Keto Chicken Breast with Toasty Crust",
+    "tags": [
+      "keto",
+      "low-carb",
+      "chicken"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "t"
   }
 ]
