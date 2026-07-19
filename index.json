@@ -10414,16 +10414,15 @@
   },
   {
     "slug": "tender-tunisian-turkey-neck-tagine",
-    "title": "Tender Tunisian Turkey Neck Tagine",
+    "title": "Tunisian Turkey Tagine with Neck",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "low-carb",
       "north-african",
-      "one-pot"
+      "stew",
+      "turkey",
+      "tunisian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 135,
     "shard": "t"
   },
   {
@@ -13049,6 +13048,33 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-turkish-style-croatian-turkey-skillet--indian",
+    "title": "Indian-Style Turkey Skillet",
+    "tags": [
+      "indian",
+      "turkey",
+      "skillet",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crunchy-japanese-date-pilaf--mexican",
+    "title": "Tangy Japanese-Style Pilaf Bowl",
+    "tags": [
+      "mexican",
+      "japanese",
+      "pilaf",
+      "slaw",
+      "tangy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
