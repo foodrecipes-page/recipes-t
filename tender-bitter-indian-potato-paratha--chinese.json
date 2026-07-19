@@ -1,0 +1,62 @@
+{
+  "slug": "tender-bitter-indian-potato-paratha--chinese",
+  "title": "Bitter Gourd and Potato Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry made with bitter gourd, potato, and tender paratha.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bitter gourd",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "tender paratha",
+      "amount": "2 pieces",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the bitter gourd and stir-fry until slightly tender, about 3-4 minutes.",
+    "Add the potato and stir-fry for another 2-3 minutes, until slightly tender.",
+    "Add the tender paratha pieces and stir-fry for another minute.",
+    "Season with salt to taste and serve hot.",
+    "Garnish with chopped scallions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "stir-fry",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-bitter-indian-potato-paratha--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:25:48.853Z"
+}
