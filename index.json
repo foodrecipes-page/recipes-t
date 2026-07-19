@@ -3124,17 +3124,15 @@
   },
   {
     "slug": "tangy-mediterranean-rhubarb-tagine",
-    "title": "Tangy Mediterranean Rhubarb Tagine",
+    "title": "Tangy Mediterranean Chicken with Roasted Rhubarb",
     "tags": [
-      "healthy",
-      "mediterranean",
-      "one-pot",
-      "post-workout",
-      "vegan",
-      "vegetarian"
+      "chicken",
+      "roasted",
+      "rhubarb",
+      "mediterranean"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
@@ -4649,16 +4647,15 @@
   },
   {
     "slug": "tasty-brazilian-shrimp-bao",
-    "title": "Tasty Brazilian Shrimp Bao",
+    "title": "Shrimp Bao Bites",
     "tags": [
-      "bao",
-      "brazilian",
-      "one-pan",
       "shrimp",
-      "weeknight"
+      "baobites",
+      "brazilianfood",
+      "asianfusion"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 25,
+    "cuisine": "Brazilian-Asian Fusion",
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
