@@ -1,0 +1,72 @@
+{
+  "slug": "tender-steamed-indian-mushrooms-bake--french",
+  "title": "Steamed Mushrooms with Garlic and Herbs",
+  "description": "A simple and flavorful French dish made with tender mushrooms, garlic, and herbs, steamed to perfection.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "250g",
+      "notes": "Tender and fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the mushrooms under cold water and pat them dry with a paper towel.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chopped thyme and cook for another minute.",
+    "Place the mushrooms in a steamer basket and steam them over boiling water for 3-4 minutes.",
+    "Season the mushrooms with salt and black pepper to taste.",
+    "Serve the steamed mushrooms hot, topped with the garlic and herb butter."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "mushrooms",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-steamed-indian-mushrooms-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:14:46.606Z"
+}
