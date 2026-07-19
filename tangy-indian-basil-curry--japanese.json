@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-indian-basil-curry--japanese",
+  "title": "Basil Chicken Curry",
+  "description": "A Japanese-inspired twist on traditional Indian curry, featuring tender chicken and fragrant basil.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 lbs"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tangy yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "basil leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion, garlic, and ginger; cook until onion is translucent.",
+    "Add chicken; cook until browned.",
+    "Add curry paste; cook for 1 minute.",
+    "Add yogurt; stir to combine.",
+    "Reduce heat to medium-low; simmer for 10 minutes.",
+    "Stir in basil leaves.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "indian",
+    "chicken",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indian-basil-curry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:59:40.154Z"
+}
