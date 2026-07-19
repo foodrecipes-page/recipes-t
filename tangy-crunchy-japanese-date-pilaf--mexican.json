@@ -1,0 +1,90 @@
+{
+  "slug": "tangy-crunchy-japanese-date-pilaf--mexican",
+  "title": "Tangy Japanese-Style Pilaf Bowl",
+  "description": "A delicious and refreshing Mexican-inspired pilaf bowl with a tangy Japanese twist. Perfect for a light lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy slaw mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy tortilla strips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Date syrup",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook Japanese rice according to package instructions.",
+    "In a separate pan, heat sesame oil over medium heat.",
+    "Add grated ginger and cook for 1 minute.",
+    "Add pilaf and cook until lightly toasted.",
+    "In a large bowl, combine cooked rice, pilaf mixture, tangy slaw mix, and crunchy tortilla strips.",
+    "Drizzle date syrup and lime juice over the top.",
+    "Season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "japanese",
+    "pilaf",
+    "slaw",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-japanese-date-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:11:33.948Z"
+}
