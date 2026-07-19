@@ -1,0 +1,74 @@
+{
+  "slug": "tangy-tender-irish-semolina-rimacinata-hash--gluten-free",
+  "title": "Tender Irish Semolina Hash",
+  "description": "A gluten-free twist on a classic breakfast dish. This tender Irish semolina hash is perfect for a hearty breakfast.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tender",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Rimacinata",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tangy",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium heat.",
+    "2. Add the Irish semolina and cook for 2-3 minutes.",
+    "3. Add the hash and tender, cook for a further 2-3 minutes.",
+    "4. In a separate bowl, whisk the egg and rimacinata.",
+    "5. Pour the egg mixture over the semolina mixture in the pan.",
+    "6. Cook until the egg is almost set.",
+    "7. Add the tangy and season with salt and black pepper to taste.",
+    "8. Serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "irish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-irish-semolina-rimacinata-hash--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:19:51.703Z"
+}
