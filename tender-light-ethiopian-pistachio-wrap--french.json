@@ -1,0 +1,75 @@
+{
+  "slug": "tender-light-ethiopian-pistachio-wrap--french",
+  "title": "French Pistachio Wrap",
+  "description": "A light and crispy French-inspired wrap filled with tender chicken and a sprinkle of pistachio for added flavor.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pistachio",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with salt and black pepper.",
+    "Place the chicken breast on a baking sheet lined with parchment paper.",
+    "Drizzle the top of the chicken with butter.",
+    "Bake in the preheated oven for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is baking, toast the wrap in the oven for 2-3 minutes, or until lightly crispy.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing into thin strips.",
+    "Assemble the wrap by spreading a layer of pistachio on the bottom of the wrap, followed by the sliced chicken.",
+    "Fold the wrap in half to enclose the filling.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pistachio",
+    "french",
+    "wrap",
+    "lunch",
+    "light"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-light-ethiopian-pistachio-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:38:15.554Z"
+}
