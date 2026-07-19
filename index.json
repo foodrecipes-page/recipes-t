@@ -5011,13 +5011,13 @@
   },
   {
     "slug": "tasty-spicy-polish-peas-pancakes",
-    "title": "Tasty Spicy Polish Peas Pancakes",
+    "title": "Polish Pancake Stack with Pea Filling",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "breakfast",
+      "brunch",
+      "polish",
+      "pancakes",
+      "peas"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 25,
@@ -12941,6 +12941,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-molten-slovakian-pork-stew--gluten-free",
+    "title": "Slovakian-Style Braised Pork Stew",
+    "tags": [
+      "braised",
+      "pork",
+      "stew",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 170,
     "shard": "t"
   }
 ]
