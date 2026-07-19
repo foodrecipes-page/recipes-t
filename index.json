@@ -13036,5 +13036,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-garlicky-portuguese-lamb-stew--french",
+    "title": "Braised Lamb in Red Wine",
+    "tags": [
+      "lamb",
+      "red-wine",
+      "french-cuisine",
+      "braise",
+      "slow-cooked"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "t"
   }
 ]
