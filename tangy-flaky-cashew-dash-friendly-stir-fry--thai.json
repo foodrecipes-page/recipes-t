@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-flaky-cashew-dash-friendly-stir-fry--thai",
+  "title": "Thai Cashew Stir Fry",
+  "description": "A quick and flavorful Thai dish made with cashews, your choice of protein, and a blend of Thai spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "friendly protein (chicken, beef, tofu)",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "dash of fish sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable or peanut oil"
+    },
+    {
+      "name": "flaky salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the stir-fry oil in a large skillet or wok over medium-high heat.",
+    "Add the protein and cook until browned, about 3-4 minutes.",
+    "Add the chopped cashews and cook for an additional 2 minutes.",
+    "Add the tangy sauce and dash of fish sauce (if using) and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with flaky salt to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "cashew",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-cashew-dash-friendly-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:01:31.648Z"
+}
