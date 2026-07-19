@@ -13076,5 +13076,34 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-crisp-korean-cobnuts-hwajeon--vegan",
+    "title": "Crisp Cobnut Pancakes (Vegan)",
+    "tags": [
+      "vegan",
+      "korean",
+      "snack",
+      "pancake",
+      "cobnut"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-light-ethiopian-pistachio-wrap--french",
+    "title": "French Pistachio Wrap",
+    "tags": [
+      "chicken",
+      "pistachio",
+      "french",
+      "wrap",
+      "lunch",
+      "light"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
