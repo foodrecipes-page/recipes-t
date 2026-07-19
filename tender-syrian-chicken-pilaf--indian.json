@@ -1,0 +1,94 @@
+{
+  "slug": "tender-syrian-chicken-pilaf--indian",
+  "title": "Chicken Pilaf with Tender Syrian Chicken",
+  "description": "A flavorful and aromatic Indian-inspired dish made with tender chicken and pilaf. This recipe is a great option for a quick and easy weeknight meal.",
+  "cuisine": "indian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, skinless chicken breast or thighs"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking the chicken"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. Heat the olive oil in a large skillet over medium-high heat.",
+    "2. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the minced garlic and grated ginger and cook for another minute.",
+    "4. Add the ground cumin, coriander, turmeric, and salt. Cook for 1 minute, stirring constantly.",
+    "5. Add the pilaf to the skillet and stir to combine with the spice mixture.",
+    "6. Add the Syrian chicken to the skillet and cook until browned on all sides, about 5-6 minutes.",
+    "7. Reduce heat to medium-low and simmer, covered, for 10-12 minutes or until the chicken is cooked through.",
+    "8. Serve the chicken pilaf hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "pilaf",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-syrian-chicken-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:02:51.016Z"
+}
