@@ -1,0 +1,86 @@
+{
+  "slug": "tangy-mediterranean-rhubarb-tagine",
+  "title": "Tangy Mediterranean Chicken with Roasted Rhubarb",
+  "description": "A flavorful and healthy dish that combines the sweetness of roasted rhubarb with the tanginess of a Mediterranean-inspired chicken tagine.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Rhubarb",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "Tangy tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Season the chicken breast with the tangy tagine spice blend.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the chicken to a baking dish and roast in the oven for 15-20 minutes, or until cooked through.",
+    "Meanwhile, toss the sliced onion and chopped garlic with olive oil, salt, and pepper on a baking sheet.",
+    "Roast the onion and garlic in the oven for 20-25 minutes, or until caramelized.",
+    "Toss the sliced rhubarb with olive oil, salt, and pepper on a separate baking sheet.",
+    "Roast the rhubarb in the oven for 15-20 minutes, or until tender.",
+    "Serve the chicken with the roasted onion, garlic, and rhubarb, garnished with chopped fresh parsley and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roasted",
+    "rhubarb",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-mediterranean-rhubarb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:35:36.055Z"
+}
