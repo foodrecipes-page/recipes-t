@@ -1,0 +1,97 @@
+{
+  "slug": "tadka-greek-yogurt-crumble--chinese",
+  "title": "Crispy Tofu and Vegetable Stir Fry",
+  "description": "A Chinese-inspired stir fry made with crispy tofu, crunchy vegetables, and a tangy sauce. Serve over steamed rice or noodles for a quick and easy dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "tadka",
+      "amount": "2 tbsp",
+      "notes": "for frying tofu"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "trimmed and sliced"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "crumble",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut tofu into small cubes and set aside.",
+    "2. Heat tadka in a large skillet or wok over medium-high heat.",
+    "3. Add tofu to the skillet and fry until crispy, about 3-4 minutes.",
+    "4. Add sliced bell pepper and onion to the skillet and cook until tender, about 3-4 minutes.",
+    "5. Add snow peas to the skillet and cook until tender, about 1-2 minutes.",
+    "6. In a small bowl, whisk together greek yogurt and soy sauce.",
+    "7. Pour the sauce over the vegetables and tofu in the skillet and stir to combine.",
+    "8. Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "9. Season with salt and pepper to taste.",
+    "10. Garnish with crumble and sesame seeds.",
+    "11. Serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tadka-greek-yogurt-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T05:54:27.067Z"
+}
