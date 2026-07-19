@@ -1,0 +1,77 @@
+{
+  "slug": "tender-turkish-style-croatian-turkey-skillet--indian",
+  "title": "Indian-Style Turkey Skillet",
+  "description": "A flavorful and spicy dish inspired by Indian cuisine, made with tender turkey and served in a skillet.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "2"
+    },
+    {
+      "name": "croatian garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the oil and sauté the onion until softened, about 3-4 minutes.",
+    "Add the ginger, garlic, cumin, coriander, and turmeric. Cook for 1 minute.",
+    "Add the turkey breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the red pepper and cook for an additional 2-3 minutes.",
+    "Transfer the skillet to the oven and bake at 375°F for 20-25 minutes, or until the turkey is cooked through.",
+    "Let the turkey rest for 5 minutes before slicing and serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "turkey",
+    "skillet",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-turkish-style-croatian-turkey-skillet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:58:32.904Z"
+}
