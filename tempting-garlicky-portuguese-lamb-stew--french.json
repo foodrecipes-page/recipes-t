@@ -1,0 +1,82 @@
+{
+  "slug": "tempting-garlicky-portuguese-lamb-stew--french",
+  "title": "Braised Lamb in Red Wine",
+  "description": "A classic French dish, slow-cooked in red wine with a rich, savory flavor. Tender lamb falls off the bone, perfect for a special occasion.",
+  "cuisine": "french",
+  "diet": [
+    "meat",
+    "wine"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1",
+      "notes": "Bone-in, 1.5-2 pounds"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "Full-bodied, such as Cabernet Sauvignon or Syrah"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlicky broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "portuguese stew seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt, pepper, and Portuguese stew seasoning.",
+    "In a large Dutch oven, brown the lamb on all sides over medium-high heat. Remove the lamb and set aside.",
+    "Add the minced garlic and chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits.",
+    "Return the lamb to the pot and add the garlicky broth.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender and falling off the bone.",
+    "Remove the pot from the oven and let the lamb rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "red-wine",
+    "french-cuisine",
+    "braise",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-garlicky-portuguese-lamb-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:58:24.208Z"
+}
