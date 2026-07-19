@@ -1,0 +1,95 @@
+{
+  "slug": "tender-tunisian-turkey-neck-tagine",
+  "title": "Tunisian Turkey Tagine with Neck",
+  "description": "A hearty and aromatic stew originating from Tunisia, made with tender turkey, rich neck, and fragrant spices.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "poultry",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Tender turkey breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": "available at North African or Middle Eastern markets"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add turkey neck and cook until browned, about 5 minutes.",
+    "Add turkey breast, Tunisian spice blend, carrots, potatoes, and apricots. Cook for 5 minutes.",
+    "Add chicken broth and bring to a boil.",
+    "Cover and transfer to the oven. Braise for 2 hours, or until meat is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "turkey",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tunisian-turkey-neck-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:15:07.999Z"
+}
