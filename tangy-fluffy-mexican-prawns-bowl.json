@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-fluffy-mexican-prawns-bowl",
+  "title": "Mexican Prawn Bowl",
+  "description": "A spicy, savory, and fresh Mexican-inspired dish featuring succulent prawns.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "tangy slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mexican rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "fluffy corn tortillas",
+      "amount": "4",
+      "notes": "warmed"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the prawns in a skillet over medium-high heat for 2-3 minutes per side, or until pink and cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the bowls by placing a portion of the cooked prawns on each tortilla.",
+    "Top with a spoonful of tangy slaw, a sprinkle of mexican rice, and a squeeze of lime juice.",
+    "Garnish with diced avocado, chopped cilantro, and a sprinkle of mexican seasoning."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "seafood",
+    "lunch",
+    "quick-cook"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-mexican-prawns-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:19:51.639Z"
+}
