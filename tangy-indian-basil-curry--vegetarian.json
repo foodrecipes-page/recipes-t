@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-indian-basil-curry--vegetarian",
+  "title": "Creamy Basil Curry",
+  "description": "A flavorful and aromatic Indian-inspired curry made with fresh basil, a hint of tanginess, and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basil",
+      "amount": "2 cups",
+      "notes": "fresh leaves"
+    },
+    {
+      "name": "Curry",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Tangy",
+      "amount": "2 tsp",
+      "notes": "Indian-style yogurt or lemon juice"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp",
+      "notes": "coconut or vegetable oil"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat or low-fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic; cook until the onion is translucent.",
+    "Add the curry and cook for 1-2 minutes, until fragrant.",
+    "Add the tomato and cook until it starts to break down.",
+    "Stir in the coconut milk and bring to a simmer.",
+    "Reduce heat to low and add the basil leaves.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 10-15 minutes or until the sauce has thickened.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "basil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indian-basil-curry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:23:49.500Z"
+}
