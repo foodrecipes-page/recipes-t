@@ -1,0 +1,89 @@
+{
+  "slug": "tangy-crispy-peruvian-lamb-secco-de-cordero",
+  "title": "Crispy Secco-Crusted Cordero",
+  "description": "A tangy and crispy Peruvian-inspired dish featuring lamb as the main ingredient.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "Bone-in for extra flavor"
+    },
+    {
+      "name": "secco wine",
+      "amount": "1/2 cup",
+      "notes": "Dry white wine"
+    },
+    {
+      "name": "tangy orange marmalade",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "crispy plantain chips",
+      "amount": "1 cup",
+      "notes": "Crushed into crumbs"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": " Toasted for added flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "For smokiness and depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground for best flavor"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the lamb shoulder and pat dry with paper towels.",
+    "Mix the secco wine, tangy orange marmalade, ground cumin, smoked paprika, salt, and black pepper in a small bowl.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Roll the lamb in the crushed plantain chips to coat, pressing gently to adhere.",
+    "Place the lamb on a rimmed baking sheet or a large cast-iron skillet.",
+    "Roast in the preheated oven for 20 minutes per pound, or until the internal temperature reaches 145°F (63°C) for medium-rare.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped cilantro and serve with your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "peruvian",
+    "crispy",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "53g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-peruvian-lamb-secco-de-cordero",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:50:55.156Z"
+}
