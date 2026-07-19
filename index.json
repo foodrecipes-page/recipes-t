@@ -2420,18 +2420,15 @@
   },
   {
     "slug": "tangy-indian-basil-curry",
-    "title": "Tangy Indian Basil Curry",
+    "title": "Basil Chicken Curry",
     "tags": [
       "indian",
-      "vegetarian",
+      "chicken",
       "curry",
-      "tangy",
-      "basil",
-      "crunchy",
-      "one_pot"
+      "basil"
     ],
-    "cuisine": "indian",
-    "totalTimeMin": 20,
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -6516,16 +6513,15 @@
   },
   {
     "slug": "tender-briny-saudi-arabian-lamb-tagine",
-    "title": "Tender Briny Saudi Arabian Lamb Tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "lamb-based",
-      "middle-eastern",
-      "one-pot",
-      "special-occasion"
+      "saudi",
+      "arabian",
+      "lamb",
+      "tagine"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 200,
+    "cuisine": "Saudi",
+    "totalTimeMin": 110,
     "shard": "t"
   },
   {
