@@ -1,0 +1,76 @@
+{
+  "slug": "tempting-thick-greek-tofu-avgolemono--chinese",
+  "title": "Tofu Avgolemono Stir Fry",
+  "description": "A twist on the classic avgolemono soup, this Chinese-inspired dish combines the creamy sauce with crispy tofu and a touch of Asian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)"
+    },
+    {
+      "name": "Greek avgolemono sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Thick soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tempering spices (e.g., Szechuan pepper, cumin)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cooking oil (e.g., vegetable, peanut)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 5 minutes.",
+    "Remove tofu from the skillet and set aside.",
+    "Add ginger and garlic to the skillet and cook for 1 minute.",
+    "Add soy sauce, tempering spices, and avgolemono sauce to the skillet.",
+    "Stir constantly until sauce thickens, about 2 minutes.",
+    "Return tofu to the skillet and stir to coat with sauce.",
+    "Season with salt and pepper to taste.",
+    "Garnish with scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "tofu-recipes",
+    "easy-stir-fry",
+    "avgolemono-sauce"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-thick-greek-tofu-avgolemono--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:03:53.359Z"
+}
