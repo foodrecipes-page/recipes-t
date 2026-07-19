@@ -1,0 +1,79 @@
+{
+  "slug": "tender-briny-saudi-arabian-lamb-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi dish made with tender lamb, aromatic spices, and a rich, flavorful sauce.",
+  "cuisine": "Saudi",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "main",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tender saudi spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "arabian coffee",
+      "amount": "1 cup",
+      "notes": "strong brew"
+    },
+    {
+      "name": "briny olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large tagine or Dutch oven over medium-high heat.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is softened, about 5 minutes.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the coffee and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the olives and season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "arabian",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-briny-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:01:51.349Z"
+}
