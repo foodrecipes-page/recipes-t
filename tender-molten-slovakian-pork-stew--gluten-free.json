@@ -1,0 +1,80 @@
+{
+  "slug": "tender-molten-slovakian-pork-stew--gluten-free",
+  "title": "Slovakian-Style Braised Pork Stew",
+  "description": "A hearty, comforting stew made with tender pork and Slovakian spices, perfect for a cold winter's night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Molten lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Slovakian paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the molten lard or oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the browned pork back to the pot, along with the Slovakian paprika.",
+    "Season with salt and pepper to taste.",
+    "Cover the pot and transfer to the oven.",
+    "Braise in the preheated oven at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised",
+    "pork",
+    "stew",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-molten-slovakian-pork-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:33:08.623Z"
+}
