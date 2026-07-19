@@ -2084,10 +2084,15 @@
   },
   {
     "slug": "tangy-fluffy-mexican-prawns-bowl",
-    "title": "Tangy Fluffy Mexican Prawns Bowl",
-    "tags": [],
+    "title": "Mexican Prawn Bowl",
+    "tags": [
+      "mexican",
+      "seafood",
+      "lunch",
+      "quick-cook"
+    ],
     "cuisine": "Mexican",
-    "totalTimeMin": null,
+    "totalTimeMin": 23,
     "shard": "t"
   },
   {
@@ -13125,6 +13130,45 @@
       "skewers"
     ],
     "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-indian-basil-curry--vegetarian",
+    "title": "Creamy Basil Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "basil",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-bitter-indian-potato-paratha--chinese",
+    "title": "Bitter Gourd and Potato Stir Fry",
+    "tags": [
+      "vegetarian",
+      "gluten-free",
+      "stir-fry",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-thick-greek-tofu-avgolemono--chinese",
+    "title": "Tofu Avgolemono Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "tofu-recipes",
+      "easy-stir-fry",
+      "avgolemono-sauce"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "t"
   }
