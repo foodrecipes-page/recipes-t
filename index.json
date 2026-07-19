@@ -12952,5 +12952,17 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 170,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-cashew-dash-friendly-stir-fry--thai",
+    "title": "Thai Cashew Stir Fry",
+    "tags": [
+      "thai",
+      "cashew",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
