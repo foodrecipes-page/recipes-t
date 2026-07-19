@@ -1,0 +1,88 @@
+{
+  "slug": "tropical-brazilian-sugar-snap-peas-tagine--gluten-free",
+  "title": "Brazilian Tagine with Tropical Peas",
+  "description": "A flavorful and nutritious tagine made with tropical fruits and peas, inspired by Brazilian cuisine. This dish is gluten-free and perfect for a weeknight dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tropical fruit (such as pineapple or mango)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the peas and tropical fruit, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "dinner",
+    "brazilian",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-brazilian-sugar-snap-peas-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:14:47.587Z"
+}
