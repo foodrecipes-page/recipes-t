@@ -1,0 +1,99 @@
+{
+  "slug": "tenderly-charred-irish-lamb-tagine--german",
+  "title": "Charred Irish Lamb Tagine",
+  "description": "A traditional German-inspired dish with a twist of Middle Eastern flavors, featuring tender lamb and charred vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "irish lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "bone-in"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes. Remove the lamb from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it's softened and lightly browned, about 5 minutes.",
+    "Add the chopped carrot and potato to the pot and cook for another 5 minutes.",
+    "Add the minced garlic, tomato paste, chicken broth, apple cider vinegar, and rosemary to the pot. Stir to combine.",
+    "Return the lamb to the pot and cover it with a lid.",
+    "Transfer the pot to the preheated oven and braise the lamb for 2 1/2 hours, or until it's tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the lamb with two forks and return it to the pot. Simmer the stew over low heat for another 10-15 minutes to allow the flavors to meld.",
+    "Serve the charred Irish lamb tagine hot, garnished with fresh rosemary if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "irish",
+    "lamb",
+    "tagine",
+    "braised"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-charred-irish-lamb-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:21:48.773Z"
+}
