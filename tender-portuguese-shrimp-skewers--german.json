@@ -1,0 +1,92 @@
+{
+  "slug": "tender-portuguese-shrimp-skewers--german",
+  "title": "German Shrimp Skewers",
+  "description": "A quick and easy German-inspired dish featuring succulent shrimp grilled to perfection on skewers.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Tender Portuguese Sausage",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "large, sliced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1",
+      "notes": "large, sliced"
+    },
+    {
+      "name": "Zest of 1 Lemon",
+      "amount": "1",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": "wooden or metal"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut sausage and onion into 1-inch pieces, and bell pepper into 2-inch slices.",
+    "Thread shrimp, sausage, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together lemon zest, garlic, salt, and black pepper.",
+    "Brush skewers with olive oil and sprinkle with lemon-garlic mixture.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until shrimp are pink and cooked through.",
+    "Serve hot with your choice of sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-portuguese-shrimp-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T11:22:47.685Z"
+}
