@@ -1,0 +1,74 @@
+{
+  "slug": "tasty-spicy-polish-peas-pancakes",
+  "title": "Polish Pancake Stack with Pea Filling",
+  "description": "A traditional polish pancake stack filled with a tangy pea mixture, perfect for a weekend brunch.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancakes",
+      "amount": "8-10 pancakes",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup frozen peas",
+      "notes": "Thawed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup diced onion",
+      "notes": "Sauteed until softened"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced garlic",
+      "notes": "Sauteed with onion"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp melted butter",
+      "notes": "For serving"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup sour cream",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "1. In a medium pan, heat 1 tbsp butter over medium heat.",
+    "2. Add diced onion and cook until softened, about 5 minutes.",
+    "3. Add minced garlic and cook for an additional 1-2 minutes.",
+    "4. Stir in thawed peas and cook until heated through.",
+    "5. Meanwhile, warm pancakes according to package instructions.",
+    "6. Assemble the stack by placing a pancake on a plate, topping with a spoonful of pea mixture, and repeating.",
+    "7. Drizzle with melted butter and sprinkle with a pinch of salt.",
+    "8. Serve with a dollop of sour cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "polish",
+    "pancakes",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-spicy-polish-peas-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:54:53.910Z"
+}
