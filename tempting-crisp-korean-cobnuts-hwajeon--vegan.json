@@ -1,0 +1,74 @@
+{
+  "slug": "tempting-crisp-korean-cobnuts-hwajeon--vegan",
+  "title": "Crisp Cobnut Pancakes (Vegan)",
+  "description": "Delicious and crispy Korean-inspired pancakes made with cobnuts, perfect as a snack or dessert. This vegan recipe is easy to make and packed with flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "tempting",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "hwajeon flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "maple syrup (vegan)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together hwajeon flour and salt.",
+    "Add chopped cobnuts and tempting to the bowl and mix well.",
+    "Gradually add water and mix until a smooth batter forms.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a ladle, pour 1/4 cup of the batter onto the pan and spread it evenly.",
+    "Drizzle maple syrup and sesame oil on top of the pancake.",
+    "Cook for 2-3 minutes or until bubbles appear on the surface.",
+    "Flip the pancake and cook for another 2 minutes or until golden brown.",
+    "Serve warm and enjoy!",
+    "Repeat with the remaining batter to make more pancakes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "korean",
+    "snack",
+    "pancake",
+    "cobnut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-crisp-korean-cobnuts-hwajeon--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:17:48.507Z"
+}
