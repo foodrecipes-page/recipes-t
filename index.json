@@ -12929,5 +12929,18 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "t"
+  },
+  {
+    "slug": "tender-syrian-chicken-pilaf--indian",
+    "title": "Chicken Pilaf with Tender Syrian Chicken",
+    "tags": [
+      "indian",
+      "chicken",
+      "pilaf",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
