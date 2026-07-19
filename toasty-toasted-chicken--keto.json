@@ -1,0 +1,76 @@
+{
+  "slug": "toasty-toasted-chicken--keto",
+  "title": "Keto Chicken Breast with Toasty Crust",
+  "description": "A keto-friendly dish that combines the flavors of toasted and toasty ingredients with chicken breast, offering a crispy crust and a juicy interior. This recipe is perfect for those following a low-carb diet.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "toasty crumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken breasts and pat them dry with a paper towel.",
+    "In a shallow dish, mix together the toasty crumbs, toasted almonds, garlic powder, salt, and black pepper.",
+    "Dip each chicken breast in the olive oil, then coat in the toasty crumb mixture, pressing the crumbs gently onto the chicken to ensure they stick.",
+    "Place the coated chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake the chicken for 20-25 minutes or until it reaches an internal temperature of 165°F (74°C).",
+    "Remove the chicken from the oven and let it rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-toasted-chicken--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T03:31:54.480Z"
+}
