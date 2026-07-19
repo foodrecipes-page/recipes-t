@@ -1771,15 +1771,16 @@
   },
   {
     "slug": "tangy-flaky-ethiopian-tofu-flatbread",
-    "title": "Tangy Flaky Ethiopian Tofu Flatbread",
+    "title": "Tangy Ethiopian Tofu Wrap",
     "tags": [
-      "ethiopian-cuisine",
-      "tofu-recipes",
-      "flatbread",
-      "mediterranean-inspired"
+      "tangy",
+      "flaky",
+      "ethiopian",
+      "tofu",
+      "flatbread"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -13007,6 +13008,32 @@
       "chicken"
     ],
     "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tadka-greek-yogurt-crumble--chinese",
+    "title": "Crispy Tofu and Vegetable Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-indian-basil-curry--japanese",
+    "title": "Basil Chicken Curry",
+    "tags": [
+      "japanese",
+      "indian",
+      "chicken",
+      "curry"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "t"
   }
