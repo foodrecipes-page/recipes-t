@@ -4132,16 +4132,14 @@
     "slug": "tangy-ukrainian-barley-pilaf",
     "title": "Tangy Ukrainian Barley Pilaf",
     "tags": [
-      "barley",
-      "gluten-free",
-      "mediterranean",
-      "one-pot",
-      "tangy",
       "ukrainian",
-      "vegetarian"
+      "barley",
+      "pilaf",
+      "vegetarian",
+      "lunch"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -13104,6 +13102,30 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-steamed-indian-mushrooms-bake--french",
+    "title": "Steamed Mushrooms with Garlic and Herbs",
+    "tags": [
+      "french",
+      "mushrooms",
+      "herbs"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-portuguese-shrimp-skewers--german",
+    "title": "German Shrimp Skewers",
+    "tags": [
+      "german",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
