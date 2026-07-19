@@ -12964,5 +12964,32 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tropical-brazilian-sugar-snap-peas-tagine--gluten-free",
+    "title": "Brazilian Tagine with Tropical Peas",
+    "tags": [
+      "gluten-free",
+      "dinner",
+      "brazilian",
+      "summer"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-charred-irish-lamb-tagine--german",
+    "title": "Charred Irish Lamb Tagine",
+    "tags": [
+      "german",
+      "irish",
+      "lamb",
+      "tagine",
+      "braised"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 180,
+    "shard": "t"
   }
 ]
