@@ -13312,5 +13312,43 @@
     "cuisine": "german",
     "totalTimeMin": 140,
     "shard": "t"
+  },
+  {
+    "slug": "tender-jamaican-grape-tomatoes-casserole--vegan",
+    "title": "Jamaican Grape Casserole",
+    "tags": [
+      "vegan",
+      "caribbean",
+      "grape",
+      "casserole"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-irish-semolina-rimacinata-hash--vegan",
+    "title": "Tangy Irish Hash",
+    "tags": [
+      "irish",
+      "breakfast",
+      "vegan"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-jamaican-potatoes-hash--indian",
+    "title": "Jamaican Hash Brown Potatoes",
+    "tags": [
+      "indian-cuisine",
+      "vegetarian-recipes",
+      "potato-recipes",
+      "jamaican-hash-brown"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
