@@ -1,0 +1,97 @@
+{
+  "slug": "tangy-creamy-russian-minced-steak-pierogi",
+  "title": "Pierogi Ruskie with Pan-Seared Steak",
+  "description": "A hearty and flavorful dish featuring pan-seared steak served with traditional Russian-style pierogi filled with a tangy and creamy mashed potato and cheese mixture.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 pounds",
+      "notes": "1.5 inches thick"
+    },
+    {
+      "name": "pierogi ruskie",
+      "amount": "12-15 count",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mashed potato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "minced onion",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "minced fresh dill",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "tangy sour cream",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Bring a large pot of salted water to a boil and cook pierogi according to package instructions.",
+    "2. While pierogi cooks, heat butter in a large skillet over medium-high heat.",
+    "3. Sear steak in skillet for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "4. Transfer steak to a plate and let rest for 5 minutes before slicing.",
+    "5. In a separate pan, sauté minced onion and minced fresh dill until softened.",
+    "6. Combine mashed potato, grated cheddar cheese, sautéed onion and dill, salt, and pepper in a bowl.",
+    "7. Fill cooked pierogi with mashed potato mixture and top with tangy sour cream.",
+    "8. Slice steak against the grain and serve with pierogi.",
+    "9. Garnish with additional fresh dill and serve immediately.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pierogi",
+    "steak",
+    "russian",
+    "polish",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-russian-minced-steak-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:02:40.529Z"
+}
