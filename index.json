@@ -2210,10 +2210,15 @@
   },
   {
     "slug": "tangy-gooey-chinese-pork-bao",
-    "title": "Tangy Gooey Chinese Pork Bao",
-    "tags": [],
+    "title": "Crispy Bao Pork Buns",
+    "tags": [
+      "baobuns",
+      "pork",
+      "chinese",
+      "snack"
+    ],
     "cuisine": "Chinese",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -13254,6 +13259,58 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-algerian-fish-tagine--indian",
+    "title": "Bengal Fish Tagine",
+    "tags": [
+      "indian",
+      "fish",
+      "tagine",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-indian-basil-curry--mexican",
+    "title": "Tangy Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-russian-rice-pilaf--japanese",
+    "title": "Japanese-Style Teriyaki Rice Pilaf",
+    "tags": [
+      "japanese",
+      "rice",
+      "pilaf",
+      "beef"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-spicy-german-meat-stew--keto",
+    "title": "German Keto Beef Stew",
+    "tags": [
+      "keto",
+      "german",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
     "shard": "t"
   }
 ]
