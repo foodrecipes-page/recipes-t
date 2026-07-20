@@ -1,0 +1,92 @@
+{
+  "slug": "tangy-indian-basil-curry--mexican",
+  "title": "Tangy Chicken Tacos",
+  "description": "A flavorful taco recipe made with tangy chicken, Indian spices, and fresh basil. Inspired by Mexican cuisine.",
+  "cuisine": "mexican",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "tangy sauce (such as sriracha)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Mexican-style taco seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tortillas (corn or flour)",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (Monterey Jack or Cheddar)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced avocado",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "sliced lime",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken with taco seasoning and grill for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, mix together curry powder and tangy sauce.",
+    "Shred the grilled chicken with two forks and toss with the curry-tangy sauce mixture.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the chicken mixture onto a tortilla, followed by a sprinkle of cheese, a slice of avocado, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indian-basil-curry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:27:38.771Z"
+}
