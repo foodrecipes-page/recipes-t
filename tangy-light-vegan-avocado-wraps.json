@@ -1,0 +1,71 @@
+{
+  "slug": "tangy-light-vegan-avocado-wraps",
+  "title": "Avocado Wraps",
+  "description": "A simple and tasty vegan wrap filled with mashed avocado, tangy slaw, and crunchy vegetables.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large avocado",
+      "amount": "2",
+      "notes": "ripe and mashed"
+    },
+    {
+      "name": "Light wraps",
+      "amount": "4",
+      "notes": "whole wheat or whole grain"
+    },
+    {
+      "name": "Tangy slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1",
+      "notes": "shredded"
+    },
+    {
+      "name": "Celery",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "1. Cut the avocado in half and remove the pit. Mash it in a bowl with a fork until smooth.",
+    "2. Lay a wrap flat on a clean surface. Spread about 1/4 cup of the mashed avocado on the center of the wrap.",
+    "3. Add 1/4 cup of the tangy slaw on top of the avocado.",
+    "4. Arrange the sliced cucumber, shredded carrot, and sliced celery on top of the slaw.",
+    "5. Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "6. Repeat with the remaining ingredients to make 3 more wraps.",
+    "7. Cut the wraps in half and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "avocado",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-vegan-avocado-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:27:52.629Z"
+}
