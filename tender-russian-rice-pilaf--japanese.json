@@ -1,0 +1,95 @@
+{
+  "slug": "tender-russian-rice-pilaf--japanese",
+  "title": "Japanese-Style Teriyaki Rice Pilaf",
+  "description": "A flavorful and aromatic Japanese rice pilaf dish made with tender beef, russians, and toasted spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender beef (sirloin)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "russians (or Japanese short-grain rice)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sake (or dry white wine)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large saucepan over medium-high heat.",
+    "Add thinly sliced beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from saucepan and set aside.",
+    "Add pilaf to saucepan and cook until lightly toasted, about 2-3 minutes.",
+    "Add russians and cook according to package instructions.",
+    "In a small bowl, whisk together soy sauce, sake, sugar, and sushi vinegar.",
+    "Pour sauce mixture over cooked rice and beef, and stir to combine.",
+    "Return beef to saucepan and stir to coat with sauce.",
+    "Transfer saucepan to a serving platter and garnish with green onions and sesame seeds.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "rice",
+    "pilaf",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-russian-rice-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:29:49.843Z"
+}
