@@ -1,0 +1,87 @@
+{
+  "slug": "tempting-thick-greek-tofu-avgolemono--mexican",
+  "title": "Tofu Tacos with Avgolemono Slaw",
+  "description": "A twist on traditional Mexican tacos, featuring crispy tofu and a zesty avgolemono slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "avgolemono",
+      "amount": "1 cup",
+      "notes": " store-bought or homemade"
+    },
+    {
+      "name": "thinly sliced red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "4-6",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "shredded lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the tofu into small cubes and coat with cumin and chili powder.",
+    "2. Heat a skillet over medium-high heat and cook the tofu until crispy.",
+    "3. Meanwhile, prepare the avgolemono slaw by mixing the store-bought or homemade avgolemono with lime juice.",
+    "4. Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "5. Assemble the tacos by placing the cooked tofu onto a tortilla, followed by a spoonful of avgolemono slaw and any desired toppings.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "veggie",
+    "tacos",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-thick-greek-tofu-avgolemono--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:15:47.983Z"
+}
