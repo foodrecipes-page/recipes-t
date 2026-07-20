@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-gooey-chinese-pork-bao",
+  "title": "Crispy Bao Pork Buns",
+  "description": "Soft and fluffy bao filled with tender pork and a sweet tangy sauce. A classic Chinese snack that's easy to make at home.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Bao",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Tangy sauce (hoisin and ketchup mix)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gooey sauce (soy sauce and brown sugar mix)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a frying pan with 2 tablespoons of oil over medium heat.",
+    "Add the pork and cook until browned and cooked through, about 5-7 minutes.",
+    "Assemble the bao by spreading a small amount of tangy sauce on each bun, followed by a few slices of pork.",
+    "Drizzle the gooey sauce over the pork.",
+    "Serve immediately and enjoy!",
+    "Optional: pan-fry the assembled bao until crispy and golden brown.",
+    "Let rest for 2-3 minutes before slicing and serving.",
+    "You can also steam the bao instead of pan-frying for a softer texture.",
+    "Adjust the amount of tangy and gooey sauce to taste.",
+    "You can also add some chopped scallions or cilantro on top for extra flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baobuns",
+    "pork",
+    "chinese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-chinese-pork-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:07:04.876Z"
+}
