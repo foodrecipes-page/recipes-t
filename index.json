@@ -703,17 +703,16 @@
   },
   {
     "slug": "tangy-creamy-russian-minced-steak-pierogi",
-    "title": "Tangy Creamy Russian Minced Steak Pierogi",
+    "title": "Pierogi Ruskie with Pan-Seared Steak",
     "tags": [
-      "high-protein",
-      "low-calorie",
-      "one-pan",
-      "russian-cuisine",
-      "show-off-dish",
-      "winter-special"
+      "pierogi",
+      "steak",
+      "russian",
+      "polish",
+      "comfort-food"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 50,
+    "cuisine": "Polish",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -2923,16 +2922,15 @@
   },
   {
     "slug": "tangy-light-festive-norwegian-goose-fat-pancakes",
-    "title": "Tangy Light Festive Norwegian Goose Fat Pancakes",
+    "title": "Norwegian Goose Pancakes",
     "tags": [
-      "goose fat",
-      "vegetarian-friendly",
-      "tangy",
-      "light",
-      "festive"
+      "breakfast",
+      "gluten-free",
+      "norwegian",
+      "goose"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "norwegian",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
