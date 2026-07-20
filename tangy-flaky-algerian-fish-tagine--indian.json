@@ -1,0 +1,93 @@
+{
+  "slug": "tangy-flaky-algerian-fish-tagine--indian",
+  "title": "Bengal Fish Tagine",
+  "description": "A flavorful and aromatic Indian-inspired tagine dish made with flaky fish and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "flaky fish (cod or haddock)",
+      "amount": "500g",
+      "notes": "cut into 8-10 pieces"
+    },
+    {
+      "name": "algerian preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "tangy tomato sauce",
+      "amount": "200g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add ginger and garlic; sauté for 1 minute.",
+    "Add cumin, coriander, turmeric, and chili powder; sauté for 1 minute.",
+    "Add preserved lemon and tomato sauce; stir well.",
+    "Add fish pieces; cook for 3-4 minutes or until they start to flake.",
+    "Cover the pan with a lid and cook for 8-10 minutes or until the fish is cooked through.",
+    "Season with salt to taste.",
+    "Serve hot with steamed rice or naan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "fish",
+    "tagine",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-algerian-fish-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:54:26.559Z"
+}
