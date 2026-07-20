@@ -1,0 +1,82 @@
+{
+  "slug": "tropical-crisp-brazilian-chicken-fried-rice",
+  "title": "Brazilian Chicken and Rice Bowl",
+  "description": "A flavorful and easy-to-make dish that combines the crispy texture of fried chicken with the freshness of tropical ingredients.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tropical fruit",
+      "amount": "1 cup",
+      "notes": "such as pineapple or mango"
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "frying oil",
+      "amount": "1/2 cup",
+      "notes": "such as vegetable or peanut oil"
+    },
+    {
+      "name": "Brazilian spices",
+      "amount": "1 teaspoon",
+      "notes": "such as cumin, coriander, or paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together chicken, tropical fruit, crisp lettuce, and Brazilian spices.",
+    "2. Season with salt and pepper to taste.",
+    "3. Heat frying oil in a large skillet over medium-high heat.",
+    "4. Add chicken mixture to skillet and cook until chicken is golden brown and cooked through.",
+    "5. Add cooked rice to skillet and stir to combine with chicken mixture.",
+    "6. Cook for an additional 2-3 minutes, until rice is heated through.",
+    "7. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "rice",
+    "tropical",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-crisp-brazilian-chicken-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:46:10.406Z"
+}
