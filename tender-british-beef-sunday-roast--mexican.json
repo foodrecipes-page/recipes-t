@@ -1,0 +1,85 @@
+{
+  "slug": "tender-british-beef-sunday-roast--mexican",
+  "title": "Sunday Beef Roast with Mexican Spices",
+  "description": "A twist on the traditional British Sunday roast, infused with bold Mexican flavors and spices.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef roast",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Tender British beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "British beef drippings",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the beef roast with salt and black pepper.",
+    "In a large Dutch oven, heat the beef drippings over medium-high heat.",
+    "Sear the beef roast until browned on all sides, then set aside.",
+    "Add the onions, garlic, cumin, smoked paprika, and Mexican oregano to the pot.",
+    "Cook until the onions are softened, then add the beef stock and brown sugar.",
+    "Return the beef roast to the pot, cover with a lid, and transfer to the preheated oven.",
+    "Roast the beef for 2-3 hours, or until it reaches your desired level of doneness.",
+    "Remove the pot from the oven and let the beef rest for 10-15 minutes.",
+    "Strain the juices and discard any excess fat.",
+    "Slice the beef and serve with the juices spooned over the top.",
+    "Garnish with fresh cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "roast",
+    "sunday roast"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 100,
+    "carbs": 20,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-british-beef-sunday-roast--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:56:28.750Z"
+}
