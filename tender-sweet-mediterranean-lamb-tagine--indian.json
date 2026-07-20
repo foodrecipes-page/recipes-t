@@ -1,0 +1,77 @@
+{
+  "slug": "tender-sweet-mediterranean-lamb-tagine--indian",
+  "title": "Lamb Tagine",
+  "description": "A rich and flavorful Indian-inspired lamb dish cooked in a traditional tagine, perfect for a special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4-5"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Tender olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mediterranean spices",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown the lamb shoulder on all sides, about 5-7 minutes.",
+    "Remove the lamb and set aside.",
+    "Add the onions and cook until they are softened and lightly browned.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the sweet potatoes and cook for 5 minutes.",
+    "Add the olives, spices, and salt. Cook for 1 minute.",
+    "Return the lamb to the pot and bring to a simmer.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 275°F (135°C) for 2-3 hours, or until the lamb is tender.",
+    "Let it rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "indian",
+    "tagine",
+    "mughalai"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-sweet-mediterranean-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:54:34.859Z"
+}
