@@ -1,0 +1,95 @@
+{
+  "slug": "tender-jamaican-potatoes-hash--indian",
+  "title": "Jamaican Hash Brown Potatoes",
+  "description": "A fusion of Indian flavors with Jamaican hash browns, potatoes and tender spices. This dish is perfect for a dinner gathering.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican hash",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tender",
+      "amount": "1 tsp",
+      "notes": "Ground ginger powder"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and dice them into small cubes.",
+    "Heat oil in a pan over medium heat.",
+    "Add the diced onion, minced garlic, and grated ginger.",
+    "Sauté until the onion is translucent.",
+    "Add the diced potatoes, cumin, coriander, salt, and Jamaican hash.",
+    "Stir well to combine.",
+    "Cook for 20-25 minutes or until the potatoes are tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh cilantro leaves, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "vegetarian-recipes",
+    "potato-recipes",
+    "jamaican-hash-brown"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-potatoes-hash--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:35:34.398Z"
+}
