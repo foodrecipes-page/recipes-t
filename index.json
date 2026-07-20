@@ -2042,16 +2042,15 @@
   },
   {
     "slug": "tangy-fluffy-festive-baked-beans-stir-fry",
-    "title": "Tangy Fluffy Festive Baked Beans Stir-fry",
+    "title": "Festive Fluffy Baked Beans",
     "tags": [
-      "tangy",
-      "fluffy",
-      "festive",
-      "mediterranean",
-      "low-calorie-friendly"
+      "breakfast",
+      "vegetarian",
+      "beans",
+      "easy"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -13170,6 +13169,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-british-beef-sunday-roast--mexican",
+    "title": "Sunday Beef Roast with Mexican Spices",
+    "tags": [
+      "mexican",
+      "beef",
+      "roast",
+      "sunday roast"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
     "shard": "t"
   }
 ]
