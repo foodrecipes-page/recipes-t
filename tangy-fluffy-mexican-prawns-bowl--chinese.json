@@ -1,0 +1,93 @@
+{
+  "slug": "tangy-fluffy-mexican-prawns-bowl--chinese",
+  "title": "Cantonese Prawn Stir Fry",
+  "description": "A quick and flavorful dish inspired by the Canton region of China, where succulent prawns meet the crunch of tangy and fluffy textures.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Prawns",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "Tangy Bok Choy",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Fluffy Jasmine Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Mexican Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": "Optional for a spicy kick"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinade and sauce"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated for marinade"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced for marinade"
+    },
+    {
+      "name": "Bowl",
+      "amount": null,
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the prawns and cook until pink and just cooked through, about 2-3 minutes per side.",
+    "Remove the prawns and set aside.",
+    "In the same wok, add the remaining 1 tablespoon of oil.",
+    "Add the bok choy and cook until wilted, about 2 minutes.",
+    "Add the ginger and garlic and cook for 1 minute, until fragrant.",
+    "Add the soy sauce and chili flakes (if using) and stir to combine.",
+    "Return the prawns to the wok and stir to combine with the sauce.",
+    "Serve the prawns and bok choy over jasmine rice in a bowl.",
+    "Garnish with green onions and sesame seeds (optional).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "prawns",
+    "vegetarian",
+    "pescatarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "25g",
+    "carbs": "20g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-mexican-prawns-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:09:54.281Z"
+}
