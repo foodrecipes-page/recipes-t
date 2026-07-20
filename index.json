@@ -3048,15 +3048,13 @@
   },
   {
     "slug": "tangy-light-vegan-avocado-wraps",
-    "title": "Tangy Light Vegan Avocado Wraps",
+    "title": "Avocado Wraps",
     "tags": [
-      "tangy",
-      "light",
-      "energizing",
-      "peruvian",
-      "vegan-friendly"
+      "vegan",
+      "avocado",
+      "wraps"
     ],
-    "cuisine": "Peruvian",
+    "cuisine": null,
     "totalTimeMin": 10,
     "shard": "t"
   },
@@ -11554,15 +11552,15 @@
   },
   {
     "slug": "tomato-zing",
-    "title": "Tomato Zing",
+    "title": "Zingy Tomato Soup",
     "tags": [
+      "soup",
       "tomato",
-      "garlic",
-      "sour",
-      "crunchy"
+      "zing",
+      "vegetarian"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
