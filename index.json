@@ -2991,18 +2991,17 @@
   },
   {
     "slug": "tangy-light-moroccan-yuzu-kosho-couscous-royal",
-    "title": "Tangy Light Moroccan Yuzu-Kosho Couscous Royal",
+    "title": "Yuzu Kosho Couscous Bowl",
     "tags": [
-      "couscous",
-      "lacto-vegetarian",
       "moroccan",
-      "nuka-pickle",
-      "one-pan",
-      "weeknight",
-      "yuzu-kosho"
+      "yuzu",
+      "kosho",
+      "couscous",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -11801,18 +11800,15 @@
   },
   {
     "slug": "tropical-crisp-brazilian-chicken-fried-rice",
-    "title": "Tropical Crisp Brazilian Chicken Fried Rice",
+    "title": "Brazilian Chicken and Rice Bowl",
     "tags": [
-      "brazilian-food",
-      "chicken-recipes",
-      "dairy-free",
-      "fried-rice",
-      "gluten-free",
-      "meal-prep",
-      "one-pan-meals"
+      "chicken",
+      "rice",
+      "tropical",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -13208,6 +13204,20 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-mexican-prawns-bowl--chinese",
+    "title": "Cantonese Prawn Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "prawns",
+      "vegetarian",
+      "pescatarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
     "shard": "t"
   }
 ]
