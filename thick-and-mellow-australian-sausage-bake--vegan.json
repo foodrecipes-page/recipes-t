@@ -1,0 +1,66 @@
+{
+  "slug": "thick-and-mellow-australian-sausage-bake--vegan",
+  "title": "Australian Vegan Sausage Bake",
+  "description": "A flavorful vegan sausage bake recipe with a crispy top and a delicious, savory filling. Perfect for a hearty meal or a comforting snack.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Vegan Sausages",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Mellow Mushroom",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Thick Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Bake Sweet Potato",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the onion and sweet potato into 1-inch pieces.",
+    "Place the sausages on a baking sheet lined with parchment paper.",
+    "Drizzle with a little oil and cook in the oven for 15 minutes.",
+    "While the sausages are cooking, toss the sliced onion and sweet potato with some oil and your favorite herbs.",
+    "Spread the mixture out on a separate baking sheet and roast for 20 minutes, or until tender.",
+    "After the sausages have cooked for 15 minutes, add the roasted onion and sweet potato to the baking sheet.",
+    "Return to the oven and bake for an additional 10-15 minutes, or until the sausages are cooked through and the top is crispy.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Enjoy your delicious Australian Vegan Sausage Bake!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "vegan",
+    "sausage",
+    "bake",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thick-and-mellow-australian-sausage-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:11:13.717Z"
+}
