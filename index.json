@@ -13350,5 +13350,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tender-sweet-mediterranean-lamb-tagine--indian",
+    "title": "Lamb Tagine",
+    "tags": [
+      "lamb",
+      "indian",
+      "tagine",
+      "mughalai"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 210,
+    "shard": "t"
   }
 ]
