@@ -1,0 +1,62 @@
+{
+  "slug": "tangy-tender-irish-semolina-rimacinata-hash--vegan",
+  "title": "Tangy Irish Hash",
+  "description": "A flavorful, vegan breakfast dish that combines tender Irish potatoes with tangy flavors.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "hash",
+      "amount": "1/4 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "tangy",
+      "amount": "1 tbsp",
+      "notes": "tangy relish or chutney"
+    },
+    {
+      "name": "semolina",
+      "amount": "1/2 cup",
+      "notes": "for breading"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and dice the Irish potatoes into small cubes.",
+    "In a bowl, mix together the diced potatoes, hash, and tangy relish.",
+    "Dip each potato piece into the semolina, coating evenly.",
+    "Place the coated potatoes on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve hot, garnished with additional tangy relish if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "breakfast",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-irish-semolina-rimacinata-hash--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:15:26.240Z"
+}
