@@ -1,0 +1,78 @@
+{
+  "slug": "tender-jamaican-grape-tomatoes-casserole--vegan",
+  "title": "Jamaican Grape Casserole",
+  "description": "A sweet and savory vegan casserole inspired by Jamaican flavors.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Tender",
+      "amount": "1 cup, cubed (such as jackfruit or portobello mushrooms)"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Casserole mix",
+      "amount": "1 box"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat coconut oil over medium heat.",
+    "Add the cubed tender and cook until browned, about 5 minutes.",
+    "Add the diced tomatoes, Jamaican allspice, and nutritional yeast to the skillet. Cook for an additional 2-3 minutes.",
+    "In a separate bowl, mix the casserole mix with water according to package instructions.",
+    "In a 9x13 inch baking dish, create a layer of the casserole mixture.",
+    "Top the casserole mixture with the grape halves.",
+    "Add the tender and tomato mixture on top of the grapes.",
+    "Repeat the layers, ending with a layer of casserole mixture on top.",
+    "Bake for 30-40 minutes, or until the casserole is hot and the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "caribbean",
+    "grape",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-grape-tomatoes-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:46:27.528Z"
+}
