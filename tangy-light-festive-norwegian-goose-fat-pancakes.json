@@ -1,0 +1,77 @@
+{
+  "slug": "tangy-light-festive-norwegian-goose-fat-pancakes",
+  "title": "Norwegian Goose Pancakes",
+  "description": "A festive and savory breakfast dish that combines the flavors of Norway with a fluffy pancake, featuring a main ingredient of goose.",
+  "cuisine": "norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "goose breast",
+      "amount": "1 pound, diced",
+      "notes": "Cook to an internal temperature of 165°F (74°C)"
+    },
+    {
+      "name": "pancakes mix",
+      "amount": "1 cup",
+      "notes": "Gluten-free pancakes mix recommended"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "For soaking pancakes"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "Optional topping"
+    },
+    {
+      "name": "tangy mustard",
+      "amount": "2 tablespoons",
+      "notes": "For goose marinade"
+    },
+    {
+      "name": "festive salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "fat",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a shallow dish, mix together the tangy mustard, festive salt, and heavy cream.",
+    "Add the diced goose breast to the marinade and coat evenly.",
+    "Pan-fry the goose breast until cooked through, then set aside.",
+    "Cook the pancakes according to the mix instructions, until fluffy and golden.",
+    "Soak the pancakes in the heavy cream mixture for 2-3 minutes.",
+    "Serve the soaked pancakes with the pan-fried goose breast, and a drizzle of maple syrup if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "norwegian",
+    "goose"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-festive-norwegian-goose-fat-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:09:12.678Z"
+}
