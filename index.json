@@ -13183,5 +13183,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 170,
     "shard": "t"
+  },
+  {
+    "slug": "thick-and-mellow-australian-sausage-bake--vegan",
+    "title": "Australian Vegan Sausage Bake",
+    "tags": [
+      "australian",
+      "vegan",
+      "sausage",
+      "bake",
+      "comfortfood"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 50,
+    "shard": "t"
   }
 ]
