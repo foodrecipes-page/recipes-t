@@ -1,0 +1,73 @@
+{
+  "slug": "tenderly-roasted-italian-pickles-ravioli",
+  "title": "Italian Roasted Ravioli",
+  "description": "A simple yet flavorful dish that pairs the comfort of roasted ravioli with the tanginess of pickles.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ravioli",
+      "amount": "12 oz",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup, sliced",
+      "notes": "any type of pickle"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting ravioli"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup, grated",
+      "notes": "optional"
+    },
+    {
+      "name": "basil",
+      "amount": "1 tsp, dried",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Place the ravioli on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with garlic, parmesan cheese, and basil (if using).",
+    "Toss the ravioli to coat evenly.",
+    "Roast in the preheated oven for 15-20 minutes, or until golden brown.",
+    "While the ravioli is roasting, heat a skillet over medium heat.",
+    "Add the sliced pickles and cook for 2-3 minutes, or until slightly caramelized.",
+    "Serve the roasted ravioli with the pickles on top.",
+    "Optional: sprinkle with extra parmesan cheese and basil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "roasted",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-roasted-italian-pickles-ravioli",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:41:44.349Z"
+}
