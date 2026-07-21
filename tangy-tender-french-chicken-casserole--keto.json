@@ -1,0 +1,91 @@
+{
+  "slug": "tangy-tender-french-chicken-casserole--keto",
+  "title": "French Chicken Casserole",
+  "description": "A flavorful keto French chicken casserole that's both healthy and delicious.",
+  "cuisine": "French",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "French mushroom sauce",
+      "amount": "1 jar",
+      "notes": ""
+    },
+    {
+      "name": "Tender French bread",
+      "amount": "1 baguette",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Tangy cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Keto cream cheese",
+      "amount": "1/2 cup softened",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the baguette into 1-inch cubes and set aside.",
+    "In a large skillet, melt 1 tablespoon of butter over medium heat. Add the chicken and cook until browned and cooked through.",
+    "Add the mushroom sauce to the skillet and stir to combine. Bring to a simmer and let cook for 2-3 minutes.",
+    "In a large mixing bowl, combine the cooked chicken and mushroom sauce mixture.",
+    "Stir in the softened cream cheese until melted and smooth.",
+    "Add the shredded cheddar cheese, garlic powder, salt, and pepper to the bowl and stir until combined.",
+    "Add the cubed baguette to the bowl and stir until the bread is evenly coated with the cheese mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish and dot the top with the remaining 1 tablespoon of butter.",
+    "Bake for 25-30 minutes or until the top is golden brown and the casserole is heated through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "french",
+    "casserole",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-french-chicken-casserole--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:10:14.727Z"
+}
