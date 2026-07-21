@@ -1,0 +1,80 @@
+{
+  "slug": "taco-shell-sticks--vegan",
+  "title": "Vegan Taco Tostadas",
+  "description": "A delicious vegan taco recipe using corn tortillas, beans, and vegetables. Perfect for a quick and easy dinner.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": null
+    },
+    {
+      "name": "black beans, cooked",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "roasted bell peppers, diced",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onions, diced",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "avocado, diced",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap tortillas in foil and bake for 10 minutes.",
+    "Sauté onions, bell peppers, and cumin in a pan for 5 minutes.",
+    "Add cooked black beans and salsa to the pan and stir to combine.",
+    "Assemble tostadas by spooning bean mixture onto tortillas and topping with diced tomatoes and avocado.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "tacos",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/taco-shell-sticks--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:38:45.543Z"
+}
