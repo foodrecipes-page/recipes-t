@@ -13387,5 +13387,18 @@
     "cuisine": "fish",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tender-fermented-raspberries-dessert--french",
+    "title": "French Raspberry Tart",
+    "tags": [
+      "french",
+      "raspberry",
+      "tart",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 70,
+    "shard": "t"
   }
 ]
