@@ -13464,5 +13464,17 @@
     "cuisine": "Chinese",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tasty-brazilian-shrimp-bao--italian",
+    "title": "Shrimp and Bao Italian Fusion",
+    "tags": [
+      "italian",
+      "seafood",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "t"
   }
 ]
