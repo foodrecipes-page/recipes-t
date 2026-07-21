@@ -1,0 +1,82 @@
+{
+  "slug": "tasty-brazilian-shrimp-bao--italian",
+  "title": "Shrimp and Bao Italian Fusion",
+  "description": "A unique Italian dish featuring shrimp and bao as main ingredients. The result is a flavorful and savory meal that blends different cultures.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "bao",
+      "amount": "4 pieces",
+      "notes": "steamed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Add the italian seasoning and lemon juice to the skillet and stir to combine.",
+    "Add the cherry tomatoes to the skillet and cook for an additional 2 minutes.",
+    "Serve the shrimp and cherry tomatoes over the steamed bao.",
+    "Garnish with fresh basil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "seafood",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-brazilian-shrimp-bao--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T10:22:00.305Z"
+}
