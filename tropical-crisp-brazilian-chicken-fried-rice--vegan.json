@@ -1,0 +1,77 @@
+{
+  "slug": "tropical-crisp-brazilian-chicken-fried-rice--vegan",
+  "title": "Brazilian Coconut Rice Bowl",
+  "description": "A flavorful and nutritious vegan dish inspired by Brazilian cuisine. This recipe combines tropical flavors with a crispy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tropical fruit (pineapple, mango)",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crisp rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brazilian spices (cumin, coriander)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegan vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add tropical fruit and cook for 3-4 minutes, or until slightly caramelized.",
+    "Add crisp rice and stir to combine with fruit.",
+    "Add brazilian spices, vegan vinegar, and salt. Stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the rice is coated with the spice mixture.",
+    "Stir in coconut milk and cook for 1-2 minutes, or until heated through.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Optional: add a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "brazilian",
+    "tropical",
+    "rice-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-crisp-brazilian-chicken-fried-rice--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:34:23.499Z"
+}
