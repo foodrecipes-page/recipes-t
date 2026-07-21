@@ -1,0 +1,91 @@
+{
+  "slug": "tangy-smoked-beans-stir-fry--vegan",
+  "title": "Smoked Bean Stir Fry",
+  "description": "A flavorful and nutritious vegan stir fry made with smoked beans and a tangy sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Smoked beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tablespoons",
+      "notes": "make your own or store-bought"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce (make sure it's vegan)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the bell pepper and snow peas and stir-fry for 2-3 minutes.",
+    "Add the smoked beans and tangy sauce and stir-fry for 1-2 minutes.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot over rice or noodles.",
+    "Garnish with sliced green onions or sesame seeds if desired.",
+    "Enjoy your delicious smoked bean stir fry!",
+    "Serve immediately and store leftovers in the refrigerator for up to 3 days.",
+    "Reheat the stir fry in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "asian",
+    "stir-fry",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-smoked-beans-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:45:34.715Z"
+}
