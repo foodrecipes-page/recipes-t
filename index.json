@@ -13494,5 +13494,31 @@
     "cuisine": "german",
     "totalTimeMin": 18,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-smoked-beans-stir-fry--vegan",
+    "title": "Smoked Bean Stir Fry",
+    "tags": [
+      "vegan",
+      "asian",
+      "stir-fry",
+      "beans"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tropical-crisp-brazilian-chicken-fried-rice--vegan",
+    "title": "Brazilian Coconut Rice Bowl",
+    "tags": [
+      "vegan",
+      "brazilian",
+      "tropical",
+      "rice-bowl"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
