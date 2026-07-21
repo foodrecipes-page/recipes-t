@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-chewy-ukrainian-black-treacle-crumble--vegan",
+  "title": "Tangy Ukrainian Crumble",
+  "description": "A delicious vegan dessert made with a tangy filling and a crunchy crumble topping.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tangy black treacle",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Ukrainian prunes",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Tangy apple",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegan butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chewy oats",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the tangy black treacle, brown sugar, and flour.",
+    "Add in the chopped apple and mix until well combined.",
+    "Transfer the mixture to a 9x9 inch baking dish.",
+    "In a separate bowl, mix together the crumble, vegan butter, and chewy oats.",
+    "Top the apple mixture with the crumble mixture.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "crumble",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-ukrainian-black-treacle-crumble--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:09:32.453Z"
+}
