@@ -13520,5 +13520,43 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tasty-ukrainian-prawns-stew--german",
+    "title": "Pan-Seared Prawns with German-Style Stew",
+    "tags": [
+      "german",
+      "stew",
+      "prawns",
+      "seafood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-shattering-egyptian-basil-paella--indian",
+    "title": "Pan-Seared Paella with Egyptian Spices and Basil",
+    "tags": [
+      "indian",
+      "paella",
+      "egyptian-spices",
+      "basil"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-rich-polish-pork-stew--german",
+    "title": "Traditional German Pork Stew",
+    "tags": [
+      "german",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "t"
   }
 ]
