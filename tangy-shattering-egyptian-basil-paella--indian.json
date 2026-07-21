@@ -1,0 +1,63 @@
+{
+  "slug": "tangy-shattering-egyptian-basil-paella--indian",
+  "title": "Pan-Seared Paella with Egyptian Spices and Basil",
+  "description": "A flavorful and aromatic paella dish infused with the warmth of Egyptian spices, served with a hint of fresh basil.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Paella",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add Egyptian spices and cook for 1 minute, until fragrant.",
+    "Add paella and cook for 5 minutes, until lightly browned.",
+    "Stir in tangy sauce and cook for an additional 2 minutes.",
+    "Garnish with chopped basil and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paella",
+    "egyptian-spices",
+    "basil"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-shattering-egyptian-basil-paella--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:09:14.494Z"
+}
