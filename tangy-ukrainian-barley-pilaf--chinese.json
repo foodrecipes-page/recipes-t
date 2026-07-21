@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-ukrainian-barley-pilaf--chinese",
+  "title": "Barley Pilaf in Chinese Style",
+  "description": "A flavorful, savory barley pilaf with a Chinese twist, incorporating tangy and Ukrainian-inspired flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barley",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small, diced",
+      "notes": "Thinly slice the onion for better flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ukrainian pilaf spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, heat the oil over medium heat. Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the garlic and cook for an additional 1 minute.",
+    "Stir in the barley, soy sauce, tangy sauce, and pilaf spice blend. Cook for 1 minute.",
+    "Add the water and bring to a boil. Reduce heat to low, cover, and simmer for 20-25 minutes, or until the barley is tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "barley",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-ukrainian-barley-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T09:45:44.994Z"
+}
