@@ -4657,17 +4657,14 @@
   },
   {
     "slug": "tasty-briny-vietnamese-crab-bun-rieu",
-    "title": "Tasty Briny Vietnamese Crab Bun Rieu",
+    "title": "Vietnamese Crab Bun Soup",
     "tags": [
-      "briny-flavors",
-      "gluten-free-options",
-      "low-calorie-meals",
-      "monsoon-season",
-      "seafood-recipes",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "crab",
+      "soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -13475,6 +13472,30 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
+    "slug": "taco-shell-sticks--vegan",
+    "title": "Vegan Taco Tostadas",
+    "tags": [
+      "vegan",
+      "tacos",
+      "mexican"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "trout-toastie--german",
+    "title": "Grilled Trout with Toastie Crust",
+    "tags": [
+      "german",
+      "fish",
+      "grill"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
     "shard": "t"
   }
 ]
