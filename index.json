@@ -2982,16 +2982,15 @@
   },
   {
     "slug": "tangy-light-italian-egg-stir-fry",
-    "title": "Tangy Light Italian Egg Stir-fry",
+    "title": "Egg Italian Stir Fry",
     "tags": [
-      "tangy",
-      "light",
       "italian",
-      "stir-fry",
-      "high-protein-friendly"
+      "breakfast",
+      "eggs",
+      "vegetarian"
     ],
-    "cuisine": "Italian (Neapolitan)",
-    "totalTimeMin": 13,
+    "cuisine": "italian",
+    "totalTimeMin": 15,
     "shard": "t"
   },
   {
@@ -13413,6 +13412,19 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-chewy-ukrainian-black-treacle-crumble--vegan",
+    "title": "Tangy Ukrainian Crumble",
+    "tags": [
+      "vegan",
+      "dessert",
+      "crumble",
+      "ukrainian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "t"
   }
 ]
