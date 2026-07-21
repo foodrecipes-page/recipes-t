@@ -13426,5 +13426,43 @@
     "cuisine": null,
     "totalTimeMin": 55,
     "shard": "t"
+  },
+  {
+    "slug": "tender-smoked-algerian-chicken-tagine--chinese",
+    "title": "Smoked Chicken and Algerian Spices Tagine",
+    "tags": [
+      "chinese",
+      "smoked-chicken",
+      "algerian-spices"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-french-chicken-casserole--keto",
+    "title": "French Chicken Casserole",
+    "tags": [
+      "keto",
+      "french",
+      "casserole",
+      "chicken"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-ukrainian-barley-pilaf--chinese",
+    "title": "Barley Pilaf in Chinese Style",
+    "tags": [
+      "chinese",
+      "barley",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
