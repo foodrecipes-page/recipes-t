@@ -1,0 +1,84 @@
+{
+  "slug": "tangy-velvety-saudi-arabian-tripe-stew--french",
+  "title": "French Tripe Stew",
+  "description": "A hearty, comforting stew originating from the streets of France, featuring tender tripe in a rich, tangy broth.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore",
+    "pescetarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Tangy saudi arabian stew mix",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the tripe on all sides, about 5-7 minutes.",
+    "Remove the tripe from the pot and set aside.",
+    "Add the chopped onion, carrot, and potato to the pot, cooking until the vegetables are tender, about 10 minutes.",
+    "Add the stew mix, vegetable broth, salt, and black pepper to the pot, stirring to combine.",
+    "Return the tripe to the pot and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 2-3 hours, or until the tripe is tender.",
+    "Serve the stew hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-saudi-arabian-tripe-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:08:22.255Z"
+}
