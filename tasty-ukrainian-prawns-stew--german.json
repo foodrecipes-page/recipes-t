@@ -1,0 +1,79 @@
+{
+  "slug": "tasty-ukrainian-prawns-stew--german",
+  "title": "Pan-Seared Prawns with German-Style Stew",
+  "description": "A hearty German-inspired stew paired with pan-seared prawns for a delightful twist.",
+  "cuisine": "german",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 oz",
+      "notes": "Fresh, peeled, and deveined"
+    },
+    {
+      "name": "stew",
+      "amount": "1 package",
+      "notes": "German-style stew mix with beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "All-purpose flour for dusting prawns"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter for pan-searing"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the caraway seeds and ground beef stew mix.",
+    "Stir in beef broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Meanwhile, dust the prawns with all-purpose flour.",
+    "Pan-sear the prawns in a separate skillet with some oil until golden brown.",
+    "Serve the pan-seared prawns with the hearty German-style stew."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "prawns",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-ukrainian-prawns-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:58:44.021Z"
+}
