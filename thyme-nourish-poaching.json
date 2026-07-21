@@ -1,0 +1,68 @@
+{
+  "slug": "thyme-nourish-poaching",
+  "title": "Herbed Poached Salmon",
+  "description": "A simple and healthy salmon dish flavored with fresh thyme and poached to perfection.",
+  "cuisine": "American",
+  "diet": [
+    "healthy",
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "2",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "a few sprigs",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Nourish",
+      "amount": "optional",
+      "notes": "For added flavor"
+    }
+  ],
+  "instructions": [
+    "Rinse the salmon fillet under cold water and pat it dry with a paper towel.",
+    "Season the salmon with salt and pepper.",
+    "Add a few sprigs of fresh thyme to the poaching liquid (water or fish stock).",
+    "Place the salmon in the poaching liquid and bring it to a simmer.",
+    "Reduce the heat to a low temperature (around 145°F) and poach the salmon for 8-10 minutes or until it's cooked through.",
+    "Remove the salmon from the poaching liquid and place it on a plate.",
+    "Garnish with additional thyme sprigs if desired.",
+    "Optional: Add a dash of nourish to the poaching liquid for added flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "poached",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thyme-nourish-poaching",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:37:50.306Z"
+}
