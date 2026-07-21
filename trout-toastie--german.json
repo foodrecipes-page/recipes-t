@@ -1,0 +1,70 @@
+{
+  "slug": "trout-toastie--german",
+  "title": "Grilled Trout with Toastie Crust",
+  "description": "A German-inspired dish featuring grilled trout and a crispy toastie crust.",
+  "cuisine": "german",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "white or whole wheat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "parmesan",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Rinse the trout fillets and pat dry with paper towels.",
+    "In a small bowl, mix together the butter, parmesan, salt, and pepper.",
+    "Place a slice of bread on a flat surface and spread a quarter of the butter mixture on top.",
+    "Place a trout fillet on top of the bread and fold the bread over to form a crust.",
+    "Repeat with the remaining ingredients.",
+    "Grill the trout for 4-6 minutes per side, or until cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/trout-toastie--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:45:31.119Z"
+}
