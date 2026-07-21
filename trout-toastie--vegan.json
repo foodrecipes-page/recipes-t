@@ -1,0 +1,77 @@
+{
+  "slug": "trout-toastie--vegan",
+  "title": "Pan-Seared Trout with Lemon and Herbs",
+  "description": "A simple and flavorful dish that brings out the best in trout. Paired with a side of toastie for a satisfying meal.",
+  "cuisine": "fish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "Juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet over medium-high heat.",
+    "2. Season the trout fillets with salt and pepper.",
+    "3. Add olive oil to the skillet and sear the trout for 2-3 minutes on each side, or until cooked through.",
+    "4. Remove the trout from the skillet and set aside.",
+    "5. Add the lemon juice to the skillet and stir to combine.",
+    "6. Add the chopped parsley and dill to the skillet and stir to combine.",
+    "7. Serve the trout with the lemon and herb sauce spooned over the top.",
+    "8. Serve with a side of toastie for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "lemon",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/trout-toastie--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:48:36.932Z"
+}
