@@ -13363,5 +13363,29 @@
     "cuisine": "indian",
     "totalTimeMin": 210,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-velvety-saudi-arabian-tripe-stew--french",
+    "title": "French Tripe Stew",
+    "tags": [
+      "french",
+      "stew",
+      "hearty"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 140,
+    "shard": "t"
+  },
+  {
+    "slug": "trout-toastie--vegan",
+    "title": "Pan-Seared Trout with Lemon and Herbs",
+    "tags": [
+      "fish",
+      "lemon",
+      "herbs"
+    ],
+    "cuisine": "fish",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
