@@ -1,0 +1,95 @@
+{
+  "slug": "tasty-briny-vietnamese-crab-bun-rieu",
+  "title": "Vietnamese Crab Bun Soup",
+  "description": "A flavorful and spicy soup made with crab, bun, and rieu, perfect for a cold winter day.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crab meat",
+      "amount": "1 pound",
+      "notes": "Fresh crab meat from the market"
+    },
+    {
+      "name": "Vietnamese bun",
+      "amount": "1 package",
+      "notes": "Dried rice noodles"
+    },
+    {
+      "name": "Rieu paste",
+      "amount": "2 tablespoons",
+      "notes": "Spicy fish sauce paste"
+    },
+    {
+      "name": "Tasty fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Fish sauce with garlic and chili"
+    },
+    {
+      "name": "Briny fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "Fish sauce with fish and salt"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For broth"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Chili",
+      "amount": "1-2",
+      "notes": "For spice"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Add garlic and sauté for another minute.",
+    "Add rieu paste and sauté for 1 minute.",
+    "Add crab meat and stir to combine.",
+    "Add fish sauces, water, and stir to combine.",
+    "Bring to a boil, then reduce heat to low.",
+    "Simmer for 10 minutes.",
+    "Add bun and cook for another 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "crab",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-briny-vietnamese-crab-bun-rieu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:56:51.128Z"
+}
