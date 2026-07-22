@@ -1,0 +1,91 @@
+{
+  "slug": "tangy-gooey-filipino-pork-sinigang",
+  "title": "Filipino Pork Sinigang Stew",
+  "description": "A classic Filipino sour soup made with pork and various vegetables in a tangy broth.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sinigang mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tangy tamarind paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bok choy",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "filipino long green chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Sear the pork pieces until browned on all sides.",
+    "Remove the pork from the pot and set aside.",
+    "Add more oil if necessary and sauté the onion and tomato until softened.",
+    "Add the sinigang mix, tamarind paste, and water to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Return the pork to the pot and cook for an additional 10 minutes, or until the meat is tender.",
+    "Add the chopped bok choy and green chili to the pot and cook until wilted.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "soup",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-filipino-pork-sinigang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:52:07.566Z"
+}
