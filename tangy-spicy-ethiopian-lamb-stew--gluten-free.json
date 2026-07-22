@@ -1,0 +1,95 @@
+{
+  "slug": "tangy-spicy-ethiopian-lamb-stew--gluten-free",
+  "title": "Ethiopian Lamb Stew",
+  "description": "A flavorful and spicy stew made with lamb, Ethiopian spices, and a tangy kick. This gluten-free dish is perfect for a cold winter night.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Berbere Spice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium-high heat.",
+    "2. Add lamb and cook until browned, about 5 minutes.",
+    "3. Remove lamb and set aside.",
+    "4. Add onion, garlic, and ginger to the pot and cook until softened.",
+    "5. Stir in Berbere Spice, Tangy Paprika, and Spicy Cayenne Pepper; cook for 1 minute.",
+    "6. Add tomato paste and cook for 1 minute.",
+    "7. Add chicken broth and Red Wine; bring to a boil.",
+    "8. Return lamb to the pot and simmer for 2-3 hours.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve hot over gluten-free bread or with a side of injera."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "ethiopian",
+    "stew",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-spicy-ethiopian-lamb-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:27:56.661Z"
+}
