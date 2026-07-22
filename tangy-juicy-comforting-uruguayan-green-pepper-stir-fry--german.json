@@ -1,0 +1,88 @@
+{
+  "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry--german",
+  "title": "Uruguayan-Style German Schnitzel",
+  "description": "A twist on classic German schnitzel, this version is inspired by Uruguayan cuisine. The tangy and juicy flavors of the dish will transport you to the heart of South America.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork cutlets",
+      "amount": "4",
+      "notes": "about 1/4 inch thick"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "green pepper",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare the chimichurri by combining 1 cup parsley, 1 cup oregano, 2 cloves garlic, 1/2 cup red pepper flakes, 1/4 cup red wine vinegar, and 1/4 cup olive oil in a bowl. Season with salt and pepper to taste.",
+    "Season the pork cutlets with salt and pepper.",
+    "Dredge the pork cutlets in flour, shaking off excess.",
+    "Dip the pork cutlets in eggs, making sure to coat completely.",
+    "Dredge the pork cutlets in bread crumbs, pressing gently to adhere.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Fry the pork cutlets until golden brown and cooked through, about 3-4 minutes per side.",
+    "Transfer the pork cutlets to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the sliced green pepper and cook until tender, about 3-4 minutes.",
+    "Serve the pork cutlets with the green pepper and a side of uruguayan chimichurri.",
+    "Garnish with parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "uruguayan",
+    "schnitzel",
+    "comforting",
+    "tangy",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-juicy-comforting-uruguayan-green-pepper-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:24:42.221Z"
+}
