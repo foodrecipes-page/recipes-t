@@ -2261,17 +2261,15 @@
   },
   {
     "slug": "tangy-gooey-filipino-pork-sinigang",
-    "title": "Tangy Gooey Filipino Pork Sinigang",
+    "title": "Filipino Pork Sinigang Stew",
     "tags": [
       "filipino",
-      "sinigang",
-      "pork",
-      "tangy",
-      "gooey",
-      "dairy-free"
+      "soup",
+      "stew",
+      "pork"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 170,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
