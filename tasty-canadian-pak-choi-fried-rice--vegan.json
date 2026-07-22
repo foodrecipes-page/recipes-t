@@ -1,0 +1,70 @@
+{
+  "slug": "tasty-canadian-pak-choi-fried-rice--vegan",
+  "title": "Vegan Pak Choi Stir Fry",
+  "description": "A simple and flavorful vegan stir fry made with pak choi and served with a side of fried rice.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pak Choi",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Fried Rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Tasty Tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Canadian Canola Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Chopped Green Onions",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of canola oil in a large skillet or wok over medium-high heat.",
+    "Add the diced tomatoes and cook for 2-3 minutes, or until they start to soften.",
+    "Add the pak choi to the skillet and cook for 2-3 minutes, or until it starts to wilt.",
+    "Stir in the fried rice and cook for an additional 1-2 minutes, or until the rice is heated through.",
+    "Season with salt to taste.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "pak-choi",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-canadian-pak-choi-fried-rice--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:19:59.700Z"
+}
