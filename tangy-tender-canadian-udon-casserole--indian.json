@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-tender-canadian-udon-casserole--indian",
+  "title": "Tangy Udon Casserole",
+  "description": "A fusion of Indian and Canadian flavors, this tangy udon casserole is a unique twist on traditional dishes.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "250g",
+      "notes": "preferably Japanese udon noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing the casserole dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "250g",
+      "notes": "crushed"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "2 tbsp",
+      "notes": "available at most supermarkets"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "100g",
+      "notes": "shredded"
+    },
+    {
+      "name": "casserole dish",
+      "amount": "1",
+      "notes": "for assembly"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cook the udon noodles according to package instructions. Drain and set aside.",
+    "In a pan, heat 1 tbsp of vegetable oil over medium heat. Add the chopped onion and cook until softened.",
+    "Add the grated ginger and cook for 1 minute.",
+    "Add the crushed canned tomatoes, tangy sauce, and cooked udon noodles to the pan. Stir well to combine.",
+    "Transfer the mixture to a greased casserole dish.",
+    "Top with shredded cheddar cheese.",
+    "Bake in the preheated oven for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "casserole",
+    "udon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-canadian-udon-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:14:28.878Z"
+}
