@@ -1,0 +1,82 @@
+{
+  "slug": "tasty-pungent-greek-gouda-cheese-lasagna--thai",
+  "title": "Spicy Pungent Gouda Lasagna",
+  "description": "A unique Thai-inspired lasagna with gouda cheese and a pungent twist.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gouda cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": null
+    },
+    {
+      "name": "Tasty sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Pungent chili peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "To be used as a topping"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded mozzarella or parmesan"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "To add Thai flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a pan, heat 1 tbsp of oil and sauté the pungent chili peppers.",
+    "Add the tasty sauce, Thai red curry paste, and 1 cup of water to the pan.",
+    "Bring the sauce to a simmer and let it cook for 5 minutes.",
+    "In a separate bowl, mix the gouda cheese and 1/2 cup of the sauce.",
+    "Spread a layer of the sauce in the bottom of a baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the gouda cheese mixture on top of the noodles.",
+    "Repeat the layers, ending with a layer of noodles and the remaining sauce.",
+    "Top with shredded cheese and bake for 25-30 minutes.",
+    "Let the lasagna rest for 10 minutes before serving.",
+    "Serve with Greek yogurt as a topping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "thai",
+    "cheese",
+    "gouda",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-pungent-greek-gouda-cheese-lasagna--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T06:53:57.393Z"
+}
