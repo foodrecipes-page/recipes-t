@@ -1,0 +1,66 @@
+{
+  "slug": "tender-salted-saudia-tomato-stir-fry",
+  "title": "Stir Fry with Saudi Tomatoes",
+  "description": "A simple and quick stir fry dish made with saudia tomatoes, perfect for a meal on the go.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi tomatoes",
+      "amount": "2",
+      "notes": "any variety will do"
+    },
+    {
+      "name": "Tender",
+      "amount": "1",
+      "notes": "any color or type will do"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use as needed"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil works well"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add the tender and cook for 3-4 minutes, until slightly browned.",
+    "Add the Saudi tomatoes and cook for another 4-5 minutes, until they start to soften.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with any additional herbs or spices if desired.",
+    "Serve immediately.",
+    "Enjoy your meal!",
+    "Clean up any mess you made in the kitchen!",
+    "Pat yourself on the back for a job well done!",
+    "Take a nap!",
+    "Relax and enjoy your meal!"
+  ],
+  "prepTimeMin": 3,
+  "cookTimeMin": 8,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-salted-saudia-tomato-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:45:23.531Z"
+}
