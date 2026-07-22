@@ -9102,14 +9102,14 @@
   },
   {
     "slug": "tender-salted-saudia-tomato-stir-fry",
-    "title": "Tender Salted Saudi Tomato Stir-fry",
+    "title": "Stir Fry with Saudi Tomatoes",
     "tags": [
-      "tomato",
       "stir-fry",
-      "saudi-arabian"
+      "vegetarian",
+      "quick-meal"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 22,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 11,
     "shard": "t"
   },
   {
@@ -13553,6 +13553,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-moroccan-citrus-peel-crumble--german",
+    "title": "Moroccan Apple Crumble",
+    "tags": [
+      "german",
+      "moroccan",
+      "apple",
+      "crumble",
+      "dessert"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 55,
     "shard": "t"
   }
 ]
