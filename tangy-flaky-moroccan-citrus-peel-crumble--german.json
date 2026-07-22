@@ -1,0 +1,92 @@
+{
+  "slug": "tangy-flaky-moroccan-citrus-peel-crumble--german",
+  "title": "Moroccan Apple Crumble",
+  "description": "A traditional German dessert with a twist of Moroccan spices, topped with a crunchy crumble.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "6-8",
+      "notes": "various types"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tangy crumble topping",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Citrus zest",
+      "amount": "1 tsp",
+      "notes": "orange or lemon"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel, core, and slice the apples.",
+    "In a large bowl, combine the sliced apples, Moroccan spice blend, and granulated sugar. Mix until the apples are evenly coated.",
+    "Transfer the apple mixture to a baking dish.",
+    "Roll out the flaky pastry and cut it into strips.",
+    "Place the pastry strips on top of the apple mixture, weaving them together to form a lattice-top crust.",
+    "In a small bowl, mix together the tangy crumble topping ingredients until crumbly.",
+    "Sprinkle the crumble topping evenly over the pastry lattice.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown and the apples are tender.",
+    "Remove from the oven and sprinkle with confectioners' sugar. Serve warm, topped with additional citrus zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "moroccan",
+    "apple",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-moroccan-citrus-peel-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T19:35:09.640Z"
+}
