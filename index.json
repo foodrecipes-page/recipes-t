@@ -13568,5 +13568,17 @@
     "cuisine": "german",
     "totalTimeMin": 55,
     "shard": "t"
+  },
+  {
+    "slug": "tasty-canadian-pak-choi-fried-rice--vegan",
+    "title": "Vegan Pak Choi Stir Fry",
+    "tags": [
+      "stir-fry",
+      "pak-choi",
+      "vegan"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 18,
+    "shard": "t"
   }
 ]
