@@ -1,0 +1,93 @@
+{
+  "slug": "tender-american-black-bean-skewers--chinese",
+  "title": "Chinese Black Bean Beef Skewers",
+  "description": "Tender and flavorful beef skewers cooked in a Chinese-inspired black bean sauce. Serve as an appetizer or main dish.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "black bean",
+      "amount": "1/4 cup",
+      "notes": "Asian-style fermented black beans"
+    },
+    {
+      "name": "bean",
+      "amount": "1 can",
+      "notes": "diced kidney beans"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers.",
+    "In a small bowl, whisk together soy sauce, hoisin sauce, rice vinegar, brown sugar, garlic, and ginger.",
+    "Brush the black bean sauce onto both sides of the beef skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, heat the vegetable oil in a small saucepan over medium heat.",
+    "Add the diced black beans and stir-fry until heated through.",
+    "Serve the beef skewers with the black bean sauce and garnish with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "skewers",
+    "beef",
+    "black bean",
+    "gluten-free",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-black-bean-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:18:26.913Z"
+}
