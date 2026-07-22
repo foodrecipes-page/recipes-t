@@ -1,0 +1,97 @@
+{
+  "slug": "tangy-indian-basil-curry--keto",
+  "title": "Keto Indian Butter Chicken",
+  "description": "A rich and flavorful keto dish with tender chicken cooked in a creamy tomato curry sauce. Serve with a side of cauliflower rice for a low-carb meal.",
+  "cuisine": "indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "tangy cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breast with salt and black pepper.",
+    "2. In a large skillet, melt 1 tbsp of butter over medium-high heat.",
+    "3. Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "4. Remove the chicken from the skillet and set aside.",
+    "5. In the same skillet, add the remaining 1 tbsp of butter and melt.",
+    "6. Add the curry powder and cook for 1 minute, stirring constantly.",
+    "7. Add the diced tomatoes and cook for 2-3 minutes, or until they start to break down.",
+    "8. Add the heavy cream and garam masala to the skillet and stir to combine.",
+    "9. Return the chicken to the skillet and stir to coat with the sauce.",
+    "10. Reduce heat to low and simmer for 5-7 minutes, or until the chicken is cooked through.",
+    "11. Stir in the chopped basil and tangy cheese.",
+    "12. Serve hot over cauliflower rice and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "chicken",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indian-basil-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T02:48:32.768Z"
+}
