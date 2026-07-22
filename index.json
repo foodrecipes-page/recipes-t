@@ -13580,5 +13580,20 @@
     "cuisine": "Asian",
     "totalTimeMin": 18,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-juicy-comforting-uruguayan-green-pepper-stir-fry--german",
+    "title": "Uruguayan-Style German Schnitzel",
+    "tags": [
+      "german",
+      "uruguayan",
+      "schnitzel",
+      "comforting",
+      "tangy",
+      "juicy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "t"
   }
 ]
