@@ -2467,14 +2467,12 @@
   },
   {
     "slug": "tangy-indian-tomatoes-fritters",
-    "title": "Tangy Indian Tomatoes Fritters",
+    "title": "Tangy Indian Fritter Bites",
     "tags": [
-      "brunch",
-      "crispy",
-      "gluten-free",
-      "papillote",
-      "quick",
-      "vegan"
+      "indian",
+      "snack",
+      "vegetarian",
+      "easy-to-make"
     ],
     "cuisine": "Indian",
     "totalTimeMin": 25,
@@ -13594,6 +13592,45 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-gooey-chinese-pork-bao--vegetarian",
+    "title": "Bao Bites with Tangy Gooey Topping",
+    "tags": [
+      "vegetarian",
+      "bao",
+      "snack",
+      "dessert"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-slovakian-brown-rice-noodle-noodles--chinese",
+    "title": "Slovakian Noodle Stir Fry",
+    "tags": [
+      "chinese",
+      "noodle",
+      "stirfry",
+      "easyweeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-spicy-ethiopian-lamb-stew--gluten-free",
+    "title": "Ethiopian Lamb Stew",
+    "tags": [
+      "lamb",
+      "ethiopian",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 150,
     "shard": "t"
   }
 ]
