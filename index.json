@@ -13672,5 +13672,17 @@
     "cuisine": "indian",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-canadian-udon-casserole--indian",
+    "title": "Tangy Udon Casserole",
+    "tags": [
+      "indian",
+      "casserole",
+      "udon"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
