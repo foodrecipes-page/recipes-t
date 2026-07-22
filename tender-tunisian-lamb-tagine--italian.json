@@ -1,0 +1,86 @@
+{
+  "slug": "tender-tunisian-lamb-tagine--italian",
+  "title": "Tunisian Lamb Tagine with Italian Twist",
+  "description": "A fusion of traditional Tunisian and Italian flavors in this hearty lamb tagine. The tender lamb is slow-cooked in a rich and aromatic sauce, served with crusty Italian bread.",
+  "cuisine": "Italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, bone-in",
+      "amount": "1.5 kg",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Tender apricots",
+      "amount": "200g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tunisian preserved lemon",
+      "amount": "2",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Italian flat-leaf parsley",
+      "amount": "20g",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Extra virgin olive oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "White wine",
+      "amount": "250ml"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb pieces on all sides, then set aside.",
+    "Soften garlic and cook for 1 minute.",
+    "Add preserved lemon, cook for 1 minute.",
+    "Add wine, broth, and honey (if using). Stir to combine.",
+    "Return lamb to the pot, cover and transfer to the oven.",
+    "Braise at 160°C (325°F) for 2 hours.",
+    "Stir in chopped parsley and cook for a further 10 minutes.",
+    "Simmer on the stovetop for 10 minutes before serving.",
+    "Serve with crusty Italian bread and chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-tunisian-lamb-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:59:56.103Z"
+}
