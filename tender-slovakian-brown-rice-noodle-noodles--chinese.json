@@ -1,0 +1,85 @@
+{
+  "slug": "tender-slovakian-brown-rice-noodle-noodles--chinese",
+  "title": "Slovakian Noodle Stir Fry",
+  "description": "A flavorful Chinese-inspired stir fry made with Slovakian noodles and seasoned with brown rice.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian Noodles",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Tender",
+      "amount": "1 cup",
+      "notes": "chicken breast or substitute"
+    },
+    {
+      "name": "Brown Rice",
+      "amount": "2 cups",
+      "notes": "cooked for 3-4 minutes"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the soy sauce and stir to coat the chicken.",
+    "Add the cooked Slovakian noodles, garlic, and ginger to the wok.",
+    "Stir-fry for 2-3 minutes, until the noodles are well coated with the sauce.",
+    "Add the green onions and cook for an additional minute.",
+    "Serve hot and garnish with additional green onions if desired.",
+    "Cook time for the noodles is 3-5 minutes.",
+    "Cooking temperature for the chicken is 165°F (74°C).",
+    "Allow the dish to rest for 2 minutes before serving.",
+    "Adjust seasonings to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "noodle",
+    "stirfry",
+    "easyweeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-slovakian-brown-rice-noodle-noodles--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:25:55.943Z"
+}
