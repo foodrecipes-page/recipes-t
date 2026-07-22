@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-gooey-chinese-pork-bao--vegetarian",
+  "title": "Bao Bites with Tangy Gooey Topping",
+  "description": "A vegetarian twist on traditional bao, topped with a sweet and tangy gooey sauce. These bite-sized treats are perfect for a quick snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bao Buns",
+      "amount": "8-10",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Gooey Topping",
+      "amount": "1/2 cup",
+      "notes": "See ingredients below"
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "1/4 cup",
+      "notes": "See ingredients below"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut bao buns in half lengthwise and bake for 5-7 minutes or until lightly toasted.",
+    "Meanwhile, heat vegetable oil in a small saucepan over medium heat.",
+    "Add tangy sauce and stir until heated through.",
+    "To assemble, spoon gooey topping over the toasted bao buns.",
+    "Sprinkle with sesame seeds if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "bao",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-chinese-pork-bao--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:24:47.043Z"
+}
