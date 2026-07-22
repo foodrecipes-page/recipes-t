@@ -1,0 +1,85 @@
+{
+  "slug": "tangy-indian-tomatoes-fritters",
+  "title": "Tangy Indian Fritter Bites",
+  "description": "Crunchy fritters filled with a flavorful tangy Indian-inspired mixture, perfect as a snack or appetizer.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/4 cup",
+      "notes": "plain, non-fat"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Garam masala powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Indian-style fritter mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, whisk together flour, yogurt, ginger paste, garam masala powder, cumin powder, and red chili powder.",
+    "2. Add the diced tomatoes and mix well.",
+    "3. Add the Indian-style fritter mix and mix until a dough forms.",
+    "4. Divide the dough into small balls, about 1-inch diameter.",
+    "5. Heat about 2-3 inches of oil in a deep frying pan over medium heat.",
+    "6. When the oil is hot, add a few fritter balls to the pan (do not overcrowd).",
+    "7. Fry the fritters until they are golden brown, about 2-3 minutes on each side.",
+    "8. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "9. Serve the fritters hot with your favorite chutney or sauce.",
+    "10. Repeat the frying process with the remaining fritter balls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-indian-tomatoes-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:36:15.015Z"
+}
