@@ -13632,5 +13632,17 @@
     "cuisine": "Ethiopian",
     "totalTimeMin": 150,
     "shard": "t"
+  },
+  {
+    "slug": "tender-tunisian-lamb-tagine--italian",
+    "title": "Tunisian Lamb Tagine with Italian Twist",
+    "tags": [
+      "lamb",
+      "tagine",
+      "italian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 180,
+    "shard": "t"
   }
 ]
