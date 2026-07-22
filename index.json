@@ -13644,5 +13644,33 @@
     "cuisine": "Italian",
     "totalTimeMin": 180,
     "shard": "t"
+  },
+  {
+    "slug": "tender-american-black-bean-skewers--chinese",
+    "title": "Chinese Black Bean Beef Skewers",
+    "tags": [
+      "chinese",
+      "skewers",
+      "beef",
+      "black bean",
+      "gluten-free",
+      "low-carb"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-indian-basil-curry--keto",
+    "title": "Keto Indian Butter Chicken",
+    "tags": [
+      "keto",
+      "indian",
+      "chicken",
+      "dinner"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
