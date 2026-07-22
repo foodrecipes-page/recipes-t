@@ -13684,5 +13684,19 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tasty-pungent-greek-gouda-cheese-lasagna--thai",
+    "title": "Spicy Pungent Gouda Lasagna",
+    "tags": [
+      "lasagna",
+      "thai",
+      "cheese",
+      "gouda",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
