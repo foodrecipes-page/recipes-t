@@ -410,14 +410,16 @@
   },
   {
     "slug": "tangy-chewy-australian-cheese-stir-fry",
-    "title": "Tangy Chewy Australian Cheese Stir-fry",
+    "title": "Australian Cheese Fritters",
     "tags": [
-      "australian-dish",
-      "tangy-stir-fry",
-      "sugar-free-friendly"
+      "cheese",
+      "australian",
+      "vegetarian",
+      "snack",
+      "fritters"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 9,
     "shard": "t"
   },
   {
@@ -6616,16 +6618,15 @@
   },
   {
     "slug": "tender-buttery-rhubarb-crumble",
-    "title": "Tender Buttery Rhubarb Crumble",
+    "title": "Easy Rhubarb Crumble",
     "tags": [
-      "tender",
-      "buttery",
-      "light-german-dish",
-      "fold",
-      "dash-friendly"
+      "rhubarb",
+      "crumble",
+      "dessert",
+      "easy"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "British",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -10845,17 +10846,15 @@
   },
   {
     "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera",
-    "title": "Tenderly Roasted Ethiopian Yellow Pepper Injera",
+    "title": "Roasted Ethiopian Yellow Pepper Stew",
     "tags": [
-      "binchotan-charcoal",
-      "ethiopian-cuisine",
-      "macrobiotic-friendly",
-      "roasted-vegetables",
-      "robata-grill",
-      "smoky-flavor"
+      "ethiopian",
+      "vegetarian",
+      "stew",
+      "yellow-pepper"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
