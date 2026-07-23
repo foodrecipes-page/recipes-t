@@ -1,0 +1,92 @@
+{
+  "slug": "tender-rich-polish-pork-stew--thai",
+  "title": "Thai-Style Pork Stew",
+  "description": "A hearty and flavorful Thai-inspired stew made with tender pork, rich vegetables, and a blend of spices.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 2-inch pieces",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage, sliced",
+      "amount": "1/2 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the Polish sausage and cook until browned, about 3 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots and potatoes and cook for 5 minutes.",
+    "Add the tomato paste, fish sauce, brown sugar, and curry paste. Stir to combine.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Season with salt and serve hot.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stew",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-rich-polish-pork-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T10:11:29.476Z"
+}
