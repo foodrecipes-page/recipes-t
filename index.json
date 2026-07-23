@@ -7105,15 +7105,16 @@
   },
   {
     "slug": "tender-crunchy-spanish-hazelnut-stir-fry",
-    "title": "Tender Crunchy Spanish Hazelnut Stir-fry",
+    "title": "Spanish Stir Fry",
     "tags": [
-      "spanish-dish",
-      "crunchy-stir-fry",
-      "sour-creamy",
-      "gluten-free-friendly"
+      "spanish",
+      "stir-fry",
+      "vegetarian",
+      "quick",
+      "easy"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 65,
+    "totalTimeMin": 18,
     "shard": "t"
   },
   {
@@ -13747,6 +13748,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "tsmooth-mexican-avocado-tart--keto",
+    "title": "Keto Avocado Tacos",
+    "tags": [
+      "keto",
+      "avocado",
+      "tsmooth",
+      "mexican"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
     "shard": "t"
   }
 ]
