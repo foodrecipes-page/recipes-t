@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-chewy-australian-cheese-stir-fry",
+  "title": "Australian Cheese Fritters",
+  "description": "A tangy and savory cheese fritters recipe inspired by Australian cuisine. Perfect as a snack or as a side dish for your next BBQ.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "Tangy cheddar shredded"
+    },
+    {
+      "name": "stir",
+      "amount": "1/2 cup",
+      "notes": "Breadcrumbs"
+    },
+    {
+      "name": "fry",
+      "amount": "1/4 cup",
+      "notes": "Vegetable oil for frying"
+    },
+    {
+      "name": "chewy",
+      "amount": "1/4 cup",
+      "notes": "Breadcrumbs"
+    },
+    {
+      "name": "tangy",
+      "amount": "1/4 cup",
+      "notes": "Onion, finely chopped"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan over medium heat.",
+    "2. In a bowl, mix together cheese, stir (breadcrumbs), fry (oil), chewy (breadcrumbs), and tangy (onion).",
+    "3. Using a spoon, drop small balls of the mixture into the hot oil.",
+    "4. Fry the fritters until golden brown, about 3-4 minutes.",
+    "5. Remove the fritters from the oil with a slotted spoon and place them on a paper towel to drain excess oil.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "australian",
+    "vegetarian",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-australian-cheese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:44:38.021Z"
+}
