@@ -1,0 +1,93 @@
+{
+  "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera",
+  "title": "Roasted Ethiopian Yellow Pepper Stew",
+  "description": "A flavorful and spicy Ethiopian-inspired stew made with roasted yellow peppers, served over injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow peppers",
+      "amount": "3",
+      "notes": "any color bell pepper works but yellow is traditional"
+    },
+    {
+      "name": "injera",
+      "amount": "4-6 pieces",
+      "notes": "traditionally served with injera bread"
+    },
+    {
+      "name": "roasted garlic",
+      "amount": "3 cloves",
+      "notes": "mince roasted garlic for added flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chop onion and sauté until softened"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grate ginger for added spice"
+    },
+    {
+      "name": "tenderly cooked vegetables",
+      "amount": "any combination of carrots, zucchini, and cabbage",
+      "notes": "add your choice of vegetables for added nutrition"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality olive oil for best flavor"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste for desired level of heat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "season to taste with salt and pepper"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground pepper is best"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roast yellow peppers in the oven for 30-40 minutes, or until skin is blistered and charred.",
+    "Peel roasted peppers and chop into large pieces.",
+    "In a large pan, heat olive oil over medium heat. Add onion and sauté until softened, about 5 minutes.",
+    "Add minced roasted garlic, grated ginger, and chili powder. Stir to combine.",
+    "Add tenderly cooked vegetables and roasted peppers to the pan. Season with salt and pepper to taste.",
+    "Serve over injera bread and enjoy!",
+    "Note: Traditionally, Ethiopian stews are made with a combination of vegetables and meat, but this vegetarian version is a great alternative."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "vegetarian",
+    "stew",
+    "yellow-pepper"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-roasted-ethiopian-yellow-pepper-injera",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:40:08.251Z"
+}
