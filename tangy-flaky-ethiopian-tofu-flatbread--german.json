@@ -1,0 +1,82 @@
+{
+  "slug": "tangy-flaky-ethiopian-tofu-flatbread--german",
+  "title": "Ethiopian Tofu Schnitzel with German Flatbread",
+  "description": "A fusion of Ethiopian and German flavors, this dish features crispy tofu schnitzel served with traditional German flatbread. The tangy and flaky flatbread pairs perfectly with the spicy Ethiopian flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "extra-firm, drained and pressed"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 pieces",
+      "notes": "homemade or store-bought, flaky"
+    },
+    {
+      "name": "tangy tahini sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ethiopian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose, for breading"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten, for breading"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the tofu into thin cutlets.",
+    "Season the tofu with Ethiopian spice blend.",
+    "In a shallow dish, mix together flour and a pinch of salt.",
+    "In a separate dish, beat the eggs.",
+    "Dip each tofu cutlet into the flour mixture, coating both sides, then into the eggs, and finally into a plate of crushed flatbread, pressing gently to adhere.",
+    "Heat about 1/2 inch (1 cm) of vegetable oil in a large skillet over medium-high heat.",
+    "Fry the tofu cutlets until golden brown and crispy, about 3-4 minutes per side.",
+    "Transfer the tofu to a baking sheet and bake for an additional 10-12 minutes, or until cooked through.",
+    "Serve the tofu schnitzel with tangy tahini sauce and a side of flatbread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "ethiopian",
+    "fusion",
+    "tofu",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-ethiopian-tofu-flatbread--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:48:01.926Z"
+}
