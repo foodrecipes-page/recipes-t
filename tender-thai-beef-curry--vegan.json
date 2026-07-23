@@ -1,0 +1,90 @@
+{
+  "slug": "tender-thai-beef-curry--vegan",
+  "title": "Vegan Thai Beef Curry",
+  "description": "A vegan version of the classic Thai beef curry, made with tender and flavorful ingredients. This dish is a perfect blend of spicy and savory flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender mushrooms",
+      "amount": "250g",
+      "notes": "any variety"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "250ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Fresh basil leaves",
+      "amount": "handful",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 3-4 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add curry powder and cook for 1 minute, stirring constantly.",
+    "Add vegetable broth and bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Add coconut milk and stir to combine.",
+    "Add mushrooms and cook until tender, about 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with basil leaves and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "thai",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-thai-beef-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:33:51.661Z"
+}
