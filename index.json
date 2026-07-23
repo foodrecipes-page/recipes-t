@@ -5373,15 +5373,14 @@
   },
   {
     "slug": "tempered-sweet-spanish-rum-tart",
-    "title": "Tempered Sweet Spanish Rum Tart",
+    "title": "Spanish Tempered Tart",
     "tags": [
-      "brunch-dessert",
-      "easy-bake",
-      "spicy-rum",
-      "tart"
+      "spanish",
+      "tart",
+      "dessert"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "t"
   },
   {
@@ -13761,6 +13760,33 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 22,
+    "shard": "t"
+  },
+  {
+    "slug": "tropical-brazilian-sugar-snap-peas-tagine--keto",
+    "title": "Brazilian Tagine Chicken",
+    "tags": [
+      "keto",
+      "brazilian",
+      "chicken",
+      "vegetables"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-ethiopian-tofu-flatbread--german",
+    "title": "Ethiopian Tofu Schnitzel with German Flatbread",
+    "tags": [
+      "german",
+      "ethiopian",
+      "fusion",
+      "tofu",
+      "flatbread"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
     "shard": "t"
   }
 ]
