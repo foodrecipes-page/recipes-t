@@ -1,0 +1,66 @@
+{
+  "slug": "tender-crunchy-spanish-hazelnut-stir-fry",
+  "title": "Spanish Stir Fry",
+  "description": "Quick and delicious stir fry dish with a Spanish twist. Serve with rice or noodles for a filling meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender",
+      "amount": "1 pound",
+      "notes": "Sliced bell peppers"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": "Chopped almonds"
+    },
+    {
+      "name": "Spanish",
+      "amount": "2 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Hazelnut",
+      "amount": "2 tablespoons",
+      "notes": "Hazelnut oil"
+    },
+    {
+      "name": "Stir",
+      "amount": "1 teaspoon",
+      "notes": "Stir-fry seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat hazelnut oil in a large skillet over medium-high heat.",
+    "Add sliced bell peppers and cook for 3-4 minutes.",
+    "Add minced garlic and chopped almonds, cook for an additional 1-2 minutes.",
+    "Stir in stir-fry seasoning and cook for 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "stir-fry",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crunchy-spanish-hazelnut-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:53:46.585Z"
+}
