@@ -1,0 +1,63 @@
+{
+  "slug": "tender-buttery-rhubarb-crumble",
+  "title": "Easy Rhubarb Crumble",
+  "description": "A delicious and easy-to-make dessert featuring tender rhubarb and a buttery crumble topping.",
+  "cuisine": "British",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb stalks",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Cold butter",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F)",
+    "Cut the rhubarb into 2.5cm (1in) pieces and place in a baking dish",
+    "Mix the flour, granulated sugar and cold butter in a bowl until crumbly",
+    "Spread the crumble topping evenly over the rhubarb",
+    "Bake for 30-35 minutes or until the topping is golden brown and the rhubarb is tender"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "rhubarb",
+    "crumble",
+    "dessert",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-buttery-rhubarb-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:18:24.327Z"
+}
