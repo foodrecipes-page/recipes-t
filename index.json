@@ -2571,14 +2571,14 @@
   },
   {
     "slug": "tangy-italian-jam-tart",
-    "title": "Tangy Italian Jam Tart",
+    "title": "Tangy Italian Tart",
     "tags": [
-      "tangy-italian-jam-tart",
-      "egg-free-friendly",
-      "flaky-dessert"
+      "italian",
+      "tart",
+      "dessert"
     ],
-    "cuisine": "Italian (Ligurian)",
-    "totalTimeMin": 100,
+    "cuisine": "Italian",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -13699,6 +13699,30 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-thai-beef-curry--vegan",
+    "title": "Vegan Thai Beef Curry",
+    "tags": [
+      "vegan",
+      "thai",
+      "curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-jamaican-grape-tomatoes-casserole--japanese",
+    "title": "Tender Jamaican Casserole Bites",
+    "tags": [
+      "japanese-fusion",
+      "snack-ideas",
+      "easy-appetizer"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
     "shard": "t"
   }
 ]
