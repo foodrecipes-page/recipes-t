@@ -1,0 +1,89 @@
+{
+  "slug": "tempered-sweet-spanish-rum-tart",
+  "title": "Spanish Tempered Tart",
+  "description": "A sweet Spanish dessert made with a tempered tart crust and a rich rum-infused filling.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tempered Tart Crust",
+      "amount": "1 9-inch crust",
+      "notes": null
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Eggs",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Rum",
+      "amount": "2 tablespoons",
+      "notes": "high-quality rum"
+    },
+    {
+      "name": "Unsalted Butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Spanish Lemon Zest",
+      "amount": "2 tablespoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the tempered tart crust and place it in a 9-inch tart pan.",
+    "In a medium bowl, whisk together the granulated sugar, eggs, flour, and salt.",
+    "Add the softened butter and mix until well combined.",
+    "Add the rum and mix until smooth.",
+    "Pour the rum-infused mixture into the tart crust.",
+    "Bake for 40-45 minutes, or until the filling is set and the crust is golden brown.",
+    "Remove from the oven and let cool to room temperature.",
+    "Sprinkle the Spanish lemon zest over the top of the tart.",
+    "Serve chilled, garnished with whipped cream or ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempered-sweet-spanish-rum-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:00:35.203Z"
+}
