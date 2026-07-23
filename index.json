@@ -13724,5 +13724,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "t"
+  },
+  {
+    "slug": "tender-rich-polish-pork-stew--thai",
+    "title": "Thai-Style Pork Stew",
+    "tags": [
+      "thai",
+      "stew",
+      "pork"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 110,
+    "shard": "t"
   }
 ]
