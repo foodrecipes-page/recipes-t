@@ -1,0 +1,76 @@
+{
+  "slug": "tangy-italian-jam-tart",
+  "title": "Tangy Italian Tart",
+  "description": "A sweet and tangy tart with a buttery crust, topped with a layer of jam and a tangy Italian filling.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tangy jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Italian filling (ricotta, parmesan, egg)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a medium bowl, whisk together the sugar, jam, and Italian filling.",
+    "Pour the filling into the tart shell and smooth the top.",
+    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool on a wire rack for 10 minutes.",
+    "Dust with confectioners' sugar and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-italian-jam-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:45:14.111Z"
+}
