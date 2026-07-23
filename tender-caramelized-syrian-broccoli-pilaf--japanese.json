@@ -1,0 +1,77 @@
+{
+  "slug": "tender-caramelized-syrian-broccoli-pilaf--japanese",
+  "title": "Caramelized Syran Broccoli Pilaf",
+  "description": "A flavorful and nutritious Japanese-inspired pilaf dish featuring tender, caramelized syrian broccoli. Serve as a side or add to main courses for extra nutrition.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "Syrian pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add 2 cups of broccoli to the skillet and cook until tender, about 3-4 minutes.",
+    "Add 1 cup of Syrian pilaf to the skillet and stir to combine with the broccoli.",
+    "In a small bowl, whisk together 2 teaspoons of soy sauce and 1 teaspoon of sesame oil.",
+    "Pour the soy sauce mixture over the pilaf and broccoli, and stir to combine.",
+    "Transfer the pilaf mixture to a serving dish, and sprinkle with sesame seeds.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "gluten-free",
+    "pilaf",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-caramelized-syrian-broccoli-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:39:42.580Z"
+}
