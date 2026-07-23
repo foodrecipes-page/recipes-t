@@ -1,0 +1,71 @@
+{
+  "slug": "tropical-brazilian-sugar-snap-peas-tagine--keto",
+  "title": "Brazilian Tagine Chicken",
+  "description": "A keto-friendly twist on a traditional Moroccan dish, with tender chicken and fresh vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "snap peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tropical fruit",
+      "amount": "1 cup",
+      "notes": "diced mango or pineapple"
+    },
+    {
+      "name": "braziian spices",
+      "amount": "2 tsp",
+      "notes": "cumin, coriander, and cayenne pepper"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for browning the chicken"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional clay cooking vessel"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with Brazilian spices and sugar.",
+    "Heat the tagine over medium-high heat and sear the chicken until browned.",
+    "Transfer the chicken to a baking dish and roast for 20 minutes.",
+    "Add the snap peas and tropical fruit to the tagine and cook for an additional 10 minutes.",
+    "Serve the chicken with the fresh vegetables and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "brazilian",
+    "chicken",
+    "vegetables"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tropical-brazilian-sugar-snap-peas-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:20:43.875Z"
+}
