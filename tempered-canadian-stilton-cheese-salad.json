@@ -1,0 +1,61 @@
+{
+  "slug": "tempered-canadian-stilton-cheese-salad",
+  "title": "Tempered Cheese Salad",
+  "description": "A simple salad recipe featuring tempered cheese and fresh greens. Enjoy as a quick snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tempered Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Salad Croutons",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, cherry tomatoes, and red onion.",
+    "Crumble the tempered cheese into the bowl and toss gently.",
+    "Sprinkle the salad croutons on top of the salad.",
+    "Serve immediately, garnished with additional salad croutons if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "salad",
+    "vegetarian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempered-canadian-stilton-cheese-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:01:09.735Z"
+}
