@@ -13736,5 +13736,19 @@
     "cuisine": "thai",
     "totalTimeMin": 110,
     "shard": "t"
+  },
+  {
+    "slug": "tender-caramelized-syrian-broccoli-pilaf--japanese",
+    "title": "Caramelized Syran Broccoli Pilaf",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "gluten-free",
+      "pilaf",
+      "broccoli"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 18,
+    "shard": "t"
   }
 ]
