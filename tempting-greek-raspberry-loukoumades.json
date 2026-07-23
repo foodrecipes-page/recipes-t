@@ -1,0 +1,79 @@
+{
+  "slug": "tempting-greek-raspberry-loukoumades",
+  "title": "Loukoumades with Greek Honey and Fresh Raspberries",
+  "description": "A classic Greek dessert made with crispy fried dough balls topped with sweet honey and fresh raspberries.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "grated kefalograviera cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "greek honey",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and kefalograviera cheese in a large mixing bowl.",
+    "Gradually add water and mix until dough comes together.",
+    "Knead dough for 5-7 minutes until smooth.",
+    "Cover dough with plastic wrap and let rise for 1 hour.",
+    "Heat oil in a deep frying pan to 350°F (175°C).",
+    "Fry dough balls in batches until golden brown, about 3-4 minutes.",
+    "Drain excess oil on paper towels.",
+    "Serve loukoumades warm with greek honey and fresh raspberries.",
+    "Optional: dust with powdered sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "fried",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-greek-raspberry-loukoumades",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:31:38.856Z"
+}
