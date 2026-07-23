@@ -1,0 +1,64 @@
+{
+  "slug": "tsmooth-mexican-avocado-tart--keto",
+  "title": "Keto Avocado Tacos",
+  "description": "A low-carb twist on traditional tacos, featuring avocado and tsmooth cheese. Perfect for a keto diet.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tsmooth cheese",
+      "amount": "8 oz block"
+    },
+    {
+      "name": "avocado",
+      "amount": "3 ripe avocados"
+    },
+    {
+      "name": "tart lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (175°C).",
+    "2. Cut the tsmooth cheese into small squares and place on a baking sheet.",
+    "3. Bake the cheese for 10-12 minutes, or until melted and slightly browned.",
+    "4. Meanwhile, slice the avocado into thin pieces.",
+    "5. Wash and dry the tart lettuce, then chop it into small pieces.",
+    "6. In a small bowl, mix together the mexican seasoning and salt.",
+    "7. Assemble the tacos by placing a square of melted cheese onto a lettuce leaf, followed by a few slices of avocado.",
+    "8. Sprinkle the mexican seasoning mixture over the top of the avocado.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "avocado",
+    "tsmooth",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tsmooth-mexican-avocado-tart--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:24:29.891Z"
+}
