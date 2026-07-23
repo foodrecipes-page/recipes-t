@@ -5358,13 +5358,15 @@
   },
   {
     "slug": "tempered-canadian-stilton-cheese-salad",
-    "title": "Tempered Canadian Stilton Cheese Salad",
+    "title": "Tempered Cheese Salad",
     "tags": [
-      "canadian-stilton-cheese-salad",
-      "diabetic-friendly-appetizer"
+      "quick",
+      "salad",
+      "vegetarian",
+      "cheese"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 5,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "t"
   },
   {
