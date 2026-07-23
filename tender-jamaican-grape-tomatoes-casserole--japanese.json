@@ -1,0 +1,65 @@
+{
+  "slug": "tender-jamaican-grape-tomatoes-casserole--japanese",
+  "title": "Tender Jamaican Casserole Bites",
+  "description": "A fusion twist on traditional Japanese cuisine, these bite-sized casserole treats combine the flavors of Jamaica with a Japanese flair.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "jamaican spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most grocery stores or online"
+    },
+    {
+      "name": "grape tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "casserole",
+      "amount": "1/2 cup",
+      "notes": "crushed into small pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "optional for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix together tender, Jamaican spice blend, and soy sauce.",
+    "Add grape tomatoes and mix until well combined.",
+    "Stir in crushed casserole.",
+    "Using a small cookie scoop or spoon, form mixture into 1-inch balls.",
+    "Place balls onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until tender and lightly browned.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-fusion",
+    "snack-ideas",
+    "easy-appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-jamaican-grape-tomatoes-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:28:57.401Z"
+}
