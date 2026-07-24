@@ -13964,5 +13964,30 @@
     "cuisine": "Filipino",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry--vegan",
+    "title": "Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "quick",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-light-italian-egg-stir-fry--japanese",
+    "title": "Japanese-Style Omelette",
+    "tags": [
+      "japanese",
+      "breakfast",
+      "omelette"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 13,
+    "shard": "t"
   }
 ]
