@@ -13788,5 +13788,19 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-zesty-slovakian-carrots-hash--gluten-free",
+    "title": "Slovakian Carrot Hash with Zesty Twist",
+    "tags": [
+      "breakfast",
+      "slovakian",
+      "gluten-free",
+      "hash",
+      "carrots"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
