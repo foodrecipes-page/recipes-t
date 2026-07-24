@@ -13802,5 +13802,17 @@
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-dutch-frankfurter-sandwich--mexican",
+    "title": "Frankfurter Dutch Tangy Sandwich",
+    "tags": [
+      "mexican",
+      "sandwiches",
+      "quick-and-easy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
