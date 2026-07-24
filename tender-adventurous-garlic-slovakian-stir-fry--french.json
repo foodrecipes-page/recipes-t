@@ -1,0 +1,58 @@
+{
+  "slug": "tender-adventurous-garlic-slovakian-stir-fry--french",
+  "title": "Pan-Seared French Tenderloin with Garlic Crust",
+  "description": "A classic French dish, seared to perfection with a savory garlic crust. Serve with your favorite sides for a satisfying meal.",
+  "cuisine": "french",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender",
+      "amount": "4 (1-inch thick steaks)",
+      "notes": "Filet mignon or beef tenderloin works well"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "All-purpose flour for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the tenderloin steaks with salt and pepper.",
+    "Heat 2 tablespoons of oil in an oven-safe skillet over medium-high heat.",
+    "Sear the tenderloin steaks for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the steaks reach your desired level of doneness.",
+    "While the steaks are cooking, mix the minced garlic and flour in a small bowl.",
+    "Remove the skillet from the oven and sprinkle the garlic-flour mixture over the steaks.",
+    "Return the skillet to the oven and cook for an additional 2-3 minutes, or until the garlic is fragrant and the steaks are cooked through.",
+    "Remove the steaks from the oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "garlic",
+    "french-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 6,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-adventurous-garlic-slovakian-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:35:45.042Z"
+}
