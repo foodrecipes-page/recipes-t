@@ -1,0 +1,88 @@
+{
+  "slug": "tomato-zing--keto",
+  "title": "Zingy Keto Zucchini Fritters",
+  "description": "A keto twist on traditional fritters, using zing and zucchini, perfect for a low-carb diet.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Zing",
+      "amount": "1/4 cup",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/4 cup",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1/4 cup",
+      "notes": "Crumbed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, combine grated zucchini, zing, diced tomato, parmesan cheese, coconut flour, eggs, and crumbed cottage cheese.",
+    "3. Mix well until a thick batter forms.",
+    "4. Heat a non-stick skillet or griddle over medium heat.",
+    "5. Drop the batter by tablespoonfuls onto the skillet or griddle.",
+    "6. Flatten each fritter slightly with a spatula.",
+    "7. Cook for 3-4 minutes or until the edges start to brown.",
+    "8. Flip the fritters and cook for an additional 3-4 minutes or until golden brown.",
+    "9. Transfer the fritters to a baking sheet.",
+    "10. Drizzle melted olive oil over the fritters.",
+    "11. Bake in the preheated oven for 10-12 minutes or until crispy and golden.",
+    "12. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "snack",
+    "fritters",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tomato-zing--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:58:05.940Z"
+}
