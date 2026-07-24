@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-fluffy-russian-beef-stew",
+  "title": "Beef and Stew",
+  "description": "A hearty beef stew with a tangy twist and fluffy texture.",
+  "cuisine": "russian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "stew meat"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef stew mix"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "fluffy",
+      "amount": "1 cup",
+      "notes": "mashed potatoes"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2",
+      "notes": "whole"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in large Dutch oven over medium-high heat.",
+    "Brown beef on all sides, about 5 minutes.",
+    "Add stew mix, beef broth, onion, carrot, and bay leaf. Stir to combine.",
+    "Bring to a boil, then cover and transfer to oven.",
+    "Bake at 300°F for 2 1/2 hours or until meat is tender.",
+    "Stir in tangy and season with salt and pepper to taste.",
+    "Serve hot over fluffy mashed potatoes.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 165,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "russian",
+    "tangy",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-russian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T08:49:23.707Z"
+}
