@@ -13911,5 +13911,31 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "t"
+  },
+  {
+    "slug": "tender-adventurous-garlic-slovakian-stir-fry--french",
+    "title": "Pan-Seared French Tenderloin with Garlic Crust",
+    "tags": [
+      "beef",
+      "garlic",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
+    "title": "Stir-Fried Dolce with Gorgonzola and Ethiopian Cheese",
+    "tags": [
+      "chinese",
+      "italian",
+      "fusion",
+      "stir-fry",
+      "cheese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "t"
   }
 ]
