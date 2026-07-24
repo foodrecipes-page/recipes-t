@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-zesty-slovakian-carrots-hash--gluten-free",
+  "title": "Slovakian Carrot Hash with Zesty Twist",
+  "description": "A vibrant twist on a traditional Slovakian dish, this carrot hash is gluten-free and packed with flavor. The addition of tangy and zesty notes elevates the humble carrot to new heights.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound, sliced",
+      "notes": "look for gluten-free sausage"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 large, peeled and grated",
+      "notes": ""
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup, shredded",
+      "notes": "make sure to use gluten-free hash browns"
+    },
+    {
+      "name": "zesty sauce",
+      "amount": "2 tablespoons",
+      "notes": "such as sriracha mayo or hot sauce"
+    },
+    {
+      "name": "tangy mustard",
+      "amount": "1 tablespoon",
+      "notes": "such as whole-grain or gluten-free mustard"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the sliced Slovakian sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the grated carrots and shredded hash browns to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish and top with additional zesty sauce and tangy mustard.",
+    "Bake for 20-25 minutes, or until the carrots are tender and the top is golden brown.",
+    "Sprinkle with chopped parsley and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "gluten-free",
+    "hash",
+    "carrots"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-zesty-slovakian-carrots-hash--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:57:15.609Z"
+}
