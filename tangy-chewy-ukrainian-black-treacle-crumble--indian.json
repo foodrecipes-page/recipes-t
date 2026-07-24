@@ -1,0 +1,70 @@
+{
+  "slug": "tangy-chewy-ukrainian-black-treacle-crumble--indian",
+  "title": "Tangy Black Treacle Crumble",
+  "description": "A sweet and tangy Indian dessert made with black treacle, tangy crumble, and a hint of Ukrainian flair.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Black Treacle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tangy Crumble",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Ukrainian Rye Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cardamom Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix together black treacle, brown sugar, cardamom powder, and salt in a large bowl.",
+    "Combine Ukrainian rye flour and coconut oil in another bowl to form a crumbly mixture.",
+    "Add the crumble mixture to the treacle mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes.",
+    "While the crumble is baking, prepare the topping by mixing together tangy crumble and a pinch of salt.",
+    "Once the crumble is done, top it with the crumble mixture and return to the oven for an additional 5-10 minutes.",
+    "Remove from the oven and let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "dessert",
+    "crumble"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-chewy-ukrainian-black-treacle-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:32:21.497Z"
+}
