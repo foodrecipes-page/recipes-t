@@ -1,0 +1,79 @@
+{
+  "slug": "tasty-crumbly-jamaican-white-cabbage-hash",
+  "title": "Jamaican Beef Hash",
+  "description": "A spicy twist on the classic breakfast dish, featuring jamaican seasoning and crumbly beef.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 lb",
+      "notes": "ground beef"
+    },
+    {
+      "name": "Jamaican seasoning",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "White onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Hash brown potatoes",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Tasty cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the Jamaican seasoning, white onion, cabbage, and hash brown potatoes to the skillet. Cook for 5-7 minutes, stirring occasionally.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle the shredded cheese on top of the mixture.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "breakfast",
+    "caribbean",
+    "hash",
+    "jamaican",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-crumbly-jamaican-white-cabbage-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:11:05.408Z"
+}
