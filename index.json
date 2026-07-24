@@ -2108,17 +2108,15 @@
   },
   {
     "slug": "tangy-fluffy-russian-black-beans-stew",
-    "title": "Tangy Fluffy Russian Black Beans Stew",
+    "title": "Russian Bean Stew",
     "tags": [
-      "protein-packed",
-      "tangy",
-      "fluffy",
-      "Russian",
-      "vegetarian",
-      "high-protein"
+      "russian",
+      "stew",
+      "beans",
+      "comfort-food"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 45,
+    "cuisine": "russian",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
@@ -4763,17 +4761,17 @@
   },
   {
     "slug": "tasty-crumbly-jamaican-white-cabbage-hash",
-    "title": "Tasty Crumbly Jamaican White Cabbage Hash",
+    "title": "Jamaican Beef Hash",
     "tags": [
-      "broiled-dish",
-      "crunchy-texture",
-      "flexitarian-friendly",
-      "jamaican-cuisine",
-      "quick-fix",
-      "vegetarian-option"
+      "beef",
+      "breakfast",
+      "caribbean",
+      "hash",
+      "jamaican",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 27,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "t"
   },
   {
