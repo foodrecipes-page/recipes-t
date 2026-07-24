@@ -13837,5 +13837,31 @@
     "cuisine": "indian",
     "totalTimeMin": 55,
     "shard": "t"
+  },
+  {
+    "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera--keto",
+    "title": "Ethiopian Keto Beef Tibs with Roasted Pepper",
+    "tags": [
+      "ethiopian",
+      "keto",
+      "beef",
+      "pepper"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-dutch-chickpea-pancakes--italian",
+    "title": "Dutch Chickpea Pancakes",
+    "tags": [
+      "italian",
+      "breakfast",
+      "pancakes",
+      "chickpea"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
