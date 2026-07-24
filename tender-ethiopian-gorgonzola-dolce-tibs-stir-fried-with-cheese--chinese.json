@@ -1,0 +1,79 @@
+{
+  "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
+  "title": "Stir-Fried Dolce with Gorgonzola and Ethiopian Cheese",
+  "description": "A unique and savory fusion of Chinese and Italian flavors, combining the sweetness of Dolce and the creaminess of Gorgonzola with the tanginess of Ethiopian Cheese.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dolce",
+      "amount": "1 cup",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Gorgonzola cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, crumbled"
+    },
+    {
+      "name": "Ethiopian cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly, crumbled"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the Dolce and stir-fry for 2-3 minutes.",
+    "Add the Gorgonzola and Ethiopian cheese and stir-fry until they start to melt.",
+    "Pour in the soy sauce and sesame oil, and stir-fry for another minute.",
+    "Serve immediately, garnished with sesame seeds and chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "italian",
+    "fusion",
+    "stir-fry",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:08:09.925Z"
+}
