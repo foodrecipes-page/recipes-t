@@ -1,0 +1,95 @@
+{
+  "slug": "tangy-fluffy-russian-black-beans-stew",
+  "title": "Russian Bean Stew",
+  "description": "A hearty, comforting stew originating from Russia, made with tender black beans, tangy Russian spices, and a hint of fluffy texture.",
+  "cuisine": "russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "tangy Russian pickle relish",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "fluffy mashed potatoes",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "stew beef, diced",
+      "amount": "1 lb",
+      "notes": "optional, omit for vegetarian option"
+    },
+    {
+      "name": "carrot, peeled and sliced",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "celery, diced",
+      "amount": "2 stalks",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Add diced beef, if using, and cook until browned, about 3-4 minutes. Remove and set aside.",
+    "Add chopped onion, carrot, and celery to the pot, cook until tender, about 5 minutes.",
+    "Add tomato paste, cook for 1-2 minutes, stirring constantly.",
+    "Add beef broth, thyme, and browned beef, if using. Stir to combine.",
+    "Add black beans, pickle relish, and mashed potatoes. Stir to combine.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "stew",
+    "beans",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-russian-black-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:41:37.334Z"
+}
