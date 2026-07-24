@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-tender-light-slovakian-dried-shrimp-stir-fry--vegan",
+  "title": "Vegan Stir Fry",
+  "description": "A quick and easy vegan stir fry made with tender vegetables and a tangy sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "light oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tender carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tender broccoli",
+      "amount": "1 cup",
+      "notes": "florets"
+    },
+    {
+      "name": "sloakian mushrooms",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add the carrots and broccoli, stir frying for 3-4 minutes.",
+    "Add the mushrooms, stir frying for an additional 2-3 minutes.",
+    "Pour in the stir fry sauce and stir to combine.",
+    "Continue stir frying for another 2-3 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-light-slovakian-dried-shrimp-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:49:39.626Z"
+}
