@@ -13812,5 +13812,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-earthy-vietnamese-peaches-banh-cuon--vegan",
+    "title": "Vegan Banh Cuon with Peaches and Earthy Toppings",
+    "tags": [
+      "vegan",
+      "vietnamese",
+      "dessert",
+      "summer"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
