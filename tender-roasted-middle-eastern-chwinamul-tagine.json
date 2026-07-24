@@ -1,0 +1,79 @@
+{
+  "slug": "tender-roasted-middle-eastern-chwinamul-tagine",
+  "title": "Chwinamul Tagine with Eastern Flair",
+  "description": "A delicious and aromatic tagine dish from the Eastern Mediterranean, featuring tender and roasted chwinamul, a classic Middle Eastern ingredient.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted chwinamul",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tender chwinamul stems",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "2 teaspoons",
+      "notes": "mix of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Eastern olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the minced garlic and cook until fragrant, about 1 minute.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the roasted and tender chwinamul, along with the Middle Eastern spices, and stir to combine.",
+    "Add 2 cups of water and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chwinamul is tender.",
+    "Season the tagine with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "tagine",
+    "mediterranean",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roasted-middle-eastern-chwinamul-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:36:40.358Z"
+}
