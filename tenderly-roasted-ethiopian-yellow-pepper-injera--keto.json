@@ -1,0 +1,78 @@
+{
+  "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera--keto",
+  "title": "Ethiopian Keto Beef Tibs with Roasted Pepper",
+  "description": "A keto twist on a classic Ethiopian dish, featuring tender beef and roasted peppers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (tenderloin), sliced",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Roasted yellow pepper, sliced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Injera, torn into pieces (used as a garnish)",
+      "amount": "4-6 pieces",
+      "notes": null
+    },
+    {
+      "name": "Keto-friendly spices (such as berbere, salt, and black pepper)",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Heat avocado oil in a large skillet over medium-high heat.",
+    "2. Add the sliced beef and cook until browned, about 3-4 minutes.",
+    "3. Add the sliced onion and cook until softened, about 3-4 minutes.",
+    "4. Add the minced garlic and cook for 1 minute.",
+    "5. Add the roasted yellow pepper slices and cook for an additional 2-3 minutes.",
+    "6. Season with keto-friendly spices to taste.",
+    "7. Serve the beef mixture over the torn injera pieces and garnish with additional roasted peppers if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "keto",
+    "beef",
+    "pepper"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-roasted-ethiopian-yellow-pepper-injera--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:20:51.914Z"
+}
