@@ -1,0 +1,85 @@
+{
+  "slug": "tasty-ukrainian-prawns-stew--thai",
+  "title": "Prawns in Spicy Stew",
+  "description": "A flavorful and spicy Thai-inspired stew made with succulent prawns. Serve with steamed rice for a delicious and filling meal.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 oz (340g)",
+      "notes": ""
+    },
+    {
+      "name": "tasty stew",
+      "amount": "1 cup (250ml)",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Thai chilies",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat. Add lemongrass and galangal and cook until fragrant.",
+    "Add prawns and cook until pink, about 2-3 minutes per side.",
+    "Add Thai chilies, fish sauce, lime juice, and brown sugar. Stir to combine.",
+    "Pour in stew and bring to a simmer.",
+    "Reduce heat to medium-low and cook for 5-7 minutes or until the stew has thickened slightly.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with steamed rice.",
+    "Garnish with fresh cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-ukrainian-prawns-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:23:21.441Z"
+}
