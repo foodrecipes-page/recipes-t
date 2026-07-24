@@ -13989,5 +13989,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 13,
     "shard": "t"
+  },
+  {
+    "slug": "tender-croatian-rigatoni-pasta--indian",
+    "title": "Indian-Style Tender Rigatoni Pasta",
+    "tags": [
+      "indian",
+      "pasta",
+      "vegetarian",
+      "easy-to-make"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
