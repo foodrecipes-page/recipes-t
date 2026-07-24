@@ -1,0 +1,73 @@
+{
+  "slug": "tempting-earthy-vietnamese-peaches-banh-cuon--vegan",
+  "title": "Vegan Banh Cuon with Peaches and Earthy Toppings",
+  "description": "A refreshing vegan twist on the classic Vietnamese dish, featuring banh cuon, peaches, and earthy toppings. Perfect for a warm summer evening.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Banh cuon",
+      "amount": "12-16 sheets",
+      "notes": "Vegan spring roll wrappers"
+    },
+    {
+      "name": "Peaches",
+      "amount": "2 ripe",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Earthy mushrooms",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "Replace with maple syrup for vegan version"
+    }
+  ],
+  "instructions": [
+    "Soak the banh cuon sheets in warm water for 10-15 minutes.",
+    "Heat a non-stick pan over medium heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start browning.",
+    "Add the sliced peaches and cook for an additional 2-3 minutes.",
+    "Remove the pan from heat and stir in the chopped cilantro and lime juice.",
+    "Assemble the banh cuon by placing a few slices of the mushroom-peach mixture onto a banh cuon sheet.",
+    "Roll up the banh cuon tightly and serve immediately.",
+    "Garnish with additional cilantro and lime wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "dessert",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-earthy-vietnamese-peaches-banh-cuon--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:53:50.569Z"
+}
