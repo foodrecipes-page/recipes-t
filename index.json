@@ -9032,14 +9032,12 @@
   },
   {
     "slug": "tender-roasted-middle-eastern-chwinamul-tagine",
-    "title": "Tender Roasted Middle Eastern Chwinamul Tagine",
+    "title": "Chwinamul Tagine with Eastern Flair",
     "tags": [
-      "date-night",
-      "fondue-pot",
-      "gluten-free",
-      "middle-eastern",
-      "shio-koji",
-      "vegetarian"
+      "vegetarian",
+      "tagine",
+      "mediterranean",
+      "easy-to-make"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 40,
@@ -13861,6 +13859,56 @@
       "chickpea"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tempting-thick-croatian-sausages-skillet--indian",
+    "title": "Croatian Sausage Skillet Curry",
+    "tags": [
+      "indian-curry",
+      "sausage",
+      "one-pot",
+      "easy-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-slovakian-turkey-ham-dumplings--vegetarian",
+    "title": "Slovakian Vegetable Dumplings",
+    "tags": [
+      "slovakian",
+      "vegetarian",
+      "dumplings"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-thai-chicken-tom-kha--vegetarian",
+    "title": "Thai Tom Kha Soup",
+    "tags": [
+      "vegetarian",
+      "soup",
+      "thaicuisine",
+      "coconutmilk"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-ukrainian-prawns-stew--thai",
+    "title": "Prawns in Spicy Stew",
+    "tags": [
+      "thai",
+      "seafood",
+      "stew"
+    ],
+    "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "t"
   }
