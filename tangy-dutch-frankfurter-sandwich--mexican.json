@@ -1,0 +1,84 @@
+{
+  "slug": "tangy-dutch-frankfurter-sandwich--mexican",
+  "title": "Frankfurter Dutch Tangy Sandwich",
+  "description": "A twist on the classic sandwich, this recipe combines the flavors of Mexico with a tangy twist. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch frankfurter",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Tangy sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soft sandwich bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Sliced cheese (Monterey Jack or Cheddar work well)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced lime wedges",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced tomato",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Place the frankfurters on the grill and cook for 5-7 minutes on each side, or until slightly charred.",
+    "Meanwhile, toast the bread slices on the grill or in a toaster.",
+    "Assemble the sandwiches by spreading a layer of tangy sauce on each toasted bread slice.",
+    "Add a cooked frankfurter to each sandwich, followed by a sprinkle of cheese, cilantro, radishes, and a slice of tomato.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "sandwiches",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dutch-frankfurter-sandwich--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:15:59.477Z"
+}
