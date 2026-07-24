@@ -13825,5 +13825,17 @@
     "cuisine": "vietnamese",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-chewy-ukrainian-black-treacle-crumble--indian",
+    "title": "Tangy Black Treacle Crumble",
+    "tags": [
+      "indian",
+      "dessert",
+      "crumble"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "t"
   }
 ]
