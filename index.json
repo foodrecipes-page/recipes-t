@@ -2095,15 +2095,16 @@
   },
   {
     "slug": "tangy-fluffy-russian-beef-stew",
-    "title": "Tangy Fluffy Russian Beef Stew",
+    "title": "Beef and Stew",
     "tags": [
-      "russian-cuisine",
-      "beef-stew",
-      "low-calorie",
-      "one-pot-meal"
+      "beef",
+      "stew",
+      "russian",
+      "tangy",
+      "fluffy"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 140,
+    "cuisine": "russian",
+    "totalTimeMin": 180,
     "shard": "t"
   },
   {
@@ -13936,6 +13937,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tomato-zing--keto",
+    "title": "Zingy Keto Zucchini Fritters",
+    "tags": [
+      "keto",
+      "low-carb",
+      "snack",
+      "fritters",
+      "zucchini"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-filipino-flour-bowl--keto",
+    "title": "Filipino Keto Lumpia",
+    "tags": [
+      "keto",
+      "filipino",
+      "snack"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
