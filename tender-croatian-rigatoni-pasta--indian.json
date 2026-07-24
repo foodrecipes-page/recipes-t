@@ -1,0 +1,93 @@
+{
+  "slug": "tender-croatian-rigatoni-pasta--indian",
+  "title": "Indian-Style Tender Rigatoni Pasta",
+  "description": "A fusion of Indian spices and tender pasta. Perfect as a weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender rigatoni pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Croatian olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Dice the onion for sautéing"
+    },
+    {
+      "name": "Basil",
+      "amount": "1 tsp dried",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp ground",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp ground",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of Croatian olive oil in a large skillet over medium-high heat.",
+    "Sauté the diced onion until translucent. Set aside.",
+    "In the same skillet, add the minced garlic and cook for 1 minute.",
+    "Add the dried basil, ground cumin, and ground coriander to the skillet. Cook for 1 minute.",
+    "Add the tomato sauce and coconut milk to the skillet. Stir to combine.",
+    "Bring the sauce to a simmer and cook for 5 minutes.",
+    "Add the cooked rigatoni pasta to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pasta",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-croatian-rigatoni-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:44:26.057Z"
+}
