@@ -1,0 +1,78 @@
+{
+  "slug": "tangy-crisp-italian-chicken-salad--thai",
+  "title": "Thai Chicken Salad",
+  "description": "A refreshing Thai-inspired salad made with crispy chicken and crunchy vegetables. Serve immediately to enjoy the best flavors.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "tangy Italian dressing",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crisp lettuce",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "crisp vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, bell peppers, and cucumbers"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Grill or bake the chicken breast until cooked through, reaching an internal temperature of 165°F (74°C).",
+    "Chop the cooked chicken into bite-sized pieces.",
+    "In a large bowl, combine the crisp lettuce, crisp vegetables, and chopped cilantro.",
+    "In a small bowl, whisk together the tangy Italian dressing and grated ginger.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Add the chopped chicken to the salad and toss again to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "salad",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-italian-chicken-salad--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:27:28.245Z"
+}
