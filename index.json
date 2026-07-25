@@ -2571,14 +2571,15 @@
   },
   {
     "slug": "tangy-italian-jam-tart",
-    "title": "Tangy Italian Tart",
+    "title": "Tart Jam Cookies",
     "tags": [
+      "cookies",
       "italian",
-      "tart",
-      "dessert"
+      "snack",
+      "tart"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 55,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -13795,14 +13796,15 @@
   },
   {
     "slug": "tangy-dutch-frankfurter-sandwich--mexican",
-    "title": "Frankfurter Dutch Tangy Sandwich",
+    "title": "Mexican Frankfurter Sandwich",
     "tags": [
       "mexican",
-      "sandwiches",
-      "quick-and-easy"
+      "hot-dog",
+      "sandwich",
+      "grilled"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "t"
   },
   {
@@ -14201,6 +14203,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble--thai",
+    "title": "Thai Crispy Sweet Potato Fritters",
+    "tags": [
+      "snack",
+      "sweetpotatoes",
+      "thai",
+      "vegan",
+      "glutenfree"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
     "shard": "t"
   }
 ]
