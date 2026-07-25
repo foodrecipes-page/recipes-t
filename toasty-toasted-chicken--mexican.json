@@ -1,0 +1,87 @@
+{
+  "slug": "toasty-toasted-chicken--mexican",
+  "title": "Mexican Chicken Toasty",
+  "description": "A delicious and easy to make Mexican inspired dish featuring toasted bread topped with seasoned chicken and melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "toasty",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with cumin, paprika, salt, and black pepper.",
+    "Heat 1 tablespoon of olive oil in a skillet over medium-high heat. Cook the chicken for 5-6 minutes per side, or until cooked through.",
+    "Slice the toasted into 1-inch pieces.",
+    "Top each toasted piece with shredded cheese, diced onion, and cooked chicken.",
+    "Place the toasties in the oven for 2-3 minutes, or until the cheese is melted.",
+    "Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "toasty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-toasted-chicken--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:04:48.753Z"
+}
