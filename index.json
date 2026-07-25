@@ -14150,5 +14150,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "t"
+  },
+  {
+    "slug": "tender-roasted-middle-eastern-chwinamul-tagine--mexican",
+    "title": "Tender Chicken Tagine Casserole",
+    "tags": [
+      "mexican",
+      "chicken",
+      "casserole",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 60,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-slovakian-turkey-ham-dumplings--italian",
+    "title": "Slovakian-Italian Turkey Dumplings",
+    "tags": [
+      "italian",
+      "slovakian",
+      "dumplings",
+      "turkey"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
