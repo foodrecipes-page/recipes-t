@@ -14026,5 +14026,31 @@
     "cuisine": "thai",
     "totalTimeMin": 27,
     "shard": "t"
+  },
+  {
+    "slug": "tender-malaysian-chicken-claypot--german",
+    "title": "Claypot Chicken German Style",
+    "tags": [
+      "chicken",
+      "german",
+      "malaysian",
+      "claypot"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-australian-pappardelle-pasta--italian",
+    "title": "Australian Bolognese Pappardelle",
+    "tags": [
+      "italian",
+      "pasta",
+      "beef",
+      "bolognese"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "t"
   }
 ]
