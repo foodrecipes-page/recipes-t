@@ -1,76 +1,76 @@
 {
   "slug": "tangy-italian-jam-tart",
-  "title": "Tangy Italian Tart",
-  "description": "A sweet and tangy tart with a buttery crust, topped with a layer of jam and a tangy Italian filling.",
-  "cuisine": "Italian",
+  "title": "Tart Jam Cookies",
+  "description": "A sweet and tangy cookie recipe perfect for any time of day. This Italian-inspired treat combines the flavors of jam and tart.",
+  "cuisine": "italian",
   "diet": [
     "vegetarian"
   ],
-  "meal": "dessert",
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "All-purpose flour",
-      "amount": "1 cup"
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
     },
     {
-      "name": "Cold unsalted butter",
-      "amount": "1/2 cup",
-      "notes": "chilled"
-    },
-    {
-      "name": "Granulated sugar",
-      "amount": "1/4 cup"
-    },
-    {
-      "name": "Tangy jam",
+      "name": "granulated sugar",
       "amount": "1/2 cup"
     },
     {
-      "name": "Italian filling (ricotta, parmesan, egg)",
-      "amount": "1 cup"
+      "name": "jam",
+      "amount": "1/4 cup"
     },
     {
-      "name": "Egg",
-      "amount": "1",
-      "notes": "beaten"
+      "name": "butter, softened",
+      "amount": "1/4 cup"
     },
     {
-      "name": "Vanilla extract",
-      "amount": "1 tsp"
+      "name": "egg",
+      "amount": "1"
     },
     {
-      "name": "Confectioners' sugar",
-      "amount": "1 tsp"
+      "name": "tart",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
     }
   ],
   "instructions": [
-    "Preheat the oven to 375°F (190°C).",
-    "Roll out the dough on a lightly floured surface to a thickness of about 1/8 inch.",
-    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
-    "In a medium bowl, whisk together the sugar, jam, and Italian filling.",
-    "Pour the filling into the tart shell and smooth the top.",
-    "Bake for 35-40 minutes, or until the crust is golden brown and the filling is set.",
-    "Remove from the oven and let cool on a wire rack for 10 minutes.",
-    "Dust with confectioners' sugar and serve."
+    "Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together flour, sugar, and salt.",
+    "In a large bowl, use an electric mixer to beat butter and jam until smooth.",
+    "Beat in egg and vanilla extract.",
+    "Gradually add flour mixture to wet ingredients and mix until a dough forms.",
+    "Stir in tart.",
+    "Scoop tablespoon-sized balls of dough onto prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "Remove from oven and let cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely."
   ],
-  "prepTimeMin": 20,
-  "cookTimeMin": 35,
-  "totalTimeMin": 55,
-  "servings": 8,
-  "difficulty": "medium",
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
   "tags": [
+    "cookies",
     "italian",
-    "tart",
-    "dessert"
+    "snack",
+    "tart"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 12,
-    "carbs": 40,
-    "fat": 15
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 3
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/tangy-italian-jam-tart",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T08:45:14.111Z"
+  "createdAt": "2026-07-21T02:22:06.198Z"
 }
