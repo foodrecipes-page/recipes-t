@@ -1,0 +1,94 @@
+{
+  "slug": "tangy-light-algerian-lentil-tagine--mexican",
+  "title": "Lentil Tagine Tacos",
+  "description": "A twist on traditional Mexican tacos, featuring a hearty lentil tagine filling. Inspired by North African cuisine, this flavorful dish is a perfect fusion of cultures.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tangy diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "6-8",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the lentils, tagine spice blend, cumin, and salt. Stir to combine.",
+    "Add the diced tomatoes and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20-25 minutes or until the lentils are tender.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the lentil tagine mixture onto a tortilla and garnishing with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lentil",
+    "tagine",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-algerian-lentil-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:10:27.636Z"
+}
