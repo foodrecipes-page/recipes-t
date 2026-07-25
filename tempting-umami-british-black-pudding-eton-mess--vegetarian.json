@@ -1,0 +1,75 @@
+{
+  "slug": "tempting-umami-british-black-pudding-eton-mess--vegetarian",
+  "title": "Eton Mess Pudding",
+  "description": "A classic British dessert made with chocolate mousse and fresh berries, perfect for warm weather.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate (70% cocoa)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Double cream",
+      "amount": "150ml",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Large egg whites",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "250g",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "150g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a double boiler, melt the chocolate over low heat.",
+    "In a separate bowl, whip the double cream until stiff peaks form.",
+    "In another bowl, whisk the egg whites until stiff peaks form.",
+    "Add the granulated sugar to the egg whites and continue whisking until stiff and glossy.",
+    "Fold the whipped cream into the melted chocolate until well combined.",
+    "Fold the egg white mixture into the chocolate mixture until well combined.",
+    "Spoon the mixture into individual serving cups.",
+    "Top each serving with fresh berries.",
+    "Refrigerate for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "etonmess",
+    "pudding",
+    "dessert",
+    "chocolate",
+    "berry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-umami-british-black-pudding-eton-mess--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:10:49.335Z"
+}
