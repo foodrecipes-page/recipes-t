@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-flaky-paleo-friendly-polish-dish",
+  "title": "Polish Pierogi Filling",
+  "description": "A classic Polish dish made with a tangy potato and cheese filling. Serve with your favorite polish pierogi dough.",
+  "cuisine": "Polish",
+  "diet": [
+    "paleo",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then drain and mash.",
+    "Sauté the onion in a pan until softened.",
+    "Combine the cooked potatoes, sautéed onion, cheese, parsley, salt, and black pepper in a bowl.",
+    "Mix well until all ingredients are fully incorporated.",
+    "Use as a filling for polish pierogi dough."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pierogi",
+    "potato",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-paleo-friendly-polish-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T12:03:23.427Z"
+}
