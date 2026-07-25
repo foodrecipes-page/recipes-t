@@ -1,0 +1,81 @@
+{
+  "slug": "tender-malaysian-chicken-claypot--german",
+  "title": "Claypot Chicken German Style",
+  "description": "A twist on traditional German cuisine, using Malaysian claypot cooking. Tender and flavorful, this dish is sure to be a hit.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "to coat chicken"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup",
+      "notes": "any German beer will do"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "malaysian claypot seasoning",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken with salt, pepper, and flour. Heat a large oven-safe claypot over medium-high heat.",
+    "Add chicken to the claypot and cook until browned on all sides, about 5-7 minutes. Remove chicken from the claypot and set aside.",
+    "Add more oil to the claypot if needed, then sauté onions and garlic until softened, about 3-4 minutes.",
+    "Add beer, chicken broth, and claypot seasoning to the claypot. Stir to combine.",
+    "Return chicken to the claypot, cover with a lid, and transfer to the preheated oven.",
+    "Bake for 25-30 minutes or until chicken is cooked through and potatoes are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "german",
+    "malaysian",
+    "claypot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-malaysian-chicken-claypot--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:57:17.552Z"
+}
