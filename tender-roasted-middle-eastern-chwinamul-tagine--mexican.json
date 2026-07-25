@@ -1,0 +1,84 @@
+{
+  "slug": "tender-roasted-middle-eastern-chwinamul-tagine--mexican",
+  "title": "Tender Chicken Tagine Casserole",
+  "description": "A twist on traditional tagine, this casserole combines the tender flavors of roasted chicken with eastern spices, served over a bed of chwinamul. Perfect for a comforting mexican meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "2 cups cooked"
+    },
+    {
+      "name": "roasted chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "tender chicken thighs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "middle eastern spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Cook the chwinamul according to package instructions.",
+    "Shred the roasted chicken and set aside.",
+    "In a large skillet, heat oil over medium-high heat. Add the tender chicken thighs and cook until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3 minutes.",
+    "Stir in the middle eastern spice blend and cook for 1 minute.",
+    "Add the shredded chicken and chicken broth to the skillet. Bring to a simmer and cook until the chicken is heated through.",
+    "In a large baking dish, arrange a layer of tortillas. Top with a layer of the chicken mixture, followed by a layer of chwinamul. Repeat this process two more times, ending with a layer of tortillas on top.",
+    "Sprinkle shredded cheese over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "casserole",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roasted-middle-eastern-chwinamul-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:49:41.054Z"
+}
