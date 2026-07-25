@@ -1,0 +1,94 @@
+{
+  "slug": "tender-algerian-lamb-tagine--mexican",
+  "title": "Mexican Lamb Tagine",
+  "description": "A flavorful and aromatic twist on the traditional Moroccan tagine, made with tender lamb and inspired by the bold flavors of Mexico.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Tender olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian preserved lemon",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium heat.",
+    "Add the onions and cook until softened, about 5 minutes.",
+    "Add the ginger and garlic and cook for 1 minute.",
+    "Add the lamb and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper. Stir to combine.",
+    "Add the preserved lemon and olives. Stir to combine.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Serve hot, garnished with fresh cilantro and crusty bread.",
+    "Optional: Serve with a side of Mexican rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mexican",
+    "tagine",
+    "braise"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-algerian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:05:47.425Z"
+}
