@@ -14136,5 +14136,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera--japanese",
+    "title": "Ethiopian Yellow Pepper Stir Fry",
+    "tags": [
+      "japanese",
+      "ethiopian",
+      "stir-fry",
+      "yellow-pepper",
+      "injera"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "t"
   }
 ]
