@@ -1,0 +1,68 @@
+{
+  "slug": "tender-ethiopian-peas-tibs",
+  "title": "Spicy Ethiopian Tibs with Peas",
+  "description": "A flavorful and spicy Ethiopian dish made with tender beef, peas, and onions, served with a side of injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ethiopian spices (mitmita, berbere, or awaze)",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of olive oil in a large pan over medium-high heat.",
+    "2. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "3. Add the beef and cook until browned, about 5-6 minutes.",
+    "4. Add the peas, spices, and salt. Stir to combine.",
+    "5. Reduce heat to medium-low and simmer for 10-15 minutes, stirring occasionally.",
+    "6. Taste and adjust the seasoning as needed.",
+    "7. Serve hot over injera bread, garnished with chopped onion and parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "spicy",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-peas-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:57:03.894Z"
+}
