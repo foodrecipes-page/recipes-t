@@ -1,0 +1,72 @@
+{
+  "slug": "tasty-flaky-uruguayan-red-bean-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A traditional Uruguayan dish of savory meat pies. Flaky pastry and hearty fillings make for a satisfying meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Bean Filling",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Flaky Pastry Dough",
+      "amount": "2 packages",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Tasty Beef Sausages",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan Seasoning",
+      "amount": "2 tsp",
+      "notes": "paprika, cumin, and chili powder"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out pastry dough to 1/4 inch thickness.",
+    "Cut out circles of dough with a cookie cutter or glass.",
+    "Place a tablespoon of Red Bean Filling in the center of each dough circle.",
+    "Add a few pieces of tasty beef sausage on top of the filling.",
+    "Brush the edges of the dough with water, then fold the dough over the filling to form a half-moon shape.",
+    "Press the edges together with a fork to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with egg wash (beaten egg mixed with a little water).",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "empanadas",
+    "meat",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-flaky-uruguayan-red-bean-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:15:13.086Z"
+}
