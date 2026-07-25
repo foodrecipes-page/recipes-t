@@ -1,0 +1,93 @@
+{
+  "slug": "tender-australian-pappardelle-pasta--italian",
+  "title": "Australian Bolognese Pappardelle",
+  "description": "A hearty Italian-inspired pasta dish featuring Australian beef in a rich tomato sauce, served with tender pappardelle.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pappardelle",
+      "amount": "12 oz",
+      "notes": ""
+    },
+    {
+      "name": "Australian beef mince",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "28 oz",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pappardelle according to the package instructions until al dente.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat. Add the beef mince and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent, about 5 minutes.",
+    "Add the crushed tomatoes, red wine, tomato paste, and beef broth to the skillet. Stir to combine.",
+    "Bring the sauce to a simmer and cook, stirring occasionally, until the sauce has thickened and the flavors have melded together, about 20 minutes.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Drain the cooked pappardelle and add it to the skillet with the sauce. Toss to combine.",
+    "Serve the pappardelle hot, topped with grated Parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "beef",
+    "bolognese"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 55,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-australian-pappardelle-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T14:45:37.133Z"
+}
