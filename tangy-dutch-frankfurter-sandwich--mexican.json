@@ -1,84 +1,70 @@
 {
   "slug": "tangy-dutch-frankfurter-sandwich--mexican",
-  "title": "Frankfurter Dutch Tangy Sandwich",
-  "description": "A twist on the classic sandwich, this recipe combines the flavors of Mexico with a tangy twist. Perfect for a quick and easy lunch or dinner.",
+  "title": "Mexican Frankfurter Sandwich",
+  "description": "A twist on the classic hot dog, this Mexican frankfurter sandwich features a tangy dutch frankfurter, topped with a blend of spices and served on a crispy sandwich roll.",
   "cuisine": "mexican",
-  "diet": null,
-  "meal": "lunch",
+  "diet": [],
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "Dutch frankfurter",
-      "amount": "4",
-      "notes": null
-    },
-    {
-      "name": "Tangy sauce",
-      "amount": "2 tablespoons",
-      "notes": "store-bought or homemade"
-    },
-    {
-      "name": "Soft sandwich bread",
-      "amount": "4 slices",
-      "notes": null
-    },
-    {
-      "name": "Sliced cheese (Monterey Jack or Cheddar work well)",
-      "amount": "2 cups",
-      "notes": null
-    },
-    {
-      "name": "Chopped cilantro",
-      "amount": "1/4 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "Sliced radishes",
-      "amount": "1/4 cup",
-      "notes": "optional"
-    },
-    {
-      "name": "Sliced lime wedges",
-      "amount": "4",
-      "notes": "optional"
-    },
-    {
-      "name": "Sliced tomato",
+      "name": "tangy dutch frankfurter",
       "amount": "1",
-      "notes": "optional"
+      "notes": "preferably with a spicy kick"
     },
     {
-      "name": "Salt and pepper",
-      "amount": "to taste",
-      "notes": null
+      "name": "sandwich rolls",
+      "amount": "4",
+      "notes": "preferably crusty or toasted"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup",
+      "notes": "cheddar or Monterey Jack work well"
+    },
+    {
+      "name": "sliced jalapeños",
+      "amount": "1/4 cup",
+      "notes": "add as much or as little heat as you like"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/4 cup",
+      "notes": "mild or spicy, your choice"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional, but adds a nice cooling touch"
     }
   ],
   "instructions": [
-    "Preheat a grill or grill pan to medium-high heat.",
-    "Place the frankfurters on the grill and cook for 5-7 minutes on each side, or until slightly charred.",
-    "Meanwhile, toast the bread slices on the grill or in a toaster.",
-    "Assemble the sandwiches by spreading a layer of tangy sauce on each toasted bread slice.",
-    "Add a cooked frankfurter to each sandwich, followed by a sprinkle of cheese, cilantro, radishes, and a slice of tomato.",
-    "Season with salt and pepper to taste.",
-    "Serve immediately and enjoy!"
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the tangy dutch frankfurter until nicely charred, about 5 minutes per side.",
+    "3. Meanwhile, toast the sandwich rolls by grilling them for about 2 minutes, or until lightly browned.",
+    "4. Assemble the sandwiches by placing a cooked frankfurter on each roll, followed by a spoonful of shredded cheese.",
+    "5. Add sliced jalapeños and a dollop of salsa on top of the cheese.",
+    "6. Finish with a dollop of sour cream, if using.",
+    "7. Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "mexican",
-    "sandwiches",
-    "quick-and-easy"
+    "hot-dog",
+    "sandwich",
+    "grilled"
   ],
   "nutrition": {
-    "calories": 400,
-    "protein": 25,
+    "calories": 350,
+    "protein": 20,
     "carbs": 30,
-    "fat": 20
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dutch-frankfurter-sandwich--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T23:15:59.477Z"
+  "createdAt": "2026-07-21T02:41:05.055Z"
 }
