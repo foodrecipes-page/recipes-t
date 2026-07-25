@@ -1,0 +1,87 @@
+{
+  "slug": "tangy-crispy-portuguese-sweet-potatoes-crumble--thai",
+  "title": "Thai Crispy Sweet Potato Fritters",
+  "description": "Crispy on the outside, sweet and fluffy on the inside, these Thai-inspired sweet potato fritters are a delicious snack or side dish.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "portuguese crumble",
+      "amount": "1/4 cup",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "tangy mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine grated sweet potatoes, flour, and salt. Mix well.",
+    "2. Divide the mixture into 8 equal parts and shape each part into a ball.",
+    "3. Flatten each ball slightly into a disk shape.",
+    "4. Heat about 1/2 inch of vegetable oil in a large non-stick skillet over medium-high heat.",
+    "5. When the oil is hot, add 4 fritters to the skillet (do not overcrowd).",
+    "6. Cook the fritters for about 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "7. Remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "8. Repeat the cooking process with the remaining 4 fritters.",
+    "9. Serve the fritters hot with tangy mayonnaise and crispy fried onions on top.",
+    "10. Garnish with additional crispy fried onions and a sprinkle of salt, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "sweetpotatoes",
+    "thai",
+    "vegan",
+    "glutenfree"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crispy-portuguese-sweet-potatoes-crumble--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:55:39.255Z"
+}
