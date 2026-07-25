@@ -1,0 +1,73 @@
+{
+  "slug": "tangy-crunchy-peruvian-beef-crumble--keto",
+  "title": "Peruvian Beef Stir Fry",
+  "description": "A keto Peruvian-inspired beef stir fry with a tangy and crunchy twist.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Crunchy slaw",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian aji amarillo sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tangy lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Crumble beef fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Keto stir-fry seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, heat the crumble beef fat over medium-high heat.",
+    "2. Add the beef strips and cook to desired doneness, about 5 minutes.",
+    "3. Remove the beef from the skillet and set aside.",
+    "4. In the same skillet, add the Peruvian aji amarillo sauce and cook for 1 minute.",
+    "5. Add the crunchy slaw and stir-fry seasoning, and cook for an additional 2 minutes.",
+    "6. Return the beef to the skillet and stir in the tangy lime juice.",
+    "7. Cook for an additional 1-2 minutes, until the beef is coated in the sauce.",
+    "8. Garnish with fresh cilantro and serve immediately.",
+    "9. Serve hot and enjoy!",
+    "10. Pair with a side of cauliflower rice or a keto-friendly side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "beef",
+    "stir-fry",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crunchy-peruvian-beef-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T16:01:21.914Z"
+}
