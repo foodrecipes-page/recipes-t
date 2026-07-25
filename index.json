@@ -2976,15 +2976,15 @@
   },
   {
     "slug": "tangy-light-italian-egg-stir-fry",
-    "title": "Egg Italian Stir Fry",
+    "title": "Italian Egg Frittata",
     "tags": [
       "italian",
       "breakfast",
-      "eggs",
+      "egg",
       "vegetarian"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 15,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "t"
   },
   {
@@ -14051,6 +14051,32 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-light-algerian-lentil-tagine--mexican",
+    "title": "Lentil Tagine Tacos",
+    "tags": [
+      "mexican",
+      "lentil",
+      "tagine",
+      "veggie"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crunchy-peruvian-beef-crumble--keto",
+    "title": "Peruvian Beef Stir Fry",
+    "tags": [
+      "peruvian",
+      "beef",
+      "stir-fry",
+      "keto"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
