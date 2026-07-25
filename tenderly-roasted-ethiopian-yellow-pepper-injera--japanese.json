@@ -1,0 +1,79 @@
+{
+  "slug": "tenderly-roasted-ethiopian-yellow-pepper-injera--japanese",
+  "title": "Ethiopian Yellow Pepper Stir Fry",
+  "description": "A Japanese-inspired twist on the Ethiopian staple, featuring roasted yellow peppers and crispy injera.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Injera",
+      "amount": "4-6 pieces",
+      "notes": "preferably day-old injera"
+    },
+    {
+      "name": "Yellow Pepper",
+      "amount": "2 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add ginger and garlic; stir-fry for 1 minute.",
+    "Add soy sauce and rice vinegar; stir-fry for another minute.",
+    "Add roasted yellow peppers; stir-fry for 2-3 minutes.",
+    "Crumble injera into the pan and stir-fry until crispy.",
+    "Taste and adjust seasoning as needed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ethiopian",
+    "stir-fry",
+    "yellow-pepper",
+    "injera"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tenderly-roasted-ethiopian-yellow-pepper-injera--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:20:20.334Z"
+}
