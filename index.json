@@ -14176,5 +14176,31 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tender-algerian-lamb-tagine--mexican",
+    "title": "Mexican Lamb Tagine",
+    "tags": [
+      "lamb",
+      "mexican",
+      "tagine",
+      "braise"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 170,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-roast-argentinian-persian-cucumber-roast--indian",
+    "title": "Argentinian Roast Chicken Tikka Masala",
+    "tags": [
+      "chicken",
+      "indian",
+      "tikka-masala",
+      "argentinian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
+    "shard": "t"
   }
 ]
