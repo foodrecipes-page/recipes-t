@@ -1,0 +1,94 @@
+{
+  "slug": "thailand-grill-curry-vegetarian--japanese",
+  "title": "Grilled Teriyaki Tofu Skewers",
+  "description": "A Japanese-inspired vegetarian dish featuring marinated tofu and vegetables grilled to perfection. Serve with steamed rice for a delightful meal.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra-firm tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated for marinade"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing grill"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, brown sugar, rice vinegar, and grated ginger.",
+    "Add the pressed tofu to the marinade and mix well.",
+    "Let it marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Thread the marinated tofu, bell peppers, onions, and green onions onto the bamboo skewers.",
+    "Brush the grill with coconut oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the tofu is golden brown and the vegetables are tender.",
+    "Serve hot with steamed rice and your favorite Japanese-inspired sides.",
+    "Garnish with additional green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grill",
+    "curry",
+    "vegetarian",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/thailand-grill-curry-vegetarian--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:21:15.358Z"
+}
