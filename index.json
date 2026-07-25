@@ -4821,17 +4821,15 @@
   },
   {
     "slug": "tasty-flaky-uruguayan-red-bean-empanadas",
-    "title": "Tasty Flaky Uruguayan Red Bean Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "flaky-crust",
-      "jain-friendly",
-      "meal-prep",
-      "snack",
       "uruguayan",
-      "vegetarian"
+      "empanadas",
+      "meat",
+      "lunch"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 55,
     "shard": "t"
   },
   {
@@ -14099,6 +14097,43 @@
       "tasty-recipe"
     ],
     "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "thailand-grill-curry-vegetarian--japanese",
+    "title": "Grilled Teriyaki Tofu Skewers",
+    "tags": [
+      "grill",
+      "curry",
+      "vegetarian",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-crisp-italian-chicken-salad--thai",
+    "title": "Thai Chicken Salad",
+    "tags": [
+      "thai",
+      "salad",
+      "chicken"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "toasty-toasted-chicken--mexican",
+    "title": "Mexican Chicken Toasty",
+    "tags": [
+      "mexican",
+      "chicken",
+      "toasty"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
   }
