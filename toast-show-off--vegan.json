@@ -1,0 +1,62 @@
+{
+  "slug": "toast-show-off--vegan",
+  "title": "Avocado Toast",
+  "description": "A simple and nutritious vegan breakfast option. This avocado toast is made with fresh avocado, salt, and lemon juice on toasted bread.",
+  "cuisine": null,
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado, mashed",
+      "notes": null
+    },
+    {
+      "name": "Lemon",
+      "amount": "1/2 lemon, juiced",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Bread",
+      "amount": "2 slices whole grain bread",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Toast the bread until lightly browned.",
+    "Mash the avocado in a bowl.",
+    "Squeeze the lemon juice over the mashed avocado.",
+    "Add salt to taste.",
+    "Spread the avocado mixture onto the toasted bread.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "breakfast",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toast-show-off--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:24:15.373Z"
+}
