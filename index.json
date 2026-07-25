@@ -14075,5 +14075,31 @@
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "toast-show-off--vegan",
+    "title": "Avocado Toast",
+    "tags": [
+      "avocado",
+      "breakfast",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 8,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-ukrainian-corn-flatbread--gluten-free",
+    "title": "Ukrainian Corn Fritters",
+    "tags": [
+      "corn-fritters",
+      "ukrainian-food",
+      "gluten-free-snack",
+      "tasty-recipe"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
