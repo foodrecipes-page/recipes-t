@@ -1,0 +1,67 @@
+{
+  "slug": "tangy-dense-slovakian-turkey-ham-dumplings--italian",
+  "title": "Slovakian-Italian Turkey Dumplings",
+  "description": "A unique twist on traditional Italian dumplings, infused with the hearty flavors of Slovakia.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "turkey",
+      "amount": "1 pound, ground"
+    },
+    {
+      "name": "dumplings",
+      "amount": "12 count, homemade or store-bought"
+    },
+    {
+      "name": "ham",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tablespoons, prepared mustard"
+    },
+    {
+      "name": "dense",
+      "amount": "1 cup, all-purpose flour"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1/2 cup, chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook dumplings according to package instructions.",
+    "In a large skillet, cook turkey over medium-high heat until browned, breaking into small pieces.",
+    "Add diced ham to the skillet and cook until heated through.",
+    "Stir in mustard and cook for an additional 1-2 minutes.",
+    "Add cooked dumplings to the skillet and toss with the turkey and ham mixture.",
+    "Season with parsley and serve hot.",
+    "Serve with your choice of sides, such as marinara sauce or sautéed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "slovakian",
+    "dumplings",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-slovakian-turkey-ham-dumplings--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:23:02.059Z"
+}
