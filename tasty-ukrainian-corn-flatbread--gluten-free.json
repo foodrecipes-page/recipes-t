@@ -1,0 +1,73 @@
+{
+  "slug": "tasty-ukrainian-corn-flatbread--gluten-free",
+  "title": "Ukrainian Corn Fritters",
+  "description": "Crispy fritters filled with corn and served with a side of flatbread. A tasty Ukrainian-inspired dish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Tasty",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs (parsley, dill)"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oil in a deep frying pan to 350°F (180°C).",
+    "2. In a bowl, mix together corn, tasty, egg, salt, and pepper.",
+    "3. Tear flatbread into small pieces and add to corn mixture.",
+    "4. Using a spoon, drop small balls of the mixture into the hot oil.",
+    "5. Fry fritters for 3-4 minutes on each side, until golden brown.",
+    "6. Remove fritters from oil and place on a paper towel-lined plate.",
+    "7. Serve fritters hot with a side of flatbread.",
+    "8. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn-fritters",
+    "ukrainian-food",
+    "gluten-free-snack",
+    "tasty-recipe"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-ukrainian-corn-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:55:00.367Z"
+}
