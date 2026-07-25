@@ -1912,16 +1912,15 @@
   },
   {
     "slug": "tangy-flaky-paleo-friendly-polish-dish",
-    "title": "Tangy Flaky Paleo Friendly Polish Dish",
+    "title": "Polish Pierogi Filling",
     "tags": [
-      "paleo",
-      "flaky",
-      "tangy",
-      "hangover",
-      "chinese-five-spice"
+      "polish",
+      "pierogi",
+      "potato",
+      "cheese"
     ],
-    "cuisine": "Polish, Asian-Inspired",
-    "totalTimeMin": 50,
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -7352,16 +7351,15 @@
   },
   {
     "slug": "tender-ethiopian-peas-tibs",
-    "title": "Tender Ethiopian Peas Tibs",
+    "title": "Spicy Ethiopian Tibs with Peas",
     "tags": [
-      "easy-dinner",
-      "high-protein",
-      "keto-friendly",
-      "one-pan",
-      "weeknight"
+      "ethiopian",
+      "beef",
+      "spicy",
+      "peas"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -14001,6 +13999,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tenderly-crispy-middle-eastern-savoy-cabbage-labneh--japanese",
+    "title": "Crispy Savoy Cabbage Bites with Labneh Sauce",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "t"
+  },
+  {
+    "slug": "trout-toastie--thai",
+    "title": "Pan-Seared Trout with Crispy Toastie",
+    "tags": [
+      "thai",
+      "fish",
+      "seafood",
+      "pan-seared"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
     "shard": "t"
   }
 ]
