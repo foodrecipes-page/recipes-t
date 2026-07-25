@@ -14218,5 +14218,19 @@
     "cuisine": "thai",
     "totalTimeMin": 27,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-umami-british-black-pudding-eton-mess--vegetarian",
+    "title": "Eton Mess Pudding",
+    "tags": [
+      "etonmess",
+      "pudding",
+      "dessert",
+      "chocolate",
+      "berry"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 15,
+    "shard": "t"
   }
 ]
