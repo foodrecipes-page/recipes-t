@@ -1,79 +1,84 @@
 {
   "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
-  "title": "Stir-Fried Dolce with Gorgonzola and Ethiopian Cheese",
-  "description": "A unique and savory fusion of Chinese and Italian flavors, combining the sweetness of Dolce and the creaminess of Gorgonzola with the tanginess of Ethiopian Cheese.",
+  "title": "Stir-Fried Gorgonzola Chicken",
+  "description": "A unique and savory twist on traditional Chinese stir-fry, featuring the creamy flavor of gorgonzola cheese.",
   "cuisine": "chinese",
   "diet": [
-    "vegetarian"
+    "vegetarian",
+    "dairy"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Dolce",
-      "amount": "1 cup",
-      "notes": "sliced into thin strips"
-    },
-    {
       "name": "Gorgonzola cheese",
-      "amount": "1/2 cup",
-      "notes": "crumbly, crumbled"
+      "amount": "1 block (8 oz)",
+      "notes": ""
     },
     {
-      "name": "Ethiopian cheese",
-      "amount": "1/4 cup",
-      "notes": "crumbly, crumbled"
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Dolce",
+      "amount": "2 cups",
+      "notes": ""
     },
     {
       "name": "Vegetable oil",
-      "amount": "2 tablespoons"
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
     },
     {
       "name": "Garlic",
       "amount": "2 cloves",
-      "notes": "minced"
+      "notes": ""
     },
     {
       "name": "Ginger",
-      "amount": "1 tablespoon",
-      "notes": "grated"
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
-      "name": "Soy sauce",
-      "amount": "2 tablespoons"
-    },
-    {
-      "name": "Sesame oil",
-      "amount": "1 teaspoon"
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
-    "Add the garlic and ginger and stir-fry until fragrant.",
-    "Add the Dolce and stir-fry for 2-3 minutes.",
-    "Add the Gorgonzola and Ethiopian cheese and stir-fry until they start to melt.",
-    "Pour in the soy sauce and sesame oil, and stir-fry for another minute.",
-    "Serve immediately, garnished with sesame seeds and chopped scallions if desired."
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the dolce and stir-fry until tender, about 3-4 minutes.",
+    "Crumble the gorgonzola cheese into the skillet and stir-fry until melted and creamy.",
+    "Season with soy sauce to taste.",
+    "Sprinkle sesame seeds on top and serve hot.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 5,
-  "totalTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "italian",
-    "fusion",
-    "stir-fry",
-    "cheese"
+    "gorgonzola",
+    "cheese",
+    "stir-fry"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 15,
+    "calories": 350,
+    "protein": 35,
     "carbs": 20,
     "fat": 20
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T07:08:09.925Z"
+  "createdAt": "2026-07-21T20:55:39.656Z"
 }
