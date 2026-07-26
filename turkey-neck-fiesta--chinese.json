@@ -1,0 +1,94 @@
+{
+  "slug": "turkey-neck-fiesta--chinese",
+  "title": "Crispy Turkey and Fiesta Fiesta Neck Stir Fry",
+  "description": "A Chinese-inspired twist on traditional stir-fry, using turkey neck for added flavor and crispy texture.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey neck",
+      "amount": "1",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Turkey breast",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fiesta corn",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced ginger and minced garlic and stir-fry until fragrant.",
+    "Add the turkey neck pieces and cook until browned, about 5 minutes.",
+    "Add the turkey breast, fiesta corn, soy sauce, and oyster sauce. Stir-fry until the turkey is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter and garnish with green onions if desired.",
+    "Serve immediately and enjoy!",
+    "To crisp the turkey neck, heat an additional 1 tbsp of vegetable oil in a small skillet over medium heat.",
+    "Add the browned turkey neck pieces and cook until crispy, about 3-4 minutes.",
+    "Serve the crispy turkey neck on top of the stir-fry or on the side.",
+    "Optional: serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "turkey",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkey-neck-fiesta--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T12:57:28.719Z"
+}
