@@ -1,0 +1,86 @@
+{
+  "slug": "tempting-smoky-tunisian-lamb-tagine",
+  "title": "Tunisian Lamb Tagine",
+  "description": "A slow-cooked North African stew originating from Tunisia, typically made with lamb and a blend of spices. This recipe combines the flavors of the region with the richness of lamb.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tempting apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tagine",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat. Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pot and set aside. Add onion and garlic to pot and cook until softened, about 5 minutes.",
+    "Add tunisian spice blend, smoky paprika, salt, and black pepper to pot and cook for 1 minute.",
+    "Add lamb back to pot, along with apricots, chicken broth, and tagine.",
+    "Bring mixture to a boil, then cover and transfer to oven. Braise for 2 1/2 hours, or until lamb is tender.",
+    "Serve lamb and sauce over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 24,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-smoky-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:04:45.687Z"
+}
