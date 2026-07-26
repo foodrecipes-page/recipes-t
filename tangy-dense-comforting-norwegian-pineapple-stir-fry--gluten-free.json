@@ -1,0 +1,85 @@
+{
+  "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry--gluten-free",
+  "title": "Norwegian Pineapple Stir Fry",
+  "description": "A sweet and savory gluten-free stir fry with a Norwegian twist.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dense stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Norwegian brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tangy soy sauce",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Comforting coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Protein of your choice (chicken, beef or tofu)",
+      "amount": "1 cup",
+      "notes": "cook to safe internal temperature"
+    },
+    {
+      "name": "Fry spices (salt, pepper, garlic, ginger)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add protein of your choice and cook to safe internal temperature.",
+    "Add pineapple, dense stir-fry sauce, Norwegian brown sugar, and tangy soy sauce to the skillet.",
+    "Stir-fry for 2-3 minutes or until pineapple is caramelized.",
+    "Add fry spices to taste and stir-fry for another minute.",
+    "Garnish with fresh cilantro and serve over rice or noodles.",
+    "Adjust seasoning to taste and serve hot.",
+    "Let stir-fry rest for 2 minutes before serving.",
+    "Serve immediately and enjoy!",
+    "Leftovers can be refrigerated for up to 3 days or frozen for up to 2 months."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "norwegian",
+    "pineapple",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-dense-comforting-norwegian-pineapple-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:38:25.211Z"
+}
