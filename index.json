@@ -14342,5 +14342,18 @@
     "cuisine": "Chinese",
     "totalTimeMin": 17,
     "shard": "t"
+  },
+  {
+    "slug": "tempting-toasty-spanish-vegetables-pisto-manchego--indian",
+    "title": "Spanish-Style Vegetable Fritters",
+    "tags": [
+      "spanish",
+      "vegetarian",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
