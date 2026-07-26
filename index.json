@@ -14273,5 +14273,32 @@
     "cuisine": "french",
     "totalTimeMin": 27,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-ukrainian-aubergine-pancakes--gluten-free",
+    "title": "Tangy Aubergine Pancakes",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "pancakes",
+      "aubergine"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-dutch-chickpea-pancakes--french",
+    "title": "French Chickpea Pancakes",
+    "tags": [
+      "french",
+      "chickpea",
+      "pancakes",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
