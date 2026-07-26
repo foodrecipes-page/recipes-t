@@ -14355,5 +14355,43 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tender-turkish-potato-stew--italian",
+    "title": "Italian Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "beef"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 135,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-dense-comforting-norwegian-pineapple-stir-fry--gluten-free",
+    "title": "Norwegian Pineapple Stir Fry",
+    "tags": [
+      "gluten-free",
+      "norwegian",
+      "pineapple",
+      "stir-fry"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-creamy-algerian-chickpeas-soup--french",
+    "title": "French Chickpea Soup",
+    "tags": [
+      "french",
+      "chickpea",
+      "soup",
+      "lunch"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "t"
   }
 ]
