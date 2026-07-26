@@ -1,0 +1,58 @@
+{
+  "slug": "tangy-gooey-nut-flatbread--vegan",
+  "title": "Tangy Nut Gooey Flatbread",
+  "description": "A sweet and savory flatbread topped with a tangy gooey sauce and crunchy nuts. Perfect for a vegan snack.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Tangy Gooey Sauce",
+      "amount": "1/4 cup",
+      "notes": "Make by blending 1/4 cup hummus with 1 tablespoon apple cider vinegar"
+    },
+    {
+      "name": "Chopped Nuts",
+      "amount": "1/4 cup",
+      "notes": "Choose your favorite nuts, such as almonds or walnuts"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Place the flatbread on a baking sheet.",
+    "Spread the tangy gooey sauce evenly over the flatbread.",
+    "Sprinkle chopped nuts over the sauce.",
+    "Bake in the preheated oven for 8-10 minutes, or until the nuts are toasted.",
+    "Remove from the oven and let cool for 2-3 minutes.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "flatbread",
+    "tangy",
+    "gooey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-nut-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:26:44.270Z"
+}
