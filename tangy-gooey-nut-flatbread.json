@@ -1,0 +1,54 @@
+{
+  "slug": "tangy-gooey-nut-flatbread",
+  "title": "Nutty Flatbread Snack",
+  "description": "A simple flatbread topped with a sweet and crunchy nut mixture, perfect for a quick snack.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 sheet",
+      "notes": "preferably a crispy flatbread"
+    },
+    {
+      "name": "nut",
+      "amount": "1/4 cup, chopped",
+      "notes": "almonds or walnuts work well"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tbsp, honey mustard",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the flatbread into bite-sized pieces.",
+    "In a small bowl, mix together the chopped nut and honey mustard.",
+    "Top each flatbread piece with a spoonful of the nut mixture.",
+    "Bake in the oven for 5-7 minutes, or until the flatbread is crispy and the nut mixture is toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "easy",
+    "flatbread",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-nut-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:59:07.317Z"
+}
