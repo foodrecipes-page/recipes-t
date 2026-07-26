@@ -2302,14 +2302,15 @@
   },
   {
     "slug": "tangy-gooey-nut-flatbread",
-    "title": "Tangy Gooey Nut Flatbread",
+    "title": "Nutty Flatbread Snack",
     "tags": [
-      "tangy",
-      "goosey",
-      "nut-free-friendly"
+      "snack",
+      "easy",
+      "flatbread",
+      "nuts"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 12,
     "shard": "t"
   },
   {
@@ -14299,6 +14300,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-australian-collard-salad--thai",
+    "title": "Thai Collard Green Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "collard-greens",
+      "beef"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 23,
     "shard": "t"
   }
 ]
