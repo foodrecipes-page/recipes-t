@@ -14393,5 +14393,31 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "t"
+  },
+  {
+    "slug": "tender-korean-tamarind-gimbap--vegan",
+    "title": "Spicy Vegan Gimbap Rolls",
+    "tags": [
+      "korean",
+      "vegan",
+      "gimbap",
+      "rolls"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-turkish-potato-stew--japanese",
+    "title": "Turkish Stew with Potatoes",
+    "tags": [
+      "beef",
+      "japanese",
+      "stew",
+      "potatoes"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 110,
+    "shard": "t"
   }
 ]
