@@ -1,0 +1,77 @@
+{
+  "slug": "tender-braised-chinese-napa-cabbage-bao",
+  "title": "Braised Napa Cabbage Bao",
+  "description": "A twist on traditional bao, this recipe pairs tender napa cabbage with a savory braised filling, served in a delicate chinese bao bun.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nappa cabbage",
+      "amount": "1 medium, shredded",
+      "notes": "cabbage is typically shredded before use"
+    },
+    {
+      "name": "braised cabbage filling",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chinese bao buns",
+      "amount": "4-6 buns",
+      "notes": "found in most asian grocery stores"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Steam napa cabbage for 5-7 minutes until tender.",
+    "Mix braised cabbage filling with sesame oil (if using), soy sauce (if using), salt, and pepper (if using).",
+    "Split chinese bao buns in half and toast until lightly browned.",
+    "Spoon braised cabbage filling into bao buns.",
+    "Top with steamed napa cabbage.",
+    "Serve immediately and enjoy!",
+    "Note: Bao buns can be toasted or steamed before use for added texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage",
+    "bao",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-braised-chinese-napa-cabbage-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:54:45.225Z"
+}
