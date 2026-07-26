@@ -14419,5 +14419,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 110,
     "shard": "t"
+  },
+  {
+    "slug": "tempered-sweet-spanish-rum-tart--italian",
+    "title": "Tart Rum Panna Cotta",
+    "tags": [
+      "italian",
+      "dessert",
+      "rum",
+      "tart",
+      "panna-cotta"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 420,
+    "shard": "t"
   }
 ]
