@@ -1,0 +1,80 @@
+{
+  "slug": "tender-korean-tamarind-gimbap--vegan",
+  "title": "Spicy Vegan Gimbap Rolls",
+  "description": "A vegan twist on the classic Korean dish, featuring a delicious combination of tender vegetables and spicy tamarind sauce.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tender zucchini",
+      "amount": "1 medium, sliced"
+    },
+    {
+      "name": "Tender carrots",
+      "amount": "1 medium, peeled and grated"
+    },
+    {
+      "name": "Tamarind sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Gimbap seaweed",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vegan sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare the Korean rice according to the package instructions.",
+    "In a large pan, heat the sesame oil over medium heat. Add the sliced zucchini and grated carrots, and cook until tender.",
+    "In a small bowl, whisk together the tamarind sauce and a pinch of salt and pepper. Pour the sauce over the cooked vegetables and stir to combine.",
+    "Cut the gimbap seaweed into 4-6 equal pieces, depending on the desired roll size.",
+    "Lay a piece of gimbap seaweed flat on a cutting board, with one edge facing you.",
+    "Spread a thin layer of the cooked rice mixture onto the seaweed, leaving a 1-inch border at the top.",
+    "Add a few pieces of the vegetable mixture on top of the rice, and sprinkle with chopped green onions.",
+    "Roll the gimbap tightly but gently, applying even pressure to form a compact roll.",
+    "Repeat the process with the remaining ingredients, and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "vegan",
+    "gimbap",
+    "rolls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-korean-tamarind-gimbap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:43:59.281Z"
+}
