@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-creamy-algerian-chickpeas-soup--french",
+  "title": "French Chickpea Soup",
+  "description": "A comforting French-inspired soup made with chickpeas and a blend of creamy and tangy flavors.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Algerian Chickpeas",
+      "amount": "1 (14.5 oz) can",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Creamy Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "French Soup Stock",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the soup stock in a large pot over medium heat.",
+    "Add chopped onion and sauté until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add chickpeas and stir to combine.",
+    "Bring the mixture to a simmer and cook for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with a sprinkle of paprika or chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "chickpea",
+    "soup",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-creamy-algerian-chickpeas-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:52:32.843Z"
+}
