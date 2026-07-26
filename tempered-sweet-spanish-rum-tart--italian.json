@@ -1,0 +1,71 @@
+{
+  "slug": "tempered-sweet-spanish-rum-tart--italian",
+  "title": "Tart Rum Panna Cotta",
+  "description": "A creamy dessert with a sweet and tangy tart flavor, infused with the richness of rum. This Italian-inspired dessert is perfect for warm weather.",
+  "cuisine": "italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Tart puree",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Rum",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Spanish tempered chocolate",
+      "amount": "1 ounce",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and tart puree. Heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and stir in the rum and vanilla extract. Let it steep for 10 minutes, then strain the mixture through a fine-mesh sieve into a clean bowl.",
+    "Pour the mixture into small individual serving cups or ramekins. Refrigerate for at least 4 hours, or until set.",
+    "Just before serving, melt the Spanish tempered chocolate in a double boiler or in the microwave in 10-second increments, stirring between each interval until smooth.",
+    "Spoon the melted chocolate over the chilled panna cotta. Serve chilled, garnished with fresh fruit or a sprinkle of cocoa powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 420,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "rum",
+    "tart",
+    "panna-cotta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempered-sweet-spanish-rum-tart--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:36:38.081Z"
+}
