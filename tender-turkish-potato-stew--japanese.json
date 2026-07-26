@@ -1,0 +1,78 @@
+{
+  "slug": "tender-turkish-potato-stew--japanese",
+  "title": "Turkish Stew with Potatoes",
+  "description": "A twist on traditional Turkish cuisine, this hearty stew combines tender beef with Japanese flavors and potatoes.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Beef",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Turkish Stew",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2-3 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes. Remove from pot.",
+    "Add more oil if needed, then sauté the ginger until fragrant, about 1 minute.",
+    "Add the stew, potatoes, soy sauce, and rice vinegar. Stir to combine.",
+    "Return the beef to the pot, cover, and bring to a boil.",
+    "Reduce heat to low and simmer for 1 1/2 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with green onions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "japanese",
+    "stew",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-turkish-potato-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T17:57:39.367Z"
+}
