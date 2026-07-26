@@ -5773,17 +5773,15 @@
   },
   {
     "slug": "tempting-smoky-tunisian-lamb-tagine",
-    "title": "Tempting Smoky Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "date-night",
-      "egg-free",
-      "gluten-free",
-      "lamb-recipes",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot"
+      "slow-cooked"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 165,
     "shard": "t"
   },
   {
@@ -14231,6 +14229,32 @@
     ],
     "cuisine": "British",
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-indian-tagliatelle-chaat--japanese",
+    "title": "Japanese-Style Chaat Pasta",
+    "tags": [
+      "japanese",
+      "fusion",
+      "pasta",
+      "chaat",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
+    "shard": "t"
+  },
+  {
+    "slug": "tempered-sweet-spanish-rum-tart--french",
+    "title": "French Crème Brûlée",
+    "tags": [
+      "french",
+      "dessert",
+      "crème-brûlée"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
     "shard": "t"
   }
 ]
