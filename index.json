@@ -14314,5 +14314,33 @@
     "cuisine": "thai",
     "totalTimeMin": 23,
     "shard": "t"
+  },
+  {
+    "slug": "turkey-neck-fiesta--chinese",
+    "title": "Crispy Turkey and Fiesta Fiesta Neck Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "turkey",
+      "crispy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "tasty-smoky-italian-spinach-flatbread--chinese",
+    "title": "Smoked Spinach Flatbread",
+    "tags": [
+      "chinese",
+      "flatbread",
+      "spinach",
+      "italian-seasoning",
+      "snack",
+      "smoky"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 17,
+    "shard": "t"
   }
 ]
