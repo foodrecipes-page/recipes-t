@@ -1,0 +1,70 @@
+{
+  "slug": "tempting-toasty-spanish-vegetables-pisto-manchego--indian",
+  "title": "Spanish-Style Vegetable Fritters",
+  "description": "Crispy vegetable fritters with a Spanish twist, served as a snack or as a side dish. These fritters are made with a variety of vegetables and a blend of Spanish spices.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vegetables",
+      "amount": "1 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "pisto",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "manchego",
+      "amount": "1/4 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "tempting",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "toasty",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "spanish",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 cup of oil in a deep frying pan over medium heat.",
+    "Mix together the chopped vegetables, pisto, manchego, tempting, toasty, and spanish in a bowl.",
+    "Using a spoon, drop small portions of the mixture into the hot oil.",
+    "Fry until the fritters are golden brown and crispy, about 3-4 minutes.",
+    "Drain the fritters on paper towels.",
+    "Serve hot with a side of your favorite chutney or sauce.",
+    "Note: If you want to bake the fritters instead of frying, preheat your oven to 400°F (200°C) and bake for 15-20 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempting-toasty-spanish-vegetables-pisto-manchego--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:30:23.376Z"
+}
