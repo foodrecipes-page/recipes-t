@@ -1,0 +1,68 @@
+{
+  "slug": "tempered-sweet-spanish-rum-tart--french",
+  "title": "French Crème Brûlée",
+  "description": "Rich vanilla custard base topped with a caramelized sugar crust, a classic French dessert.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Tempered sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a medium saucepan, whisk together the tempered sugar and egg yolks until pale yellow.",
+    "In a separate saucepan, combine the heavy cream, granulated sugar, and vanilla extract. Heat over medium heat, stirring occasionally, until the sugar dissolves and the mixture simmers.",
+    "Gradually pour the warm cream mixture into the egg yolk mixture, whisking constantly.",
+    "Pour the custard base into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover and refrigerate for at least 2 hours, or overnight.",
+    "Just before serving, sprinkle a thin layer of tempered sugar over the top of each ramekin.",
+    "Caramelize the sugar with a kitchen torch or under the broiler."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "crème-brûlée"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tempered-sweet-spanish-rum-tart--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:14:48.766Z"
+}
