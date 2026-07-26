@@ -1,0 +1,82 @@
+{
+  "slug": "tender-indian-tagliatelle-chaat--japanese",
+  "title": "Japanese-Style Chaat Pasta",
+  "description": "A unique fusion dish that combines the flavors of Japan with the popular Indian street food, chaat. This Japanese-Style Chaat Pasta is a creative take on traditional pasta dishes.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz",
+      "notes": "use a Japanese-style soba noodle for a more authentic taste"
+    },
+    {
+      "name": "chaat",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "thinly sliced, store-bought or homemade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle according to package instructions.",
+    "In a large pan, heat the soy sauce, sushi vinegar (if using), and sesame oil over low heat.",
+    "Add the chaat and stir to combine.",
+    "Add the tender and stir to combine.",
+    "Add the cooked tagliatelle to the pan and toss to combine.",
+    "Transfer the pasta to a serving dish and garnish with chopped green onions and toasted sesame seeds (if using).",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fusion",
+    "pasta",
+    "chaat",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-indian-tagliatelle-chaat--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:13:50.887Z"
+}
