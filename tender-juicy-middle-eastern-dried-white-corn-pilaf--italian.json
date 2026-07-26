@@ -1,0 +1,65 @@
+{
+  "slug": "tender-juicy-middle-eastern-dried-white-corn-pilaf--italian",
+  "title": "Middle Eastern-Italian Pilaf Casserole",
+  "description": "A flavorful casserole combining the warmth of Middle Eastern spices with the simplicity of Italian pilaf. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dried",
+      "amount": "1/2 cup",
+      "notes": "dried herbs of your choice (e.g. thyme, rosemary)"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 tsp",
+      "notes": "or to taste (e.g. cumin, coriander)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pilaf according to package instructions.",
+    "In a large skillet, sauté the dried herbs and middle eastern spices in a little olive oil.",
+    "Add the cooked pilaf to the skillet and stir to combine.",
+    "Transfer the pilaf mixture to a 9x13 inch baking dish.",
+    "Top with the white corn.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "middle-eastern",
+    "pilaf",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-juicy-middle-eastern-dried-white-corn-pilaf--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:22:09.232Z"
+}
