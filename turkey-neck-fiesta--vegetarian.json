@@ -1,0 +1,71 @@
+{
+  "slug": "turkey-neck-fiesta--vegetarian",
+  "title": "Fiesta Stuffed Bell Peppers",
+  "description": "A flavorful and colorful vegetarian dish, perfect for any occasion. This recipe combines the sweetness of bell peppers with the spice of fiesta seasoning.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "fiesta seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tops off the bell peppers and remove the seeds and membranes.",
+    "In a large bowl, combine the cooked rice, black beans, fiesta seasoning, and shredded cheese.",
+    "Stuff each bell pepper with the rice mixture and top with tomato sauce.",
+    "Place the bell peppers in a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "stuffed-peppers",
+    "southwestern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/turkey-neck-fiesta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:34:22.241Z"
+}
