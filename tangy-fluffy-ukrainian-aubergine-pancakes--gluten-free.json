@@ -1,0 +1,79 @@
+{
+  "slug": "tangy-fluffy-ukrainian-aubergine-pancakes--gluten-free",
+  "title": "Tangy Aubergine Pancakes",
+  "description": "A unique breakfast recipe combining aubergine with tangy flavors in fluffy pancakes.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 large aubergine",
+      "amount": "diced",
+      "notes": "salted and drained"
+    },
+    {
+      "name": "1 cup pancakes mix (gluten-free)",
+      "amount": "sifted",
+      "notes": null
+    },
+    {
+      "name": "1/2 cup milk",
+      "amount": "splash",
+      "notes": null
+    },
+    {
+      "name": "1 egg",
+      "amount": "beaten",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons butter",
+      "amount": "melted",
+      "notes": "for greasing pan"
+    },
+    {
+      "name": "1 tablespoon tangy sauce",
+      "amount": "squeezed",
+      "notes": "use your favorite sauce"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "In a bowl, whisk together pancakes mix, milk, and egg.",
+    "Add diced aubergine to the bowl and stir until combined.",
+    "Grease the pan with melted butter.",
+    "Using a ladle, pour the pancake batter onto the pan.",
+    "Cook the pancakes until bubbles appear on the surface and edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes.",
+    "Brush tangy sauce on top of pancakes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "pancakes",
+    "aubergine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-ukrainian-aubergine-pancakes--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:22:23.660Z"
+}
