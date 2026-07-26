@@ -2555,18 +2555,15 @@
   },
   {
     "slug": "tangy-italian-beans-ribollita",
-    "title": "Tangy Italian Beans Ribollita",
+    "title": "Ribollita Soup",
     "tags": [
-      "clay-pot",
       "italian",
-      "romantic",
-      "slow-cook",
-      "summer",
-      "tuscan",
-      "vegetarian"
+      "soup",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "t"
   },
   {
@@ -6442,17 +6439,14 @@
   },
   {
     "slug": "tender-braised-chinese-napa-cabbage-bao",
-    "title": "Tender Braised Chinese Napa Cabbage Bao",
+    "title": "Braised Napa Cabbage Bao",
     "tags": [
-      "braised-dishes",
-      "chinese-food",
-      "low-carb",
-      "one-pot",
-      "sugar-free",
-      "weeknight-dinner"
+      "cabbage",
+      "bao",
+      "chinese"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 60,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -14255,6 +14249,32 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-juicy-middle-eastern-dried-white-corn-pilaf--italian",
+    "title": "Middle Eastern-Italian Pilaf Casserole",
+    "tags": [
+      "italian",
+      "middle-eastern",
+      "pilaf",
+      "casserole"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-korean-cabbage-naengmyeon--french",
+    "title": "Korean-Style Braised Naengmyeon with Cabbage",
+    "tags": [
+      "korean-french",
+      "vegetarian",
+      "noodles",
+      "cabbage"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 27,
     "shard": "t"
   }
 ]
