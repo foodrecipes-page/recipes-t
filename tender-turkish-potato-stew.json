@@ -1,0 +1,86 @@
+{
+  "slug": "tender-turkish-potato-stew",
+  "title": "Turkish Stew",
+  "description": "A hearty and flavorful stew made with tender meat and potatoes.",
+  "cuisine": "turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "turkish paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "stew meat broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 5 minutes.",
+    "Add the paprika, tomato paste, salt, and pepper. Cook for 1 minute.",
+    "Add the broth and potatoes. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-turkish-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:57:46.635Z"
+}
