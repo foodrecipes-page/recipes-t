@@ -10851,17 +10851,16 @@
   },
   {
     "slug": "tenderly-roasted-syrian-chicken-tagine",
-    "title": "Tenderly Roasted Syrian Chicken Tagine",
+    "title": "Syrian Chicken Tagine",
     "tags": [
-      "gluten-free",
-      "low-glycemic",
-      "middle-eastern",
+      "chicken",
+      "north-african",
       "one-pot",
-      "roasted-chicken",
-      "syrian-cuisine"
+      "couscous",
+      "rice"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
@@ -13912,16 +13911,15 @@
   },
   {
     "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--chinese",
-    "title": "Stir-Fried Dolce with Gorgonzola and Ethiopian Cheese",
+    "title": "Stir-Fried Gorgonzola Chicken",
     "tags": [
       "chinese",
-      "italian",
-      "fusion",
-      "stir-fry",
-      "cheese"
+      "gorgonzola",
+      "cheese",
+      "stir-fry"
     ],
     "cuisine": "chinese",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "t"
   },
   {
@@ -14446,6 +14444,30 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "turkey-neck-fiesta--vegetarian",
+    "title": "Fiesta Stuffed Bell Peppers",
+    "tags": [
+      "vegetarian",
+      "stuffed-peppers",
+      "southwestern"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-ukrainian-pork-stew--vegan",
+    "title": "Ukrainian Stew",
+    "tags": [
+      "ukrainian",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
     "shard": "t"
   }
 ]
