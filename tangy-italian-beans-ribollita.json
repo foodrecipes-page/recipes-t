@@ -1,0 +1,85 @@
+{
+  "slug": "tangy-italian-beans-ribollita",
+  "title": "Ribollita Soup",
+  "description": "A hearty Italian soup made with vegetables, bread, and cannellini beans. Perfect for a cold winter's day.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Italian bread",
+      "amount": "2 cups, cubed",
+      "notes": "stale bread works best"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Kale",
+      "amount": "1 bunch, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the cannellini beans, vegetable broth, and chopped kale to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the cubed bread to the pot and cook for an additional 10 minutes.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve the ribollita hot, topped with additional bread croutons if desired.",
+    "Taste and adjust the seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-italian-beans-ribollita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:04:27.324Z"
+}
