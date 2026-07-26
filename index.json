@@ -10465,17 +10465,14 @@
   },
   {
     "slug": "tender-turkish-potato-stew",
-    "title": "Tender Turkish Potato Stew",
+    "title": "Turkish Stew",
     "tags": [
-      "comfort-food",
-      "herbal",
-      "macrobiotic",
-      "one-pot",
-      "vegetarian",
-      "velvety"
+      "turkish",
+      "beef",
+      "stew"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "cuisine": "turkish",
+    "totalTimeMin": 45,
     "shard": "t"
   },
   {
