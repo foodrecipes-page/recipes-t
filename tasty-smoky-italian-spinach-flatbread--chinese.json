@@ -1,0 +1,65 @@
+{
+  "slug": "tasty-smoky-italian-spinach-flatbread--chinese",
+  "title": "Smoked Spinach Flatbread",
+  "description": "A Chinese-inspired flatbread topped with smoky spinach and flavorful Italian seasonings. A tasty twist on a classic Chinese dish.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 package (8-10 pieces)"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup fresh"
+    },
+    {
+      "name": "Italian Seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Tasty Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoky Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Brush flatbread with tasty oil and season with Italian seasoning.",
+    "3. Spread smoky sauce over flatbread.",
+    "4. Top with spinach and bake for 10-12 minutes.",
+    "5. Remove from oven and season with salt and pepper.",
+    "6. Cut into bite-sized pieces and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "flatbread",
+    "spinach",
+    "italian-seasoning",
+    "snack",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-smoky-italian-spinach-flatbread--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:40:37.493Z"
+}
