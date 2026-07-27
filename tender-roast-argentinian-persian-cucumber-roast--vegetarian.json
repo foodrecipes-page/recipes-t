@@ -1,0 +1,60 @@
+{
+  "slug": "tender-roast-argentinian-persian-cucumber-roast--vegetarian",
+  "title": "Persian Stuffed Cucumber Boats",
+  "description": "A refreshing and flavorful vegetarian dish featuring cucumber boats filled with a delicious mix of roasted vegetables.",
+  "cuisine": "Persian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tender cucumber",
+      "amount": "4 large",
+      "notes": "for the boats"
+    },
+    {
+      "name": "roast",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "argentinian persian",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Cut the tops off the cucumbers and scoop out the insides, leaving a shell about 1/4 inch thick.",
+    "3. In a bowl, combine the chopped roast, argentinian persian, and a pinch of salt and pepper.",
+    "4. Stuff each cucumber boat with the vegetable mix.",
+    "5. Place the stuffed cucumbers on a baking sheet and roast for 15-20 minutes, or until tender.",
+    "6. Garnish with chopped cucumber and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "persian",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-roast-argentinian-persian-cucumber-roast--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:23:22.164Z"
+}
