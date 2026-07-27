@@ -1,0 +1,74 @@
+{
+  "slug": "tasty-british-cheese-ploughmans",
+  "title": "Ploughman's Cheese and Pickle Delight",
+  "description": "A classic British snack featuring a delightful combination of cheese, pickles, and fresh vegetables.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheddar cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "Pickled cucumbers",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Ploughman's pickle",
+      "amount": "50g"
+    },
+    {
+      "name": "Tasty crackers",
+      "amount": "1 pack"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Arrange the tasty crackers on a large platter or individual plates.",
+    "2. Cut the Cheddar cheese into bite-sized pieces and place on top of the crackers.",
+    "3. Arrange the pickled cucumbers and ploughman's pickle on the platter.",
+    "4. Add fresh lettuce leaves to the platter and sprinkle with flaky sea salt.",
+    "5. Garnish with fresh parsley for a pop of color and freshness.",
+    "6. Serve immediately and enjoy!",
+    "7. If desired, add additional pickles or cheese to the platter for extra flavor.",
+    "8. Consider adding other items to the platter, such as grapes or figs, for added variety.",
+    "9. For a more substantial snack, consider adding sliced meats or cured fish.",
+    "10. Experiment with different types of cheese and pickles to find your favorite combination."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ploughmans",
+    "british",
+    "cheese",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tasty-british-cheese-ploughmans",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:08:19.457Z"
+}
