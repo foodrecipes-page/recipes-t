@@ -1,0 +1,64 @@
+{
+  "slug": "tangy-light-italian-egg-stir-fry--gluten-free",
+  "title": "Italian-Style Fried Eggs",
+  "description": "A simple and flavorful breakfast dish made with Italian-style fried eggs, perfect for a quick and easy meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "italian",
+      "amount": "1 tsp",
+      "notes": "Italian seasoning"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a non-stick skillet over medium heat.",
+    "Crack the eggs into a bowl and season with Italian seasoning, salt, and pepper.",
+    "Pour the eggs into the skillet and cook until the whites are set and the yolks are cooked to your desired doneness.",
+    "Serve the eggs hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "breakfast",
+    "easy",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-italian-egg-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:02:22.772Z"
+}
