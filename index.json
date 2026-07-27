@@ -14573,5 +14573,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-gooey-nut-flatbread--gluten-free",
+    "title": "Tangy Gooey Nut Flatbread",
+    "tags": [
+      "sweet",
+      "snack",
+      "flatbread",
+      "nuts"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "t"
   }
 ]
