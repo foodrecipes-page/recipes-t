@@ -1,0 +1,97 @@
+{
+  "slug": "tender-charred-korean-lamb-kebabs--keto",
+  "title": "Korean-Style Lamb Kebabs",
+  "description": "Grilled lamb kebabs marinated in a sweet and spicy Korean-inspired sauce, perfect for a keto meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "4 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro, chopped",
+      "amount": "for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together chili flakes, brown sugar, garlic, ginger, soy sauce, rice vinegar, and olive oil.",
+    "Add the lamb cubes to the marinade and mix until they are well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes per side, or until the lamb is cooked to your desired level of doneness.",
+    "Transfer the kebabs to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!",
+    "Let the kebabs rest for 5 minutes before slicing and serving.",
+    "Slice the kebabs into thin strips and serve with your favorite sides.",
+    "Note: If using wooden skewers, be sure to soak them in water for 30 minutes before grilling to prevent them from catching fire."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "korean",
+    "grilled",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-charred-korean-lamb-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:17:13.987Z"
+}
