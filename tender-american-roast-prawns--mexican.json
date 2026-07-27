@@ -1,0 +1,81 @@
+{
+  "slug": "tender-american-roast-prawns--mexican",
+  "title": "Mexican Roast Chicken Tacos",
+  "description": "A flavorful and spicy dish featuring roasted chicken, served in tacos with your choice of toppings.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Roast American pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tender garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mexican oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the lime juice, cumin, cayenne pepper, and oregano.",
+    "Rub the mixture all over the chicken, then place it in a baking dish.",
+    "Roast the chicken in the preheated oven for 25-30 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, heat a large skillet over medium-high heat.",
+    "Add a tablespoon of oil to the skillet and sauté the diced peppers until they are tender.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Warm tacos shells according to the package instructions.",
+    "Assemble the tacos by placing a few slices of the roasted chicken onto a shell, then topping with the sautéed peppers, diced avocado, and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "roast-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-roast-prawns--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:50:08.462Z"
+}
