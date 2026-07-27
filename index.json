@@ -14494,5 +14494,31 @@
     "cuisine": "Persian",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-crisp-slovakian-bread-toast--keto",
+    "title": "Slovakian Keto Toast Casserole",
+    "tags": [
+      "keto",
+      "slovakian",
+      "breakfast",
+      "casserole",
+      "bacon"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-molten-french-sausage-stew--vegan",
+    "title": "Savory Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
