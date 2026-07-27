@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-crisp-slovakian-bread-toast--keto",
+  "title": "Slovakian Keto Toast Casserole",
+  "description": "A twist on traditional Slovakian cuisine, this keto casserole is made with tangy cheese, crispy bacon, and toasted bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 loaf (preferably rye or sourdough)",
+      "notes": null
+    },
+    {
+      "name": "Slovakian Cheese (Pirohy Cheese)",
+      "amount": "1 cup shredded",
+      "notes": "Available at some European grocery stores or online"
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Tangy Cheese (such as Feta or Goat Cheese)",
+      "amount": "1/2 cup crumbled",
+      "notes": null
+    },
+    {
+      "name": "Crisp Chopped Onion",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Herbs (optional)",
+      "amount": null,
+      "notes": "such as chopped parsley or chives"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cube the bread into small pieces and toast until crispy.",
+    "Cook the bacon in a pan until crispy and set aside.",
+    "In a large bowl, mix together the Slovakian cheese, tangy cheese, egg, and chopped onion.",
+    "Add the toasted bread, crispy bacon, and herbs (if using) to the bowl and mix until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "slovakian",
+    "breakfast",
+    "casserole",
+    "bacon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-crisp-slovakian-bread-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:20:23.521Z"
+}
