@@ -14560,5 +14560,18 @@
     "cuisine": "Latin American",
     "totalTimeMin": 80,
     "shard": "t"
+  },
+  {
+    "slug": "tender-american-roast-prawns--mexican",
+    "title": "Mexican Roast Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "roast-chicken"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
