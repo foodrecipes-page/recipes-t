@@ -14586,5 +14586,32 @@
     "cuisine": null,
     "totalTimeMin": 22,
     "shard": "t"
+  },
+  {
+    "slug": "tender-charred-korean-lamb-kebabs--keto",
+    "title": "Korean-Style Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "kebabs",
+      "korean",
+      "grilled",
+      "keto"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-light-ukrainian-herbal-bowl--chinese",
+    "title": "Herbal Chicken and Veggie Bowl",
+    "tags": [
+      "chinese",
+      "herbal",
+      "light",
+      "quick"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "t"
   }
 ]
