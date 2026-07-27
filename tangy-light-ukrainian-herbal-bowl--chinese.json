@@ -1,0 +1,68 @@
+{
+  "slug": "tangy-light-ukrainian-herbal-bowl--chinese",
+  "title": "Herbal Chicken and Veggie Bowl",
+  "description": "A light and refreshing Chinese-inspired bowl filled with herbal flavors and a hint of tanginess. Perfect for a quick and easy lunch or dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "mixed veggies (bell peppers, carrots, broccoli)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "herbal sauce (ginger, garlic, soy sauce)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook brown rice according to package instructions.",
+    "Preheat oven to 375°F (190°C).",
+    "Season chicken breast with salt and pepper. Bake in the oven for 20-25 minutes, or until cooked through.",
+    "In a pan, heat herbal sauce over medium heat.",
+    "Add mixed veggies to the pan and cook until tender-crisp, about 3-5 minutes.",
+    "Slice cooked chicken and add to the pan with veggies.",
+    "Top with green onions and sesame seeds.",
+    "Serve over brown rice in a bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "herbal",
+    "light",
+    "quick"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-light-ukrainian-herbal-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:05:46.136Z"
+}
