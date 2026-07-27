@@ -1,0 +1,69 @@
+{
+  "slug": "tangy-flaky-french-cheese-omelette--gluten-free",
+  "title": "French Omelette",
+  "description": "A classic French omelette made with gluten-free ingredients, perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large eggs",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 tablespoon butter",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/4 cup tangy cheese",
+      "amount": null,
+      "notes": "shredded"
+    },
+    {
+      "name": "1 flaky french pastry crust (gluten-free)",
+      "amount": null,
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together until well mixed.",
+    "Season the eggs with salt and pepper to taste.",
+    "Heat the butter in a small non-stick pan over medium heat.",
+    "Once the butter has melted, tilt the pan to ensure the surface is evenly coated.",
+    "Pour the egg mixture into the pan and let it cook for about 2 minutes, until the edges start to set.",
+    "Add the shredded cheese to one half of the omelette and fold the other half over to cover it.",
+    "Cook for another minute, until the cheese is melted and the eggs are cooked through.",
+    "Slide the omelette onto a plate and serve hot.",
+    "If using, place the flaky french pastry crust on top of the omelette for added crunch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "omelette",
+    "breakfast",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-french-cheese-omelette--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:09:15.217Z"
+}
