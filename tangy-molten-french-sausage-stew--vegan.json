@@ -1,0 +1,66 @@
+{
+  "slug": "tangy-molten-french-sausage-stew--vegan",
+  "title": "Savory Stew",
+  "description": "A hearty and comforting stew made with tender vegetables and a blend of aromatic spices. Perfect for a cold evening.",
+  "cuisine": "French",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "any combination of your favorite vegetables"
+    },
+    {
+      "name": "french",
+      "amount": "2 tbsp olive oil",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "tangy",
+      "amount": "1 tsp apple cider vinegar",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "sausage",
+      "amount": "8 oz tofu, drained and cubed",
+      "notes": "replaces traditional sausage"
+    },
+    {
+      "name": "molten",
+      "amount": "1 cup vegetable broth",
+      "notes": "low-sodium for a healthier option"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the tofu and cook until browned, about 5 minutes.",
+    "Add the stew and cook until the vegetables are tender, about 10 minutes.",
+    "Stir in the apple cider vinegar and vegetable broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-molten-french-sausage-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:24:42.998Z"
+}
