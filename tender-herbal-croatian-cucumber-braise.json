@@ -1,0 +1,72 @@
+{
+  "slug": "tender-herbal-croatian-cucumber-braise",
+  "title": "Croatian Cucumber and Tender Braised Delight",
+  "description": "A refreshing summer dish featuring tender meat in a rich, herbal braise topped with crunchy cucumber.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tender",
+      "amount": "500g"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "croatian",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pan over medium heat.",
+    "Add sliced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for another minute.",
+    "Add tender meat and cook until browned on all sides, about 5 minutes.",
+    "Add herbal and Croatian seasonings, and pour in enough water to cover the meat.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "While the meat is cooking, slice the cucumber into thin rounds.",
+    "To serve, place a portion of the braised meat on a plate, top with sliced cucumber, and garnish with fresh herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "summer",
+    "vegetarian",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-herbal-croatian-cucumber-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:08:18.204Z"
+}
