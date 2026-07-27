@@ -1,0 +1,72 @@
+{
+  "slug": "tangy-gooey-nut-flatbread--gluten-free",
+  "title": "Tangy Gooey Nut Flatbread",
+  "description": "A sweet and crunchy flatbread recipe made with a tangy gooey filling and topped with nuts.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gooey filling",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Nut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tangy jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4 slices",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Chopped nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Spread the gooey filling on each flatbread slice.",
+    "Mix the nut butter and tangy jam in a small bowl.",
+    "Spread the nut butter mixture on top of the gooey filling.",
+    "Sprinkle chopped nuts and drizzle with honey.",
+    "Bake in the oven for 10-12 minutes or until lightly toasted.",
+    "Remove from oven and sprinkle with salt.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet",
+    "snack",
+    "flatbread",
+    "nuts"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-gooey-nut-flatbread--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:14:58.552Z"
+}
