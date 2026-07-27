@@ -14469,5 +14469,30 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-light-italian-egg-stir-fry--gluten-free",
+    "title": "Italian-Style Fried Eggs",
+    "tags": [
+      "italian",
+      "breakfast",
+      "easy",
+      "gluten-free"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-roast-argentinian-persian-cucumber-roast--vegetarian",
+    "title": "Persian Stuffed Cucumber Boats",
+    "tags": [
+      "persian",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "Persian",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
