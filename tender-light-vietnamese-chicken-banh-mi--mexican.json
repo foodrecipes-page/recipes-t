@@ -1,0 +1,73 @@
+{
+  "slug": "tender-light-vietnamese-chicken-banh-mi--mexican",
+  "title": "Vietnamese-Style Chicken Banh Mi Tacos",
+  "description": "A twist on the classic banh mi sandwich, served in a crispy taco shell with tender and flavorful chicken.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "banh mi bread",
+      "amount": "1 package",
+      "notes": "cut into taco-sized pieces"
+    },
+    {
+      "name": "tender pickled carrots",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "light mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "for chicken marinade"
+    },
+    {
+      "name": "vietnamese chili sauce",
+      "amount": "1 tablespoon",
+      "notes": "for chicken marinade"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together mayonnaise, chili sauce, and a pinch of salt. Add the sliced chicken and marinate for at least 30 minutes.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Warm the banh mi bread in the oven or on the grill.",
+    "Assemble the tacos by placing a few slices of grilled chicken onto each bread piece, followed by a spoonful of pickled carrots and a sprinkle of cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "chicken",
+    "banh-mi",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-light-vietnamese-chicken-banh-mi--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T04:34:15.947Z"
+}
