@@ -1,0 +1,81 @@
+{
+  "slug": "tender-crunchy-spanish-hazelnut-stir-fry--indian",
+  "title": "Crunchy Spanish Stir Fry",
+  "description": "A flavorful and spicy Indian-style stir fry with crunchy texture from the hazelnut and tender crunch of the Spanish ingredient.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hazelnut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "spanish",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add garam masala, turmeric, and red chili powder. Stir for 1 minute.",
+    "Add the Spanish ingredient and stir for 2 minutes.",
+    "Add the tender ingredient and stir for another 2 minutes.",
+    "Add the hazelnut and crunchy ingredients. Stir for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-crunchy-spanish-hazelnut-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:04:37.843Z"
+}
