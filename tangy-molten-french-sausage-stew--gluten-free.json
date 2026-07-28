@@ -1,0 +1,65 @@
+{
+  "slug": "tangy-molten-french-sausage-stew--gluten-free",
+  "title": "French Stew with Sausage",
+  "description": "A hearty, gluten-free stew made with sausage and a variety of vegetables, perfect for a chilly evening.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "1 pound",
+      "notes": "preferably gluten-free sausage"
+    },
+    {
+      "name": "Vegetable Stew",
+      "amount": "1 can",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "French Bread",
+      "amount": "1 baguette",
+      "notes": "for serving, gluten-free option preferred"
+    },
+    {
+      "name": "Molten Cheese",
+      "amount": "1 cup",
+      "notes": "optional, for serving"
+    },
+    {
+      "name": "Tangy Sauce",
+      "amount": "1/4 cup",
+      "notes": "optional, for serving"
+    }
+  ],
+  "instructions": [
+    "Brown the sausage in a large skillet over medium-high heat.",
+    "Add the vegetable stew to the skillet and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to medium-low and simmer for 20 minutes.",
+    "Serve the stew hot, with gluten-free bread on the side.",
+    "Optional: top with molten cheese and tangy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "french",
+    "sausage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-molten-french-sausage-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:54:50.749Z"
+}
