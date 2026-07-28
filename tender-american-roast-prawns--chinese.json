@@ -1,0 +1,75 @@
+{
+  "slug": "tender-american-roast-prawns--chinese",
+  "title": "Cantonese Roast Prawns",
+  "description": "A Cantonese-inspired dish featuring succulent prawns roasted to perfection with a sweet and savory glaze.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American Prawns",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Roast Vegetables Sauce",
+      "amount": "1/4 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Tender Honey",
+      "amount": "2 tbsp",
+      "notes": "preferably pure honey"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a small bowl, whisk together Roast Vegetables Sauce, Tender Honey, and 1 tsp sesame oil.",
+    "Add sliced ginger and minced garlic to the bowl and mix well.",
+    "Place the prawns on a baking sheet lined with parchment paper.",
+    "Brush the prawns with the sauce mixture, making sure they're evenly coated.",
+    "Drizzle the remaining 1 tbsp of sesame oil over the prawns.",
+    "Roast in the preheated oven for 8-10 minutes or until the prawns are pink and cooked through.",
+    "Serve immediately, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "prawns",
+    "easy",
+    "pescatarian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-american-roast-prawns--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:45:20.160Z"
+}
