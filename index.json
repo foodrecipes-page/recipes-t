@@ -14613,5 +14613,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 40,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-tender-canadian-udon-casserole--gluten-free",
+    "title": "Canadian Udon Casserole",
+    "tags": [
+      "canadian",
+      "casserole",
+      "comfort-food",
+      "easy-dinner"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-flaky-paleo-friendly-polish-dish--japanese",
+    "title": "Polish-Style Salmon with Japanese Flair",
+    "tags": [
+      "salmon",
+      "glazed-salmon",
+      "japanese-cuisine",
+      "polish-style"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "t"
   }
 ]
