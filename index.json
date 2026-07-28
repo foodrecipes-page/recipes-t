@@ -14664,5 +14664,18 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tender-rich-thai-fish-paong--chinese",
+    "title": "Pan-Seared Thai Fish with Paong Sauce",
+    "tags": [
+      "chinese",
+      "fish",
+      "seafood",
+      "thai"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "t"
   }
 ]
