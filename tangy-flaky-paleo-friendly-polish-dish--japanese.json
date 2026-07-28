@@ -1,0 +1,80 @@
+{
+  "slug": "tangy-flaky-paleo-friendly-polish-dish--japanese",
+  "title": "Polish-Style Salmon with Japanese Flair",
+  "description": "A refreshing twist on traditional Polish cuisine, featuring flaky salmon and a tangy glaze, served with a side of steamed vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "paleo",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "steamed vegetables",
+      "amount": "1 cup",
+      "notes": "such as broccoli or carrots"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place salmon fillets on the prepared baking sheet.",
+    "In a small bowl, whisk together honey, soy sauce, ginger, and garlic.",
+    "Brush the glaze over the salmon fillets.",
+    "Drizzle sesame oil over the salmon fillets.",
+    "Bake for 12-15 minutes or until cooked through.",
+    "Meanwhile, steam the vegetables until tender.",
+    "To serve, place a salmon fillet on each plate and top with steamed vegetables.",
+    "Garnish with chopped green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "glazed-salmon",
+    "japanese-cuisine",
+    "polish-style"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-flaky-paleo-friendly-polish-dish--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:14:07.724Z"
+}
