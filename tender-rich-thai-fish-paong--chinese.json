@@ -1,0 +1,90 @@
+{
+  "slug": "tender-rich-thai-fish-paong--chinese",
+  "title": "Pan-Seared Thai Fish with Paong Sauce",
+  "description": "A flavorful and aromatic dish from the Chinese cuisine, featuring pan-seared fish and a rich Paong sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tender Paong",
+      "amount": "2 cups",
+      "notes": "Blended into a sauce"
+    },
+    {
+      "name": "Rich Thai Fish Fillets",
+      "amount": "4 fillets",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-searing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "For Paong sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "For Paong sauce"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For Paong sauce"
+    },
+    {
+      "name": "Oyster Sauce",
+      "amount": "1 tablespoon",
+      "notes": "For Paong sauce"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of vegetable oil in a pan over medium heat.",
+    "2. Season the fish fillets with salt and black pepper.",
+    "3. Pan-sear the fish fillets for 3-4 minutes on each side, until cooked through.",
+    "4. In a blender, combine Paong, ginger, garlic, soy sauce, and oyster sauce.",
+    "5. Blend the mixture until smooth to make the Paong sauce.",
+    "6. Stir the Paong sauce into the pan with the fish fillets.",
+    "7. Simmer the sauce for 2-3 minutes, until heated through.",
+    "8. Serve the pan-seared fish with the rich Paong sauce.",
+    "9. Garnish with chopped green onions, if desired.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fish",
+    "seafood",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-rich-thai-fish-paong--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:51:40.338Z"
+}
