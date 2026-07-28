@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-tender-canadian-udon-casserole--gluten-free",
+  "title": "Canadian Udon Casserole",
+  "description": "A twist on traditional casseroles, using udon noodles instead of rice. This dish is perfect for a comforting meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "tender chicken breast",
+      "amount": "1 1/2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "casserole sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook udon noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, cook Canadian bacon until crispy. Remove from heat and set aside.",
+    "In the same skillet, add casserole sauce and bring to a simmer.",
+    "Add cooked udon noodles to the skillet and stir to combine.",
+    "Add cooked chicken breast to the skillet and stir to combine.",
+    "Transfer the mixture to a baking dish.",
+    "Top with mozzarella cheese and crispy Canadian bacon.",
+    "Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+    "Sprinkle with parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "casserole",
+    "comfort-food",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-tender-canadian-udon-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T09:49:46.830Z"
+}
