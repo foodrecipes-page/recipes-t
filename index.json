@@ -14639,5 +14639,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 27,
     "shard": "t"
+  },
+  {
+    "slug": "tangy-molten-french-sausage-stew--gluten-free",
+    "title": "French Stew with Sausage",
+    "tags": [
+      "gluten-free",
+      "french",
+      "sausage",
+      "stew"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "t"
+  },
+  {
+    "slug": "tender-crunchy-spanish-hazelnut-stir-fry--indian",
+    "title": "Crunchy Spanish Stir Fry",
+    "tags": [
+      "indian",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
   }
 ]
