@@ -14677,5 +14677,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 22,
     "shard": "t"
+  },
+  {
+    "slug": "tender-american-roast-prawns--chinese",
+    "title": "Cantonese Roast Prawns",
+    "tags": [
+      "chinese",
+      "prawns",
+      "easy",
+      "pescatarian",
+      "roasted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "t"
   }
 ]
