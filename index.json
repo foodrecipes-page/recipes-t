@@ -2595,16 +2595,16 @@
   },
   {
     "slug": "tangy-jamaican-graham-cracker-crumbs-galette",
-    "title": "Tangy Jamaican Graham Cracker Crumbs Galette",
+    "title": "Tangy Jamaican Galette Crust Cracker Crumble",
     "tags": [
-      "dessert",
-      "egg-free",
-      "graham-cracker",
+      "tangy",
       "jamaican",
-      "weeknight"
+      "cracker",
+      "crust",
+      "galette"
     ],
     "cuisine": "jamaican",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "t"
   },
   {
@@ -14690,6 +14690,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 18,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-velvety-tunisian-peppers-stir-fry--mexican",
+    "title": "Tunisian Beef Fajitas",
+    "tags": [
+      "mexican",
+      "beef",
+      "fajitas",
+      "spicy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "t"
   }
 ]
