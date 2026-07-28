@@ -1,0 +1,83 @@
+{
+  "slug": "tangy-velvety-tunisian-peppers-stir-fry--mexican",
+  "title": "Tunisian Beef Fajitas",
+  "description": "Spicy fajitas with Tunisian flavors, served with warm flour tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tunisian beef strips",
+      "amount": "500g",
+      "notes": "Slice the beef into thin strips"
+    },
+    {
+      "name": "Velvety peppers",
+      "amount": "1",
+      "notes": "Bell peppers"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tbsp",
+      "notes": "Your favorite stir-fry sauce"
+    },
+    {
+      "name": "Tangy red wine vinegar",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Flour tortillas",
+      "amount": "4",
+      "notes": "For serving"
+    },
+    {
+      "name": "Optional toppings: avocado, sour cream, cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Add the sliced peppers and stir-fry sauce, and cook until the peppers are tender.",
+    "Add the tangy red wine vinegar and cook for an additional minute.",
+    "Season with salt and pepper to taste.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the beef and pepper mixture onto a tortilla, and adding your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "fajitas",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-velvety-tunisian-peppers-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:24:29.375Z"
+}
