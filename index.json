@@ -14704,5 +14704,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "t"
+  },
+  {
+    "slug": "tingly-fatty-filipino-fish-soup--chinese",
+    "title": "Filipino-Style Fish Soup",
+    "tags": [
+      "chinese",
+      "filipino",
+      "soup",
+      "seafood"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "t"
   }
 ]
