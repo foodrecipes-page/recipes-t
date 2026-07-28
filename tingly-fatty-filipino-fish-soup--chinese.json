@@ -1,0 +1,89 @@
+{
+  "slug": "tingly-fatty-filipino-fish-soup--chinese",
+  "title": "Filipino-Style Fish Soup",
+  "description": "A hearty and comforting soup originating from the Philippines, infused with Chinese flavors and featuring a delicate fish broth.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 lb",
+      "notes": "White fish, such as cod or tilapia"
+    },
+    {
+      "name": "Fatty",
+      "amount": "2 tbsp",
+      "notes": "Vegetable oil or peanut oil"
+    },
+    {
+      "name": "Filipino",
+      "amount": "2 cups",
+      "notes": "Fish broth or dashi"
+    },
+    {
+      "name": "Soup",
+      "amount": "4 cups",
+      "notes": "Fish broth or chicken stock"
+    },
+    {
+      "name": "Tingly",
+      "amount": "2 tsp",
+      "notes": "Sesame oil or ginger"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Fish sauce or oyster sauce"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Freshly grated"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the fatty in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Pour in the Filipino and Soup, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the fish and cook until cooked through, about 5-7 minutes.",
+    "Season with soy sauce and tingly.",
+    "Garnish with scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "filipino",
+    "soup",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tingly-fatty-filipino-fish-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:52:07.211Z"
+}
