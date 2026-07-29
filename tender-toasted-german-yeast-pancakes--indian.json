@@ -1,0 +1,91 @@
+{
+  "slug": "tender-toasted-german-yeast-pancakes--indian",
+  "title": "Indian Style German Pancakes",
+  "description": "A twist on traditional German pancakes, this recipe adds an Indian flair with the use of toasted spices and tender yogurt.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "2 teaspoons yeast",
+      "amount": "2 teaspoons",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "1/2 cup warm milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 large egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons melted unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup plain yogurt",
+      "amount": "1/2 cup",
+      "notes": "tender and fresh"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "toasted for depth"
+    },
+    {
+      "name": "1/4 teaspoon ground cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for an extra kick"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, yeast, and sugar.",
+    "In a separate bowl, whisk together the warm milk, egg, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Add the yogurt, cinnamon, and cardamom (if using) to the batter and mix until well combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the pan and cook for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm with your favorite toppings, such as maple syrup, fresh fruit, or whipped cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "breakfast",
+    "pancakes",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-toasted-german-yeast-pancakes--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:19:56.205Z"
+}
