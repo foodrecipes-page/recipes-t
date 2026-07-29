@@ -14756,5 +14756,31 @@
     "cuisine": "thai",
     "totalTimeMin": 45,
     "shard": "t"
+  },
+  {
+    "slug": "tender-toasted-german-yeast-pancakes--indian",
+    "title": "Indian Style German Pancakes",
+    "tags": [
+      "indian",
+      "breakfast",
+      "pancakes",
+      "german"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "t"
+  },
+  {
+    "slug": "tangy-fluffy-british-rice-noodles-bowl--thai",
+    "title": "Thai-Style Bowl with Spicy Rice Noodle Salad",
+    "tags": [
+      "thai",
+      "noodle-salad",
+      "veggie-friendy",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "t"
   }
 ]
