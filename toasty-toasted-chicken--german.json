@@ -1,0 +1,78 @@
+{
+  "slug": "toasty-toasted-chicken--german",
+  "title": "German Chicken Schnitzel",
+  "description": "A classic German dish featuring crispy chicken schnitzel with a side of tangy lemon wedges. Perfect for a quick dinner.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "toasted breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the chicken breasts with salt and pepper.",
+    "Dip each chicken breast in the flour, shaking off excess.",
+    "Dip the floured chicken breast in the beaten eggs, making sure they're fully coated.",
+    "Dip the egg-coated chicken breast in the toasted breadcrumbs, pressing gently to adhere.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Add 2-3 breaded chicken breasts to the skillet and fry for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "Repeat with remaining chicken breasts.",
+    "Serve the schnitzel hot with lemon wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "schnitzel",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasty-toasted-chicken--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:19:05.266Z"
+}
