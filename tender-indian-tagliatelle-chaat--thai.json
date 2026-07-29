@@ -1,0 +1,80 @@
+{
+  "slug": "tender-indian-tagliatelle-chaat--thai",
+  "title": "Thai Chaat Pasta Stir Fry",
+  "description": "A fusion of Thai and Indian flavors in a quick and easy pasta stir fry. The tender tagliatelle is cooked with juicy chaat, spices, and a hint of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz (225g)"
+    },
+    {
+      "name": "chaat",
+      "amount": "1 cup (115g)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (30ml)"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp (15ml)"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 tsp (5g)",
+      "notes": "omit for vegan diet"
+    }
+  ],
+  "instructions": [
+    "Cook the tagliatelle according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat the coconut oil over medium-high heat. Add the sliced onion and cook until lightly browned, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the chaat and cook for 2-3 minutes, until it starts to soften.",
+    "Add the soy sauce, brown sugar, and fish sauce (if using). Stir well to combine.",
+    "Add the cooked tagliatelle to the skillet and stir-fry for 2-3 minutes, until the pasta is well coated with the sauce.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired).",
+    "Optional: Add some heat with red pepper flakes or sliced fresh chili peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "indian",
+    "vegetarian",
+    "pasta",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 65,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-indian-tagliatelle-chaat--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T22:58:36.455Z"
+}
