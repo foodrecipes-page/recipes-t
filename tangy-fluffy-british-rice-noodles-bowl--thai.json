@@ -1,0 +1,75 @@
+{
+  "slug": "tangy-fluffy-british-rice-noodles-bowl--thai",
+  "title": "Thai-Style Bowl with Spicy Rice Noodle Salad",
+  "description": "A flavorful and refreshing Thai-inspired bowl dish, made with spicy rice noodles, crunchy vegetables, and a tangy dressing.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Spicy Rice Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Tangy Dressing",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "British Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fluffy Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "British Cabbage",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions.",
+    "In a large bowl, whisk together the tangy dressing ingredients.",
+    "Add the cooked noodles, cucumber, carrots, and cabbage to the bowl with the dressing.",
+    "Toss to combine and top with sesame seeds, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "noodle-salad",
+    "veggie-friendy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tangy-fluffy-british-rice-noodles-bowl--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:33:19.420Z"
+}
