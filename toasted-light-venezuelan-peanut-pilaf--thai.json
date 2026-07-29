@@ -1,0 +1,62 @@
+{
+  "slug": "toasted-light-venezuelan-peanut-pilaf--thai",
+  "title": "Thai-Style Peanut Chicken Pilaf",
+  "description": "A flavorful and aromatic Thai-inspired dish made with peanut-infused chicken and toasted pilaf.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "toasted pilaf",
+      "amount": "2 cups"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "venezuelan chili flakes",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the toasted pilaf according to package instructions.",
+    "Grill or pan-fry the chicken breast until cooked through, reaching an internal temperature of 165°F (74°C).",
+    "In a separate pan, combine peanut butter and light coconut milk, whisking until smooth.",
+    "Add the cooked chicken to the peanut-coconut mixture and stir to coat.",
+    "Stir in venezuelan chili flakes.",
+    "Combine the chicken mixture with the cooked toasted pilaf and serve hot.",
+    "Garnish with chopped peanuts or toasted sesame seeds, if desired.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "pilaf",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/toasted-light-venezuelan-peanut-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:14:09.673Z"
+}
