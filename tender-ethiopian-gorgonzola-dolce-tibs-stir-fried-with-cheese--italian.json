@@ -1,0 +1,73 @@
+{
+  "slug": "tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--italian",
+  "title": "Gorgonzola and Dolce Tibs Pasta",
+  "description": "A creamy Italian pasta dish with a sweet and savory twist, featuring the bold flavors of gorgonzola and dolce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender pasta",
+      "amount": "8 oz",
+      "notes": "preferably penne or fusilli"
+    },
+    {
+      "name": "gorgonzola cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly blue cheese"
+    },
+    {
+      "name": "dolce",
+      "amount": "1/4 cup",
+      "notes": "sweet and savory sauce"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the garlic until fragrant.",
+    "Add the dolce sauce and stir to combine. Cook for about 2 minutes, until heated through.",
+    "Stir in the gorgonzola cheese until melted and well combined with the dolce sauce.",
+    "Add the cooked pasta to the skillet, tossing to coat with the gorgonzola-dolce sauce.",
+    "Season with thyme and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "gorgonzola",
+    "dolce",
+    "cheese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/tender-ethiopian-gorgonzola-dolce-tibs-stir-fried-with-cheese--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:45:22.529Z"
+}
