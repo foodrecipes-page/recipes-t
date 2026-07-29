@@ -14717,5 +14717,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "t"
+  },
+  {
+    "slug": "tender-indian-tagliatelle-chaat--thai",
+    "title": "Thai Chaat Pasta Stir Fry",
+    "tags": [
+      "thai",
+      "indian",
+      "vegetarian",
+      "pasta",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "t"
   }
 ]
