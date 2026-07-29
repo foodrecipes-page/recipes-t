@@ -14731,5 +14731,30 @@
     "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "t"
+  },
+  {
+    "slug": "toasty-toasted-chicken--german",
+    "title": "German Chicken Schnitzel",
+    "tags": [
+      "german",
+      "chicken",
+      "schnitzel",
+      "fried"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "t"
+  },
+  {
+    "slug": "toasted-light-venezuelan-peanut-pilaf--thai",
+    "title": "Thai-Style Peanut Chicken Pilaf",
+    "tags": [
+      "peanut",
+      "pilaf",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "t"
   }
 ]
